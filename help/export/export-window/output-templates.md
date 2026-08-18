@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/getting-started/export/export-window/output-templates.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/getting-started/export/export-window/output-templates.html"
 breadcrumb-title: ''
 description: Substance 3D Painter 내보내기 창에서 출력 템플릿을 사용하여 텍스처 내보내기 형식 및 이름 지정을 구성하는 방법을 알아봅니다.
 helpx_creative_field: ""

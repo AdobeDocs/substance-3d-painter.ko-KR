@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/universal-scene-description-usd.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/universal-scene-description-usd.html"
 breadcrumb-title: ''
 description: 최신 파이프라인 통합을 위해 Substance 3D Painter에서 Universal Scene Description(USD) 파일로 작업하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/iray-renderer/viewer-and-mdl-settings.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/iray-renderer/viewer-and-mdl-settings.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 Ray 렌더러의 뷰어 및 MDL 설정을 구성하여 질감 렌더링을 사용자 정의하는 방법을 살펴봅니다.
 helpx_creative_field: ""

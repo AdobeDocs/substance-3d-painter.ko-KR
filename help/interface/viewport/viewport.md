@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-painter/interface/viewport.html'
+helpx_url: 'https://helpx.adobe.com/kr/substance-3d-painter/interface/viewport.html'
 description: Substance 3D Painter에서 뷰포트를 사용하여 페인팅 프로세스 동안 3D 모델 및 텍스처를 시각화하는 방법을 살펴보세요.
 helpx_description: Painter > Interface > Viewport
 title: 뷰포트

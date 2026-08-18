@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/layer-stack/masking-and-effects.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/layer-stack/masking-and-effects.html"
 breadcrumb-title: ''
 description: Substance 3D Painter 레이어 스택에서 마스크 및 효과를 사용하여 레이어 가시성을 제어하고 레이어 효과를 적용하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

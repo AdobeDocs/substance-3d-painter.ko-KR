@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/history.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/history.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 [작업 내역] 패널을 사용하여 편집 내역을 보고 탐색하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

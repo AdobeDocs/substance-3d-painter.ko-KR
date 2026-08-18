@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/main-menu.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/main-menu.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 기본 메뉴를 사용하여 파일 작업, 편집 도구 및 애플리케이션 설정에 액세스하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
@@ -28,6 +28,6 @@ ht-degree: 0%
 * [편집 메뉴](edit-menu.md)
 * [모드 메뉴](mode-menu.md)
 * [창 메뉴](window-menu.md)
-* [뷰포트 메뉴](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/viewport-170460351.html)
+* [뷰포트 메뉴](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/viewport-170460351.html)
 * [플러그인 메뉴](plugins-menu.md)
 * [도움말 메뉴](help-menu.md)

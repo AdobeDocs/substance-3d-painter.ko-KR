@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface.html"
 breadcrumb-title: ''
 description: 효율적인 텍스처 페인팅 워크플로우를 위해 패널, 메뉴 및 도구를 이해하는 Substance 3D Painter 인터페이스에 대해 알아봅니다.
 helpx_creative_field: ""

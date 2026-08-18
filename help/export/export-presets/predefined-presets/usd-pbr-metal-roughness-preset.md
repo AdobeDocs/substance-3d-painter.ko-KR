@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/getting-started/export/export-presets/predefined-presets/usd-pbr-metal-roughness-preset.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/getting-started/export/export-presets/predefined-presets/usd-pbr-metal-roughness-preset.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 USDz(Apple AR) 내보내기 사전 설정을 사용하여 Apple AR 워크플로에 대한 텍스처를 내보내는 방법을 알아봅니다.
 helpx_creative_field: ""

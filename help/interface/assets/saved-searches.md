@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/assets/saved-searches.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/assets/saved-searches.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 저장된 검색을 만들고 사용하여 자주 사용하는 에셋 필터에 빠르게 액세스하는 방법을 알아봅니다.
 helpx_creative_field: ""

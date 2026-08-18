@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/content/importing-assets/adding-resources-via-the-import-window.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/content/importing-assets/adding-resources-via-the-import-window.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 가져오기 창을 통해 리소스를 추가하여 외부 파일로 에셋 라이브러리를 확장하는 방법을 알아봅니다.
 helpx_creative_field: ""

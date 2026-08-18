@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/display-settings/camera-settings.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/display-settings/camera-settings.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 카메라 설정을 구성하여 뷰포트 카메라 동작 및 투영을 제어하는 방법에 대해 알아보십시오.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/post-processing/tone-mapping.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/post-processing/tone-mapping.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 톤 매핑 후처리를 사용하여 뷰포트에서 노출 및 색 보정을 조정하는 방법을 알아봅니다.
 helpx_creative_field: ""

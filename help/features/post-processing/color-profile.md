@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/post-processing/color-profile.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/post-processing/color-profile.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 색상 프로필 후처리를 사용하여 색상 그레이딩 및 LUT 변형을 적용하는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -84,4 +84,4 @@ ociolutimage --generate --cubesize 64 --config nuke-default/config.ocio --colorc
 
 간단히 가져오기 창을 열거나 LUT를 선반에 드래그하여 놓습니다. Substance 3D Painter에서 LUT 텍스처를 가져올 때 &quot; **colorlut** &quot; **사용**&#x200B;을 새 리소스에 할당해야 합니다. 그렇지 않으면 리소스가 선반에 제대로 표시되지 않습니다.
 
-자세한 내용은 새 리소스 가져오기에 대한 설명서를 참조하십시오. [가져오기 창을 통해 리소스 추가](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/adding-content-via-the-import-window-151584824.html)
+자세한 내용은 새 리소스 가져오기에 대한 설명서를 참조하십시오. [가져오기 창을 통해 리소스 추가](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/adding-content-via-the-import-window-151584824.html)

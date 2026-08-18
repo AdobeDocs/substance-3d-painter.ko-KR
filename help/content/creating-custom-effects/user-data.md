@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/content/creating-custom-effects/user-data.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/content/creating-custom-effects/user-data.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 사용자 정의 효과의 사용자 데이터를 사용하여 사용자 정의 정보를 셰이더 효과에 전달하는 방법을 알아봅니다.
 helpx_creative_field: ""

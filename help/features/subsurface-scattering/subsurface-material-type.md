@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/subsurface-scattering/subsurface-material-type.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/subsurface-scattering/subsurface-material-type.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 지표 아래 재질 유형을 사용하여 사실적인 피부, 왁스 및 유기 재질을 만드는 방법을 알아봅니다.
 helpx_creative_field: ""

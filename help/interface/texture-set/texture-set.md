@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/texture-set.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/texture-set.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 텍스처 세트를 사용하여 텍스처를 구성하고 다양한 재질 할당을 관리하는 방법을 알아봅니다.
 helpx_creative_field: ""

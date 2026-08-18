@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/settings/general-preferences.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/settings/general-preferences.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 일반 환경 설정을 구성하여 응용 프로그램 동작 및 사용자 경험을 사용자 정의하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/post-processing/vignette.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/post-processing/vignette.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 비네팅 후처리 효과를 사용하여 뷰포트 가장자리 어둡게 하기를 추가하는 방법을 살펴보세요.
 helpx_creative_field: ""

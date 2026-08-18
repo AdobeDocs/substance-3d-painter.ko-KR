@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/getting-started/export/export-presets/default-presets.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/getting-started/export/export-presets/default-presets.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 기본 출력 템플릿에 대해 알아보고 표준 내보내기 구성 및 형식을 이해합니다.
 helpx_creative_field: ""

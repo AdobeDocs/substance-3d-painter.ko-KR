@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/content/creating-custom-effects/channel-specific-filter.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/content/creating-custom-effects/channel-specific-filter.html"
 breadcrumb-title: ''
 description: Substance 3D Painter이 개별 텍스처 채널을 처리할 수 있도록 채널별 필터 효과를 만드는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

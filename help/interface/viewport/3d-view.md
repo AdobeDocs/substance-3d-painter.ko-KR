@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/viewport/3d-view.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/viewport/3d-view.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 3D 보기를 사용하여 텍스처 페인팅 중에 3D 모델을 시각화하고 상호 작용하는 방법을 알아봅니다.
 helpx_creative_field: ""

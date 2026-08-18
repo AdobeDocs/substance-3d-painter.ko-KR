@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/assets/advanced-search-queries.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/assets/advanced-search-queries.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 고급 검색 쿼리를 만들어 복잡한 검색 조건을 사용하여 특정 에셋을 찾는 방법을 살펴보세요.
 helpx_creative_field: ""

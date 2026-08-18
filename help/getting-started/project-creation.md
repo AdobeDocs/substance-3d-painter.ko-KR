@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/getting-started/project-creation.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/getting-started/project-creation.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 새 프로젝트를 만들어 3D 모델에 텍스처 페인팅을 시작하는 방법을 알아봅니다.
 helpx_creative_field: ""

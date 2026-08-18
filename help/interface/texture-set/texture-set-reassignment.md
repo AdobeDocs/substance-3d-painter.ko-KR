@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/texture-set/texture-set-reassignment.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/texture-set/texture-set-reassignment.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 텍스처 세트를 재할당하여 메쉬 할당 및 텍스처 매핑을 재구성하는 방법을 살펴보세요.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/layer-stack/geometry-mask.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/layer-stack/geometry-mask.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 지오메트리 마스크를 사용하여 메시 지오메트리 및 표면 속성을 기반으로 레이어를 마스킹하는 방법을 알아봅니다.
 helpx_creative_field: ""

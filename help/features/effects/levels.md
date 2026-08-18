@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/effects/levels.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/effects/levels.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 레벨 효과를 사용하여 텍스처의 명도, 대비 및 색조 범위를 조정하는 방법을 살펴보세요.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/layer-stack/blending-modes.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/layer-stack/blending-modes.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 혼합 모드를 사용하여 레이어를 결합하고 다양한 텍스처 혼합 효과를 만드는 방법을 살펴보세요.
 helpx_creative_field: ""

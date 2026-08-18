@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/post-processing.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/post-processing.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 후처리 효과를 사용하여 색상 그레이딩 및 시각 효과를 통해 뷰포트 렌더링을 향상시키는 방법을 살펴보세요.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/home.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/home.html"
 breadcrumb-title: ''
 description: Substance 3D Painter으로 시작하여 텍스처를 3D 모델에 직접 페인트하고 사실적인 재질 표면을 만들어 보세요.
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ Substance 3D Painter은 3D 망을 텍스처링하고 렌더링할 수 있는 3D 
 
 이 설명서는 기본 기술부터 고급 기술까지 이 소프트웨어를 사용하는 방법을 배우는 데 도움이 되도록 작성되었습니다.
 
-이 설명서에서 답변되지 않은 질문이 있는 경우 당사의 [포럼](https://community.adobe.com/t5/substance-3d-painter/bd-p/substance-3d-painter)에서 자유롭게 질문해 주십시오. PBR에 대해 자세히 알아보려면 [Physically Based Rendering 안내서](https://helpx.adobe.com/substance-3d/unlisted/tutorials.html)를 다운로드할 수도 있습니다.
+이 설명서에서 답변되지 않은 질문이 있는 경우 당사의 [포럼](https://community.adobe.com/t5/substance-3d-painter/bd-p/substance-3d-painter)에서 자유롭게 질문해 주십시오. PBR에 대해 자세히 알아보려면 [Physically Based Rendering 안내서](https://helpx.adobe.com/kr/substance-3d/unlisted/tutorials.html)를 다운로드할 수도 있습니다.
 
 </td>
 <td width="58.30%" style="border: 0;" valign="top">
@@ -83,7 +83,7 @@ Substance 3D Painter은 3D 망을 텍스처링하고 렌더링할 수 있는 3D 
 ### 콘텐츠
 
 * [사용자 정의 효과 만들기](content/creating-custom-effects/creating-custom-effects.md)
-* [에셋 가져오기](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/adding-content-to-the-shelf-142213317.html)
+* [에셋 가져오기](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/adding-content-to-the-shelf-142213317.html)
 
 ### 기능
 
@@ -112,7 +112,7 @@ Substance 3D Painter은 3D 망을 텍스처링하고 렌더링할 수 있는 3D 
 
 ### 스크립팅 및 개발
 
-* [스크립트 및 플러그인](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/script-and-plugins-197427392.html)
+* [스크립트 및 플러그인](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/script-and-plugins-197427392.html)
 
 ### 기술 지원
 

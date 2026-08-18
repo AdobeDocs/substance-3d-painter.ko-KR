@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/layer-stack.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/layer-stack.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 레이어 스택을 사용하여 여러 텍스처 페인팅 레이어를 구성하고 관리하는 방법을 알아봅니다.
 helpx_creative_field: ""

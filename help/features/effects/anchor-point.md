@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/effects/anchor-point.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/effects/anchor-point.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 기준점 효과를 사용하여 다른 레이어의 텍스처를 참조하여 고급 합성을 만드는 방법을 살펴보세요.
 helpx_creative_field: ""
