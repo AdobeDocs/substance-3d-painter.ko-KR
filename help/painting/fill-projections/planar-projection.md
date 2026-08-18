@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/fill-projections/planar-projection.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/fill-projections/planar-projection.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 평면 투영을 사용하여 평면 평면에서 텍스처를 투영하면 텍스처를 쉽게 적용할 수 있습니다.
 helpx_creative_field: ""

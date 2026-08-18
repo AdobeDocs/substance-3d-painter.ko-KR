@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/tool-list/paint-brush.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/tool-list/paint-brush.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 [페인트 브러시] 도구를 사용하여 사용자 정의 가능한 브러시 설정으로 3D 모델에 바로 텍스처를 페인트할 수 있습니다.
 helpx_creative_field: ""

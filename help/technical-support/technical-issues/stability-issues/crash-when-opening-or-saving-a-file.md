@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/stability-issues/crash-when-opening-or-saving-a-file.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/stability-issues/crash-when-opening-or-saving-a-file.html"
 breadcrumb-title: ''
 description: 안정적인 프로젝트 관리를 위해 파일을 열거나 저장할 때 Substance 3D Painter 충돌을 수정하는 방법을 알아봅니다.
 helpx_creative_field: ""

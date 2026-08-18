@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/startup-issues/application-failed-to-start-because-of-qt.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/startup-issues/application-failed-to-start-because-of-qt.html"
 breadcrumb-title: ''
 description: 적절한 애플리케이션 실행을 위해 Qt 프레임워크 문제로 인한 Substance 3D Painter 시작 오류를 수정하는 방법을 알아봅니다.
 helpx_creative_field: ""

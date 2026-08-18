@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/pipeline-and-integration/configuration/command-lines.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/pipeline-and-integration/configuration/command-lines.html"
 breadcrumb-title: ''
 description: 자동화, 스크립팅 및 파이프라인 통합을 위해 Substance 3D Painter에서 명령줄 인수를 사용하는 방법을 알아봅니다.
 helpx_creative_field: ""

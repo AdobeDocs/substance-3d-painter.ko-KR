@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/performances-guidelines/layer-management.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/performances-guidelines/layer-management.html"
 breadcrumb-title: ''
 description: 성능을 최적화하고 구성된 프로젝트를 유지하기 위한 Substance 3D Painter의 레이어 관리 모범 사례를 알아보십시오.
 helpx_creative_field: ""

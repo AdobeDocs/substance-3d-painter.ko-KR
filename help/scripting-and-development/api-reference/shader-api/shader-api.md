@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 셰이더 API 참조에 액세스하여 사용자 정의 셰이더를 만들고 렌더링 기능을 확장합니다.
 helpx_creative_field: ""

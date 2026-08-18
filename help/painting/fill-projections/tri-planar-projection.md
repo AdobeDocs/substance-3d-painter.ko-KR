@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/fill-projections/tri-planar-projection.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/fill-projections/tri-planar-projection.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 3면 투영을 사용하여 3개의 직각 평면에서 텍스처를 투사하여 매끄러운 적용 범위를 제공합니다.
 helpx_creative_field: ""

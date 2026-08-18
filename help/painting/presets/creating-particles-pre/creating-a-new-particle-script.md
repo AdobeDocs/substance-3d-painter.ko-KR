@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/presets/creating-particles-presets/creating-a-new-particle-script.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/presets/creating-particles-presets/creating-a-new-particle-script.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 새 입자 스크립트를 만들어 사용자 정의 입자 브러시 비헤이비어 및 효과를 정의하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

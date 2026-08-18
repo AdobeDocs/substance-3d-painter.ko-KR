@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-sparse-shader-api.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-sparse-shader-api.html"
 breadcrumb-title: ''
 description: 사용자 정의 셰이더에서 스파스 텍스처 샘플링을 사용하여 작업하려면 Substance 3D Painter용 Lib 스파스 셰이더 API 참조에 액세스하십시오.
 helpx_creative_field: ""

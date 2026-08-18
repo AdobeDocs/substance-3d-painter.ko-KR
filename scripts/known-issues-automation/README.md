@@ -8,7 +8,7 @@ ht-degree: 1%
 # 알려진 문제 생성기 — Substance 3D Painter
 
 Substance 3D Painter에 대해 알려진 문제 마크다운 문서를 자동으로 생성, 다음 위치에 게시:
-`https://helpx.adobe.com/substance-3d-painter/release-notes/know-issues.html`
+`https://helpx.adobe.com/kr/substance-3d-painter/release-notes/know-issues.html`
 
 문제는 Jira epic `SBSFOUR-6267`에서 출처입니다. 이 스크립트는 모든 문제를 불러오고, 대상 버전에서 이미 수정된 모든 것을 필터링하며, 포맷 된 마크다운 파일을 출력할 준비가 되었습니다.
 
@@ -172,7 +172,7 @@ OUTPUT_FILE=known-issues.md
 
 ```markdown
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/release-notes/know-issues.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/release-notes/know-issues.html"
 ...
 ---
 

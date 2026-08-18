@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-alpha-shader-api.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-alpha-shader-api.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 알파 채널 및 사용자 정의 셰이더의 투명도를 사용하여 작업하려면 Lib Alpha 셰이더 API 참조에 액세스하십시오.
 helpx_creative_field: ""

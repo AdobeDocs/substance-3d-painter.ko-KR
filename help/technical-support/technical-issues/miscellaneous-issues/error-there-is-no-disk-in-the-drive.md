@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/miscellaneous-issues/error-there-is-no-disk-in-the-drive.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/miscellaneous-issues/error-there-is-no-disk-in-the-drive.html"
 breadcrumb-title: ''
 description: 적절한 파일 액세스 및 프로젝트 로드를 위해 Substance 3D Painter에서 '드라이브에 디스크 없음' 오류를 수정하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

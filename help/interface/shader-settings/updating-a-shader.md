@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/shader-settings/updating-a-shader.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/shader-settings/updating-a-shader.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 사용자 정의 셰이더를 업데이트하여 셰이더 변경 내용을 적용하고 셰이더 파일을 다시 로드하는 방법을 알아봅니다.
 helpx_creative_field: ""

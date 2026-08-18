@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/workflow-issues/tools-issues/paint-tool-bleeds-on-other-uv-islands.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/workflow-issues/tools-issues/paint-tool-bleeds-on-other-uv-islands.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 UV 섬 간 페인트 도구 번짐을 수정하여 텍스처 경계를 깔끔하게 유지하는 방법을 알아봅니다.
 helpx_creative_field: ""

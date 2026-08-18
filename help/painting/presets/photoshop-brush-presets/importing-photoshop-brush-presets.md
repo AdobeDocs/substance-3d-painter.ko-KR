@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/presets/photoshop-brush-presets-abr/importing-photoshop-brush-presets.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/presets/photoshop-brush-presets-abr/importing-photoshop-brush-presets.html"
 breadcrumb-title: ''
 description: Photoshop 브러시 사전 설정(ABR 파일)을 Substance 3D Painter으로 가져와 브러시 라이브러리를 확장하는 방법을 알아봅니다.
 helpx_creative_field: ""

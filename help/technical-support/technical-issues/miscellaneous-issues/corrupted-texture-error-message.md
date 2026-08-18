@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/miscellaneous-issues/corrupted-texture-error-message.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/miscellaneous-issues/corrupted-texture-error-message.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 텍스처 기능을 복원하기 위해 손상된 텍스처 오류 메시지를 수정하는 방법을 알아봅니다.
 helpx_creative_field: ""

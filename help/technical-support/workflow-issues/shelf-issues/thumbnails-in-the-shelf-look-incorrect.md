@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/workflow-issues/shelf-issues/thumbnails-in-the-shelf-look-incorrect.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/workflow-issues/shelf-issues/thumbnails-in-the-shelf-look-incorrect.html"
 breadcrumb-title: ''
 description: 리소스 미리 보기를 정확하게 하기 위해 Substance 3D Painter 선반에 표시되는 썸네일이 잘못 표시되는 문제를 해결하는 방법에 대해 알아보십시오.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/tool-list/projection.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/tool-list/projection.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 투영 도구를 사용하여 2D 이미지를 3D 표면에 투영하여 텍스처 페인팅 워크플로우를 수행할 수 있습니다.
 helpx_creative_field: ""

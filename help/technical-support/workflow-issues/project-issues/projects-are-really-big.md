@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/workflow-issues/project-issues/projects-are-really-big.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/workflow-issues/project-issues/projects-are-really-big.html"
 breadcrumb-title: ''
 description: Substance 3D Painter 프로젝트 파일 크기를 줄여 성능 및 스토리지 요구 사항을 최적화하는 방법에 대해 알아보십시오.
 helpx_creative_field: ""

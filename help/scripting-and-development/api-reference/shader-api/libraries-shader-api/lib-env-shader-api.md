@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-env-shader-api.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-env-shader-api.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에 대한 Lib Env 셰이더 API 참조에 액세스하여 사용자 정의 셰이더의 환경 맵 및 조명 작업을 수행합니다.
 helpx_creative_field: ""

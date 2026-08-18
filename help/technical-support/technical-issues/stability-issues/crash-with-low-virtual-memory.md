@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/stability-issues/crash-with-low-virtual-memory.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/stability-issues/crash-with-low-virtual-memory.html"
 breadcrumb-title: ''
 description: 안정적인 애플리케이션 성능을 보장하기 위해 가상 메모리 부족으로 인한 Substance 3D Painter 충돌을 해결하는 방법을 알아보십시오.
 helpx_creative_field: ""

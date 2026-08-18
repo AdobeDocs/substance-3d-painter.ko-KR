@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/parameters-shader-api/all-rendering-states-params-shader-api.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/parameters-shader-api/all-rendering-states-params-shader-api.html"
 breadcrumb-title: ''
 description: 렌더링 상태 매개 변수를 제어하려면 Substance 3D Painter의 모든 렌더링 상태 매개 변수 셰이더 API 참조에 액세스하십시오.
 helpx_creative_field: ""

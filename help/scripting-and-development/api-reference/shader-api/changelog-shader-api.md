@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/changelog-shader-api.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/changelog-shader-api.html"
 breadcrumb-title: ''
 description: Substance 3D Painter 셰이더 API의 변경 로그를 검토하여 업데이트, 새로운 기능 및 시간 경과에 따른 변경 사항을 추적합니다.
 helpx_creative_field: ""
