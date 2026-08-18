@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/effects/filter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/effects/filter.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 필터 효과를 사용하여 이미지 처리 필터 및 텍스처 조정을 적용하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
