@@ -22,7 +22,7 @@ ht-degree: 3%
 
 ![](../../assets/sss-sarah.jpg){width="500px"}
 
->> 
+&#x200B;>> 
 
 (크레딧 : The Soldier, [by Ribeyrolles Leo](https://www.artstation.com/artwork/xNYDm) )
 
