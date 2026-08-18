@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/tool-list/quick-mask.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/tool-list/quick-mask.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 빠른 마스크 도구를 사용하여 마스크를 빠르게 만들고 편집하여 정밀한 텍스처 페인팅 제어를 할 수 있습니다.
 helpx_creative_field: ""

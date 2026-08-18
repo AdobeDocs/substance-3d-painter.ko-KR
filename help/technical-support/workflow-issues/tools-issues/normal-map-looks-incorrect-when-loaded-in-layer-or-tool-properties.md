@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/workflow-issues/tools-issues/normal-map-looks-incorrect-when-loaded-in-layer-or-tool-properties.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/workflow-issues/tools-issues/normal-map-looks-incorrect-when-loaded-in-layer-or-tool-properties.html"
 breadcrumb-title: ''
 description: 정확한 표면 세부 사항을 위해 Substance 3D Painter 레이어 및 도구 속성에서 일반적인 맵 표시 문제를 해결하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/layer-stack/layer-instancing.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/layer-stack/layer-instancing.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 레이어 인스턴싱을 사용하여 여러 텍스처 세트에서 레이어를 효율적으로 재사용하는 방법을 알아봅니다.
 helpx_creative_field: ""

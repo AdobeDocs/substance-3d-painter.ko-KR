@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/presets/creating-particles-presets/installing-the-particle-editor.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/presets/creating-particles-presets/installing-the-particle-editor.html"
 breadcrumb-title: ''
 description: Substance 3D Painter용 입자 편집기 플러그인을 설치하여 사용자 정의 입자 브러시 사전 설정을 만드는 방법을 알아봅니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/tool-list/path.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/tool-list/path.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 패스 도구를 사용하여 정밀한 텍스처 페인팅과 획 배치를 위해 패스를 만들고 편집할 수 있습니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/gpu-issues/multi-bi-gpu.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/gpu-issues/multi-bi-gpu.html"
 breadcrumb-title: ''
 description: 렌더링 성능을 최적화하기 위해 다중 GPU 및 Bi-GPU 시스템용 Substance 3D Painter을 구성하는 방법을 알아봅니다.
 helpx_creative_field: ""

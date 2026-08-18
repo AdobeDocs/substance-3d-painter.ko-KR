@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/tool-list/smudge-tool.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/tool-list/smudge-tool.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 손가락 도구를 사용하여 페인트 선을 혼합하고 문지르면 매끄러운 텍스처 전환이 만들어집니다.
 helpx_creative_field: ""

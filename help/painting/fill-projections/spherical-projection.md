@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/fill-projections/spherical-projection.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/fill-projections/spherical-projection.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 구형 투영을 사용하여 구의 텍스처를 투영하여 오브젝트를 중심으로 텍스처를 감쌀 수 있습니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/workflow-issues/viewport-issues/mesh-faces-disappear-when-looking-at-them-from-behind.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/workflow-issues/viewport-issues/mesh-faces-disappear-when-looking-at-them-from-behind.html"
 breadcrumb-title: ''
 description: Substance 3D Painter 뷰포트에서 뒤에서 볼 때 망 모양이 사라지도록 수정하여 적절한 망 가시성을 유지하는 방법을 알아봅니다.
 helpx_creative_field: ""

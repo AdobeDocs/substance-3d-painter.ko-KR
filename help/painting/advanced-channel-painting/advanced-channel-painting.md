@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/advanced-channel-painting.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/advanced-channel-painting.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 고급 채널 페인팅 기술을 사용하여 특정 텍스처 채널에 직접 페인팅하여 정밀하게 제어할 수 있습니다.
 helpx_creative_field: ""

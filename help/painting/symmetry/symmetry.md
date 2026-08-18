@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/symmetry.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/symmetry.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 대칭 도구를 사용하여 균형 잡히고 미러링된 텍스처 페인팅 효과를 만드는 방법을 알아봅니다.
 helpx_creative_field: ""

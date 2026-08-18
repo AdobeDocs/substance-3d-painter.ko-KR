@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/effects/paint.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/effects/paint.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 페인트 효과를 사용하여 페인트 선과 텍스처 페인팅 효과를 레이어에 적용하는 방법을 살펴보세요.
 helpx_creative_field: ""

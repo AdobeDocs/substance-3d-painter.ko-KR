@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/dynamic-strokes/dynamic-stroke-performances.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/dynamic-strokes/dynamic-stroke-performances.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 브러시 획 렌더링 및 응답성을 최적화하기 위해 동적 획 성능 고려 사항에 대해 알아봅니다.
 helpx_creative_field: ""

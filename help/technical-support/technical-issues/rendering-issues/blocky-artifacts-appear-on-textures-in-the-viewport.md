@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/rendering-issues/blocky-artifacts-appear-on-textures-in-the-viewport.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/rendering-issues/blocky-artifacts-appear-on-textures-in-the-viewport.html"
 breadcrumb-title: ''
 description: 깔끔한 시각적 품질을 위해 Substance 3D Painter 뷰포트의 텍스처에 표시되는 뭉툭한 아티팩트를 수정하는 방법을 알아봅니다.
 helpx_creative_field: ""

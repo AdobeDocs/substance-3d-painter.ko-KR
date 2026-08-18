@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/getting-started.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/getting-started.html"
 breadcrumb-title: ''
 description: 프로젝트 생성, 인터페이스 탐색 및 텍스처 페인팅 워크플로우의 기본 사항을 학습하여 Substance 3D Painter을 시작하십시오.
 helpx_creative_field: ""

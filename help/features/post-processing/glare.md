@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/post-processing/glare.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/post-processing/glare.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 눈부심 후처리 효과를 사용하여 밝은 영역에 렌즈 플레어 및 블룸 효과를 추가하는 방법을 살펴보세요.
 helpx_creative_field: ""

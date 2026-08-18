@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/performances-guidelines.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/performances-guidelines.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 성능 최적화 지침에 액세스하여 애플리케이션 속도와 효율성을 개선합니다.
 helpx_creative_field: ""

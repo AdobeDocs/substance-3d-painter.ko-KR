@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/text-resource.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/text-resource.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 텍스트 리소스를 사용하여 텍스트 및 타이포그래피를 텍스처 페인팅 워크플로우에 추가하는 방법을 알아봅니다.
 helpx_creative_field: ""

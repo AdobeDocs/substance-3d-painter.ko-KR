@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 다양한 브러시, 도구 및 기법을 사용하여 3D 모델에 직접 텍스처를 페인트하는 방법을 살펴보세요.
 helpx_creative_field: ""

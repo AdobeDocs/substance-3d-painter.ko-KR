@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/plugins/autosave.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/plugins/autosave.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 자동 저장 플러그인을 사용하여 프로젝트를 정기적으로 자동 저장하는 방법을 알아봅니다.
 helpx_creative_field: ""

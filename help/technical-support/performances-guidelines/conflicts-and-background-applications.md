@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/performances-guidelines/conflicts-and-background-applications.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/performances-guidelines/conflicts-and-background-applications.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 백그라운드 애플리케이션과의 충돌을 식별하고 해결하여 최적의 성능을 발휘하는 방법을 알아봅니다.
 helpx_creative_field: ""

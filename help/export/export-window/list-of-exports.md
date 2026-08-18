@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/getting-started/export/export-window/list-of-exports.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/getting-started/export/export-window/list-of-exports.html"
 breadcrumb-title: ''
 description: Substance 3D Painter 내보내기 창에서 내보내기 목록을 관리하여 텍스처 내보내기를 구성하는 방법을 살펴보세요.
 helpx_creative_field: ""

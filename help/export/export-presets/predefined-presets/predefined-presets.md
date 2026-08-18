@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/getting-started/export/export-presets/predefined-presets.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/getting-started/export/export-presets/predefined-presets.html"
 breadcrumb-title: ''
 description: 일반적인 워크플로우에 미리 만들어진 내보내기 구성을 사용할 수 있는 Substance 3D Painter의 미리 정의된 출력 템플릿에 대해 알아봅니다.
 helpx_creative_field: ""

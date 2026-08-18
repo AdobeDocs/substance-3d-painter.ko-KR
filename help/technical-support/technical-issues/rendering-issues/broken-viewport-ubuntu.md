@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/rendering-issues/broken-viewport-ubuntu.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/rendering-issues/broken-viewport-ubuntu.html"
 breadcrumb-title: ''
 description: 적절한 3D 렌더링을 위해 Substance 3D Painter의 Ubuntu에서 끊기거나 응답하지 않는 뷰포트 문제를 해결하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

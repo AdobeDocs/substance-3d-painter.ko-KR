@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/main-menu/file-menu.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/main-menu/file-menu.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 파일 메뉴를 사용하여 프로젝트를 관리하고, 에셋을 가져오고, 텍스처를 내보내는 방법을 알아봅니다.
 helpx_creative_field: ""

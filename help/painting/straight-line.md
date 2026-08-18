@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/straight-line.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/straight-line.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 직선 도구를 사용하여 텍스처 페인팅을 위한 정확한 직선 페인트 선을 만들 수 있습니다.
 helpx_creative_field: ""

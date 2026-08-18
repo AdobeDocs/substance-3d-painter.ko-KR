@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/getting-started/export.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/getting-started/export.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 텍스처를 다양한 포맷으로 내보내 다른 애플리케이션과 게임 엔진에 사용하는 방법을 살펴보세요.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/project-resources.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/project-resources.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 프로젝트 리소스 및 기술 문서에 액세스하여 워크플로우와 문제 해결을 개선합니다.
 helpx_creative_field: ""

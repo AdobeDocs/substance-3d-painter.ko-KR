@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/fill-projections/cylindrical-projection.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/fill-projections/cylindrical-projection.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 원통형 투영을 사용하여 원통형 개체 주위의 텍스처를 둘러싸기 위해 원통에서 텍스처를 투영합니다.
 helpx_creative_field: ""

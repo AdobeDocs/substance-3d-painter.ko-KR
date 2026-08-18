@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/color-management/color-management-with-adobe-ace-icc.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/color-management/color-management-with-adobe-ace-icc.html"
 breadcrumb-title: ''
 description: 일관된 색상 작업 과정을 위해 Substance 3D Painter에서 Adobe ACE 및 ICC 색상 관리를 사용하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/startup-issues/software-conflicts.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/startup-issues/software-conflicts.html"
 breadcrumb-title: ''
 description: 시스템에서 Substance 3D Painter이 제대로 시작되지 않도록 하는 소프트웨어 충돌을 해결하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

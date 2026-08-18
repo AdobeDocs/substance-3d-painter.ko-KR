@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/advanced-channel-painting/ambient-occlusion-painting.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/advanced-channel-painting/ambient-occlusion-painting.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 직접 주변 오클루전 맵을 페인트하여 텍스처에 사실적인 그림자 효과와 깊이 효과를 추가하는 방법을 알아봅니다.
 helpx_creative_field: ""

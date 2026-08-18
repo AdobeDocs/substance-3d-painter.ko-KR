@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/baking/how-to-bake-mesh-maps.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/baking/how-to-bake-mesh-maps.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 메시 맵을 베이킹하여 주변 오클루전, 곡률 및 기타 모양 기반 텍스처를 생성하는 방법을 알아봅니다.
 helpx_creative_field: ""

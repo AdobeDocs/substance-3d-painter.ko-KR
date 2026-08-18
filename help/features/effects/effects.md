@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/effects.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/effects.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 효과를 사용하여 텍스처 레이어에 필터, 생성기 및 조정을 적용하는 방법을 살펴보세요.
 helpx_creative_field: ""

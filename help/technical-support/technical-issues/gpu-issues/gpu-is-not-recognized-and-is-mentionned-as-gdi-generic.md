@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/gpu-issues/gpu-is-not-recognized-and-is-mentionned-as-gdi-generic.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/gpu-issues/gpu-is-not-recognized-and-is-mentionned-as-gdi-generic.html"
 breadcrumb-title: ''
 description: 적절한 GPU 가속을 위해 Substance 3D Painter에서 GDI 일반으로 표시되는 GPU 인식 문제를 해결하는 방법에 대해 알아보십시오.
 helpx_creative_field: ""

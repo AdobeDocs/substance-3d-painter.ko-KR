@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/layer-stack/creating-layers.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/layer-stack/creating-layers.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 새 레이어를 만들어 여러 페인팅 레이어로 복잡한 텍스처를 만드는 방법을 살펴보세요.
 helpx_creative_field: ""

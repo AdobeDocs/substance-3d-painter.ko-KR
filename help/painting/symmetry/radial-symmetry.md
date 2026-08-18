@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/symmetry/radial-symmetry.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/symmetry/radial-symmetry.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 방사형 대칭을 사용하여 중심점을 중심으로 대칭으로 페인팅하여 원형 패턴을 만듭니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/texture-set/texture-set-list.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/texture-set/texture-set-list.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 텍스처 세트 목록을 사용하여 프로젝트에서 여러 텍스처 세트를 관리하고 구성하는 방법을 알아봅니다.
 helpx_creative_field: ""

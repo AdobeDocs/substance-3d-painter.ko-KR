@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/send-to.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/send-to.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 보내기 기능을 사용하여 프로젝트 및 에셋을 다른 Substance 3D 애플리케이션으로 이전하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

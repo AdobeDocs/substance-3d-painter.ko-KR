@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/miscellaneous/sliders.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/miscellaneous/sliders.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 슬라이더를 사용하여 정밀도 제어로 숫자 값과 매개 변수를 조정하는 방법을 알아봅니다.
 helpx_creative_field: ""

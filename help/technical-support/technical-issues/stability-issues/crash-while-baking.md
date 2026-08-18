@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/stability-issues/crash-while-baking.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/stability-issues/crash-while-baking.html"
 breadcrumb-title: ''
 description: 안정적인 텍스처 제작 워크플로를 위해 굽는 동안 Substance 3D Painter 충돌을 수정하는 방법을 알아봅니다.
 helpx_creative_field: ""

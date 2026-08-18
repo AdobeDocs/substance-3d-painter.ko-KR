@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/gpu-issues/gpu-is-not-recognized.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/gpu-issues/gpu-is-not-recognized.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 GPU 인식 문제를 해결하여 적절한 하드웨어 가속 및 성능을 활성화하는 방법을 알아봅니다.
 helpx_creative_field: ""
