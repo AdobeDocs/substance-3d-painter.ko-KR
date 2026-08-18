@@ -27,7 +27,7 @@ ht-degree: 5%
 ### Creative Cloud 데스크톱
 
 1. Windows 레지스트리 편집기(**regedit**)를 엽니다.
-1. 레지스트리 키로 이동합니다. ** HKEY\_LOCAL\_MACHINE\Software\Microsoft\Windows\CurrentVersion\App 경로\**
+1. 레지스트리 키로 이동합니다. **&#x200B; HKEY\_LOCAL\_MACHINE\Software\Microsoft\Windows\CurrentVersion\App 경로\**
 1. 이름이 **Adobe Substance 3D Painter.exe**&#x200B;인 하위 키를 엽니다.
 1. 키 값에는 키가 설치된 응용 프로그램 실행 파일의 경로가 포함됩니다
 

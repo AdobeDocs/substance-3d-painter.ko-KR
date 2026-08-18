@@ -12,7 +12,7 @@ Substance 3D Painter에 대해 알려진 문제 마크다운 문서를 자동으
 
 문제는 Jira epic `SBSFOUR-6267`에서 출처입니다. 이 스크립트는 모든 문제를 불러오고, 대상 버전에서 이미 수정된 모든 것을 필터링하며, 포맷 된 마크다운 파일을 출력할 준비가 되었습니다.
 
----
+&#x200B;---
 
 ## 빠른 시작
 
@@ -25,12 +25,13 @@ Substance 3D Painter에 대해 알려진 문제 마크다운 문서를 자동으
    ```
    python fetch_known_issues.py
    ```
+
 4. 출력 요약을 확인합니다. 몇 개의 문제를 가져왔으며 몇 개가 제외되었는지 보고합니다.
 5. 생성된 `known-issues.md`을(를) `help/release-notes/known-issues.md`(으)로 복사
 
 > 문제가 누락되었거나 예기치 않은 경우 `raw_issues.json`을(를) 검사하여 필터링이 적용되기 전에 Jira가 반환한 내용을 정확하게 확인하십시오.
 
----
+&#x200B;---
 
 ## 1회 설정
 
@@ -64,7 +65,7 @@ OUTPUT_FILE=known-issues.md
 
 `TARGET_VERSION`은(는) 알려진 문제 페이지를 생성하는 Substance 3D Painter 버전입니다. 어떤 수정된 문제가 제외되는지 제어합니다. 아래의 [필터링 논리](#filtering-logic)를 참조하십시오.
 
----
+&#x200B;---
 
 ## 저장소 구조
 
@@ -78,7 +79,7 @@ OUTPUT_FILE=known-issues.md
 └── known-issues.md            # Generated output from last run — gitignored
 ```
 
----
+&#x200B;---
 
 ## Jira Reference
 
@@ -90,7 +91,7 @@ OUTPUT_FILE=known-issues.md
 
 알려진 모든 문제가 이 서사시에 연결되어 생성된 문서에 나타나야 합니다. 문제를 페이지에 추가하거나 제거해야 하는 경우 마크다운을 수동으로 편집하는 대신 Jira에서 서사를 업데이트하십시오.
 
----
+&#x200B;---
 
 ## 스크립트 작동 방식
 
@@ -153,7 +154,7 @@ OUTPUT_FILE=known-issues.md
 - 범주 그룹 사이의 빈 줄
 - 충돌 문제에 대한 `## Stability` 섹션 끝
 
----
+&#x200B;---
 
 ## 필터링 논리
 
@@ -165,7 +166,7 @@ OUTPUT_FILE=known-issues.md
 | `Fixed` | 예 | 대상≤ 버전 수정 | 아니요(이미 배송됨) |
 | `Fixed` | 예 | 버전 > 대상 수정 | 예(수정 사항은 향후 버전임) |
 
----
+&#x200B;---
 
 ## 출력 포맷
 
@@ -194,7 +195,7 @@ This page lists all the active known issues present in v12.0.3 of Substance 3D P
 
 **서식 메모:** 범주 태그는 이중 백틱이 아닌 단일 백틱 래핑(`` `[Category]` ``)을 사용합니다. 기존 수동으로 유지 관리된 문서에 이중 백틱 오류가 포함되었습니다. 스크립트는 항상 올바른 형식을 생성합니다.
 
----
+&#x200B;---
 
 ## 문제 해결
 
