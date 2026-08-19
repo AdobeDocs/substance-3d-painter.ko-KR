@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/release-notes/old-versions/version-2017-3.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/release-notes/old-versions/version-2017-3.html"
 breadcrumb-title: ''
 description: Substance 3D Painter 버전 2017.3의 릴리스 노트를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
 helpx_creative_field: ""
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 ![](../../assets/adobe-dimension-meetmat.jpg)
 
-이 릴리스에 포함되는 새 내보내기 도구 중 하나는 Adobe Dimension(이전의 Adobe Project Felix)와 함께 사용할 Adobe Standard Material을 지원하는 것입니다. 한 번의 클릭으로 장면 메쉬와 해당 텍스처를 Project Felix로 가져올 수 있도록 내보낼 수 있습니다. 액세스하려면 텍스처 내보내기 창에서 &quot;**Adobe Standard Material**&quot;을(를) 선택하면 됩니다. 자세한 내용은 [http://www.adobe.com/kr/products/dimension.html](https://www.adobe.com/kr/products/dimension.html)을 참조하세요.
+이 릴리스에 포함되는 새 내보내기 도구 중 하나는 Adobe Dimension(이전의 Adobe Project Felix)와 함께 사용할 Adobe Standard Material을 지원하는 것입니다. 한 번의 클릭으로 장면 메쉬와 해당 텍스처를 Project Felix로 가져올 수 있도록 내보낼 수 있습니다. 액세스하려면 텍스처 내보내기 창에서 &quot;**Adobe Standard Material**&quot;을(를) 선택하면 됩니다. 자세한 내용은 [http://www.adobe.com/products/dimension.html](https://www.adobe.com/products/dimension.html)을 참조하세요.
 
 이에 대한 블로그 게시물(<https://www.allegorithmic.com/blog/new-dimension-substance-ecosystem>)을 확인할 수도 있습니다.
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ![](../../assets/gradient-rust.jpg)
 
-**그레이디언트 필터**&#x200B;가 완전히 개선되었습니다. **Substance Designer**&#x200B;에서 사용할 수 있는 **그레이디언트 맵** 노드와 훨씬 더 유사한 방식으로 작동합니다. 이제 최대 **10개의 다른 색상**&#x200B;을 지원하며, **색상이**&#x200B;그레이디언트&#x200B;**&#x200B;**&#x200B;내부에 있는 위치를 지정하여 많은 새 문을 열 수 있습니다. 이를 통해 더 많은&#x200B;**고급 색상 패턴**&#x200B;을 만들 수 있지만&#x200B;**높이 지도 다시 매핑**&#x200B;과&#x200B;**새 모양**&#x200B;을 만들 수도 있습니다.
+**그레이디언트 필터**&#x200B;가 완전히 개선되었습니다. **Substance Designer**&#x200B;에서 사용할 수 있는 **그레이디언트 맵** 노드와 훨씬 더 유사한 방식으로 작동합니다. 이제 최대 **10개의 다른 색상**&#x200B;을 지원하며, **색상이**&#x200B;그레이디언트&#x200B;****내부에 있는 위치를 지정하여 많은 새 문을 열 수 있습니다. 이를 통해 더 많은&#x200B;**고급 색상 패턴**을 만들 수 있지만&#x200B;**높이 지도 다시 매핑**과&#x200B;**새 모양**을 만들 수도 있습니다.
 
 기본 슬라이더(색상 양)는 그레이디언트를 만드는 데 사용되는 총 색상 수를 정의합니다. 바로 아래에 있는 버튼은 색상 혼합 모드(sRGB 또는 선형)를 정의합니다. 색상 간의 적절한 혼합을 원하는 경우 이 설정이 중요합니다. 예를 들어 순수한 빨강과 순수한 녹색을 혼합하면 중간 중간에 멋진 노란색을 만들 수 있습니다. 이 버튼을 비활성화하면(대신 진한 갈색이 표시됨) 이것은 그렇지 않습니다. Height 또는 다른 회색 음영 채널을 다시 매핑할 때 감마 변환을 수행하지 않도록 이 버튼을 비활성화해야 합니다.
 
