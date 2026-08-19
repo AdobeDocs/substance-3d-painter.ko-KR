@@ -10,7 +10,7 @@ helpx_tags: ""
 title: UV 투영
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+source-git-commit: 2903c7fdf6a9fe0da149b61fa9064033bb88926a
 workflow-type: tm+mt
 source-wordcount: '788'
 ht-degree: 3%
@@ -28,7 +28,7 @@ ht-degree: 3%
 
 | *설정* | *설명* |
 | --- | --- |
-| **필터링** | 텍스처 또는 재질을 필터링하는 방법을 제어합니다. 이 설정은 여러 번 반복할 때 텍스처의 모양에 영향을 줄 수 있습니다. 높은 비율 값을 사용하는 경우 기본값과 다른 필터링 방법을 사용하면 더 나은 결과를 얻을 수 있습니다. 현재 사용 가능한 설정:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>쌍선형 | HQ </strong>: (기본값) 타일링 값이 높을 때 텍스처의 품질을 개선하려는 고급 쌍선형 필터링.</li><li data-preserve-html="true"><strong>쌍선형 | 선명한 </strong>: 텍스처를 약간 매끄럽게 하지만 세부 사항을 유지하려는 간단한 쌍선형 필터링입니다.</li><li data-preserve-html="true"><strong>가장 가까운 </strong>: 필터링이 없습니다. 쌍선형 필터링으로 인해 결과가 흐릿해지고 세부 사항이 세분화된 경우 유용합니다. 텍스처에 앨리어싱을 적용할 수 있습니다.</li></ul> |
+| **필터링** | 텍스처 또는 재질을 필터링하는 방법을 제어합니다. 이 설정은 여러 번 반복할 때 텍스처의 모양에 영향을 줄 수 있습니다. 높은 비율 값을 사용하는 경우 기본값과 다른 필터링 방법을 사용하면 더 나은 결과를 얻을 수 있습니다. 현재 사용 가능한 설정:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>쌍선형 `\|` HQ </strong>: (기본값) 타일링 값이 높을 때 텍스처의 품질을 개선하려고 하는 고급 쌍선형 필터링.</li><li data-preserve-html="true"><strong>쌍선형 `\|` 선명 </strong>: 텍스처를 약간 매끄럽게 하지만 세부 사항을 유지하려는 간단한 쌍선형 필터링입니다.</li><li data-preserve-html="true"><strong>가장 가까운 </strong>: 필터링이 없습니다. 쌍선형 필터링으로 인해 결과가 흐릿해지고 세부 사항이 세분화된 경우 유용합니다. 텍스처에 앨리어싱을 적용할 수 있습니다.</li></ul> |
 | **UV 랩** | 투영 모양 내에서 투영된 재질/이미지가 어떻게 반복되는지 제어합니다. 가능한 값은 다음과 같습니다.<ul data-preserve-html="true"><li data-preserve-html="true"><strong>없음</strong>: 프로젝션이 반복되지 않습니다.</li><li data-preserve-html="true"><strong>가로로 반복</strong> : 가로로만 반복합니다.</li><li data-preserve-html="true"><strong>세로로 반복</strong> : 세로로만 반복합니다.</li><li data-preserve-html="true"><strong>반복</strong>(기본값) : 가로와 세로 모두를 반복합니다.</li></ul> <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r2-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/2d-repeat.jpg" width="500px"/></div> |
 
 ### UV 변형

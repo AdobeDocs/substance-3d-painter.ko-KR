@@ -226,16 +226,16 @@ Painter 내부에 Substance 3D Assets 웹 사이트를 직접 포함하는 새 �
 <b>추가됨</b>:
 
 * [Illustrator] Painter에서 아트 보드와 함께 Illustrator 파일 사용
-* [Illustrator][SVG] 범위 선택에서 미리 보기 추가
+* [Illustrator]&#x200B;[SVG] 범위 선택에서 미리 보기 추가
 * [Substance 3D Assets] Painter에서 직접 3D 에셋을 검색하고, 선택하고, 다운로드하십시오.
-* [Substance 3D Assets][UI] 새 패널
+* [Substance 3D Assets]&#x200B;[UI] 새 패널
 * [Substance 3D Assets] 환경 맵 및 자료 지원
 * [Substance 3D Assets] 새 Substance 3D Assets 패널에서 위치 폴더를 다시 로드하고 탐색하고 열 수 있습니다.
 * [Substance 3D Assets] 다운로드 관리자 추가
 * [텍스트 리소스] 포함 가능한 글꼴 사용 허용
 * [텍스트 리소스] 메시에서 글꼴/텍스트 렌더링 허용
 * [텍스트 리소스] 새 범주와 함께 에셋 패널에서 사용자 및 기타 공유 경로의 글꼴을 표시합니다
-* [텍스트 리소스][속성] 고급 글꼴 속성에 대한 지원 추가
+* [텍스트 리소스]&#x200B;[속성] 고급 글꼴 속성에 대한 지원 추가
 * [텍스트 리소스] 미니 쉘프의 글꼴 검색/보기 허용
 * [텍스트 리소스] 호환되지 않는 글꼴을 가져올 때 오류 메시지/대화 상자를 추가합니다.
 * 기타
@@ -298,9 +298,9 @@ Painter 내부에 Substance 3D Assets 웹 사이트를 직접 포함하는 새 �
 <b>알려진 문제</b>:
 
 * [색상 관리] Linux에서 ACE를 사용한 HDR 색상 공간 변환으로 클램프된 색상 생성
-* [충돌][Linux][AMD] Wayland OS의 레이어 스택에 있는 리소스 드래그 앤 드롭
-* [회귀][UI] 마우스 오른쪽 단추 클릭 메뉴가 HD 화면에서 너무 작습니다.
-* [충돌][Python] TextureStateEvent에 의해 USD 내보내기가 트리거되었습니다.
+* [충돌]&#x200B;[Linux]&#x200B;[AMD] Wayland OS의 레이어 스택에 있는 리소스 드래그 앤 드롭
+* [회귀]&#x200B;[UI] 마우스 오른쪽 단추 클릭 메뉴가 HD 화면에서 너무 작습니다.
+* [충돌]&#x200B;[Python] TextureStateEvent에 의해 USD 내보내기가 트리거되었습니다.
 * [저장] &quot;다른 이름으로 저장&quot;이 실패하면 Spp 프로젝트 파일이 손실됩니다.
 * [MacOS Intel] 일부 사전 설정을 가져올 때 충돌이 발생함
 * [Illustrator] 서버 충돌 후 Painter을 다시 시작하지 않으면 Ai 파일을 가져올 수 없음

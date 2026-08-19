@@ -10,7 +10,7 @@ helpx_tags: ""
 title: 구형 투영
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+source-git-commit: 7e24e45387178db5efa813e64e4b86ac2ae2e5aa
 workflow-type: tm+mt
 source-wordcount: '855'
 ht-degree: 2%
@@ -28,7 +28,7 @@ ht-degree: 2%
 
 | 설정 | 설명 |
 | --- | --- |
-| **필터링** | 텍스처 또는 재질을 필터링하는 방법을 제어합니다. 이 설정은 텍스처가 여러 번 반복될 때 나타나는 모양에 영향을 줄 수 있습니다. 기본값과 다른 필터링을 사용하여 높은 비율 값을 지정하면 더 나은 결과를 얻을 수 있습니다. 현재 사용 가능한 설정:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>쌍선형 | HQ</strong>(기본값): 타일링 값이 높을 때 텍스처의 품질을 개선하려는 고급 쌍선형 필터링.</li><li data-preserve-html="true"><strong>쌍선형 | 날카로운</strong>: 텍스처를 약간 매끄럽게 하지만 세부 사항을 유지하려는 간단한 쌍선형 필터링.</li><li data-preserve-html="true"><strong>가장 가까운</strong>: 필터링이 없습니다. 쌍선형 필터링으로 인해 결과가 흐릿해지고 세부 사항이 세분화된 경우 유용합니다. 텍스처에 앨리어싱을 적용할 수 있습니다.</li></ul> |
+| **필터링** | 텍스처 또는 재질을 필터링하는 방법을 제어합니다. 이 설정은 텍스처가 여러 번 반복될 때 나타나는 모양에 영향을 줄 수 있습니다. 기본값과 다른 필터링을 사용하여 높은 비율 값을 지정하면 더 나은 결과를 얻을 수 있습니다. 현재 사용 가능한 설정:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>쌍선형 `\|` HQ</strong>(기본값): 타일링 값이 높을 때 텍스처의 품질을 개선하려는 고급 쌍선형 필터링입니다.</li><li data-preserve-html="true"><strong>쌍선형 `\|` 선명</strong>: 텍스처를 약간 매끄럽게 하지만 세부 사항을 유지하려는 간단한 쌍선형 필터링입니다.</li><li data-preserve-html="true"><strong>가장 가까운</strong>: 필터링이 없습니다. 쌍선형 필터링으로 인해 결과가 흐릿해지고 세부 사항이 세분화된 경우 유용합니다. 텍스처에 앨리어싱을 적용할 수 있습니다.</li></ul> |
 | **UV 랩** | 투영 내에서 텍스처가 반복되는 방식을 제어합니다. 가능한 값은 다음과 같습니다.<ul data-preserve-html="true"><li data-preserve-html="true"><strong>없음</strong>: 텍스처가 반복되지 않습니다. 텍스처 외부의 모든 요소는 검정색/투명입니다.</li><li data-preserve-html="true"><strong>가로로 반복</strong>: 텍스처가 가로로만 반복됩니다.</li><li data-preserve-html="true"><strong>세로로 반복</strong>: 텍스처가 세로로만 반복됩니다.</li><li data-preserve-html="true"><strong>반복</strong>(기본값): 텍스처가 두 축 모두에서 반복됩니다.</li></ul> <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r2-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/spherical-repeat.jpg" width="500px"/></div> |
 | **모양 자르기** | 투영된 텍스처가 투영 영역의 외부에 표시되어야 하는지 여부를 정의합니다. 가능한 값은 다음과 같습니다.<ul data-preserve-html="true"><li data-preserve-html="true"><strong>프로젝트가 모양으로 잘림</strong>: 프로젝트가 투영 영역 내에 제한되어 있습니다.</li><li data-preserve-html="true"><strong>투영이 모양 밖으로 확장됨</strong>(기본값): 투영이 투영 영역을 넘어 계속됩니다.</li></ul> <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r3-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/spherical-shape-crop.jpg" width="500px"/></div> |
 
