@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/tool-list/paint-brush.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/tool-list/paint-brush.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 [페인트 브러시] 도구를 사용하여 사용자 정의 가능한 브러시 설정으로 3D 모델에 바로 텍스처를 페인트할 수 있습니다.
 helpx_creative_field: ""
@@ -10,7 +10,7 @@ helpx_tags: ""
 title: 페인트 브러시
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+source-git-commit: c20714f4cef21ccca0cdcd45dcdfd5ca6f4b96f2
 workflow-type: tm+mt
 source-wordcount: '1308'
 ht-degree: 0%
@@ -76,7 +76,7 @@ ht-degree: 0%
 | **플로우 지터** | 브러시 획 내부에 스탬프당 무작위 흐름 값을 적용합니다. 값을 0으로 지정하면 임의성이 없고, 값을 1로 지정하면 완전 임의성이 적용됩니다. <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table1_row-r8-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/brush-flow.png"/></div> |
 | **각도 지터** | 브러시 획 내부에 스탬프당 임의의 추가 회전 각도를 적용합니다. 값을 0으로 지정하면 임의성이 없고, 값을 1로 지정하면 완전 임의성이 적용됩니다. <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table1_row-r9-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/brush-rotation.png"/></div> |
 | **위치 지터** | 브러시 획 내부에 스탬프당 임의의 위치 오프셋을 적용합니다. 값을 0으로 지정하면 임의성이 없고, 값을 1로 지정하면 완전 임의성이 적용됩니다. <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table1_row-r10-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/brush-position.png"/></div> |
-| **맞춤** | 브러시 획 내부의 스탬프가 3D 메시 표면에 투영/배향되는 방법을 결정합니다. 다음과 같은 값을 사용할 수 있습니다.<ul data-preserve-html="true"><li data-preserve-html="true"><strong> 카메라 </strong>: 스탬프의 방향을 뷰포트 시점으로 향하게 합니다.</li><li data-preserve-html="true"><strong> 접선 | 줄 바꿈(기본값) </strong> : 3D 메시 표면에 정렬되도록 스탬프의 방향을 조정합니다. 스탬프도 표면에 맞게 변형됩니다.</li><li data-preserve-html="true"><strong> 접선 | 평면 </strong> : 3D 메시 표면에 정렬되도록 스탬프의 방향을 조정합니다. 스탬프의 테두리가 3D 메시 표면에서 너무 멀어 페이드됩니다. </li><li data-preserve-html="true"><strong> UV </strong>: 3D 메시 UV를 기준으로 스탬프의 방향을 조정합니다.</li></ul> |
+| **맞춤** | 브러시 획 내부의 스탬프가 3D 메시 표면에 투영/배향되는 방법을 결정합니다. 다음과 같은 값을 사용할 수 있습니다.<ul data-preserve-html="true"><li data-preserve-html="true"><strong> 카메라 </strong>: 스탬프의 방향을 뷰포트 시점으로 향하게 합니다.</li><li data-preserve-html="true"><strong> 접선 `\|` 줄 바꿈(기본값) </strong> : 3D 메시 표면에 정렬되도록 스탬프의 방향을 조정합니다. 스탬프도 표면에 맞게 변형됩니다.</li><li data-preserve-html="true"><strong> 접선 `\|` 평면 </strong> : 3D 메시 표면에 정렬되도록 스탬프의 방향을 조정합니다. 스탬프의 테두리가 3D 메시 표면에서 너무 멀어 페이드됩니다. </li><li data-preserve-html="true"><strong> UV </strong>: 3D 메시 UV를 기준으로 스탬프의 방향을 조정합니다.</li></ul> |
 | **뒷면 도태** | 3D 메시에서 스탬프와 정렬되지 않은 서피스를 무시할 수 있습니다. 3D 메쉬의 어느 부분을 무시해야 하는지 계산하기 위해 페인팅 엔진은 3D 메쉬의 표면에서 법선을 보고 그 각도를 정의된 값과 비교합니다. |
 | **크기 공간** | 브러시 크기를 계산할 상대 공간을 제어합니다. 가능한 값은 다음과 같습니다.<ul data-preserve-html="true"><li data-preserve-html="true"><strong> 개체(기본값) </strong> : 브러시 크기가 3D 메시 크기와 동기화됩니다. 카메라를 뷰포트에서 이동하면 3D 메시를 기준으로 카메라를 유지할 수 있는 크기에 영향을 줍니다.</li><li data-preserve-html="true"><strong> 뷰포트 </strong> : 브러시 크기가 뷰포트에 연결됩니다. 인터페이스 크기를 조정하면 브러시 크기에 영향을 줍니다. 카메라를 이동해도 아무런 효과가 없습니다.</li><li data-preserve-html="true"><strong> 텍스처 </strong> : 브러시 크기가 2D 뷰 포트 수준의 확대/축소에 연결됩니다.</li></ul> |
 
