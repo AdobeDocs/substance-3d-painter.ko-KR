@@ -1,11 +1,11 @@
 ---
-helpx_url: 'https://helpx.adobe.com/kr/substance-3d-painter/interface/viewport.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-painter/interface/viewport.html'
 description: Substance 3D Painter에서 뷰포트를 사용하여 페인팅 프로세스 동안 3D 모델 및 텍스처를 시각화하는 방법을 살펴보세요.
 helpx_description: Painter > Interface > Viewport
 title: 뷰포트
-source-git-commit: 7b5f6e6c9623cb51253b6e49c8dbcbb22856418c
+source-git-commit: 307c4f1121ae6841d68f8ea5dc597790e0d18a14
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '475'
 ht-degree: 1%
 
 ---
@@ -74,19 +74,19 @@ ht-degree: 1%
     <th><em>설명</em></th>
   </tr>
   <tr>
-    <td><strong>뷰포트 모드</strong><br>![](../../assets/viewport-viewmode.png)</td>
+    <td><strong>뷰포트 모드</strong><br><img src="../../assets/viewport-viewmode.png"/></td>
     <td>다음 설정은 뷰포트의 레이아웃을 제어합니다.<br><ul><li><strong>3D/2D</strong>(기본값): 3D 보기와 2D 보기를 모두 뷰포트에 표시</li><li><strong>3D 전용</strong>: 3D 보기를 최대화하고 2D 보기를 숨깁니다.</li><li><strong>2D 전용</strong>: 2D 보기를 최대화하고 3D 보기를 숨깁니다.</li><li><strong>3D/2D 교체</strong>: 보기가 표시되는 순서를 바꿉니다. 3D 보기가 왼쪽에 있는 경우 이 동작을 선택하면 오른쪽에 표시됩니다.</li></ul></td>
   </tr>
   <tr>
-    <td><strong>원근 모드</strong><br>![](../../assets/viewport-camera-projection.png)</td>
+    <td><strong>원근 모드</strong><br><img src="../../assets/viewport-camera-projection.png"/></td>
     <td>이러한 설정은 3D 보기에서 3D 메쉬가 표시되는 방식을 제어합니다.<br><ul><li><strong>원근감 보기</strong>(기본값): 사람의 눈이나 카메라로 볼 수 있는 3D 메시를 표시합니다.</li><li><strong>정사영 보기</strong>: 모든 방향이 동일한 길이를 측정하면 3D 메쉬를 표시합니다.</li></ul></td>
   </tr>
   <tr>
-    <td><strong>카메라 회전 모드</strong><br>![](../../assets/viewport-camera-axis.png)</td>
+    <td><strong>카메라 회전 모드</strong><br><img src="../../assets/viewport-camera-axis.png"/></td>
     <td>이 설정은 뷰포트 카메라가 회전할 수 있는 축의 수를 제어합니다.<br><ul><li><strong>자유 회전</strong>: 카메라가 X, Y 및 Z축을 기준으로 회전합니다.</li><li><strong>제한된 회전</strong>(기본값): 카메라가 X 및 Y축에서만 회전합니다(롤 없음).</li></ul></td>
   </tr>
   <tr>
-    <td><strong>렌더링 모드</strong><br>![](../../assets/viewport-rendering.png)</td>
+    <td><strong>렌더링 모드</strong><br><img src="../../assets/viewport-rendering.png"/></td>
     <td><a href="../../features/iray-renderer/iray-renderer.md">렌더링 모드</a>(으)로 전환합니다.</td>
   </tr>
 </table>
