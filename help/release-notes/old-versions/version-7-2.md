@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/release-notes/old-versions/version-7-2.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/release-notes/old-versions/version-7-2.html"
 breadcrumb-title: ''
 description: Substance 3D Painter 버전 7.2의 릴리스 정보를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 # 버전 7.2
 
-**Substance 3D Painter 7.2**&#x200B;은(는) Adobe Standard Material 워크플로를 통한 새로운 렌더링 기능, [Substance 3D 응용 프로그램](https://www.adobe.com/kr/products/substance3d/3d-augmented-reality.html)에서 콘텐츠를 공유하는 새로운 방법, 그리고 개선된 에셋 창을 제공합니다.
+**Substance 3D Painter 7.2**&#x200B;은(는) Adobe Standard Material 워크플로를 통한 새로운 렌더링 기능, [Substance 3D 응용 프로그램](https://www.adobe.com/products/substance3d/3d-augmented-reality.html)에서 콘텐츠를 공유하는 새로운 방법, 그리고 개선된 에셋 창을 제공합니다.
 
 출시일: *23 2021년 6월*
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/release-notes/old-versions/version-2018-2.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/release-notes/old-versions/version-2018-2.html"
 breadcrumb-title: ''
 description: Substance 3D Painter 버전 2018.2의 릴리스 노트를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
 helpx_creative_field: ""
@@ -190,7 +190,7 @@ ht-degree: 0%
 
 (2018년 9월 25일 릴리스)
 
-**&#x200B;**&#x200B;고정:**&#x200B;**
+****고정:****
 
 * [2D 보기] 새 프로젝트를 만들 때 일부 메시로 2D 보기가 깨집니다
 * [충돌] UV 투영에서 삼면 투영으로 전환하면 충돌이 발생합니다

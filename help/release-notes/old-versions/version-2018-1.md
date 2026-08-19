@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/release-notes/old-versions/version-2018-1.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/release-notes/old-versions/version-2018-1.html"
 breadcrumb-title: ''
 description: Substance 3D Painter 버전 2018.1의 릴리스 노트를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
 helpx_creative_field: ""
@@ -144,7 +144,7 @@ UV 섬 외부에서 패딩을 생성하는 방식을 재작업했습니다. 현�
   방향은 위치 맵 상에서 직접 선택될 수 있는 2개의 3D 위치들로 정의될 수 있다.\
   예 :
 
-1. &#x200B;
+1. 
    1. 레이어 중 하나에서 마스크 생성기 **3D Linear gradient**&#x200B;을(를) 만듭니다.
    1. 뷰포트 표시를 &quot;**위치**&quot;(뷰포트 드롭다운을 통해 또는 &quot;**B**&quot; 키를 사용하여)로 전환합니다.
    1. &quot;**3D 위치 시작**&quot; 매개 변수를 클릭하여 **색상 피커** 팝업을 엽니다.
