@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/fill-projections/uv-projection.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/fill-projections/uv-projection.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 UV 투영을 사용하여 UV 좌표를 기반으로 텍스처를 투사하여 정밀한 텍스처 배치를 수행할 수 있습니다.
 helpx_creative_field: ""

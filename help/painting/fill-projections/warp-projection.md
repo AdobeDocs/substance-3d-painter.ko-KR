@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/fill-projections/warp-projection.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/fill-projections/warp-projection.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 뒤틀기 투영을 사용하여 창의적인 텍스처 페인팅을 위해 왜곡 효과와 함께 텍스처를 투영합니다.
 helpx_creative_field: ""
