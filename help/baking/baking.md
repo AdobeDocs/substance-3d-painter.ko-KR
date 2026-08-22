@@ -37,4 +37,4 @@ Painter의 베이킹 과정에 대한 자세한 내용은 다음 페이지를 �
 
 >[!NOTE]
 >
-> 일반적인 굽기에 대해 자세히 알아보려면 전용 [굽기 설명서](https://experienceleague.adobe.com/en/docs/substance-3d/bakers/home)를 살펴보세요.
+> 일반적인 굽기에 대해 자세히 알아보려면 전용 [굽기 설명서](https://experienceleague.adobe.com/ko/docs/substance-3d/bakers/home)를 살펴보세요.
