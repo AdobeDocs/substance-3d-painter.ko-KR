@@ -36,7 +36,7 @@ ht-degree: 1%
 
 | *매개 변수* | *설명* |
 | --- | --- |
-| **파일** | 로드할 3D 모델 파일을 지정하려면 &quot;선택&quot; 버튼을 클릭합니다. [지원되는 파일 형식 목록을 여기서 사용할 수 있습니다.](https://experienceleague.adobe.com/en/docs/substance-3d/general-knowledge/ecosystem/import-and-export-formats) |
+| **파일** | 로드할 3D 모델 파일을 지정하려면 &quot;선택&quot; 버튼을 클릭합니다. [지원되는 파일 형식 목록을 여기서 사용할 수 있습니다.](https://experienceleague.adobe.com/ko/docs/substance-3d/general-knowledge/ecosystem/import-and-export-formats) |
 | **템플릿** | 프로젝트의 기본 설정을 정의할 템플릿을 지정합니다. 템플릿에는 다음과 같은 매개변수가 포함됩니다.<ul data-preserve-html="true"> <li data-preserve-html="true">텍스처 세트 설정.</li> <li data-preserve-html="true">디스플레이 설정.</li> <li data-preserve-html="true">베이킹 설정.</li> <li data-preserve-html="true">셰이더 리소스(연결된 텍스처 포함).</li> <li data-preserve-html="true">환경 맵 파일입니다.</li> </ul>  **참고:** 템플릿은 [파일 메뉴](../interface/main-menu/file-menu.md)를 통해 기존 프로젝트에서 만들고 Assets 폴더 내에 저장하여 팀 구성원과 쉽게 공유할 수 있는 <b>\*.spt</b> 파일입니다. |
 | <b>해상도</b> | 각 텍스처 세트에 대해 프로젝트의 기본 텍스처 해상도를 정의합니다. 애플리케이션 내에서 작업할 때는 해상도가 최대 4K(4096x4096픽셀)이고 내보낼 때는 8K(8192x8192픽셀)일 수 있습니다. 해상도는 나중에 [텍스처 설정](../interface/texture-set/texture-set-settings.md)을 통해 언제든지 변경할 수 있습니다.  **참고:** 8K 내보내기를 사용하려면 GPU에서 2.5GB 이상의 VRam을 사용해야 합니다. |
 
