@@ -2,9 +2,9 @@
 title: 버전 12.1
 description: 버전 12.1의 릴리스 정보
 helpx_description: Substance 3D Painter
-source-git-commit: 77c68a586777b200c4d814928c5e93a752e1d355
+source-git-commit: 50df3a58ec4719d302999421774a1c67ce3e0ef1
 workflow-type: tm+mt
-source-wordcount: '1657'
+source-wordcount: '1717'
 ht-degree: 0%
 
 ---
@@ -149,6 +149,24 @@ Youtube에서 최신 튜토리얼을 살펴보세요.
 [![](../assets/v12/v12_youtube_tutorial.jpg)](https://www.youtube.com/watch?v=WwyElRpiQgY)
 
 ## 릴리스 정보
+
+### 12.1.3
+
+출시일: **2026/08/25**
+
+요약: **부 릴리스**
+
+**추가됨:**
+
+* Substance 엔진을 버전 9.4.6v로 업데이트
+
+**고정:**
+
+* 도구를 변경한 후 [회색 음영 선택기] 선택기가 열려 있음
+* 페인팅 및 실행 취소 시 [기울이기 굽기] 기울이기 수정이 중단됨
+* [투영 도구] 뷰포트 상호 작용이 투영 도구에 의해 차단됨
+* [동적 선] 브러시 속성에 동적 선 매개 변수가 없습니다.
+* 네트워크로 내보내기가 더 이상 작동하지 않습니다
 
 ### 12.1.2
 
