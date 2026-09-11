@@ -14,7 +14,7 @@ ht-degree: 3%
 <table>
   <tr style="border: 0;">
     <td style="border: 0;" valign="top"><img src="../../../assets/generators/icon_uv_checker.png" alt=""/><br><strong>내부:</strong> uv, 테두리, 무작위</td>
-    <td style="border: 0;" valign="top"><strong>설명</strong><br>UV 검사기 생성기는 모형에 격자 같은 검사기 패턴을 적용하므로 늘이기, 크기 조절 불균형 또는 왜곡과 같은 UV 문제를 쉽게 발견할 수 있습니다. <br><br>UV 검사기 생성기는 일반적으로 UV 왜곡을 보기 위해 채우기 레이어에서 직접 사용됩니다.</td>
+    <td style="border: 0;" valign="top"><strong>UV 검사기 생성기는 모형에 격자와 같은 검사기 패턴을 적용하므로 UV 문제(예: 늘리다, 고르지 않은 비율, 왜곡)를 쉽게 발견할 수 있습니다. </strong><br><br><br>UV 검사기 생성기는 일반적으로 UV 왜곡을 보기 위해 채우기 레이어에서 직접 사용됩니다.</td>
   </tr>
 </table>
 
@@ -27,7 +27,7 @@ ht-degree: 3%
   </tr>
   <tr>
     <td><strong>시드</strong></td>
-    <td>Dirt 텍스처를 생성하는 데 사용되는 시드 값을 설정합니다. <br><ul><li>[임의]를 클릭하여 다른 임의 시드로 전환합니다.</li><li>연필을 클릭하여 현재 시드 값을 보고 원하는 경우 특정 값을 입력합니다.</li></ul></td>
+    <td>Dirt 텍스처 생성에 사용되는 시드 값을 설정합니다. <br><ul><li>[임의]를 클릭하여 다른 임의 시드로 전환합니다.</li><li>연필을 클릭하여 현재 시드 값을 보고 원하는 경우 특정 값을 입력합니다.</li></ul></td>
   </tr>
   <tr>
     <td><strong>검사기 색상 모드</strong></td>

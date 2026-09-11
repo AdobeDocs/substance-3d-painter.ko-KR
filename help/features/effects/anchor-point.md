@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/effects/anchor-point.html"
 breadcrumb-title: ''
-description: Substance 3D Painter에서 기준점 효과를 사용하여 다른 레이어의 텍스처를 참조하여 고급 합성을 만드는 방법을 살펴보세요.
+description: Substance 3D Painter에서 기준점 효과를 사용하여 다른 레이어의 텍스처를 참조하여 고급 합성을 만드는 방법을 살펴봅니다.
 helpx_creative_field: ""
 helpx_description: Painter > Features > Effects > Anchor Point
 helpx_experience_level: ""
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 # 고정점
 
-기준점은 레이어 스택의 리소스 또는 요소를 노출하고 레이어 스택의 다른 영역에 참조하여 용도에 따라 그리고 조정한 내용에 따라 진행하는 방법입니다. 레이어 또는 마스크를 효과적으로 연결하고 단일 기준점이 프로젝트의 여러 측면에 영향을 미치도록 하는 등 완전히 새로운 가능성을 열어주어 Substance 3D Painter을 진정한 비선형 환경으로 변화시킬 수 있습니다.
+기준점은 레이어 스택의 리소스 또는 요소를 표시하고 레이어 스택의 다른 영역에서 이를 참조하여 용도나 조정 사항이 서로 다른 경우 사용할 수 있습니다. 레이어 또는 마스크를 효과적으로 연결하고 하나의 기준점이 프로젝트의 여러 측면에 영향을 미치도록 하는 비선형 Substance 3D Painter의 새로운 가능성을 열어줍니다.
 
 >[!NOTE]
 >
-> 기준점은 동일한 텍스처가 만들어진 내에서만 참조할 수 있습니다. 텍스처 세트 간에는 앵커와 해당 참조 간에 링크를 만들 수 없습니다.
+> 앵커 포인트는 생성된 텍스처 내에서만 참조할 수 있습니다. 텍스처 세트 간에는 앵커와 해당 참조 간에 링크를 만들 수 없습니다.
 
 ## 고정점 추가
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 * 채우기 레이어
 * 채우기 효과
-* Substance 필터 입력(효과, 절차, 생성기)
+* Substance 필터 입력(효과, 프로시저, 생성기)
 
 ![](../../assets/anchor-point-resource.png)
 

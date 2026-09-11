@@ -41,7 +41,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
-> 프로젝트 메시를 다시 가져올 때 질감 ID가 변경되거나 이름이 바뀐 경우 프로젝트의 이전 질감 세트를 비활성화하여 누락된 질감 모양이 될 수 있습니다. **텍스처 집합 목록**&#x200B;의 [재할당 창](texture-set/texture-set-reassignment.md)으로 이 문제를 해결할 수 있습니다.
+> 프로젝트 메시를 다시 가져올 때 질감 ID가 변경되거나 이름이 바뀐 경우 프로젝트의 이전 질감 세트를 비활성화하여 누락된 텍스처 모양이 될 수 있습니다. **텍스처 집합 목록**&#x200B;의 [재할당 창](texture-set/texture-set-reassignment.md)으로 이 문제를 해결할 수 있습니다.
 
 ## 프로젝트 설정
 
@@ -54,7 +54,7 @@ ht-degree: 3%
   </tr>
   <tr>
     <td><strong>노멀 맵 포맷</strong></td>
-    <td>뷰포트에서 메시에 사용되는 표준 맵의 형식을 정의합니다. 이 매개 변수는 뷰포트의 <a href="shader-settings/shader-settings.md">음영</a>과 <a href="../baking/baking.md">베이커</a>의 메시 맵에만 영향을 줍니다. 레이어 스택은 독립적입니다. 일반 응용 프로그램에 권장되는 값:<br><br><ul><li><strong>Unity</strong>: OpenGL</li><li><strong>Unreal 엔진</strong>: DirectX</li><li><strong>Maya</strong>: OpenGL</li><li><strong>3DS 최대</strong>: DirectX</li><li><strong>블렌더</strong>: OpenGL</li></ul></td>
+    <td>뷰포트에서 메시에 사용할 노멀 맵 형식을 정의합니다. 이 매개 변수는 뷰포트의 <a href="shader-settings/shader-settings.md">음영</a>과 <a href="../baking/baking.md">베이커</a>의 메시 맵에만 영향을 줍니다. 레이어 스택은 독립적입니다. 일반 응용 프로그램에 권장되는 값:<br><br><ul><li><strong>Unity</strong>: OpenGL</li><li><strong>Unreal 엔진</strong>: DirectX</li><li><strong>Maya</strong>: OpenGL</li><li><strong>3DS 최대</strong>: DirectX</li><li><strong>블렌더</strong>: OpenGL</li></ul></td>
   </tr>
   <tr>
     <td><strong>조각당 접선 공간 계산</strong></td>
@@ -68,7 +68,7 @@ ht-degree: 3%
 
 ### 파일 유형별 설정
 
-USD 망 포맷을 선택하면 다른 파일 유형별 설정을 사용할 수 있습니다.
+USD 메시 포맷을 선택하면 다른 파일 유형별 설정을 사용할 수 있습니다.
 
 ![](../assets/image2023-1-30-11-16-6.png){width="473px"}
 
@@ -79,15 +79,15 @@ USD 망 포맷을 선택하면 다른 파일 유형별 설정을 사용할 수 �
   </tr>
   <tr>
     <td><strong>범위 및 변형</strong></td>
-    <td>USD 파일의 특정 부분을 선택합니다. 기본적으로 'Root'로 설정됩니다. 즉, Painter 프로젝트에서 USD 파일 전체가 사용됩니다. <strong>변경...</strong>은(는) USD의 내용을 표시하는 새 창을 엽니다. 변형이 검색되면 프로젝트로 로드할 특정 변형을 선택할 수 있습니다.<br><br>참고:<br><ul><li>선택한 모델링 변형만 영향을 받습니다.</li><li>변형 내에 중첩된 변형은 현재 검색되지 않습니다.</li></ul></td>
+    <td>USD 파일의 특정 부분을 선택합니다. 기본적으로 'Root'로 설정됩니다. 즉, 전체 USD 파일이 Painter 프로젝트에서 사용됩니다. <strong>변경...</strong>은(는) USD의 내용을 표시하는 새 창을 엽니다. 변형이 검색되면 프로젝트로 로드할 특정 변형을 선택할 수 있습니다.<br><br>참고:<br><ul><li>선택한 모델링 변형만 영향을 받습니다.</li><li>변형 내에 중첩된 변형은 현재 검색되지 않습니다.</li></ul></td>
   </tr>
   <tr>
     <td><strong>서브디비전 수준</strong></td>
-    <td>세분화가 있는 형상에 적용됩니다. Painter에서 텍스처링용 메쉬를 얼마나 세분화할 것인지를 지정합니다. USD 파일에서 하위 분할이 명시적으로 '없음'으로 설정된 경우 이 설정은 회색으로 표시됩니다. UV 풀기 후 세분화가 적용되어 메쉬의 UV 모양이 바뀌지 않습니다.</td>
+    <td>세분화가 있는 형상에 적용됩니다. Painter에서 텍스처링용 메쉬를 얼마나 세분화할 것인지를 지정합니다. USD 파일 내에서 하위 구분이 명시적으로 '없음'으로 설정된 경우 이 설정은 회색으로 표시됩니다. UV 풀기 후 세분화가 적용되어 메쉬의 UV 모양이 바뀌지 않습니다.</td>
   </tr>
   <tr>
     <td><strong>프레임</strong></td>
-    <td>애니메이션이 감지된 USD에 적용됩니다. Painter 프로젝트로 불러올 프레임을 선택합니다. 선택한 USD 파일에 애니메이션이 없는 경우 이 설정은 회색으로 표시됩니다.</td>
+    <td>애니메이션이 감지된 USD에 적용됩니다. Painter 프로젝트로 로드할 프레임을 선택합니다. 선택한 USD 파일에 애니메이션이 없는 경우 이 설정은 회색으로 표시됩니다.</td>
   </tr>
 </table>
 
@@ -103,7 +103,7 @@ USD 망 포맷을 선택하면 다른 파일 유형별 설정을 사용할 수 �
 | --- | --- |
 | **카메라 가져오기** | 이 옵션을 활성화하면 메시 파일에 있는 카메라도 가져와 3D 뷰포트에서 사용할 수 있습니다. |
 | **메시에서 선 위치 유지** | 이 설정은 새 3D 메시를 가져온 후 브러시 획을 다시 계산하는 방법을 제어합니다. 대부분의 경우 이 설정을 활성화된 상태로 유지하는 것이 좋습니다. 자세한 내용은 [UV 재투영](../features/uv-reprojection.md) 설명서를 참조하십시오. |
-| **자동 줄 바꿈** | 자동 UV 풀기. 옵션 버튼을 클릭하여 프로세스를 구성합니다. 자세한 내용은 [자동 UV 감싸기 해제 설명서](../features/automatic-uv-unwrapping.md)를 참조하십시오. |
+| **자동 언랩** | 자동 UV 풀기. 옵션 버튼을 클릭하여 프로세스를 구성합니다. 자세한 내용은 [자동 UV 감싸기 해제 설명서](../features/automatic-uv-unwrapping.md)를 참조하십시오. |
 
 ### 물리적 크기 설정
 

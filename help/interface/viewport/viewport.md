@@ -66,7 +66,7 @@ ht-degree: 1%
 
 ## 레이아웃 변경
 
-기본 레이아웃에서는 3D 보기를 왼쪽에, 2D 보기를 오른쪽에 배치합니다. 레이아웃을 변경할 수 있는 몇 가지 매개 변수는 **컨텍스트 도구 모음**&#x200B;에서 사용할 수 있습니다.
+기본 레이아웃에서는 3D 보기가 왼쪽에, 2D 보기가 오른쪽에 표시됩니다. 레이아웃을 변경할 수 있는 몇 가지 매개 변수는 **컨텍스트 도구 모음**&#x200B;에서 사용할 수 있습니다.
 
 <table>
   <tr>
@@ -79,7 +79,7 @@ ht-degree: 1%
   </tr>
   <tr>
     <td><strong>원근 모드</strong><br><img src="../../assets/viewport-camera-projection.png"/></td>
-    <td>이러한 설정은 3D 보기에서 3D 메쉬가 표시되는 방식을 제어합니다.<br><ul><li><strong>원근감 보기</strong>(기본값): 사람의 눈이나 카메라로 볼 수 있는 3D 메시를 표시합니다.</li><li><strong>정사영 보기</strong>: 모든 방향이 동일한 길이를 측정하면 3D 메쉬를 표시합니다.</li></ul></td>
+    <td>이러한 설정은 3D 보기에서 3D 메쉬가 표시되는 방식을 제어합니다.<br><ul><li><strong>원근감 보기</strong>(기본값): 사람의 눈이나 카메라로 볼 수 있는 3D 메시를 표시합니다.</li><li><strong>직교 보기</strong>: 모든 방향이 동일한 길이를 측정하면 3D 메쉬를 표시합니다.</li></ul></td>
   </tr>
   <tr>
     <td><strong>카메라 회전 모드</strong><br><img src="../../assets/viewport-camera-axis.png"/></td>

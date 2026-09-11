@@ -7,7 +7,7 @@ helpx_description: Painter > Technical support > Workflow Issues > Viewport Issu
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: 뷰포트와 텍스처가 흐리거나 선명도가 부족합니다
+title: 뷰포트와 텍스처가 흐리거나 선명도가 떨어집니다
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
@@ -18,7 +18,7 @@ ht-degree: 1%
 ---
 
 
-# 뷰포트와 텍스처가 흐리거나 선명도가 부족합니다
+# 뷰포트와 텍스처가 흐리거나 선명도가 떨어집니다
 
 서로 다른 이유로 뷰포트가 흐리게 표시될 수 있습니다.
 
@@ -30,6 +30,6 @@ ht-degree: 1%
 
 ## 텍스처 필터링
 
-뷰포트는 믹맵 및 텍스처 필터링을 사용하여 [스파스 가상 텍스처](../../../features/sparse-virtual-textures.md)에서 스트리밍 및 스트리밍하여 성능을 향상시킵니다. 경우에 따라 텍스처가 흐려질 수 있습니다.
+뷰포트는 믹맵 및 텍스처 필터링을 사용하여 [스파스 가상 텍스처](../../../features/sparse-virtual-textures.md)에서 스트리밍 및 스트리밍하여 성능을 향상시킵니다. 경우에 따라 텍스처가 흐릿해질 수 있습니다.
 
 텍스처 필터링은 [뷰포트 설정](../../../interface/display-settings/viewport-settings.md) 매개 변수 아래의 디스플레이 설정 창을 통해 조정할 수 있습니다.

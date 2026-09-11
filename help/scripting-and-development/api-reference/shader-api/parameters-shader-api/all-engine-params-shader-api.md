@@ -62,7 +62,7 @@ uniform SamplerSparse uniform_tex; // if TEXTURE_TAG_1 exists then TEXTURE_TAG_1
 
 **텍스처 집합 채널**
 
-*채널\_ambientocclusion* *채널\_anisotropyangle* *채널\_anisotropylevel* *채널\_basecolor* *채널\_blendingmask* *채널\_disperse* *채널\_변위* *채널\_emissive* *채널\_glossness* *채널\_emissive* *채널\_ior* *채널\_metallic* *채널\_normal* *채널\_opacity* *채널\_반사* *채널\_거칠기* *채널\_산란* *채널\_Specular* *채널\_specularlevel* *채널\_투과성*
+*채널\_ambientocclusion* *채널\_anisotropyangle* *채널\_anisotropylevel* *채널\_basecolor* *채널\_blendingmask* *채널\_disperse* *채널\_변위* *채널\_방출* *채널\_광택도* *채널\_Height* *채널\_ior* *채널\_metallic* &lbrace;24 채널\_normal **&#x200B;채널\_opacity &#x200B;**&#x200B;채널\_반사&#x200B;**&#x200B;채널\_거칠기&#x200B;**&#x200B;채널\_산란&#x200B;**&#x200B;채널\_Specular &#x200B;**&#x200B;채널\_specularlevel **&#x200B;채널\_투과&#x200B;**
 
 **사용자 채널**
 
@@ -70,13 +70,13 @@ uniform SamplerSparse uniform_tex; // if TEXTURE_TAG_1 exists then TEXTURE_TAG_1
 
 ### 메시 맵
 
-*텍스처\_ambientocclusion* : 주변 오클루전 맵\
+*텍스처\_ambientocclusion* : 앰비언트 오클루전 맵\
 *텍스처\_곡률* : 곡률 맵\
 *텍스처\_id* : ID 맵\
 *텍스처\_표준* : 접선 공간 표준 맵\
 *텍스처\_표준\_ws* : 월드 공간 표준 맵\
 *텍스처\_위치* : 세계 공간 위치 맵\
-*텍스처\_Thickness* : Thickness 맵
+*텍스처\_Thickness* : 두께 맵
 
 ## 추가 텍스처 매개 변수
 
@@ -113,7 +113,7 @@ uniform vec4 uniform_tex_size; // if TEX_TAG_1 exists then TEX_TAG_1_size else T
 여기서 *TEXTURE\_TAG*&#x200B;는 아래 설명된 태그 중 하나입니다.
 
 *텍스처\_파랑\_노이즈* : 파랑 노이즈 텍스처\
-*텍스처\_환경* : 환경 맵, **mip-mapped**, [lib-env.glsl](../libraries-shader-api/lib-env-shader-api.md)을 사용하여 이 맵 사용
+*텍스처\_환경* : 환경 맵, **mip-mapped**, [lib-env.glsl](../libraries-shader-api/lib-env-shader-api.md)을 사용하여 이 환경 맵 사용
 
 ## 기타 매개 변수
 
@@ -209,7 +209,7 @@ uniform bool uniform_2d_view;
 ```
 
 
-*is\_perspective\_projection* : 투사가 원근법인지 직교 투영인지를 나타내는 *bool*
+*is\_projection\_projection* : 프로젝션 원근감 또는 직교 중 어느 것인지 나타내는 *bool*
 
 ```
 //: param auto is_perspective_projection 

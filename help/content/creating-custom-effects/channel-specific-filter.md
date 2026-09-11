@@ -42,23 +42,23 @@ RGBA로 저장된 채널은 알파(예: 기본 색상)를 지원합니다. 이�
 > * 식별자 : **채널\_Alpha**
 > * 사용법: **채널\_Alpha**
 
-## 입력/출력 용도 및 식별자 목록
+## 입출력 사용 및 식별자 목록
 
 >[!NOTE]
 >
-> 입력 노드에서 **사용량** 또는 **식별자**&#x200B;를 사용할 수 있습니다(사용량에 우선 순위가 있음).
+> 입력 노드에서 **사용량** 또는 **식별자**&#x200B;을(를) 사용할 수 있습니다(사용량에 우선 순위가 있음).
 
 | 채널 이름 | 사용 | 식별자/식별자 Alpha |
 | --- | --- | --- |
-| *주변 오클루전* | **ambientOcclusion** | **ambientOcclusion / ambientOcclusion\_Alpha** |
+| *앰비언트 오클루전* | **ambientOcclusion** | **ambientOcclusion / ambientOcclusion\_Alpha** |
 | *비등방성 각도* | **anisotropyangle** | **anisotropyAngle / anisotropyAngle\_Alpha** |
-| *비등방성 수준* | **anisotropylevel** | **anisotropyLevel / anisotropyLevel\_Alpha** |
+| *비등방성 레벨* | **anisotropylevel** | **anisotropyLevel / anisotropyLevel\_Alpha** |
 | *기본 색상* | **기본 색상** | **baseColor/baseColor\_Alpha** |
-| *혼합 마스크* | **blendingmask** | **blendingmask / blendingmask\_Alpha** |
+| *블렌딩 마스크* | **blendingmask** | **blendingmask / blendingmask\_Alpha** |
 | *확산* | **확산** | **확산/확산\_Alpha** |
 | *변위* | **변위** | **변위/변위\_Alpha** |
-| *발광* | **발광** | **방출/방출\_Alpha** |
-| *광택* | **광택** | **광택/광택\_Alpha** |
+| *발광* | **방출** | **방출/방출\_Alpha** |
+| *광택* | **광택도** | **광택도/광택도\_Alpha** |
 | *Height* | **Height** | **Height/Height\_Alpha** |
 | *IOR* | **ior** | **ior / ior\_Alpha** |
 | *금속* | **금속** | **금속/금속\_Alpha** |
@@ -69,7 +69,7 @@ RGBA로 저장된 채널은 알파(예: 기본 색상)를 지원합니다. 이�
 | *분산* | **분산** | **분산/분산\_Alpha** |
 | *Specular* | **Specular** | **Specular/Specular\_Alpha** |
 | *Specular level* | **specularlevel** | **반사 레벨/반사 레벨\_Alpha** |
-| *전송* | **전송** | **전송/전송\_Alpha** |
+| *전송* | **투과** | **투과/투과\_Alpha** |
 | *사용자 0* | **사용자0** | **사용자0/사용자0\_Alpha** |
 | *사용자 1* | **사용자1** | **사용자1/사용자1\_Alpha** |
 | *사용자 2* | **사용자2** | **사용자2/사용자2\_Alpha** |
@@ -83,8 +83,8 @@ RGBA로 저장된 채널은 알파(예: 기본 색상)를 지원합니다. 이�
 
 ![](../../assets/single-channel.png){width="650px"}
 
-이 예제에서는 회색 음영 노드를 통해 [기본 색상 알파] 채널을 추출하여 **거칠음** 채널을 덮어씁니다.
+이 예제에서는 회색 음영 노드를 통해 기본 색상 알파 채널을 추출하여 **거칠음** 채널을 덮어씁니다.
 
 ![](../../assets/mix-channel.png){width="650px"}
 
-이 예제에서는 **거칠기** 채널을 **기본 색상**&#x200B;에 곱합니다.
+이 예제에서는 **거칠음** 기본 색상이 **채널**&#x200B;에 곱해집니다.

@@ -57,7 +57,7 @@ void shade(V2F inputs) {
 
 ## 엔진이 제공한 데이터(또는 내 채널에 액세스하는 방법)
 
-Substance Painter에서 렌더링 엔진 매개 변수(문서의 채널, 추가 텍스처, 카메라 관련 데이터 등)에 액세스할 수 있습니다. 다음은 모든 엔진 제공 매개 변수의 전체 목록입니다.
+Substance Painter에서 렌더링 엔진 매개 변수(문서의 텍스처, 추가 채널, 카메라 관련 데이터 등)에 액세스할 수 있습니다. 다음은 모든 엔진 제공 매개 변수의 전체 목록입니다.
 
 * [all-engine-params.glsl](parameters-shader-api/all-engine-params-shader-api.md)
 
@@ -80,15 +80,15 @@ Substance Painter에서 렌더링 엔진 매개 변수(문서의 채널, 추가 
 * [lib-alpha.glsl](libraries-shader-api/lib-alpha-shader-api.md) : 불투명도 관련 도우미를 포함합니다.
 * [lib-bayer.glsl](libraries-shader-api/lib-bayer-shader-api.md) : bayer 행렬 도우미 포함
 * [lib-defines.glsl](libraries-shader-api/lib-defines-shader-api.md) : 유용한 수학 상수를 포함합니다.
-* [lib-emissive.glsl](libraries-shader-api/lib-emissive-shader-api.md) : emissive 속성 도우미 포함
+* [lib-방출.glsl](libraries-shader-api/lib-emissive-shader-api.md) : 방출 속성 도우미 포함
 * [lib-env.glsl](libraries-shader-api/lib-env-shader-api.md) : 환경 맵 관련 도우미 포함
-* [lib-normal.glsl](libraries-shader-api/lib-normal-shader-api.md) : 표준 맵 관련 도우미(및 Height 맵에서 생성된 표준 맵 포함)를 포함합니다.
+* [lib-normal.glsl](libraries-shader-api/lib-normal-shader-api.md) : 노멀 맵 관련 도우미(및 Height 맵이 생성한 노멀 맵)를 포함합니다.
 * [lib-pbr.glsl](libraries-shader-api/lib-pbr-shader-api.md) : 물리적 기반의 렌더링 도우미를 포함합니다.
 * [lib-pbr-aniso.glsl](libraries-shader-api/lib-pbr-aniso-shader-api.md) : 비등방성 물리적 기반 렌더링 도우미 포함
 * [lib-pom.glsl](libraries-shader-api/lib-pom-shader-api.md) : 시차 오클루전 매핑 도우미 포함
 * [lib-random.glsl](libraries-shader-api/lib-random-shader-api.md) : 임의 유틸리티(낮은 불일치 시퀀스)를 포함합니다.
 * [lib-sampler.glsl](libraries-shader-api/lib-sampler-shader-api.md) : 채널 getters 도우미를 포함합니다.
-* [lib-sparse.glsl](libraries-shader-api/lib-sparse-shader-api.md) : 안전한 스파스 텍스처 샘플링 도우미가 포함되어 있습니다.
+* [lib-sparse.glsl](libraries-shader-api/lib-sparse-shader-api.md) : 안전한 스파스 텍스처 샘플링 도우미를 포함합니다.
 * [lib-sss.glsl](libraries-shader-api/lib-sss-shader-api.md) : 서브서피스 스캐터링 도우미 포함
 * [lib-utils.glsl](libraries-shader-api/lib-utils-shader-api.md) : 색상 유틸리티 함수(sRGB 변환, 톤 매핑)가 포함되어 있습니다.
 * [lib-vectors.glsl](libraries-shader-api/lib-vectors-shader-api.md) : 공통 벡터 도우미 포함
@@ -123,7 +123,7 @@ Substance Painter에서 렌더링 엔진 매개 변수(문서의 채널, 추가 
 
 ## 동적 재질 레이어
 
-동적 재질 레이어는 셰이더 내에서 재질이 함께 혼합되어 Substance Painter에서 혼합 마스크를 사용자가 동적으로 편집할 수 있게 하는 특정 작업 과정입니다. 이 워크플로우를 활성화하려면 두 가지 새로운 기능이 있습니다.
+동적 재질 레이어는 셰이더 내에서 재질이 함께 혼합되어 Substance Painter의 블렌딩 마스크를 사용자가 동적으로 편집할 수 있게 하는 특정 작업 과정입니다. 이 워크플로우를 활성화하려면 두 가지 새로운 기능이 있습니다.
 
 * 셰이더 정의에서 편집 가능한 스택 선언: [layering\_declare\_stacks.glsl](parameters-shader-api/layering-declare-stacks-shader-api.md)
 * 셰이더 매개 변수로 재질 바인딩: [레이어링\_bind\_materials.glsl](parameters-shader-api/layering-bind-materials-shader-api.md)

@@ -77,7 +77,7 @@ uniform SamplerSparse ao_tex;
 ```
 
 
-주변 오클루전 강도를 조정하는 데 사용되는 값입니다.
+앰비언트 오클루전 강도를 조정하는 데 사용되는 값입니다.
 
 ```
 //: param custom { 
@@ -119,7 +119,7 @@ uniform vec4 screen_size;
 ```
 
 
-샘플 광택 또는 기본값 반환
+샘플링된 광택도 또는 기본값 반환
 
 ```
 float getGlossiness(vec4 sampledValue) 
@@ -381,7 +381,7 @@ float getDisplacement(SamplerSparse sampler, SparseCoord coord)
 ```
 
 
-주변광 오클루전 반환
+반환 앰비언트 오클루전
 
 ```
 float getAO(SparseCoord coord, bool is_premult) 
@@ -424,7 +424,7 @@ float getAO(SparseCoord coord, bool is_premult)
 ```
 
 
-음영에 대한 주변 오클루전을 가져오도록 도와줍니다.
+음영 앰비언트 오클루전 얻기 도우미
 
 ```
 float getAO(SparseCoord coord) 
@@ -566,7 +566,7 @@ vec3 getSpecularColor(SamplerSparse sampler, SparseCoord coord)
 ```
 
 
-거칠기 및 비등방성 레벨에서 비등방성 거칠기 생성
+거칠기와 비등방성 레벨에서 비등방성 거칠기 생성
 
 ```
 vec2 generateAnisotropicRoughness(float roughness, float anisoLevel) 
@@ -592,7 +592,7 @@ vec3 generateDiffuseColor(vec3 baseColor, float metallic)
 ```
 
 
-유전체 Specular level, 기본 색상 및 금속 인자에서 Specular 색상 생성
+유전체 Specular level, 기본 색상 및 금속 요인에서 Specular 색상 생성
 
 ```
 vec3 generateSpecularColor(float specularLevel, vec3 baseColor, float metallic) 
@@ -605,7 +605,7 @@ vec3 generateSpecularColor(float specularLevel, vec3 baseColor, float metallic)
 ```
 
 
-유전체에 기본 Specular level(0.04)을 사용하여 기본 색상과 금속 인수에서 Specular 색상을 생성합니다.
+유전체에 기본 Specular level(0.04)을 사용하여 기본 색상 및 금속 인자로부터 Specular 색상 생성
 
 ```
 vec3 generateSpecularColor(vec3 baseColor, float metallic) 

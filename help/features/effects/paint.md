@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/effects/paint.html"
 breadcrumb-title: ''
-description: Substance 3D Painter에서 페인트 효과를 사용하여 페인트 선과 텍스처 페인팅 효과를 레이어에 적용하는 방법을 살펴보세요.
+description: Substance 3D Painter에서 페인트 효과를 사용하여 페인트 획과 텍스처 페인팅 효과를 레이어에 적용하는 방법을 살펴보세요.
 helpx_creative_field: ""
 helpx_description: Painter > Features > Effects > Paint
 helpx_experience_level: ""
@@ -20,4 +20,4 @@ ht-degree: 4%
 
 # 페인트
 
-이 효과를 사용하면 다른 효과 위에 칠할 수 있습니다. 레이어와 같이 동작하므로 다양한 혼합 모드와 불투명도 컨트롤에 액세스할 수 있습니다.
+이 효과를 사용하면 다른 효과보다 페인트 가능합니다. 레이어와 같이 동작하므로 다양한 혼합 모드와 불투명도 컨트롤에 액세스할 수 있습니다.

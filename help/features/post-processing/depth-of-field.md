@@ -28,5 +28,5 @@ ht-degree: 0%
 
 | *설정* | *설명* |
 | --- | --- |
-| **초점 거리** | 포커스점이 있는 거리를 정의합니다.  이 점은 [필드] 효과의 깊이에 사용됩니다. <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r1-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/focus-distance-optim.gif"/></div> **참고:** 포커스 거리는 바로 가기 **CTRL + 마우스 가운데 단추**&#x200B;로 메시 지점을 클릭하여 자동으로 설정할 수 있습니다. |
+| **초점 거리** | 포커스점이 있는 거리를 정의합니다.  이 점은 [필드] 효과의 깊이에 사용됩니다. <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r1-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/focus-distance-optim.gif"/></div> **참고:** 포커스 거리는 단축키 **CTRL + 마우스 가운데 단추**&#x200B;로 메시 지점을 클릭하여 자동으로 설정할 수 있습니다. |
 | **조리개** | 필드 깊이 범위를 정의합니다. <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r2-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/dof-aperture-optim.gif"/></div> **참고:** Iray가 이 매개 변수를 제어하는 경우 매개 변수를 변경하면 계산을 다시 트리거합니다. |

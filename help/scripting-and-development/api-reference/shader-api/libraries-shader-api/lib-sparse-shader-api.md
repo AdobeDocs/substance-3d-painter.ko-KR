@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-sparse-shader-api.html"
 breadcrumb-title: ''
-description: 사용자 정의 셰이더에서 스파스 텍스처 샘플링을 사용하여 작업하려면 Substance 3D Painter용 Lib 스파스 셰이더 API 참조에 액세스하십시오.
+description: 사용자 정의 셰이더에서 스파스 셰이더 API 샘플링을 사용하려면 Substance 3D Painter에 대한 Lib 스파스 텍스처 참조에 액세스하십시오.
 helpx_creative_field: ""
 helpx_description: Painter > Scripting and development > API Reference > Shader API > Libraries - Shader API > Lib Sparse - Shader API
 helpx_experience_level: ""
@@ -22,13 +22,13 @@ ht-degree: 0%
 
 ## lib-sparse.glsl
 
-이 파일은 스파스 텍스처 샘플링 정확도를 보장하기 위한 유용한 함수(ARB\_sparse\_texture)를 제공합니다. 실제로 비디오 메모리에 있는 텍스처의 일부만 샘플링할 수 있습니다.
+이 파일은 스파스 텍스처 샘플링 정확도를 보장하기 위한 유용한 함수(ARB\_sparse\_texture)를 제공합니다. 비디오 메모리에 실제로 있는 텍스처의 일부만 샘플링할 수 있습니다.
 
 **공용 함수:** *getSparseCoord* *getSparseCoordLod0* *textureSparseQueryLod* *textureSparse*
 
 **공용 구조:** *SamplerSparse* *SparseCode*
 
-*FEATURE\_SPARSE\_TEXTURE* 매크로는 스파스 가상 텍스처 확장이 활성화된 경우에만 정의됩니다.
+*FEATURE\_SPARSE\_텍스처* 매크로는 스파스 가상 텍스처 확장이 활성화된 경우에만 정의됩니다.
 
 활성화된 경우 추가 텍스처 조회 검사를 처리하여 텍스트가 누락된 경우 밉맵 피라미드를 위로 올라갈 수 있습니다.
 
@@ -109,7 +109,7 @@ struct SparseCoord {
 ```
 
 
-*textureSparse()* 샘플링 함수에 사용되는 텍스처 좌표 구조를 빌드합니다(조각 셰이더에서 호출해야 함).
+*textureSparse()* 샘플링 함수에 사용되는 빌드 텍스처 좌표 구조입니다(조각 셰이더에서 호출해야 함).
 
 예: *SparseCoord uv1coord = getSparseCoord(inputs.multi\_tex\_coord[1]);*
 
@@ -144,7 +144,7 @@ SparseCoord getSparseCoord(vec2 tex_coord) {
 ```
 
 
-*textureSparse()* 샘플링 함수에 사용되는 텍스처 좌표 구조 작성 기본 수준 샘플링 버전(외부 조각 셰이더인 경우 사용 가능)
+*textureSparse()* 샘플링 함수에 사용되는 빌드 텍스처 좌표 구조 기본 수준 샘플링 버전(외부 조각 셰이더인 경우 사용 가능)
 
 ```
 SparseCoord getSparseCoordLod0(vec2 tex_coord) { 
@@ -251,7 +251,7 @@ void textureSparseQueryGrad(out vec2 dfdx, out vec2 dfdy, SamplerSparse sampler,
 
 스파스 텍스처에 대해 텍스처 조회를 수행합니다. 필요한 경우 밉맵 레벨 위로 이동합니다.
 
-이 함수는 표준 *텍스처(sampler2D, vec2)*&#x200B;를 대체하여 스파스 텍스처에서 텍스처를 검색합니다
+이 함수는 표준 *텍스처(sampler2D, vec2)*&#x200B;을(를) 대체하여 스파스 텍스처에서 텍셀을 검색합니다
 
 ```
 vec4 textureSparse(SamplerSparse sampler, SparseCoord coord) { 
@@ -266,7 +266,7 @@ vec4 textureSparse(SamplerSparse sampler, SparseCoord coord) {
 ```
 
 
-주어진 텍스처에서 오프셋이 작은 최적화된 여러 텍스처 조회를 수행합니다
+지정된 텍스처에서 오프셋이 작은 최적화된 다중 텍스처 조회를 수행합니다
 
 최대 N=4에 대해 이 도우미의 대체 버전을 제공하고 있습니다.
 

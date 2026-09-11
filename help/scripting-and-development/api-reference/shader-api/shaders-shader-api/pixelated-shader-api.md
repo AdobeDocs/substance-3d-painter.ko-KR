@@ -45,7 +45,7 @@ uniform vec3 camera_pos;
 ```
 
 
-**문서의 채널**&#x200B;기본 색상&#x200B;**을(를) 균일한**&#x200B;기본 색상\_tex **에 바인딩**&#x200B;합니다.
+**문서의 채널**&#x200B;기본 색상&#x200B;**을(를) 균일한** basecolor\_tex **에 바인딩**&#x200B;합니다.
 
 ```
 //: param auto channel_basecolor 

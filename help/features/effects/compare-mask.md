@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/effects/compare-mask.html"
 breadcrumb-title: ''
-description: Substance 3D Painter에서 [마스크 비교] 효과를 사용하여 텍스처 비교 작업을 기반으로 마스크를 만드는 방법을 알아봅니다.
+description: Substance 3D Painter에서 마스크 비교 효과를 사용하여 텍스처 비교 작업을 기반으로 마스크를 만드는 방법을 알아봅니다.
 helpx_creative_field: ""
 helpx_description: Painter > Features > Effects > Compare Mask
 helpx_experience_level: ""
@@ -36,5 +36,5 @@ ht-degree: 1%
 
 >[!NOTE]
 >
-> 레이어를 마우스 오른쪽 버튼으로 클릭하고 바로 가기 &quot;**Height 조합이 있는 마스크 추가**&quot;을(를) 선택하여 레이어에 이 새 효과를 빠르게 추가할 수 있습니다. 또한 이 바로 가기는 기본 &quot;**선형 닷지(추가)**&quot; 대신 Height 채널 **혼합 모드**&#x200B;를 &quot;**표준**&quot;(으)로 전환합니다.\
+> 레이어를 마우스 오른쪽 버튼으로 클릭하고 &quot;**Height 조합이 포함된 마스크 추가**&quot; 단축키를 선택하여 레이어에 이 새로운 효과를 빠르게 추가할 수 있습니다. 또한 이 단축키는 기본 &quot;**선형 닷지(추가)**&quot; 대신 Height 채널 **혼합 모드**&#x200B;를 &quot;**표준**&quot;(으)로 전환합니다.\
 > ![](../../assets/compare-shortcut.png)

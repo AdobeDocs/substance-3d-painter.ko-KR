@@ -90,7 +90,7 @@ Substance 3D Painter에서 브러시 불투명도의 곱자입니다.
 
 *&quot;UV&quot; float3*
 
-파티클 메쉬의 텍스처 좌표입니다.
+입자 메쉬의 텍스처 좌표입니다.
 
 Evolver 스크립트에서 투영 Evolver가 제공한 파라메트릭 좌표를 사용하여 모양 Sampler &quot;메쉬&quot;를 샘플링합니다.
 
@@ -176,15 +176,15 @@ Substance 3D Painter에서 브러시 크기의 승수가 되려면 &quot;크기&
 
 예를 들어, 두 개의 마지막 이볼버를 항상 투영 이볼버로 지정하고 스크립트 이볼버로 지정하여 투영 이볼버에서 생성된 pCoords로 UV 및 Normal을 샘플링할 수 있습니다.
 
-진화하는 사람의 순서는 문자 그대로 프레임 안에서 실행되는 순서라는 점을 명심하고 Substance 3D Painter은 입자 필드 값과 각 프레임의 끝을 수집합니다.
+진화하는 사람의 순서는 문자 그대로 프레임 내에서 실행되는 순서라는 점을 명심하고 Substance 3D Painter은 입자 필드 값과 각 프레임의 끝을 수집합니다.
 
-#### 메시의 표준 맵을 샘플링하는 방법
+#### 메시 노멀 맵 샘플링 방법
 
-Substance 3D Painter은 &quot;NormalMap&quot;이라는 모든 텍스처 샘플러를 메쉬의 표준 맵(가져온 경우)으로 대체합니다.
+Substance 3D Painter은 &quot;NormalMap&quot;이라는 모든 텍스처 샘플러를 메쉬 노멀 맵(가져온 경우)로 대체합니다.
 
-이 텍스처는 현재 사용할 수 있는 유일한 텍스처이며 다른 모든 텍스처는 Substance 3D Painter에서 액세스할 수 없습니다.
+현재 보유할 수 있는 유일한 텍스처로, Substance 3D Painter에서 다른 모든 텍스처에 액세스할 수 없습니다.
 
-&quot;NormalMap&quot;이라는 Texture Sampler을 추가한 후 스크립트에서 샘플링할 수 있습니다.
+&quot;NormalMap&quot;이라는 텍스처 Sampler을 추가한 후 스크립트에서 샘플링할 수 있습니다.
 
 <http://www.popcornfx.com/wiki/index.php/CParticleSamplerTexture>
 
@@ -255,7 +255,7 @@ VelocityField = Turb.sample(위치 \* TurbScale) \* TurbPower;
 
 #### Dt, 델타 시간을 올바르게 사용하는 방법
 
-델타 시간은 각 프레임 업데이트 사이의 시뮬레이션 시간(초)입니다. 편집기에서 델타 시간은 실제 경과 시간으로 업데이트됩니다. Substance 3D Painter에서는 델타 시간이 수정되며 마지막 업데이트가 완료되는 즉시 각 업데이트가 실행됩니다.
+델타 시간은 각 프레임 업데이트 간의 시뮬레이션 시간(초)입니다. 편집기에서 델타 시간은 실제 경과 시간으로 업데이트됩니다. Substance 3D Painter에서는 델타 시간이 수정되며 마지막 업데이트가 완료되는 즉시 각 업데이트가 실행됩니다.
 
 60FPS로 실행되는 게임의 델타 시간은 1/60= 0.016초이므로 브러시가 델타 시간의 0.016초 전후로 실행되도록 하십시오.
 
@@ -272,7 +272,7 @@ VelocityField = Turb.sample(위치 \* TurbScale) \* TurbPower;
 
 델타 시간이 크면 프레임 간의 입자 이동도 커집니다. 따라서 Substance 3D Painter에서는 직선 대신 작은 얼룩이 표시될 수 있습니다.
 
-이 오류는 Substance 3D Painter이 각 프레임의 끝에 각 파티클에 대해 한 개의 선 포인트를 그리고 마지막 프레임과 현재 프레임 사이에 각 파티클에 대해 선을 그리지 않기 때문에 발생합니다.
+이 오류는 Substance 3D Painter이 각 프레임의 끝에 각 파티클에 대해 한 개의 선 포인트를 그리고 마지막 프레임과 현재 타임라인 사이에 각 파티클에 대해 선을 그리지 않기 때문에 발생합니다.
 
 * 델타 시간이 거의 없음 &lt; 0.016s
 * PRO 정밀도
@@ -305,7 +305,7 @@ Substance 3D Painter 설치 디렉토리에서 &quot;팝콘.htm&quot;이라는 �
 
 #### 입자 필드를 올바르게 초기화하는 방법
 
-첫 번째 프레임에서 유효한 [UV 색상] 및 [표준] 색상을 얻으려면 다음 항목을 [스패너 스크립트]에 추가합니다.
+첫 번째 프레임에서 유효한 UV 및 [표준]을 얻으려면 이를 [스패너 스크립트]에 추가하십시오.
 
 <b>  
 </b>

@@ -66,7 +66,7 @@ SVG 파일을 뷰포트에 끌어다 놓는 방법으로도 가져올 수 있습
 </tr>
 </table>
 
-![레이어 스택으로 리소스를 끌어서 놓는 것을 보여 주는 GID](../../assets/import_dragdrop_layerstack.gif)
+![리소스를 레이어 스택으로 끌어서 놓기를 보여 주는 GID](../../assets/import_dragdrop_layerstack.gif)
 
 ![](../../assets/120-0-comparison.png)
 

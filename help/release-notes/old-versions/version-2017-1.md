@@ -48,7 +48,7 @@ Substance Source을 열려면 응용 프로그램의 기본 도구 모음&#x200B
 * **230개의 새 Alpha**(패턴 및 스캔한 이미지 혼합)
 * **50개의 새로운 절차**(주로 중세 및 현대 의류를 위한 직물 패턴)
 * **2개의 새 환경 지도**(몬다레인 및 Villa Nova Street)
-* **9개의 새로운 필터**(MatFX 세부 Edge Wear, 클램프, HBAO 등)
+* **새로운 필터&lbrace;1 (MatFX 세부 정보 Edge Wear, HBAO 등)**
 
 ![](../../assets/alpha-content.jpg)![](../../assets/alpha-demo-image.jpg)
 
@@ -73,7 +73,7 @@ Substance Source을 열려면 응용 프로그램의 기본 도구 모음&#x200B
 * [Shelf] 230개의 새로운 Alpha(패턴, 브러시 및 지문 스캔 혼합)
 * [선반] 50 새로운 절차 (중세 및 현대 의류의 직물 패턴)
 * [Shelf] 2개의 새로운 환경 지도(Mondarrain과 Villa Nova Street)
-* [Shelf] 9가지 새로운 필터(MatFx 세부 Edge Wear, 클램프, HBAO 등)
+* [Shelf] 9 새로운 필터 (MatFx 세부 Edge Wear, HBAO 등)
 * [Shelf] 향상된 기본 파노라마 환경 맵
 * [Shelf] 새로운 아놀드 5 내보내기 사전 설정
 * [스크립팅] 셸프로 리소스를 가져올 수 있습니다.

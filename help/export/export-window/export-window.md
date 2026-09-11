@@ -22,7 +22,7 @@ ht-degree: 1%
 
 ![](../../assets/export-textures-window.png){width="500px"}
 
-<b>파일 > 텍스처 내보내기 </b> 또는 키보드 단축키 <b>Ctrl + Shift + E</b>를 사용하여 <b>내보내기 창 </b>을(를) 엽니다.
+<b>파일 > 내보내기 텍스처 </b> 또는 키보드 단축키 <b>Ctrl + Shift + E</b>를 사용하여 <b>내보내기 창 </b>을(를) 엽니다.
 
 <b>내보내기 창 </b>은(는) 세 개의 탭으로 나뉩니다.
 

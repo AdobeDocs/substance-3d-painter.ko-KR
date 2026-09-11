@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## 재질 레이어: 편집 가능한 스택 선언
 
-편집 가능한 스택은 고유한 식별자와 문서 채널 목록으로 정의됩니다. 가능한 채널 ID는 다음과 같습니다. *ambientocclusion* *anisotropyangle* *anisotropylevel* *basecolor* *blendingmask* *disperse* *변위* *emissive* *광택* *Height* *ior* *metallic* *normal* *불투명도* *반사* *거칠음* *Specular* *specularlevel* *transmissions* *사용자0* *사용자1* *사용자2* *사용자3* *사용자4* *사용자5* *사용자6* *사용자7***
+편집 가능한 스택은 고유한 식별자와 문서 채널 목록으로 정의됩니다. 가능한 채널 ID는 다음과 같습니다. *ambientocclusion* *anisotropyangle* *anisotropylevel* *basecolor* *blendingmask* *disperse* *변위* *방출* *광택도* *Height* *ior* *metallic* *normal* *opacity* *reflection* *거칠음* **&#x200B; Specular &#x200B;** specularlevel **&#x200B;투과&#x200B;** user0 **&#x200B; user1 &#x200B;** user2 **&#x200B; user3 &#x200B;** user4 **&#x200B; user5 &#x200B;** user6 **&#x200B; user7 &#x200B;**
 
 예:
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 ```
 
 
-스택에서 sampler 매개 변수로 채널을 바인딩하려면 채널 태그에 스택 식별자를 접두사로 붙입니다.
+스택의 식별자를 sampler 매개 변수에 바인딩하려면 채널 태그에 스택 태그를 접두어로 추가합니다.
 
 ```
 //: param auto Mask1.channel_opacity 

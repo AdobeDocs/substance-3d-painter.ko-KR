@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/getting-started/activation-and-licenses.html"
 breadcrumb-title: ''
-description: Substance 3D Painter을 활성화하고 라이선스를 관리하여 텍스처 페인팅용 애플리케이션을 사용하는 방법에 대해 알아봅니다.
+description: 텍스처 페인팅용 애플리케이션을 사용하기 위해 Substance 3D Painter을 활성화하고 라이선스를 관리하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
 helpx_description: Painter > Getting Started > Activation and licenses
 helpx_experience_level: ""
@@ -50,7 +50,7 @@ Substance 3D Painter의 특정 이전 버전에서 활성화 마법사가 나타
 
 >[!WARNING]
 >
-> 활성화 마법사를 사용하여 라이선스 파일을 설치하려면 관리자로 Painter을 실행하고 안티바이러스를 일시적으로 비활성화해야 합니다.
+> 활성화 마법사와 함께 라이선스 파일을 설치하려면 Painter을 관리자로 실행하고 안티바이러스를 일시적으로 비활성화해야 합니다.
 
 ### 수동 활성화
 

@@ -14,7 +14,7 @@ ht-degree: 4%
 <table>
   <tr style="border: 0;">
     <td style="border: 0;" valign="top"><img src="../../../assets/generators/icon_world_space_normals.png" alt=""/><br><strong>인:</strong> 마스크, 생성기, 회색 음영, 혼합</td>
-    <td style="border: 0;" valign="top"><strong>설명</strong><br>World Space Normal 생성기는 구워진 World-Space 표준 맵을 사용하여 3D 공간에서 각 표면이 향하는 방향을 기준으로 모델에 색상을 적용하거나 효과를 적용합니다. 예를 들어 위에서 아래로<br><br>World Space 표준 생성기는 흑백 텍스처를 출력합니다. 따라서 얼굴 방향을 기반으로 Dirt, Dust, 눈, 녹 등 다양한 효과를 적용하기 위한 마스크를 생성하는 데 유용합니다.<br><br>구겨진 위치 및 월드 공간 표준 맵이 이미지 입력으로 필요합니다. <a href="../../../baking/baking.md">여기서 굽는 방법에 대해 자세히 알아보세요</a>.</td>
+    <td style="border: 0;" valign="top"><strong>설명</strong><br>World Space Normal 생성기는 구워진 World-Space 노멀 맵을 사용하여 3D 공간에서 각 표면이 향하는 방향을 기준으로 모델에 색상을 적용하거나 효과를 적용합니다. 예를 들어 위에서 아래로<br><br>World Space Normals 생성기는 흑백 텍스처를 출력합니다. 따라서 얼굴 방향을 기반으로 Dirt, Dust, 눈, 녹 등 다양한 효과를 적용하기 위한 마스크를 생성하는 데 유용합니다.<br><br>구겨진 위치 및 월드 공간 표준 맵이 이미지 입력으로 필요합니다. <a href="../../../baking/baking.md">여기서 굽는 방법에 대해 자세히 알아보세요</a>.</td>
   </tr>
 </table>
 
@@ -34,7 +34,7 @@ ht-degree: 4%
 | **전역 흐림 효과** | 모든 효과를 결합한 후 최종 마스크를 균일하게 부드럽게 합니다. |
 | **전역 균형** | 명도 조정과 같이 모든 효과가 검정이나 흰색 사이에 결합된 후 최종 마스크의 균형을 이동합니다. |
 | **전역 대비** | 모든 효과가 결합된 후 최종 마스크의 대비를 조정합니다. |
-| **텍스처 사용** | 사용자 정의 텍스처 맵 사용을 설정하거나 해제합니다. |
+| **텍스처 사용** | 사용자 정의 텍스처 맵 사용을 켜거나 끕니다. |
 
 ### 월드 공간 표준
 
@@ -87,7 +87,7 @@ ht-degree: 4%
   </tr>
   <tr>
     <td><strong>회색 음영 전환</strong></td>
-    <td>전체 색상에서 회색 음영으로 변환하는 데 사용되는 방법을 설정합니다. <a href="grayscale-conversion.md">회색 음영 변환 생성기에는 각 메서드가 작동하는 방식에 대한 자세한 정보가 있습니다</a>.</td>
+    <td>전체 색상에서 회색 음영으로 변환하는 데 사용되는 방법을 설정합니다. <a href="grayscale-conversion.md">회색 음영 전환 생성기에 각 메서드가 작동하는 방식</a>에 대한 자세한 정보가 있습니다.</td>
   </tr>
   <tr>
     <td><strong>혼합 모드</strong></td>
@@ -99,7 +99,7 @@ ht-degree: 4%
   </tr>
   <tr>
     <td><strong>대비</strong></td>
-    <td>사용자 정의 텍스처의 대비/감소를 조정합니다.</td>
+    <td>사용자 정의 텍스처의 대비/밝기 감소를 조정합니다.</td>
   </tr>
   <tr>
     <td><strong>밝기</strong></td>
@@ -107,10 +107,10 @@ ht-degree: 4%
   </tr>
   <tr>
     <td><strong>삼평면</strong></td>
-    <td>삼각 평면(Triplanar)을 사용하면 텍스처가 UV에만 의존하지 않고 세 방향(X, Y, Z 축)에서 투영됩니다.<br><ul><li>트리평면이 없으면 텍스처는 UV 레이아웃을 따릅니다.</li><li>삼각형을 사용하면 텍스처가 여러 각도에서 투영되어 혼합됩니다.</li></ul></td>
+    <td>삼각 평면(Triplanar)을 활성화하면 UV에만 의존하지 않고 세 방향(X, Y, Z 축)에서 텍스처가 투영됩니다.<br><ul><li>트리평면이 없으면 텍스처는 UV 레이아웃을 따릅니다.</li><li>삼각형을 사용하면 텍스처가 여러 각도에서 투영되어 혼합됩니다.</li></ul></td>
   </tr>
   <tr>
     <td><strong>삼평면 대비</strong></td>
-    <td>트리평면 매핑을 사용하여 텍스처를 투영할 때 얼마나 부드럽게 혼합할지 조정합니다. 각 방향의 투영 간 혼합의 부드러움을 조정합니다.</td>
+    <td>삼면형 매핑을 사용하여 텍스처를 투영할 때 혼합하는 매끄러운 정도를 조정합니다. 각 방향의 투영 간 혼합의 부드러움을 조정합니다.</td>
   </tr>
 </table>

@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![](../../../assets/white-flash-svt-optim.gif){width="300px"}
 
-이전 프로젝트가 뷰포트에서 카메라 주위로 이동하면 흰색/빈 텍스처에 의해 생성되는 흰색 플래시가 잠깐 표시될 수 있습니다. 이는 [SVT(Sparse Virtual Textures](https://substance3d.adobe.com/display/DRAFTPAINTER/Sparse+Virtual+Textures)) 시스템이 이전 셰이더가 사용하지 않는 특정 셰이더 구성에 의존하기 때문입니다.
+이전 프로젝트가 뷰포트에서 카메라 주위로 이동하면 흰색/빈 텍스처로 생성된 흰색 플래시가 잠깐 표시될 수 있습니다. 이는 [SVT(Sparse Virtual Textures](https://substance3d.adobe.com/display/DRAFTPAINTER/Sparse+Virtual+Textures)) 시스템이 이전 셰이더가 사용하지 않는 특정 셰이더 구성에 의존하기 때문입니다.
 
 흰색 플래시를 제거하려면 **프로젝트 셰이더**&#x200B;를 **업데이트**&#x200B;하면 됩니다.
 

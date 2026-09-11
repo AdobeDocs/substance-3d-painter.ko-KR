@@ -14,7 +14,7 @@ ht-degree: 3%
 <table>
   <tr style="border: 0;">
     <td style="border: 0;" valign="top"><img src="../../../assets/generators/icon_inflate_shrinkwrap.webp" alt=""/><br><strong>내부:</strong> 축소, 부풀리기, 생성기, 임의화</td>
-    <td style="border: 0;" valign="top"><strong>설명</strong><br>Inflate Shrinkwrap 생성기는 메쉬 표면에 얇은 물질이 늘어나는 효과를 모방하는 주름을 추가합니다.<br><br>Inflate Shrinkwrap 생성기는 단색(흑백) 텍스처를 출력합니다. 따라서 수축 효과를 만드는 마스크를 생성하는 데 유용합니다. 하지만 채우기 레이어에 직접 배치하여 Height과 일반 채널에 주름을 추가할 수도 있습니다.<br><br>이미지 입력에는 구워진 곡률 맵이 필요합니다. <a href="../../../baking/baking.md">여기서 굽는 방법에 대해 자세히 알아보세요</a>.</td>
+    <td style="border: 0;" valign="top"><strong>설명</strong><br>Inflate Shrinkwrap은 얇은 재질의 생성기가 메쉬 표면에 나타나는 것과 비슷한 주름을 추가합니다.<br><br>Inflate Shrinkwrap 생성기는 단색(흑백) 텍스처를 출력합니다. 따라서 수축 효과를 만드는 마스크를 생성하는 데 유용합니다. 하지만 채우기 레이어에 직접 배치하여 Height과 일반 채널에 주름을 추가할 수도 있습니다.<br><br>이미지 입력에는 구워진 곡률 맵이 필요합니다. <a href="../../../baking/baking.md">여기서 굽는 방법에 대해 자세히 알아보세요</a>.</td>
   </tr>
 </table>
 
@@ -37,7 +37,7 @@ ht-degree: 3%
   </tr>
   <tr>
     <td><strong>시드</strong></td>
-    <td>Dirt 텍스처를 생성하는 데 사용되는 시드 값을 설정합니다. <br><ul><li>[임의]를 클릭하여 다른 임의 시드로 전환합니다.</li><li>연필을 클릭하여 현재 시드 값을 보고 원하는 경우 특정 값을 입력합니다.</li></ul></td>
+    <td>Dirt 텍스처 생성에 사용되는 시드 값을 설정합니다. <br><ul><li>[임의]를 클릭하여 다른 임의 시드로 전환합니다.</li><li>연필을 클릭하여 현재 시드 값을 보고 원하는 경우 특정 값을 입력합니다.</li></ul></td>
   </tr>
   <tr>
     <td><strong>부풀리기 또는 가는 줄 바꿈</strong></td>

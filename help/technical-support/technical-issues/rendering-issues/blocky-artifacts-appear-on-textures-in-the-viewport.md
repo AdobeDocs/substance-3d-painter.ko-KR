@@ -1,13 +1,13 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/rendering-issues/blocky-artifacts-appear-on-textures-in-the-viewport.html"
 breadcrumb-title: ''
-description: 깔끔한 시각적 품질을 위해 Substance 3D Painter 뷰포트의 텍스처에 표시되는 뭉툭한 아티팩트를 수정하는 방법을 알아봅니다.
+description: 깨끗한 시각적 품질을 위해 Substance 3D Painter 뷰포트의 텍스처에 나타나는 깨진 아티팩트를 수정하는 방법을 알아봅니다.
 helpx_creative_field: ""
 helpx_description: Painter > Technical support > Technical Issues > Rendering Issues > Blocky artifacts appear on textures in the viewport
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: 뷰포트의 텍스처에 뭉툭한 가공물이 표시됨
+title: 뷰포트의 텍스처에 뭉툭한 가공물 표시
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# 뷰포트의 텍스처에 뭉툭한 가공물이 표시됨
+# 뷰포트의 텍스처에 뭉툭한 가공물 표시
 
 버전 2018.3.0부터 뷰포트에 다음 유형의 아티팩트가 표시될 수 있습니다.
 

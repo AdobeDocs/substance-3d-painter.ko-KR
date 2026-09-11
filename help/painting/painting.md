@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting.html"
 breadcrumb-title: ''
-description: Substance 3D Painter에서 다양한 브러시, 도구 및 기법을 사용하여 3D 모델에 직접 텍스처를 페인트하는 방법을 살펴보세요.
+description: Substance 3D Painter에서 다양한 브러시, 페인트 및 기법을 사용하여 3D 모델에 직접 텍스처를 연결하는 방법을 살펴보세요.
 helpx_creative_field: ""
 helpx_description: Painter > Painting
 helpx_experience_level: ""
@@ -29,7 +29,7 @@ Substance 3D Painter에서 페인팅은 수동 도구 또는 자동 작업을 �
 * [페인트 도구 목록](../painting/tool-list/tool-list.md)
 * [패스 도구 목록](tool-list/path.md)
 * [직선](straight-line.md)
-* [게으름쥐](lazy-mouse.md)
+* [레이지 마우스](lazy-mouse.md)
 * [대칭](../painting/symmetry/symmetry.md)
 * [칠 투영](../painting/fill-projections/fill-projections.md)
 * [사전 설정](../painting/presets/presets.md)

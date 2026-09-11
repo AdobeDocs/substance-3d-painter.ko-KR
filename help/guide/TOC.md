@@ -102,14 +102,14 @@ ht-degree: 13%
     + [리본 경로](/help/painting/tool-list/ribbon-tool.md)
     + [채워진 경로](/help/painting/tool-list/filled-path.md)
   + [직선](/help/painting/straight-line.md)
-  + [게으름쥐](/help/painting/lazy-mouse.md)
+  + [레이지 마우스](/help/painting/lazy-mouse.md)
   + 대칭{#symmetry}
     + [대칭 개요](/help/painting/symmetry/symmetry.md)
     + [거울 대칭](/help/painting/symmetry/mirror-symmetry.md)
     + [방사형 대칭](/help/painting/symmetry/radial-symmetry.md)
   + 칠 투영{#fill-projections}
     + [칠 투영 개요](/help/painting/fill-projections/fill-projections.md)
-    + [채우기 - UV 타일당 일치](/help/painting/fill-projections/fill-match-per-uv-tile.md)
+    + [채우기 - UV 타일 당 일치](/help/painting/fill-projections/fill-match-per-uv-tile.md)
     + [UV 투영](/help/painting/fill-projections/uv-projection.md)
     + [3평면 투영](/help/painting/fill-projections/tri-planar-projection.md)
     + [평면 투영](/help/painting/fill-projections/planar-projection.md)
@@ -138,7 +138,7 @@ ht-degree: 13%
     + [채널 페인팅 개요](/help/painting/advanced-channel-painting/advanced-channel-painting.md)
     + [앰비언트 오클루전](/help/painting/advanced-channel-painting/ambient-occlusion-painting.md)
     + [플로우 맵](/help/painting/advanced-channel-painting/flow-map-painting.md)
-    + [Height 맵](/help/painting/advanced-channel-painting/height-map-painting.md)
+    + [높이 맵](/help/painting/advanced-channel-painting/height-map-painting.md)
     + [표준 맵](/help/painting/advanced-channel-painting/normal-map-painting.md)
   + [벡터 그래픽 - .svg .ai](/help/painting/vector-graphic-svg.md)
   + [텍스트 리소스](/help/painting/text-resource.md)
@@ -211,8 +211,8 @@ ht-degree: 13%
     + [이미지 시퀀스](/help/features/uv-tiles/image-sequence.md)
   + 색상 관리{#color-management}
     + [색상 관리 개요](/help/features/color-management/color-management.md)
-    + [Adobe ACE를 사용한 색상 관리 - ICC](/help/features/color-management/color-management-with-adobe-ace-icc.md)
-    + [OpenColorIO를 사용한 색상 관리](/help/features/color-management/color-management-with-opencolorio.md)
+    + [Adobe ACE을 사용한 색상 관리 - ICC](/help/features/color-management/color-management-with-adobe-ace-icc.md)
+    + [OpenColorIO을 사용하여 색상 관리](/help/features/color-management/color-management-with-opencolorio.md)
   + 후처리{#post-processing}
     + [개요](/help/features/post-processing/post-processing.md)
     + [필드 깊이](/help/features/post-processing/depth-of-field.md)
@@ -267,10 +267,10 @@ ht-degree: 13%
   + [DXDiag 내보내기](/help/technical-support/exporting-a-dxdiag.md)
   + 기술 문제{#technical-issues}
     + GPU 문제{#gpu-issues}
-      + [오버클럭된 GPU로 작업할 때 충돌이 발생함](/help/technical-support/technical-issues/gpu-issues/crash-when-working-with-overclocked-gpu.md)
+      + [오버클럭된 GPU로 작업할 때 충돌 발생](/help/technical-support/technical-issues/gpu-issues/crash-when-working-with-overclocked-gpu.md)
       + [Mac OS에서 외부 GPU 강제 실행](/help/technical-support/technical-issues/gpu-issues/forcing-the-external-gpu-on-mac-os.md)
       + [GPU 드라이버 호환성](/help/technical-support/technical-issues/gpu-issues/gpu-drivers-compatibility.md)
-      + [긴 계산으로 GPU 드라이버 충돌 - TDR 충돌](/help/technical-support/technical-issues/gpu-issues/gpu-drivers-crash-with-long-computations-tdr-crash.md)
+      + [긴 계산에 충돌 GPU 드라이버 - TDR 충돌](/help/technical-support/technical-issues/gpu-issues/gpu-drivers-crash-with-long-computations-tdr-crash.md)
       + [GPU에 오래된 드라이버가 있음](/help/technical-support/technical-issues/gpu-issues/gpu-has-outdated-drivers.md)
       + [GPU가 인식되지 않음](/help/technical-support/technical-issues/gpu-issues/gpu-is-not-recognized.md)
       + [GPU가 인식되지 않으며 GDI 일반으로 언급됨](/help/technical-support/technical-issues/gpu-issues/gpu-is-not-recognized-and-is-mentionned-as-gdi-generic.md)
@@ -284,16 +284,16 @@ ht-degree: 13%
       + [소프트웨어 충돌](/help/technical-support/technical-issues/startup-issues/software-conflicts.md)
     + 렌더링 문제{#rendering-issues}
       + [사용자 정의 GPU를 사용하는 Mac OS의 아티팩트 및 결함](/help/technical-support/technical-issues/rendering-issues/artifacts-and-glitches-on-mac-os-with-custom-gpus.md)
-      + [뷰포트의 텍스처에 뭉툭한 가공물이 표시됨](/help/technical-support/technical-issues/rendering-issues/blocky-artifacts-appear-on-textures-in-the-viewport.md)
+      + [뷰포트의 텍스처에 뭉툭한 가공물 표시](/help/technical-support/technical-issues/rendering-issues/blocky-artifacts-appear-on-textures-in-the-viewport.md)
       + [뷰포트에서 메쉬가 분홍색으로 표시됩니다](/help/technical-support/technical-issues/rendering-issues/mesh-appears-pink-in-the-viewport.md)
       + [카메라 이동 시 메시 플래시가 흰색으로 바뀜](/help/technical-support/technical-issues/rendering-issues/mesh-flash-to-white-when-moving-camera.md)
       + [일부 HDPI 비율 값이 작동하지 않음](/help/technical-support/technical-issues/rendering-issues/some-hdpi-scaling-values-are-not-working.md)
       + [뷰포트가 Ubuntu에서 손상되었거나 응답하지 않음](/help/technical-support/technical-issues/rendering-issues/broken-viewport-ubuntu.md)
     + 안정성 문제{#stability-issues}
       + [내보내기 중 충돌](/help/technical-support/technical-issues/stability-issues/crash-during-export.md)
-      + [파일을 열거나 저장할 때 충돌 발생](/help/technical-support/technical-issues/stability-issues/crash-when-opening-or-saving-a-file.md)
+      + [파일을 열거나 저장할 때 충돌](/help/technical-support/technical-issues/stability-issues/crash-when-opening-or-saving-a-file.md)
       + [굽는 동안 충돌](/help/technical-support/technical-issues/stability-issues/crash-while-baking.md)
-      + [가상 메모리가 부족할 때 충돌 발생](/help/technical-support/technical-issues/stability-issues/crash-with-low-virtual-memory.md)
+      + [가상 메모리가 부족한 충돌](/help/technical-support/technical-issues/stability-issues/crash-with-low-virtual-memory.md)
       + [Windows 블루 스크린](/help/technical-support/technical-issues/stability-issues/windows-blue-screens.md)
     + 기타 문제{#miscellaneous-issues}
       + [손상된 텍스처 오류 메시지](/help/technical-support/technical-issues/miscellaneous-issues/corrupted-texture-error-message.md)
@@ -301,15 +301,15 @@ ht-degree: 13%
       + [오류: 드라이브에 디스크가 없습니다.](/help/technical-support/technical-issues/miscellaneous-issues/error-there-is-no-disk-in-the-drive.md)
       + [api-ms-crt dll 누락 오류](/help/technical-support/technical-issues/miscellaneous-issues/error-with-missing-api-ms-crt-dll.md)
       + [셸프로 파일을 드래그하여 놓을 수 없음](/help/technical-support/technical-issues/miscellaneous-issues/impossible-to-drag-and-drop-files-into-the-shelf.md)
-      + [Linux에서 ALT 키보드 단축키를 사용할 수 없음](/help/technical-support/technical-issues/miscellaneous-issues/impossible-to-use-the-alt-keyboard-shortcut-on-linux.md)
+      + [Linux에서 ALT 키보드 단축키 사용 불가](/help/technical-support/technical-issues/miscellaneous-issues/impossible-to-use-the-alt-keyboard-shortcut-on-linux.md)
       + [에셋 - 또는 쉘프 미리 보기가 비어 있습니다.](/help/technical-support/technical-issues/miscellaneous-issues/assets-or-shelf-previews-are-empty.md)
   + 작업 과정 문제{#workflow-issues}
     + 내보내기 문제{#export-issues}
       + [내보낸 불투명도 맵이 완전히 검정색입니다.](/help/technical-support/workflow-issues/export-issues/my-exported-opacity-map-is-totally-black.md)
       + [텍스처 확장 또는 패딩](/help/technical-support/workflow-issues/export-issues/texture-dilation-or-padding.md)
     + 도구 문제{#tools-issues}
-      + [표준 맵이 잘못됨](/help/technical-support/workflow-issues/tools-issues/normal-map-looks-incorrect-when-loaded-in-layer-or-tool-properties.md)
-      + [페인트 도구가 다른 UV 섬에서 번짐](/help/technical-support/workflow-issues/tools-issues/paint-tool-bleeds-on-other-uv-islands.md)
+      + [노멀 맵이 잘못됨](/help/technical-support/workflow-issues/tools-issues/normal-map-looks-incorrect-when-loaded-in-layer-or-tool-properties.md)
+      + [페인트 도구가 다른 UV 섬에서 재단 물림](/help/technical-support/workflow-issues/tools-issues/paint-tool-bleeds-on-other-uv-islands.md)
     + 프로젝트 문제{#project-issues}
       + [프로젝트 파일 손상됨](/help/technical-support/workflow-issues/project-issues/a-project-has-been-processed-as-a-text-file-and-is-now-corrupted.md)
       + [네트워크에서 파일 로드](/help/technical-support/workflow-issues/project-issues/loading-files-from-a-network.md)
@@ -320,7 +320,7 @@ ht-degree: 13%
       + [글꼴을 가져오는 중 오류 발생](/help/technical-support/workflow-issues/shelf-issues/font-import.md)
     + 뷰포트 문제{#viewport-issues}
       + [뒤에서 볼 때 메시 얼굴이 사라집니다](/help/technical-support/workflow-issues/viewport-issues/mesh-faces-disappear-when-looking-at-them-from-behind.md)
-      + [뷰포트와 텍스처가 흐리거나 선명도가 부족합니다](/help/technical-support/workflow-issues/viewport-issues/viewports-and-textures-are-blurry-or-lack-sharpness.md)
+      + [뷰포트와 텍스처가 흐리거나 선명도가 떨어집니다](/help/technical-support/workflow-issues/viewport-issues/viewports-and-textures-are-blurry-or-lack-sharpness.md)
     + 플러그인 문제{#plugins-issues}
       + [Substance Source 플러그인이 로드되지 않음](/help/technical-support/workflow-issues/plugins-issues/substance-source-plugin-doesn-t-load.md)
     + 라이선스 문제{#license-issues}
@@ -356,7 +356,7 @@ ht-degree: 13%
       + [Lib Alpha - 셰이더 API](/help/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-alpha-shader-api.md)
       + [Lib Bayer - 셰이더 API](/help/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-bayer-shader-api.md)
       + [Lib 정의 - 셰이더 API](/help/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-defines-shader-api.md)
-      + [Lib Emissive - 셰이더 API](/help/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-emissive-shader-api.md)
+      + [Lib 방출 - 셰이더 API](/help/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-emissive-shader-api.md)
       + [라이브러리 환경 - 셰이더 API](/help/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-env-shader-api.md)
       + [Lib 표준 - 셰이더 API](/help/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-normal-shader-api.md)
       + [Lib PBR - 셰이더 API](/help/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-pbr-shader-api.md)

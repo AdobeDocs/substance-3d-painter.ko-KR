@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/texture-set/texture-set-reassignment.html"
 breadcrumb-title: ''
-description: Substance 3D Painter에서 텍스처 세트를 재할당하여 메쉬 할당 및 텍스처 매핑을 재구성하는 방법을 살펴보세요.
+description: Substance 3D Painter에서 텍스처 세트를 재할당하여 메시 할당과 텍스처 매핑을 재구성하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
 helpx_description: Painter > Interface > Texture Set > Texture Set reassignment
 helpx_experience_level: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![](../../assets/txtset-reassignment-window.png)
 
-Texture Set Reassignment 창을 사용하면 레이어 스택 할당을 장면 메쉬의 다른 부분으로 변경할 수 있습니다. 이 기능은 예를 들어 새 메시를 일부 텍스처 세트가 비활성화되는 기존 프로젝트로 가져온 후에 유용합니다. 이 오류는 레이어 스택이 더 이상 존재하지 않는 재질에 할당되었기 때문에 발생합니다. 재할당 창에서 해당 레이어 스택을 다시 가져올 수 있습니다(아래 &quot;비활성화된 텍스처 세트 복원&quot; 참조).
+Texture Set Reassignment 창에서 장면 메쉬의 다른 부분에 대한 레이어 스택 지정을 변경할 수 있습니다. 이 기능은 예를 들어 새 메시를 일부 텍스처 세트가 비활성화되는 기존 프로젝트로 가져온 후에 유용합니다. 이 오류는 레이어 스택이 더 이상 존재하지 않는 재질에 할당되었기 때문에 발생합니다. 재할당 창에서 해당 레이어 스택을 다시 가져올 수 있습니다(아래 &quot;비활성화된 텍스처 세트 복원&quot; 참조).
 
 텍스처 집합 재할당 창에 액세스하려면 [텍스처 집합 목록](texture-set-list.md) 창으로 이동하여 **설정 > 텍스처 집합 재할당**&#x200B;을 선택하십시오.
 

@@ -70,7 +70,7 @@ uniform int maxPOMSamples;
 ```
 
 
-시차를 기반으로 텍스처 좌표 오프셋 계산
+시차를 기준으로 텍스처 좌표 오프셋 계산
 
 ```
 vec2 getParallaxOffset(SparseCoord coord, vec3 viewTS) 

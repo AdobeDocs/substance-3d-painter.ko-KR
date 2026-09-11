@@ -22,7 +22,7 @@ ht-degree: 0%
 
 이 페이지에서는 Substance 3D Painter을 Windows에서 원격 데스크탑(RDP)을 통해 실행할 수 있도록 하는 솔루션과 대안에 대해 설명합니다.
 
-기본적으로 Windows의 RDP는 존재하지 않거나 너무 낮은 OpenGL 컨텍스트에서 실행되어 응용 프로그램이 제대로 작동하지 않거나 충돌합니다. Substance 3D Painter에는 OpenGL 3.3 컨텍스트가 필요합니다. 다음은 문제를 완화할 수 있는 해결책이지만 초기 문제가 Windows 및 일부 GPU 드라이버에 따라 달라지므로 작동되는 보장은 없습니다.
+기본적으로 Windows의 RDP는 존재하지 않거나 너무 낮은 OpenGL 컨텍스트에서 실행되어 응용 프로그램이 제대로 작동하거나 충돌 상태가 되지 않습니다. Substance 3D Painter에는 OpenGL 3.3 컨텍스트가 필요합니다. 다음은 문제를 완화할 수 있는 해결책이지만 초기 문제가 Windows 및 일부 GPU 드라이버에 따라 달라지므로 작동되는 보장은 없습니다.
 
 >[!NOTE]
 >

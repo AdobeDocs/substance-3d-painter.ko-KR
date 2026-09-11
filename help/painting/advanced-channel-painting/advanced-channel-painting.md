@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/advanced-channel-painting.html"
 breadcrumb-title: ''
-description: Substance 3D Painter의 고급 채널 페인팅 기술을 사용하여 특정 텍스처 채널에 직접 페인팅하여 정밀하게 제어할 수 있습니다.
+description: Substance 3D Painter의 고급 채널 페인팅 기술을 사용하여 특정 텍스처 채널에서 직접 페인트 하여 정밀하게 제어할 수 있습니다.
 helpx_creative_field: ""
 helpx_description: Painter > Painting > Advanced channel painting
 helpx_experience_level: ""
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 현재 사용 가능한 채널:
 
-* [주변 오클루전 페인팅](ambient-occlusion-painting.md)
+* [앰비언트 오클루전 페인팅](ambient-occlusion-painting.md)
 * [플로우 맵 페인팅](flow-map-painting.md)
-* [Height 맵 페인팅](height-map-painting.md)
-* [표준 맵 페인팅](normal-map-painting.md)
+* [높이 맵 페인팅](height-map-painting.md)
+* [노멀 맵 페인팅](normal-map-painting.md)

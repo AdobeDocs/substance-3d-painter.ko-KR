@@ -22,13 +22,13 @@ ht-degree: 1%
 
 ![](../assets/color-picker-12.jpg)
 
-[색상 피커]를 사용하면 메시에 페인트하거나 투영하도록 색상을 설정할 수 있습니다. 외부 이미지에서 색상을 선택하거나 응용 프로그램 내의 기존 색상을 조정하는 데 사용할 수 있습니다.
+[색상 피커]를 사용하면 색상을 메시의 페인트 또는 프로젝트로 설정할 수 있습니다. 외부 이미지에서 색상을 선택하거나 응용 프로그램 내의 기존 색상을 조정하는 데 사용할 수 있습니다.
 
 색상 피커 창은 Painter에서 색상 필드를 클릭할 때 나타나며, [속성]이나 [표시] 또는 [셰이더] 매개 변수와 같은 추가 설정이나 메뉴 내에서 찾을 수 있습니다.
 
 ## 색상 피커 개요
 
-열린 상태의 색상 피커는 반영구적이므로 문맥을 변경할 때까지(예: 페인트 레이어에서 칠 레이어로 전환) 계속 열려 있습니다. 창문을 이리저리 옮겨 가용한 어느 화면에서나 배치가 가능하다. 그러나 다른 창과 달리 색상 피커를 고정할 수 없습니다.
+색상 피커가 열리면 반영구적이므로 레이어 페인팅에서 채우기 레이어로 전환하는 등 컨텍스트를 변경할 때까지 열린 상태로 유지됩니다. 창문을 이리저리 옮겨 가용한 어느 화면에서나 배치가 가능하다. 그러나 다른 창과 달리 색상 피커를 고정할 수 없습니다.
 
 창에는 세 개의 섹션으로 구성된 세로 레이아웃이 있습니다.
 
@@ -43,7 +43,7 @@ ht-degree: 1%
 | 이름 및 시각적 요소 | 설명 |
 | --- | --- |
 | **표시 선택기** <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r1-column-c0_dynamic_grid_items_grid-cell_position-par_image" src="../assets/display-selector.png" width="250px"/></div> | 색상 편집에 사용할 디스플레이(스펙트럼 및 슬라이더)를 선택할 수 있습니다. 기본값은 기본 뷰포트에서 사용하는 디스플레이와 일치합니다.  **참고:** 이 설정은 [색상 관리](../features/color-management/color-management.md)를 사용하도록 설정한 경우에만 사용할 수 있습니다. |
-| **스펙트럼** <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r2-column-c0_dynamic_grid_items_grid-cell_position-par_image" src="../assets/spectrum.png" width="250px"/></div> | 세로 슬라이더는 일반 색조입니다. 이 도구를 사용하면 그라디언트 필드 내에 표시할 색상의 음영을 선택할 수 있습니다.일반 음영을 선택하면 그라디언트 필드에서 십자 커서를 길게 드래그하여 원하는 색상을 선택할 수 있습니다.  **참고:** [색상 관리](../features/color-management/color-management.md)가 활성화되면 현재 디스플레이의 HDR 색상이 작업 색상 공간에서 클램프됩니다. 이는 색상 관리 채널의 출력 HDR 값을 피하기 위한 것입니다. |
+| **스펙트럼** <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r2-column-c0_dynamic_grid_items_grid-cell_position-par_image" src="../assets/spectrum.png" width="250px"/></div> | 세로 슬라이더는 일반 색조입니다. 이 도구를 사용하면 그라디언트 필드 내에 표시할 색상의 음영을 선택할 수 있습니다.일반 음영을 선택하면 그라디언트 필드에서 십자 커서를 길게 드래그하여 원하는 색상을 선택할 수 있습니다.  **참고:** [색상 관리](../features/color-management/color-management.md)를 사용하도록 설정하면 현재 디스플레이의 HDR 색상이 작업 색상 공간에서 클램프됩니다. 이는 색상 관리 채널의 출력 HDR 값을 피하기 위한 것입니다. |
 | **현재 및 이전 색상** <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r3-column-c0_dynamic_grid_items_grid-cell_position-par_image" src="../assets/color-preview-current.png"/></div> | 왼쪽 사각형은 색상 피커에서 출력될 최종 색상을 나타냅니다.오른쪽 사각형에는 이전 색상(색상 피커를 열 때)이 표시됩니다. 이것을 클릭하여 이전 색상을 복원하고 현재 색상으로 만들 수 있습니다. |
 | **16진수 필드** <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r4-column-c0_dynamic_grid_items_grid-cell_position-par_image" src="../assets/hexa-field.png"/></div> | 16진수 필드는 현재 색상을 16진수 값으로 나타냅니다. RGB 구성 요소는 문자 쌍으로 표시됩니다.예를 들어 #FF0000은 빨간색을 나타냅니다.  **참고:** [색상 관리](../features/color-management/color-management.md)를 사용하도록 설정하면 16진수 필드가 항상 표준 sRGB 색상 공간에서 작동하여 프로젝트에서 사용하는 현재 표시 또는 작업 영역에 관계없이 소프트웨어 간에 값을 더 쉽게 복사/붙여넣기할 수 있습니다. |
 | **스포이드** <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r5-column-c0_dynamic_grid_items_grid-cell_position-par_image" src="../assets/picker.png"/></div> | 스포이드를 사용하여 외부 소스에서 색상을 선택할 수 있습니다. 아이콘을 **클릭**&#x200B;하려면 마우스를 이동하고 원하는 색상을 다시 복사합니다.  **참고:** 뷰포트 내에서 색상을 선택할 때 **Shift** 수정자를 사용하여 직접 편집한 현재 채널을 선택할 수 있습니다. 이렇게 하면 원래 텍스처와 화면에 표시되는 색상 간에 손실 있는 색상 변환이 수행되지 않습니다. 이 기능은 **재질** 표시 모드에서 전환하지 않고도 색상을 선택하는 데 유용합니다. <div><img data-preserve-html="true" src="../assets/eyedropper-shift.png" width="150"/></div>  **참고:** 색상 필드 옆에는 스포이드도 있으며 색상 피커를 열지 않고도 색상을 빠르게 선택하는 데 사용할 수 있습니다. <div><img data-preserve-html="true" height="83" src="../assets/eyedropper.jpg"/></div>  **참고:** Mac OS에서는 개인 정보 보호 설정으로 인해 스포이드가 응용 프로그램 인터페이스 외부의 색상을 선택하지 못할 수 있습니다. 이 문제를 해결하려면 `System Preferences > Security & Privacy > Privacy > Screen Recording`에서 응용 프로그램에 적절한 권한을 할당하십시오. |

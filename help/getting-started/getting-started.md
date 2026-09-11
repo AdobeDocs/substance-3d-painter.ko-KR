@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/getting-started.html"
 breadcrumb-title: ''
-description: 프로젝트 생성, 인터페이스 탐색 및 텍스처 페인팅 워크플로우의 기본 사항을 학습하여 Substance 3D Painter을 시작하십시오.
+description: 프로젝트 만들기, 인터페이스 탐색 및 텍스처 페인팅 워크플로우의 기본 사항을 학습하여 Substance 3D Painter을 시작하십시오.
 helpx_creative_field: ""
 helpx_description: Painter > Getting Started
 helpx_experience_level: ""
@@ -29,7 +29,7 @@ ht-degree: 8%
 * [포럼](https://community.adobe.com/t5/substance-3d-painter/bd-p/substance-3d-painter?filter=all&page=1&sort=latest_replies)
 * [커뮤니티 에셋](https://helpx.adobe.com/substance-3d-community-assets/home.html)
 
-그렇지 않으면 프로젝트 생성 및 텍스처 내보내기의 기본 사항을 살펴봅니다.
+그렇지 않으면 프로젝트 생성 및 텍스처 내보내기의 기본 사항을 확인하십시오.
 
 * [프로젝트 생성](project-creation.md)
 * [내보내기](../export/export.md)

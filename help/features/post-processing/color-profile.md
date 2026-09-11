@@ -28,7 +28,7 @@ Substance 3D Painter에서 **LUT** 텍스처를 로드하여 **뷰포트**&#x200
 >[!NOTE]
 >
 > **LUT**&#x200B;은 &quot;**테이블 찾기**&quot;을(를) 나타냅니다. 사후 효과로 색 보정을 수행하는 최적화된 방법입니다. LUT는 소스와 결과 사이의 차이를 구성하는 데 사용됩니다.\
->  Substance 3D Painter에서는 가능한 모든 해상도(**2048x128픽셀**)의 **2D 텍스처**(부동)로 저장된 **3D** LUT를 사용합니다. 즉, 색상 작업을 저장하는 육면체가 나란히 표시되는 분할 영역으로 분리됩니다. 자세한 기술 정보는 **GPU Gem** 문서 <http://http.developer.nvidia.com/GPUGems2/gpugems2_chapter24.html>을(를) 참조하십시오.
+>  Substance 3D Painter에서는 가능한 모든 해상도의 **2D 텍스처**(부동)으로 저장된 **3D** LUT를 사용합니다(기본값은 **2048x128 픽셀** ). 즉, 색상 작업을 저장하는 육면체가 나란히 표시되는 분할 영역으로 분리됩니다. 자세한 기술 정보는 **GPU Gem** 문서 <http://http.developer.nvidia.com/GPUGems2/gpugems2_chapter24.html>을(를) 참조하십시오.
 
 ## 색상 프로파일 사용
 
@@ -82,6 +82,6 @@ ociolutimage --generate --cubesize 64 --config nuke-default/config.ocio --colorc
 
 ### 새 색상 프로필 가져오기
 
-간단히 가져오기 창을 열거나 LUT를 선반에 드래그하여 놓습니다. Substance 3D Painter에서 LUT 텍스처를 가져올 때 &quot; **colorlut** &quot; **사용**&#x200B;을 새 리소스에 할당해야 합니다. 그렇지 않으면 리소스가 선반에 제대로 표시되지 않습니다.
+간단히 가져오기 창을 열거나 LUT를 선반에 드래그하여 놓습니다. Substance 3D Painter에서 LUT 텍스처를 가져올 때 새 리소스에 &quot; **colorlut** &quot; **사용량**&#x200B;을 할당해야 합니다. 그렇지 않으면 리소스가 선반에 제대로 표시되지 않습니다.
 
 자세한 내용은 새 리소스 가져오기에 대한 설명서를 참조하십시오. [가져오기 창을 통해 리소스 추가](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/adding-content-via-the-import-window-151584824.html)
