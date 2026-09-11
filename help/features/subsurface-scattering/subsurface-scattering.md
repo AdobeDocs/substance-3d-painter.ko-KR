@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/subsurface-scattering.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/subsurface-scattering.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 표면 아래 산란을 사용하여 피부나 왁스와 같은 사실적인 반투명 재질을 만드는 방법을 살펴보세요.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 3%
 
 ![](../../assets/sss-sarah.jpg){width="500px"}
 
-&#x200B;>> 
+>> 
 
 (크레딧 : The Soldier, [by Ribeyrolles Leo](https://www.artstation.com/artwork/xNYDm) )
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/release-notes/old-versions/version-2017-2.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/release-notes/old-versions/version-2017-2.html"
 breadcrumb-title: ''
 description: Substance 3D Painter 버전 2017.2의 릴리스 노트를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 버전 2017.2
 
-**Substance Painter 2017.2**&#x200B;에서는 기준점 시스템을 통해 새로운 강력한 기능을 도입했습니다. 이를 통해 레이어 스택에 더 진보된 구성을 만들어 많은 새로운 가능성을 열 수 있습니다.
+**Substance Painter 2017.2**&#x200B;에서는 기준점 시스템을 통해 새로운 강력한 기능을 도입했습니다. 이를 통해 레이어 스택에서 보다 고급 구성을 만들어 많은 새로운 가능성을 열 수 있습니다.
 
 출시일: *27 7월*
 

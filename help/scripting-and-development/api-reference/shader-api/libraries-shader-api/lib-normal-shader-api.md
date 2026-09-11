@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-normal-shader-api.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-normal-shader-api.html"
 breadcrumb-title: ''
-description: Substance 3D Painter에 대한 [Lib 표준] 셰이더 API 참조에 액세스하여 사용자 정의 셰이더에서 표준 맵 및 표면 표준을 사용하여 작업할 수 있습니다.
+description: Substance 3D Painter의 [Lib 표준] 셰이더 API 참조에 액세스하여 사용자 정의 셰이더에서 노멀 맵 및 표면 표준을 사용하여 작업할 수 있습니다.
 helpx_creative_field: ""
 helpx_description: Painter > Scripting and development > API Reference > Shader API > Libraries - Shader API > Lib Normal - Shader API
 helpx_experience_level: ""
@@ -54,7 +54,7 @@ uniform int normal_blending_mode;
 ```
 
 
-표준 맵의 Y축을 반전하는 데 사용됩니다.
+노멀 맵의 Y축을 반전하는 데 사용됩니다.
 
 ```
 //: param auto normal_y_coeff 
@@ -70,7 +70,7 @@ const float HEIGHT_FACTOR = 400.0;
 ```
 
 
-2개의 표준 맵 간 혼합 수행
+두 노멀 맵 간 혼합 수행
 
 이는 Whiteout blending http://blog.selfshadow.com/publications/blending-in-detail/ 을 기반으로 합니다.
 
@@ -319,7 +319,7 @@ vec3 computeWSBaseNormal(SparseCoord coord, vec3 tangent, vec3 bitangent, vec3 n
 ```
 
 
-getTSNormal 도우미 및 메시의 로컬 프레임에서 제공된 탄젠트 공간 법선에서 월드 공간 법선을 계산하는 도우미.
+getTSNormal 도우미 및 메시의 로컬 프레임이 제공하는 탄젠트 공간 법선에서 월드 공간 법선을 계산하는 도우미.
 
 ```
 vec3 computeWSNormal(SparseCoord coord, vec3 tangent, vec3 bitangent, vec3 normal) 

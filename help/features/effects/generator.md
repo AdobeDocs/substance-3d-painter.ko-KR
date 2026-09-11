@@ -1,7 +1,7 @@
 ---
-helpx_url: 'https://helpx.adobe.com/kr/substance-3d-painter/features/effects/generator.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-painter/features/effects/generator.html'
 breadcrumb-title: ''
-description: Substance 3D Painter에서 생성기 효과를 사용하여 절차 텍스처와 패턴을 자동으로 만드는 방법을 살펴보세요.
+description: Substance 3D Painter에서 제네레이터 효과를 사용하여 프로시저 텍스처 및 패턴을 자동으로 만드는 방법을 알아봅니다.
 helpx_creative_field: ''
 helpx_description: Painter > Features > Effects > Generator
 helpx_experience_level: ''
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 # Generators
 
-생성기는 위치, 곡률 및 월드 스페이스 표준[&#128279;](../../baking/baking.md)과 같은 구워진 유틸리티 맵을 사용하여 메시 토폴로지 을(를) 기반으로 마스크 또는 텍스처를 생성하는 물질입니다.
+생성기는 [위치], [곡률] 및 [월드 스페이스 표준]과 같은 구워진 유틸리티 맵을 사용하여 [메시 토폴로지를 기반으로 마스크 또는 텍스처를 생성하는 물질입니다](../../baking/baking.md).
 
 >[!NOTE]
 >
-> 대부분의 제네레이터는 단색(흑백) 텍스처를 출력하므로 재질 레이어를 제어하는 마스크를 만드는 데 가장 유용합니다. 그러나 단색 생성기를 채우기 레이어로 사용하거나 전체 색상 생성기를 마스크로 사용하는 것을 방지할 수 있는 방법은 없습니다.
+> 대부분의 제네레이터에서는 단색(흑백) 텍스처를 출력하므로 재질 레이어를 제어하는 마스크를 만드는 데 가장 유용합니다. 그러나 단색 생성기를 채우기 레이어로 사용하거나 전체 색상 생성기를 마스크로 사용하는 것을 방지할 수 있는 방법은 없습니다.
 
 마스크에 생성기를 추가하려면 다음을 수행하십시오.
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 ![](../../assets/generators/generator_spectrum.png)
 
 각 생성기에는 결과 마스크를 미세 조정할 수 있도록 하는 매개 변수 세트가 있습니다.\
-셸프에 사용자 지정 생성기를 추가하려면 [셸프에 콘텐츠 추가](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/adding-content-to-the-shelf-142213317.html)를 참조하십시오.
+셸프에 사용자 지정 생성기를 추가하려면 [셸프에 콘텐츠 추가](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/adding-content-to-the-shelf-142213317.html)를 참조하십시오.
 
 >[!NOTE]
 >

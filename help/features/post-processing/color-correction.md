@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/post-processing/color-correction.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/post-processing/color-correction.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 색상 교정 후처리를 사용하여 명도, 대비, 채도를 조정하는 방법을 살펴보세요.
 helpx_creative_field: ""

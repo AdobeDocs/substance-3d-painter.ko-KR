@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/getting-started/project-creation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/getting-started/project-creation.html"
 breadcrumb-title: ''
-description: Substance 3D Painter에서 새 프로젝트를 만들어 3D 모델에 텍스처 페인팅을 시작하는 방법을 알아봅니다.
+description: Substance 3D Painter에서 새 프로젝트를 만들어 3D 모델에서 텍스처 페인팅을 시작하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
 helpx_description: Painter > Getting Started > Project Creation
 helpx_experience_level: ""
@@ -28,7 +28,7 @@ ht-degree: 1%
 
 ## 새 프로젝트 만들기
 
-새 프로젝트를 만들려면 <b>파일 > 새로 만들기</b>를 클릭하거나 키보드 단축키 <b>Ctrl + N</b>을(를) 사용하십시오.
+새 프로젝트를 만들려면 <b>파일 > 새로 만들기</b>를 클릭하거나 키보드 단축키 <b>Ctrl + N</b>을 사용하세요.
 
 다음은 새 프로젝트 창에서 사용할 수 있는 모든 매개변수에 대한 설명입니다.
 
@@ -36,18 +36,18 @@ ht-degree: 1%
 
 | *매개 변수* | *설명* |
 | --- | --- |
-| **파일** | 로드할 3D 모델 파일을 지정하려면 &quot;선택&quot; 버튼을 클릭합니다. [지원되는 파일 형식 목록을 여기서 사용할 수 있습니다.](https://experienceleague.adobe.com/ko/docs/substance-3d/general-knowledge/ecosystem/import-and-export-formats) |
+| **파일** | 로드할 3D 모델 파일을 지정하려면 &quot;선택&quot; 버튼을 클릭합니다. [지원되는 파일 형식 목록을 여기서 사용할 수 있습니다.](https://experienceleague.adobe.com/en/docs/substance-3d/general-knowledge/ecosystem/import-and-export-formats) |
 | **템플릿** | 프로젝트의 기본 설정을 정의할 템플릿을 지정합니다. 템플릿에는 다음과 같은 매개변수가 포함됩니다.<ul data-preserve-html="true"> <li data-preserve-html="true">텍스처 세트 설정.</li> <li data-preserve-html="true">디스플레이 설정.</li> <li data-preserve-html="true">베이킹 설정.</li> <li data-preserve-html="true">셰이더 리소스(연결된 텍스처 포함).</li> <li data-preserve-html="true">환경 맵 파일입니다.</li> </ul>  **참고:** 템플릿은 [파일 메뉴](../interface/main-menu/file-menu.md)를 통해 기존 프로젝트에서 만들고 Assets 폴더 내에 저장하여 팀 구성원과 쉽게 공유할 수 있는 <b>\*.spt</b> 파일입니다. |
 | <b>해상도</b> | 각 텍스처 세트에 대해 프로젝트의 기본 텍스처 해상도를 정의합니다. 애플리케이션 내에서 작업할 때는 해상도가 최대 4K(4096x4096픽셀)이고 내보낼 때는 8K(8192x8192픽셀)일 수 있습니다. 해상도는 나중에 [텍스처 설정](../interface/texture-set/texture-set-settings.md)을 통해 언제든지 변경할 수 있습니다.  **참고:** 8K 내보내기를 사용하려면 GPU에서 2.5GB 이상의 VRam을 사용해야 합니다. |
 
 ### 파일 유형별 설정
 
-USD를 선택하면 다른 파일 유형별 설정을 사용할 수 있습니다.
+USD을 선택하면 다른 파일 유형별 설정을 사용할 수 있습니다.
 
 | *매개 변수* | *설명* |
 | --- | --- |
 | <b>범위 및 변형</b> | USD 파일의 특정 부분을 선택합니다. 기본적으로 &#39;Root&#39;로 설정됩니다. 즉, 전체 USD 파일이 Painter 프로젝트를 만드는 데 사용됩니다.  <b>변경...</b>은(는) USD의 내용을 표시하는 새 창을 엽니다. 변형이 감지되면 프로젝트 제작을 위해 특정 변형을 선택할 수 있습니다. [프로젝트 구성](../interface/project-configuration.md) 설정에서 프로젝트를 만든 후 범위 및 변형을 변경할 수 있습니다. 참고:<ul data-preserve-html="true"> <li data-preserve-html="true">모델링 변형 선택만 프로젝트에 영향을 줍니다.</li> <li data-preserve-html="true">변형 내에 중첩된 변형은 현재 검색되지 않습니다.</li> </ul> |
-| <b>서브디비전 수준</b> | 세분화해야 하는 형상의 경우 이 설정을 사용하면 Painter에서 텍스처링하기 위해 메시를 얼마나 세분화할 것인지를 지정할 수 있습니다. USD 파일에서 하위 분할이 명시적으로 &#39;없음&#39;으로 설정된 경우 이 설정은 회색으로 표시됩니다.  UV 풀기 후 세분화가 적용되어 메쉬 UV 모양이 바뀌지 않습니다. [프로젝트 구성](../interface/project-configuration.md) 설정에서 프로젝트를 만든 후 서브디비전 수준을 변경할 수 있습니다. |
+| <b>서브디비전 수준</b> | 세분화해야 하는 형상의 경우 이 설정을 사용하면 Painter에서 텍스처링하기 위해 메시를 얼마나 세분화할 것인지를 지정할 수 있습니다. USD 파일 내에서 하위 구분이 명시적으로 &#39;없음&#39;으로 설정된 경우 이 설정은 회색으로 표시됩니다.  UV 풀기 후 세분화가 적용되어 메쉬 UV 모양이 바뀌지 않습니다. [프로젝트 구성](../interface/project-configuration.md) 설정에서 프로젝트를 만든 후 서브디비전 수준을 변경할 수 있습니다. |
 | <b>프레임</b> | 애니메이션이 감지된 USD 파일의 경우 이 설정을 사용하여 Painter 프로젝트를 만드는 데 사용할 프레임을 선택할 수 있습니다. 선택한 USD 파일에 애니메이션이 없는 경우 이 설정은 회색으로 표시됩니다. [프로젝트 구성](../interface/project-configuration.md) 설정에서 프로젝트를 만든 후 프레임을 변경할 수 있습니다. |
 
 ### 고급 설정
@@ -55,7 +55,7 @@ USD를 선택하면 다른 파일 유형별 설정을 사용할 수 있습니다
 | *매개 변수* | *설명* |
 | --- | --- |
 | **표준 맵 포맷** | 프로젝트의 표준 맵 포맷을 정의합니다. 다음 중 하나를 수행할 수 있습니다.<ul data-preserve-html="true"><li data-preserve-html="true"><strong>DirectX</strong>(X+, Y-, Z+)</li><li data-preserve-html="true"><strong>OpenGL</strong>(X+, Y+, Z+)</li></ul>  **참고:** 미리 알림:<ul data-preserve-html="true"> <li data-preserve-html="true"><b>언리얼 엔진</b>은 기본적으로 DirectX을 사용합니다.</li> <li data-preserve-html="true"><b>Unity</b>에서는 기본적으로 OpenGL을 사용합니다.</li> </ul> |
-| **조각당 탄젠트 공간 계산** | 활성화된 경우 비트량은 꼭지점 셰이더 대신 조각(픽셀) 셰이더에서 계산됩니다. 이 매개변수는 뷰포트에서 셰이더가 표준 맵을 디코딩하는 방법에 영향을 줍니다. 이 설정을 변경하면 표준 맵을 다시 굽아야 합니다.  **참고:** 미리 알림:<ul data-preserve-html="true"> <li data-preserve-html="true"><b>Unreal 엔진</b>에서는 이 설정을 사용하도록 설정해야 합니다.</li> <li data-preserve-html="true"><b>Unity</b>에서는 이 설정을 사용하지 않도록 설정하거나 HDRP 워크플로를 사용하는 경우 사용하도록 설정해야 합니다.</li> </ul> |
+| **조각당 계산 접선 공간** | 활성화된 경우 비트량은 꼭지점 셰이더 대신 조각(픽셀) 셰이더에서 계산됩니다. 이 매개 변수는 뷰포트에서 Shader가 노멀 맵을 디코딩하는 방법에 영향을 줍니다. 이 설정을 변경하면 표준 맵을 다시 굽아야 합니다.  **참고:** 미리 알림:<ul data-preserve-html="true"> <li data-preserve-html="true"><b>Unreal 엔진</b>에서는 이 설정을 사용하도록 설정해야 합니다.</li> <li data-preserve-html="true"><b>Unity</b>에서는 이 설정을 사용하지 않도록 설정하거나 HDRP 워크플로를 사용하는 경우 사용하도록 설정해야 합니다.</li> </ul> |
 
 ### UV 타일 설정(UDIM)
 
@@ -65,9 +65,9 @@ USD를 선택하면 다른 파일 유형별 설정을 사용할 수 있습니다
 
 | *매개 변수* | *설명* |
 | --- | --- |
-| **UV 타일 작업 과정 사용** | 선택하면 가져온 메쉬가 다르게 처리되어 일반 UV 범위(0-1) 외부에서 페인팅이 가능합니다. UDIM을 사용하는 프로젝트는 이 설정을 활성화해야 합니다. 메쉬 처리는 설정에 따라 다를 수 있습니다.   자세한 내용은 [UV 타일 설명서](../features/uv-tiles/uv-tiles.md)를 참조하십시오. |
-| <b>재질당 UV 타일 레이아웃을 유지하고 타일 간 페인팅을 활성화합니다</b> | 메쉬의 재료 할당별로 UV 타일(UDIM)을 가져와 그룹화합니다. 이는 단일 텍스처 세트가 2D 뷰에서 여러 UV 타일을 나란히 포함할 수 있음을 의미합니다. 동일한 텍스처 세트 내에 있는 UV 타일을 매끄럽게 페인트할 수 있습니다.  <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table2_row-r2-column-c1_image_copy" src="../assets/uvtiles-paintacross.jpg" width="500px"/></div> |
-| <b>UV 타일을 개별 텍스처 세트로 변환(레거시)</b> | UV 타일(UDIM)은 재료 지정을 무시하고 개별 텍스처 세트로 분리되고 이름이 바뀝니다. 각 UV 타일은 페인트 가능한 UV [0-1] 범위로 이동됩니다.  <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table2_row-r3-column-c1_image" src="../assets/uvtiles-legacy.jpg" width="500px"/></div> |
+| **UV 타일 워크플로 사용** | 선택하면 가져온 메쉬가 다르게 처리되어 일반 UV 범위(0-1) 외부에서 페인팅이 가능합니다. UDIM을 사용하는 프로젝트는 이 설정을 활성화해야 합니다. 메쉬 처리는 설정에 따라 다를 수 있습니다.   자세한 내용은 [UV 타일 설명서](../features/uv-tiles/uv-tiles.md)를 참조하십시오. |
+| <b>재질당 UV 타일 레이아웃을 유지하고 타일 간 페인팅을 활성화합니다</b> | 메쉬의 재료 할당별로 UV 타일(UDIM)을 가져와 그룹화합니다. 이는 단일 텍스처 세트가 2D 뷰에서 여러 UV 타일을 나란히 포함할 수 있음을 의미합니다. 동일한 텍스처 세트 내에 있는 UV 타일은 전체를 매끄럽게 페인트할 수 있습니다.  <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table2_row-r2-column-c1_image_copy" src="../assets/uvtiles-paintacross.jpg" width="500px"/></div> |
+| <b>UV 타일을 개별 텍스처 집합(레거시)으로 변환</b> | UV 타일(UDIM)은 재료 지정을 무시하고 개별 텍스처 세트로 분리되고 이름이 바뀝니다. 각 UV 타일은 페인트 가능한 UV [0-1] 범위로 이동됩니다.  <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table2_row-r3-column-c1_image" src="../assets/uvtiles-legacy.jpg" width="500px"/></div> |
 
 ### 가져오기 설정
 

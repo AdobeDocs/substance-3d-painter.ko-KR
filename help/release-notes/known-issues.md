@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/release-notes/know-issues.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/release-notes/know-issues.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에 대해 알려진 문제를 검토하여 현재 제한 사항 및 해결 방법에 대해 최신 버전을 통해 최신 정보를 확인하십시오.
 helpx_creative_field: ""
@@ -52,16 +52,16 @@ ht-degree: 0%
 * `[Scripting]` `[Python]` substance_painter.project 모듈의 다양한 오타
 
 * `[USD]` 경우에 잘못된 usda 할당이 있습니다.
-* 내보낸 USD 기하학 `[USD]`이(가) UV 테두리를 따라 밀어넣어집니다.
+* 내보낸 USD 기하학이 UV 테두리를 따라 밀어넣음`[USD]`
 
-* Painter 버전 업데이트 후 기본 색상 보기에 저장된 `[Single Channel View]` 프로젝트가 더 어둡게 보입니다.
-* Painter 버전 업데이트 후 기본 색상 보기에 저장된 `[Single Channel View]` 프로젝트가 더 어둡게 보입니다.
+* 기본 색상 보기에 저장된 `[Single Channel View]` 프로젝트가 Painter 버전 업데이트 후 더 어둡게 보입니다.
+* 기본 색상 보기에 저장된 `[Single Channel View]` 프로젝트가 Painter 버전 업데이트 후 더 어둡게 보입니다.
 
 * `[gltf]` Babylon 내보내기 도구를 통해 내보낸 파일을 열 수 없습니다.
 * 페인팅 시 `[Displacement]` 결함
-* `[Polygon Fill Tool]` 잘못된 선택(대칭 포함)
+* `[Polygon Fill Tool]` 대칭이 있는 잘못된 선택
 * 페인팅 시 `[2D view]`개의 선이 나타나지 않는 경우가 있습니다.
-* 바로 가기와 연결된 `[Console]` 기호를 쓸 수 없습니다.
+* 단축키와 연결된 `[Console]` 기호를 쓸 수 없습니다.
 * `[LOG]` 내보내기 실패 시 오류 메시지가 잘못됨
 * `[3D View]` 스텐실이 복제된 개체에서 작동하지 않습니다.
 * `[Resource updater]` 셸프에 있는 같은 이름의 다른 리소스가 하나의 리소스로 읽혀집니다.

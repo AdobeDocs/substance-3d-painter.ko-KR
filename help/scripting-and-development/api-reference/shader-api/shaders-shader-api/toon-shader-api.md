@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/shaders-shader-api/toon-shader-api.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/shaders-shader-api/toon-shader-api.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 툰 셰이더 API 참조에 액세스하여 사용자 정의 툰 스타일 렌더링 효과를 만듭니다.
 helpx_creative_field: ""
@@ -45,7 +45,7 @@ uniform vec3 camera_pos;
 ```
 
 
-**문서의 채널**&#x200B;기본 색상&#x200B;**을(를) 균일한**&#x200B;기본 색상\_tex **에 바인딩**&#x200B;합니다.
+**문서의 채널**&#x200B;기본 색상&#x200B;**을(를) 균일한** basecolor\_tex **에 바인딩**&#x200B;합니다.
 
 ```
 //: param auto channel_basecolor 
@@ -54,7 +54,7 @@ uniform SamplerSparse basecolor_tex;
 ```
 
 
-**메쉬 곡률**&#x200B;을 균일한 **곡률\_tex**&#x200B;에 **바인딩**&#x200B;합니다. 곡률을 사용할 수 없는 경우 투명 텍스처가 제공됩니다.
+**메쉬 곡률**&#x200B;을 균일한 **곡률\_tex**&#x200B;에 **바인딩**&#x200B;합니다. 곡률을 사용할 수 없는 경우에는 투명 텍스처가 제공됩니다.
 
 ```
 //: param auto texture_curvature 

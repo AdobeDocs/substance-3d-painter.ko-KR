@@ -81,6 +81,6 @@ ht-degree: 1%
 <table>
   <tr>
     <td><img src="../../../assets/generators/examples/auto-stitcher/custom-input2.png" alt=""/></td>
-    <td>이 예제에서는 사용자 정의 입력으로 스티칭 패스를 만드는 방법을 보여 줍니다. <br><ul><li>흑백 기본 색상은 자동 스티처 생성기에 대한 사용자 정의 입력으로 사용 중인 노이즈 텍스처를 표시합니다.</li><li>Autostitcher 생성기는 빨간색 레이어를 마스킹하고 빨간색 스티칭된 경로는 보이게 합니다.</li><li>빨간색 스티칭된 패스는 사용자 정의 입력 노이즈 텍스처의 충분히 큰 검은색 또는 흰색 영역에 맞습니다. 빨간색 스티칭은 흰색에서 검은색으로, 검은색에서 흰색으로 바뀌지 않습니다.</li></ul><br>아래 이미지는 이 예제를 만드는 데 사용된 간단한 레이어 설정을 보여줍니다.<br><br><img src="../../../assets/generators/examples/auto-stitcher/custom-input-layer-stack.png" alt=""/></td>
+    <td>이 예제에서는 사용자 정의 입력으로 스티칭 패스를 만드는 방법을 보여 줍니다. <br><ul><li>흑백 기본 색상은 자동 스티처 생성기에 대한 사용자 정의 입력으로 사용 중인 노이즈 텍스처를 표시합니다.</li><li>Autostitcher 생성기는 빨간색 레이어를 마스킹하고 빨간색 스티칭된 경로는 보이게 합니다.</li><li>빨간색 스티칭된 패스는 사용자 정의 입력 노이즈 텍스처의 충분히 큰 검정 또는 흰색 영역에 맞습니다. 빨간색 스티칭은 흰색에서 검은색으로, 검은색에서 흰색으로 바뀌지 않습니다.</li></ul><br>아래 이미지는 이 예제를 만드는 데 사용된 간단한 레이어 설정을 보여줍니다.<br><br><img src="../../../assets/generators/examples/auto-stitcher/custom-input-layer-stack.png" alt=""/></td>
   </tr>
 </table>

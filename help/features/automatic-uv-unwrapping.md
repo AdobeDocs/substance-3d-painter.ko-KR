@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/automatic-uv-unwrapping.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/automatic-uv-unwrapping.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 자동 UV 언래핑을 사용하여 3D 모델에 사용할 UV 레이아웃을 자동으로 생성하는 방법을 살펴보세요.
 helpx_creative_field: ""
@@ -21,7 +21,7 @@ ht-degree: 0%
 # 자동 UV 풀기
 
 ![](../assets/auto-unwrap-update-810.jpg)\
-자동 UV 언래핑을 사용하면 3D 모델을 가져올 때 자동으로 UV 섬을 생성할 수 있습니다. 기존 UV가 없는 3D 모델에 페인트할 때 사용할 수 있습니다.
+자동 UV 언래핑을 사용하면 3D 모델을 가져올 때 자동으로 UV 섬을 생성할 수 있습니다. 기존 UV가 없는 3D 모델을 페인트으로 표시하는 데 사용할 수 있습니다.
 
 ## 자동 UV 감싸기 해제 사용
 
@@ -44,9 +44,9 @@ ht-degree: 0%
 | **레이아웃 사용자 지정** | **여백 크기** | UV 섬 사이의 간격을 정의합니다. 이 설정은 해상도와는 독립적인 일반 백분율을 적용합니다.가능한 값:<ul data-preserve-html="true"><li data-preserve-html="true"><strong> 여백 없음 </strong> : 0%</li><li data-preserve-html="true"><strong> 작은 </strong>(기본값): 0.2%</li><li data-preserve-html="true"><strong> 중간 </strong> : 0.5%</li><li data-preserve-html="true"><strong> 큰 </strong>: 1%</li></ul> |
 |  | **UV 섬 방향** | 패킹 프로세스 중에 UV 섬 방향을 제어합니다.가능한 값:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>제한 없음</strong>(기본값): 방향을 계산하는 데 제한이 적용되지 않습니다.</li><li data-preserve-html="true"><strong>3D 메시에 맞춤</strong>: UV 섬이 메시 방향을 향하도록 제한합니다</li></ul> |
 |  |  |  |
-| **UV 타일** | **최대 UV 타일 수** | [UV 타일] 작업 과정이 활성화되면 이 설정은 UV 섬에서 배포할 최대 타일 수를 결정합니다. |
+| **UV 타일** | **최대 UV 타일 수** | UV 타일 워크플로우를 사용하는 경우 이 설정은 UV 섬에서 배포할 최대 타일 수를 결정합니다. |
 |  |  |  |
-| **최적화** | **길어진 UV 섬 방지** | 이 프로세스를 활성화하면 너무 길게 간주된 UV 섬이 분할되어 텍스처 공간 사용을 개선합니다.앞(위쪽)과 뒤(아래쪽)의 예: <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r10-column-c2_dynamic_grid_items_grid-cell_position-par_image" src="../assets/uv-before-after.jpg" width="400px"/></div> |
+| **최적화** | **길어진 UV 섬 방지** | 이 프로세스가 활성화된 경우 너무 긴 것으로 간주되는 UV 섬을 분할하여 텍스처 공간 사용을 개선할 수 있습니다.앞(위쪽)과 뒤(아래쪽)의 예: <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r10-column-c2_dynamic_grid_items_grid-cell_position-par_image" src="../assets/uv-before-after.jpg" width="400px"/></div> |
 
 ## 알려진 제한 사항
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/kr/substance-3d-painter/interface/main-menu/plugins-menu.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-painter/interface/main-menu/plugins-menu.html'
 breadcrumb-title: ''
 description: Substance 3D Painter의 플러그인 메뉴를 사용하여 설치된 플러그인 및 확장 기능에 액세스하고 관리하는 방법에 대해 알아봅니다.
 helpx_creative_field: ''

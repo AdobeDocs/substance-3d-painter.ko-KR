@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/display-settings.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/display-settings.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 디스플레이 설정을 구성하여 뷰포트 렌더링 및 시각적 품질을 사용자 정의하는 방법을 살펴보세요.
 helpx_creative_field: ""
@@ -34,7 +34,7 @@ ht-degree: 7%
 | --- | --- |
 | **조명** | 활성화된 경우 그림자를 포함하여 전체 조명이 있는 3D 모델을 뷰포트에 표시합니다. |
 | **단일 채널** | 단독 모드라고도 합니다. 조명이 켜지지 않은 상태에서 특정 채널이나 텍스처만 메시를 뷰포트에 표시합니다. |
-| **메시 맵** | 조명이 켜지지 않은 상태에서 특정 구워진 텍스처로만 뷰포트에 메시를 표시합니다. |
+| **메시 맵** | 조명이 켜지지 않은 상태에서 구워진 특정 텍스처의 메시만 뷰포트에 표시합니다. |
 
 >[!NOTE]
 >

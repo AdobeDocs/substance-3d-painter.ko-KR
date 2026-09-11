@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/subsurface-scattering/enabling-subsurface-in-a-project.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/subsurface-scattering/enabling-subsurface-in-a-project.html"
 breadcrumb-title: ''
 description: Substance 3D Painter 프로젝트에서 표면 아래 산란을 활성화하여 사실적인 반투명 재질 효과를 만드는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -31,7 +31,7 @@ Substance 3D Painter에서 서브서피스 산란을 제대로 활성화하려�
 
 >[!NOTE]
 >
-> 분산 채널은 **표면**&#x200B;에서 **마스크**&#x200B;처럼 작동합니다. 채널이 검정이면 하위 표면이 전혀 없고, 흰색이면 하위 표면 강도가 최대입니다. 이 채널은 **기본적으로 검정**&#x200B;인 회색 음영 값입니다. 레이어 스택에 칠 레이어를 추가하여 기본 색상을 제어하거나 페인트 레이어를 사용하여 수동으로 강도를 제어합니다.
+> 분산 채널은 **표면**&#x200B;에서 **마스크**&#x200B;처럼 작동합니다. 채널이 검정이면 하위 표면이 전혀 없고, 흰색이면 하위 표면 강도가 최대입니다. 이 채널은 **기본적으로 검정**&#x200B;인 회색 음영 값입니다. 레이어 스택에 채우기 레이어를 추가하여 기본 색상을 제어하거나 레이어 페인팅을 사용하여 수동으로 강도를 제어합니다.
 
 ## 2 - 글로벌 하위 서피스 설정
 

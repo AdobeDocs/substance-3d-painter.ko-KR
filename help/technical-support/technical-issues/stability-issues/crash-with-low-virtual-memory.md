@@ -1,13 +1,13 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/stability-issues/crash-with-low-virtual-memory.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/stability-issues/crash-with-low-virtual-memory.html"
 breadcrumb-title: ''
-description: 안정적인 애플리케이션 성능을 보장하기 위해 가상 메모리 부족으로 인한 Substance 3D Painter 충돌을 해결하는 방법을 알아보십시오.
+description: 안정적인 애플리케이션 성능을 보장하기 위해 가상 메모리 부족으로 인해 발생하는 Substance 3D Painter 충돌을 해결하는 방법을 알아보십시오.
 helpx_creative_field: ""
 helpx_description: Painter > Technical support > Technical Issues > Stability Issues > Crash with low virtual memory
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: 가상 메모리가 부족할 때 충돌 발생
+title: 가상 메모리가 부족한 충돌
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# 가상 메모리가 부족할 때 충돌 발생
+# 가상 메모리가 부족한 충돌
 
 **페이징** 파일(**스왑** 메모리/ **가상** 메모리)이 **너무 낮음** 값으로 설정된 경우 Substance 3D Painter이 불안정할 수 있습니다.\
 운영 체제에서 이러한 설정을 처리하도록 하는 것이 좋습니다(일반적으로 기본적으로 이러한 경우). Substance 3D Painter이 제대로 작동하려면 가상 메모리 **최소**(**16GB**)가 필요합니다.

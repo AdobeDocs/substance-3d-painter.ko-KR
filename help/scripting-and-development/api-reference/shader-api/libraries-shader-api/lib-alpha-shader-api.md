@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-alpha-shader-api.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-alpha-shader-api.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 알파 채널 및 사용자 정의 셰이더의 투명도를 사용하여 작업하려면 Lib Alpha 셰이더 API 참조에 액세스하십시오.
 helpx_creative_field: ""
@@ -78,7 +78,7 @@ uniform bool alpha_dither;
 ```
 
 
-알파 테스트 에뮬레이션 : 불투명도가 사용자 정의 임계값 미만인 경우 현재 조각을 버립니다. AFTER 텍스처 샘플링 호출이 호출되어야 함: 이는 도함수를 파괴할 수 있음
+알파 테스트 에뮬레이션 : 불투명도가 사용자 정의 임계값 미만인 경우 현재 조각을 버립니다. AFTER 텍스처 샘플링 호출로 불러야 합니다.
 
 ```
 void alphaKill(float alpha) 

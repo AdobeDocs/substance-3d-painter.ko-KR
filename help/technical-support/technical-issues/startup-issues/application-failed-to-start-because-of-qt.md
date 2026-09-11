@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/startup-issues/application-failed-to-start-because-of-qt.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/startup-issues/application-failed-to-start-because-of-qt.html"
 breadcrumb-title: ''
 description: 적절한 애플리케이션 실행을 위해 Qt 프레임워크 문제로 인한 Substance 3D Painter 시작 오류를 수정하는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 애플리케이션을 시작할 때 다음과 같은 오류 메시지가 표시될 수 있습니다.
 
-&#x200B;>> 
+>> 
 
 Qt 플랫폼 플러그인을 초기화할 수 없으므로 이 애플리케이션을 시작하지 못했습니다. 애플리케이션을 다시 설치하면 이 문제가 해결될 수 있습니다.
 

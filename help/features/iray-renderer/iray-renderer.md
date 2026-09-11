@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/iray-renderer.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/iray-renderer.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 Ray 렌더러를 사용하여 사실적인 재질 미리 보기 및 렌더링을 만드는 방법을 알아봅니다.
 helpx_creative_field: ""

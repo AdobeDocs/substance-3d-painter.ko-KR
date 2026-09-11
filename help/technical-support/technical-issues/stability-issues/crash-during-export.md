@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/stability-issues/crash-during-export.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/stability-issues/crash-during-export.html"
 breadcrumb-title: ''
-description: 안정적인 텍스처 내보내기 워크플로우를 위해 내보내기 작업 중에 Substance 3D Painter 충돌을 수정하는 방법을 알아봅니다.
+description: 안정적인 텍스처 내보내기 워크플로우를 위해 내보내기 작업 중에 Substance 3D Painter 충돌을 해결하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
 helpx_description: Painter > Technical support > Technical Issues > Stability Issues > Crash during export
 helpx_experience_level: ""
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 TDR(Timeout Detection and Recovery)은 GPU가 끝나지 않는 계산으로 시스템을 잠그는 것을 방지하기 위한 Microsoft Windows의 안전 메커니즘입니다. 이 메커니즘은 기본적으로 Substance 3D Painter에 대해 너무 제한적입니다.
 
-자세한 내용은 [GPU 드라이버가 긴 계산에 충돌함(TDR 충돌)](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)을 참조하세요.
+자세한 내용은 [GPU 드라이버 충돌(TDR 충돌)](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)을(를) 참조하십시오.
 
 ## 가상 메모리 부족
 
@@ -44,4 +44,4 @@ SVT(Sparse Virtual Textures)가 도입되었기 때문에 Substance 3D Painter�
 
 오버클럭된 GPU는 처음에 GPU 생성자가 설계하지 않은 주파수를 실행하므로 불안정할 수 있습니다. 잠시 동안 오버클럭킹을 비활성화하는 데 도움이 될 수 있습니다.
 
-자세한 내용은 [오버클럭된 GPU로 작업할 때 충돌](../gpu-issues/crash-when-working-with-overclocked-gpu.md)을 참조하세요.
+자세한 내용은 [오버클럭된 GPU로 작업할 때 충돌](../gpu-issues/crash-when-working-with-overclocked-gpu.md)를 참조하십시오.

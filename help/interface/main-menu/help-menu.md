@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/kr/substance-3d-painter/interface/main-menu/help-menu.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-painter/interface/main-menu/help-menu.html'
 breadcrumb-title: ''
 description: Substance 3D Painter의 도움말 메뉴에 액세스하여 설명서, 자습서 및 지원 리소스를 찾습니다.
 helpx_creative_field: ''
@@ -29,7 +29,7 @@ ht-degree: 7%
 
 | 액션 | 설명 |
 | --- | --- |
-| 튜토리얼 | 응용 프로그램과 관련된 공식 [자습서](https://helpx.adobe.com/kr/substance-3d/unlisted/tutorials.html)에 연결합니다. |
+| 튜토리얼 | 응용 프로그램과 관련된 공식 [자습서](https://helpx.adobe.com/substance-3d/unlisted/tutorials.html)에 연결합니다. |
 | 릴리스 정보 | [릴리스 정보](../../release-notes/all-changes.md)에 연결합니다. |
 | 설명서 | 이 설명서에 대한 링크. |
 | 단축키 목록 | [바로 가기](../settings/shortcuts.md) 설명서에 연결합니다. |

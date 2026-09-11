@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/gpu-issues/running-on-integrated-gpu.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/gpu-issues/running-on-integrated-gpu.html"
 breadcrumb-title: ''
 description: 성능 향상을 위해 통합 그래픽 대신 전용 GPU를 사용하도록 Substance 3D Painter을 구성하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

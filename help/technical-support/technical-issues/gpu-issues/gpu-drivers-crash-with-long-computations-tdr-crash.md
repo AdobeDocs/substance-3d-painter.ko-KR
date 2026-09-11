@@ -1,13 +1,13 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/gpu-issues/gpu-drivers-crash-with-long-computations-tdr-crash.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/gpu-issues/gpu-drivers-crash-with-long-computations-tdr-crash.html"
 breadcrumb-title: ''
-description: Substance 3D Painter에서 긴 계산 중에 GPU 드라이버 충돌을 해결하여 TDR 시간 초과 오류를 방지하는 방법을 알아봅니다.
+description: Substance 3D Painter에서 긴 계산 동안 TDR 시간 초과 오류를 방지하기 위해 GPU 드라이버 충돌을 수정하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
 helpx_description: Painter > Technical support > Technical Issues > GPU Issues > GPU drivers crash with long computations (TDR crash)
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: 긴 계산과 함께 GPU 드라이버 충돌(TDR 충돌)
+title: GPU 드라이버와 긴 계산 충돌 (TDR 충돌)
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# 긴 계산과 함께 GPU 드라이버 충돌(TDR 충돌)
+# GPU 드라이버와 긴 계산 충돌 (TDR 충돌)
 
 Substance 3D Painter의 ![TDR 경고](../../../assets/tdr-window-v2.png "Substance 3D Painter의 TDR 경고"){zoomable="yes"}
 
@@ -28,7 +28,7 @@ Windows에서 Substance 3D Painter이 현재 TDR 값이 특정 제한(10초) 미
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-## GPU 드라이버가 충돌하는 이유는 무엇입니까?
+## GPU 드라이버가 충돌 상태인 이유는 무엇입니까?
 
 </td>
 <td style="border: 0;" valign="top">
@@ -44,9 +44,9 @@ Windows에서 Substance 3D Painter이 현재 TDR 값이 특정 제한(10초) 미
 </tr>
 </table>
 
-## GPU 드라이버가 충돌하는 이유는 무엇입니까?
+## GPU 드라이버가 충돌 상태인 이유는 무엇입니까?
 
-렌더링 또는 GPU 계산이 **시스템을 잠그는 것**&#x200B;을 방지하기 위해, Windows 운영 체제 **렌더링이 몇 초 이상 걸릴 때마다 GPU 드라이버를 종료합니다**. 드라이버를 제거하면 해당 드라이버를 사용하는 응용 프로그램이 자동으로 충돌합니다. 렌더링 작업이나 계산이 얼마나 걸릴 수 있는지 알 수 없습니다(GPU, 드라이버, OS, 메시 크기, 텍스처 크기 등에 따라 다름). 따라서 컴퓨터가 처리해야 하는 정도를 제한하고 응용 프로그램 수준에서 충돌을 피할 수 없습니다.
+렌더링 또는 GPU 계산이 **시스템을 잠그는 것**&#x200B;을 방지하기 위해, Windows 운영 체제 **렌더링이 몇 초 이상 걸릴 때마다 GPU 드라이버를 종료합니다**. 드라이버가 제거되면 이를 사용하는 응용 프로그램이 자동으로 충돌을 표시합니다. 렌더링 작업이나 계산이 얼마나 걸릴 수 있는지 알 수 없습니다 (GPU, 드라이버, OS, 메쉬 크기, 텍스처 크기 등에 따라 다름), 따라서 컴퓨터의 처리 정도에 제한을 두고 응용 프로그램 수준에서 충돌을 피할 수 없습니다.
 
 Windows에는 GPU 드라이버를 종료하기 전에 OS가 기다려야 하는 시간을 지정하는 **레지스트리** **키**&#x200B;가 있습니다. 응용 프로그램에서는 이 설정을 직접 수정할 권한이 없으므로 이 절차는 수동으로 수행해야 합니다(아래 참조).
 
@@ -143,7 +143,7 @@ Windows 레지스트리 편집기의 ![TDR 키 - 최종](../../../assets/registr
 
 TdrValue는 컴퓨터가 시작될 때만 나타나므로 강제로 새로 고치려면 다시 부팅해야 합니다.
 
-긴 계산을 수행할 때 응용 프로그램이 여전히 충돌하면 지연 시간(초)을 60에서 120으로 늘려 보십시오.
+긴 계산을 수행할 때 응용 프로그램에서 여전히 충돌이 발생하는 경우 지연 시간(초)을 60에서 120으로 늘려 보십시오.
 
 ## TDR 값을 기본값으로 되돌리기
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/main-menu/viewport-menu.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/main-menu/viewport-menu.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 뷰포트 메뉴를 사용하여 뷰포트 설정과 표시 옵션에 액세스하는 방법을 살펴보세요.
 helpx_creative_field: ""
@@ -32,7 +32,7 @@ ht-degree: 1%
 | **다음 메시 맵 표시** | 뷰포트를 솔로 모드로 전환하여 다음으로 구워진 메시 맵 유형을 표시합니다. |
 | **이전 메시 맵 표시** | 이전에 구운 메시 맵 유형을 표시하려면 뷰포트를 솔로 모드로 전환합니다. |
 | **전체 메시 표시** | 뷰포트 카메라를 3D 모델 중앙에 배치합니다. |
-| **빠른 마스크 사용** | 자세한 내용은 [빠른 마스크](../../painting/tool-list/quick-mask.md) 페이지를 참조하세요. |
+| **활성화된 빠른 마스크** | 자세한 내용은 [빠른 마스크](../../painting/tool-list/quick-mask.md) 페이지를 참조하세요. |
 | **빠른 마스크 편집** | 자세한 내용은 [빠른 마스크](../../painting/tool-list/quick-mask.md) 페이지를 참조하세요. |
 | **빠른 마스크 반전** | 자세한 내용은 [빠른 마스크](../../painting/tool-list/quick-mask.md) 페이지를 참조하세요. |
 

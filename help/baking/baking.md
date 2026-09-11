@@ -1,7 +1,7 @@
 ---
-helpx_url: 'https://helpx.adobe.com/kr/substance-3d-painter/baking.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-painter/baking.html'
 breadcrumb-title: ''
-description: Substance 3D Painter에서 메시 맵을 베이킹하여 주변 오클루전, 곡률 및 기타 모양 기반 텍스처를 생성하는 방법을 알아봅니다.
+description: Substance 3D Painter에서 메시 맵을 굽어 앰비언트 오클루전, 곡률 및 기타 모양 기반 텍스처를 생성하는 방법을 알아봅니다.
 helpx_creative_field: ''
 helpx_description: Painter > Baking
 helpx_experience_level: ''
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ![](../assets/banner-baking.jpg)
 
-베이킹은 **메시 기반 정보를 텍스처로 전달**&#x200B;하는 작업을 말합니다. 그런 다음 고급 효과를 만들기 위해 음영 및/또는 Substance 필터에서 이 정보를 읽습니다. 예를 들어 [스마트 재질] 및 [스마트 마스크]는 구운 곡률 및 표준 맵과 함께 기타 구운 정보에 의존합니다.
+굽기는 **메시 기반 정보를 텍스처로 전송**&#x200B;하는 작업을 의미합니다. 그런 다음 고급 효과를 만들기 위해 음영 및/또는 Substance 필터에서 이 정보를 읽습니다. 예를 들어 스마트 재질 및 스마트 마스크는 다른 정보를 비롯하여 구운 곡률 및 노멀 맵에 의존합니다.
 
 Painter에서 베이킹은 전용 베이킹 모드를 통해 수행됩니다. 이 모드는 [모드 메뉴](../interface/main-menu/mode-menu.md)를 사용하거나 [키보드 단축키](../interface/settings/shortcuts.md)를 사용하여 전용 아이콘(컨텍스트 도구 모음의 작은 크루아상)을 통해 액세스할 수 있습니다.
 
@@ -37,4 +37,4 @@ Painter의 베이킹 과정에 대한 자세한 내용은 다음 페이지를 �
 
 >[!NOTE]
 >
-> 일반적인 굽기에 대해 자세히 알아보려면 전용 [굽기 설명서](https://experienceleague.adobe.com/ko/docs/substance-3d/bakers/home)를 살펴보세요.
+> 일반적인 굽기에 대해 자세히 알아보려면 전용 [굽기 설명서](https://experienceleague.adobe.com/en/docs/substance-3d/bakers/home)를 살펴보세요.

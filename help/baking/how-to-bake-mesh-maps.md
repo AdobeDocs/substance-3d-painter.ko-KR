@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/baking/how-to-bake-mesh-maps.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/baking/how-to-bake-mesh-maps.html"
 breadcrumb-title: ''
-description: Substance 3D Painter에서 메시 맵을 베이킹하여 주변 오클루전, 곡률 및 기타 모양 기반 텍스처를 생성하는 방법을 알아봅니다.
+description: Substance 3D Painter에서 메시 맵을 굽어 앰비언트 오클루전, 곡률 및 기타 모양 기반 텍스처를 생성하는 방법을 알아봅니다.
 helpx_creative_field: ""
 helpx_description: Painter > Baking > How to bake mesh maps
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 메시 맵을 분리하는 방법
 
-Substance 3D Painter의 전용 베이킹 모드를 사용하면 멋진 스마트 재료 및 기타 도구를 강화할 수 있는 메시 맵을 쉽게 베이킹할 수 있습니다. Substance 3D Painter을 사용하여 베이킹을 시작하는 방법에 대해 알아보려면 계속 읽거나 아래 비디오를 시청하십시오.
+Substance 3D Painter의 전용 베이킹 모드를 사용하면 멋진 스마트 재질 및 기타 도구를 사용할 수 있는 메시 맵을 쉽게 베이킹할 수 있습니다. Substance 3D Painter을 사용하여 베이킹을 시작하는 방법에 대해 알아보려면 계속 읽거나 아래 비디오를 시청하십시오.
 
 ## 1 - 베이킹 모드로 전환
 

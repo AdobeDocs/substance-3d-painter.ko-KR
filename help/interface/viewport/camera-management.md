@@ -1,7 +1,7 @@
 ---
-helpx_url: 'https://helpx.adobe.com/kr/substance-3d-painter/interface/viewport/camera-management.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-painter/interface/viewport/camera-management.html'
 breadcrumb-title: ''
-description: Substance 3D Painter 뷰포트에서 카메라 보기를 관리하여 3D 모델을 효과적으로 탐색하고 프레임하는 방법을 알아보십시오.
+description: Substance 3D Painter 뷰포트에서 카메라 보기를 관리하여 3D 모델을 효과적으로 탐색하고 프레임 하는 방법을 알아봅니다.
 helpx_creative_field: ''
 helpx_description: Painter > Interface > Viewport > Camera management
 helpx_experience_level: ''
@@ -30,7 +30,7 @@ Maya, Max, Blender, Modo 및 DAE에서 만든 카메라를 Substance 3D Painter�
 
 카메라는 메시 파일에 FBX 또는 ABC(Alembic) 형식으로 포함되어야 합니다.
 
-이름, 변형 매개 변수, FOV 및 종횡비(있는 경우)를 가져옵니다.
+이름, 변환 매개변수, FOV 및 종횡비(있는 경우)를 가져옵니다.
 
 새 프로젝트 창에서 카메라가 포함된 메시 파일을 선택하고 **카메라 가져오기** 확인란이 선택되어 있는지 확인합니다. **편집 > 프로젝트 구성 창**&#x200B;에서 **메시 다시 가져오기**&#x200B;를 켠 경우 초기 프로젝트 생성 시 누락된 경우 **카메라 가져오기**&#x200B;를 전환할 수도 있습니다.
 
@@ -47,7 +47,7 @@ Maya, Max, Blender, Modo 및 DAE에서 만든 카메라를 Substance 3D Painter�
 
 현재 프로젝트에 카메라를 가져온 경우 **3D 뷰포트**&#x200B;의 **드롭다운**&#x200B;에서 활성화된 카메라를 선택할 수 있습니다.
 
-기본적으로 &quot;기본 카메라&quot;라는 이름의 Painter 카메라는 선택되어 있으며 원근감 모드에 있습니다.
+기본적으로 이름이 &quot;기본 카메라&quot;인 Painter 카메라가 선택되어 있으며 원근감 모드에 있습니다.
 
 ![](../../assets/camera-select.png)
 

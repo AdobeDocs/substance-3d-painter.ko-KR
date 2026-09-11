@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/settings/libraries-configuration.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/settings/libraries-configuration.html"
 breadcrumb-title: ''
 description: Substance 3D Painter 설정에서 라이브러리를 구성하여 리소스 경로 및 에셋 구성을 관리하는 방법에 대해 알아보십시오.
 helpx_creative_field: ""
@@ -45,5 +45,5 @@ ht-degree: 0%
 | --- | --- |
 | **이름** | 인터페이스에서 경로를 참조하는 데 사용되는 이름(예: 리소스를 마우스 오른쪽 버튼으로 클릭할 때)입니다. 또한 이 이름은 리소스가 최신 상태인지 아닌지를 추적할 리소스의 내부 위치 이름을 정의하므로 일단 정의한 후에는 이 이름을 변경하지 않는 것이 좋습니다. |
 | **경로** | 리소스가 디스크에 있거나 있을 실제 위치입니다. |
-| **더하기 단추**  <div><img data-preserve-html="true" src="../../assets/shelf-button.png" width="30"/></div> | 이 버튼을 클릭하면 이름 및 경로 설정으로 정의된 경로가 아래 목록에 추가됩니다.새 경로를 추가하면 데이터 및 리소스를 구성하는 데 필요한 하위 폴더 구조가 자동으로 만들어집니다. 리소스를 배치할 위치를 알아보려면 [셸프에 콘텐츠 추가](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/adding-content-to-the-shelf-142213317.html)를 참조하십시오. |
+| **더하기 단추**  <div><img data-preserve-html="true" src="../../assets/shelf-button.png" width="30"/></div> | 이 버튼을 클릭하면 이름 및 경로 설정으로 정의된 경로가 아래 목록에 추가됩니다.새 경로를 추가하면 데이터 및 리소스를 구성하는 데 필요한 하위 폴더 구조가 자동으로 만들어집니다. 리소스를 배치할 위치를 알아보려면 [셸프에 콘텐츠 추가](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/adding-content-to-the-shelf-142213317.html)를 참조하십시오. |
 | **빼기 단추**   <div><img data-preserve-html="true" src="../../assets/shelf-remove.png" width="30"/></div> | 경로 앞에 있는 이 버튼을 클릭하면 목록에서 제거됩니다. 리소스는 더 이상 [에셋](../assets/assets.md) 인터페이스에 나열되지 않습니다.  **참고:** 기본 경로는 제거할 수 없지만 사용하지 않도록 설정되며 해당 리소스는 숨겨집니다. |

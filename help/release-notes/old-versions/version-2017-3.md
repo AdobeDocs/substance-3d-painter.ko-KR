@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/release-notes/old-versions/version-2017-3.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/release-notes/old-versions/version-2017-3.html"
 breadcrumb-title: ''
 description: Substance 3D Painter 버전 2017.3의 릴리스 노트를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
 helpx_creative_field: ""
@@ -26,11 +26,11 @@ ht-degree: 0%
 
 ## 주요 기능
 
-### Adobe 표준 재질 내보내기 사전 설정
+### Adobe Standard Material 내보내기 사전 설정
 
 ![](../../assets/adobe-dimension-meetmat.jpg)
 
-이 릴리스에 포함되는 새 내보내기 도구 중 하나는 Adobe Dimension(이전의 Adobe Project Felix)와 함께 사용할 Adobe Standard Material을 지원하는 것입니다. 한 번의 클릭으로 장면 메쉬와 해당 텍스처를 Project Felix로 가져올 수 있도록 내보낼 수 있습니다. 액세스하려면 텍스처 내보내기 창에서 &quot;**Adobe Standard Material**&quot;을(를) 선택하면 됩니다. 자세한 내용은 [http://www.adobe.com/kr/products/dimension.html](https://www.adobe.com/kr/products/dimension.html)을 참조하세요.
+이 릴리스에 포함되는 새로운 내보내기 도구 중 하나는 Adobe Dimension(이전의 Adobe 프로젝트 Felix)와 함께 사용할 Adobe Standard Material에 대한 지원입니다. 한 번의 클릭으로 장면 메쉬와 해당 텍스처를 Project Felix로 가져올 수 있도록 내보낼 수 있습니다. 액세스하려면 텍스처 내보내기 창에서 &quot;**Adobe Standard Material**&quot;을(를) 선택하면 됩니다. 자세한 내용은 [http://www.adobe.com/products/dimension.html](https://www.adobe.com/products/dimension.html)을 참조하세요.
 
 이에 대한 블로그 게시물(<https://www.allegorithmic.com/blog/new-dimension-substance-ecosystem>)을 확인할 수도 있습니다.
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 ![](../../assets/gltf-export.jpg)
 
-또한 **장면 메시** 및 **PBR 텍스처**(금속/거칠기)를 내보내는 방식으로 **glTF** 파일 형식에 대한 지원을 추가했습니다. 액세스하려면 텍스처 내보내기 창에서 &quot;**glTF PBR Metal Roughness**&quot;을(를) 선택하면 됩니다. **glTF**&#x200B;은(는) 크로노스 그룹이 감독하는 오픈 소스 파일 형식입니다. **Windows 10**&#x200B;에서 glTF 파일을 보거나 간단히 [**Babylon**](http://sandbox.babylonjs.com/)과 같은 WebGL 뷰어를 사용할 수 있습니다.
+또한 **glTF** 파일 형식에 대한 지원을 추가하여 **장면 메시** 및 **PBR 텍스처**(금속/거칠기)를 내보냈습니다. 액세스하려면 내보내기 텍스처 창에서 &quot;**glTF PBR Metal Roughness**&quot;을(를) 선택하면 됩니다. **glTF**&#x200B;은(는) 크로노스 그룹이 감독하는 오픈 소스 파일 형식입니다. **Windows 10**&#x200B;에서 glTF 파일을 보거나 간단히 [**Babylon**](http://sandbox.babylonjs.com/)과 같은 WebGL 뷰어를 사용할 수 있습니다.
 
 자세한 내용은 <https://github.com/KhronosGroup/glTF>을(를) 참조하십시오.
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ![](../../assets/gradient-rust.jpg)
 
-**그레이디언트 필터**&#x200B;가 완전히 개선되었습니다. **Substance Designer**&#x200B;에서 사용할 수 있는 **그레이디언트 맵** 노드와 훨씬 더 유사한 방식으로 작동합니다. 이제 최대 **10개의 다른 색상**&#x200B;을 지원하며, **색상이**&#x200B;그레이디언트&#x200B;**&#x200B;**&#x200B;내부에 있는 위치를 지정하여 많은 새 문을 열 수 있습니다. 이를 통해 더 많은&#x200B;**고급 색상 패턴**&#x200B;을 만들 수 있지만&#x200B;**높이 지도 다시 매핑**&#x200B;과&#x200B;**새 모양**&#x200B;을 만들 수도 있습니다.
+**그레이디언트 필터**&#x200B;가 완전히 개선되었습니다. **Substance Designer**&#x200B;에서 사용할 수 있는 **그레이디언트 맵** 노드와 훨씬 더 유사한 방식으로 작동합니다. 이제 최대 **10개의 다른 색상**&#x200B;을 지원하며, **색상이**&#x200B;그레이디언트&#x200B;****내부에 있는 위치를 지정하여 많은 새 문을 열 수 있습니다. 이를 통해 더 많은&#x200B;**고급 색상 패턴**을 만들 수 있지만&#x200B;**높이 지도 다시 매핑**과&#x200B;**새 모양**을 만들 수도 있습니다.
 
 기본 슬라이더(색상 양)는 그레이디언트를 만드는 데 사용되는 총 색상 수를 정의합니다. 바로 아래에 있는 버튼은 색상 혼합 모드(sRGB 또는 선형)를 정의합니다. 색상 간의 적절한 혼합을 원하는 경우 이 설정이 중요합니다. 예를 들어 순수한 빨강과 순수한 녹색을 혼합하면 중간 중간에 멋진 노란색을 만들 수 있습니다. 이 버튼을 비활성화하면(대신 진한 갈색이 표시됨) 이것은 그렇지 않습니다. Height 또는 다른 회색 음영 채널을 다시 매핑할 때 감마 변환을 수행하지 않도록 이 버튼을 비활성화해야 합니다.
 
@@ -130,7 +130,7 @@ ht-degree: 0%
 * 여러 개의 하위 셸프를 삭제할 때 충돌 발생
 * 엔진 계산 중 레벨에서 다른 레벨로 전환할 때 충돌 발생
 * [Mac] 엔진 계산 중 Intel GPU에서 충돌이 발생합니다
-* [Mac]&#x200B;[뷰포트] 디더링을 사용할 때 성능 저하가 발생합니다.
+* [Mac][뷰포트] 디더링을 사용할 때 성능 저하가 발생합니다.
 * [Mac] MacOS 10.13이 로그 파일에서 &quot;알 수 없는 버전&quot;으로 인식됩니다.
 * [베이커] 케이지로 굽는 것은 더 이상 작동하지 않습니다
 * [레이어] Ctrl + C 단축키(복사 작업)가 더 이상 작동하지 않음
@@ -149,16 +149,16 @@ ht-degree: 0%
 
 **추가됨 :**
 
-* [내보내기] Adobe 프로젝트 Felix에 메시 및 텍스처 내보내기 허용
+* [내보내기] Adobe 프로젝트 Felix에 대한 메시 및 텍스처 내보내기 허용
 * [내보내기] glTF 파일 형식으로 내보낼 수 있습니다.
-* [엔진] 블록 압축을 사용하여 VRAM의 텍스처 크기 최적화
+* [엔진] 블록 압축을 사용하여 VRAM에서 텍스처 크기 최적화
 * [뷰포트] 메쉬 또는 프로젝트를 뷰포트에 끌어다 놓을 수 있습니다.
 * [UI] TDR에 대한 경고 메시지를 개선합니다.
 * [UI] 로그는 요청 시에만 표시되어야 합니다.
 * [UI] 로그 창의 내용을 지울 수 있습니다.
 * [UI] 상태 표시줄에 경고 및 오류 표시
 * [UI] 웹 브라우저에서와 같이 탭을 맨 위에 표시합니다.
-* [UI] &quot;페인트할 수 없는&quot; 컨텍스트 및 메시지 개선
+* [UI] &quot;채색 가능 사용 안 함&quot; 컨텍스트 및 메시지 개선
 * [UI] [파일] 메뉴에서 &quot;사본으로 저장&quot; 동작을 추가합니다
 * [레이어] 기본적으로 기본 타일링 설정을 1로 설정
 * [Shelf] 10가지 동적 색상을 지원하도록 그레이디언트 필터를 개선했습니다.
@@ -166,7 +166,7 @@ ht-degree: 0%
 * [Shelf] 셸프의 로컬 리소스에 대해 &#39;탐색기에서 열기&#39; 동작을 추가합니다.
 * [Shelf] Adobe Material Standard용 템플릿 및 셰이더 추가(Project Felix)
 * [Shelf] 재질 레이어 셰이더에서 최대 타일링을 128까지 늘리기
-* [Shelf] 마스크 생성기의 미세한 세부 사항을 위한 소벨 곡률이 추가되었습니다.
+* [Shelf] 마스크 생성기의 미세한 세부 사항을 위한 소벨 곡률 추가
 * [플러그인] 사용자 정의 가능한 시간 간격을 가진 자동 저장 플러그인 추가
 * [스크립팅] &quot;사본으로 저장&quot; 함수 추가
 
@@ -174,8 +174,8 @@ ht-degree: 0%
 
 * [UI] 처음 실행 시 레이아웃이 중단됨
 * [내보내기] 내보낼 때 생성된 PSD에 형식 오류가 있음
-* [내보내기] EXR은 항상 8비트 Height 맵을 내보냅니다
-* [내보내기] 손상된 추가 맵을 내보낼 때 충돌이 발생합니다
+* [내보내기] EXR은 항상 8비트 높이 맵을 내보냅니다
+* [내보내기] 손상된 추가 맵을 내보낼 때 충돌 발생
 * [가져오기] 경우에 따라 단단한 가장자리가 낮은 폴리 메쉬에서 보존되지 않습니다
 * [가져오기] 문제가 있는 메시를 가져올 때 표시되는 오류 메시지를 개선했습니다.
 * [Bakers] 이름으로 일치가 활성화된 상태에서 ID 맵 굽기가 실패했습니다.

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/subsurface-scattering/subsurface-material-type.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/subsurface-scattering/subsurface-material-type.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 지표 아래 재질 유형을 사용하여 사실적인 피부, 왁스 및 유기 재질을 만드는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -32,7 +32,7 @@ ht-degree: 1%
 
 좋은 피부 재질을 위해 다음을 필요로 합니다.
 
-* 좋은 기본 텍스처 : 사실적인 캐릭터를 위해 많은 디테일과 다양한 색상을 제공합니다.
+* 좋은 기본 텍스처 : 현실적인 캐릭터를 위해 많은 디테일과 다양한 색상을 제공합니다.
 * 강한 Height/표준 텍스처 : 표면 아래 효과는 표면 세부 사항을 부드럽게 하며, 처음에 강한 세부 사항이 이를 보완합니다.
 
 | *설정* | *설명* |

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/content/creating-custom-effects/generators.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/content/creating-custom-effects/generators.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 생성기 효과를 만들어 절차 텍스처와 패턴을 자동으로 생성하는 방법을 알아봅니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/assets/filter-by-path.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/assets/filter-by-path.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 에셋을 경로별로 필터링하여 라이브러리 구조에서 리소스를 빠르게 찾는 방법을 알아봅니다.
 helpx_creative_field: ""

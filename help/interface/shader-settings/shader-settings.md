@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/shader-settings.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/shader-settings.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 셰이더 설정을 구성하여 재질 렌더링 및 시각적 모양을 사용자 정의하는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -66,7 +66,7 @@ ht-degree: 5%
 * **변위**: 입력 채널을 기준으로 형상을 밀거나 오프셋합니다.
 * **쪽맞춤**: 모양을 세분화하여 수정합니다. 밀도가 높을수록 다각형 사이의 간격이 더 짧아 더 세밀한 세부 사항을 제공합니다.
 
-셸프에서 &quot;**정규로 Height**&quot;이라는 필터를 사용할 수 있으며 최종 표준 맵을 가져오는 데 사용할 수 있습니다(기본 변환이 충분히 강하지 않은 경우).
+&quot;**정규로 Height**&quot;(이)라는 이름의 필터는 셸프에서 사용할 수 있으며 최종 노멀 맵을 가져오는 데 사용할 수 있습니다(기본 변환이 충분히 강하지 않은 경우).
 
 ### 변위
 

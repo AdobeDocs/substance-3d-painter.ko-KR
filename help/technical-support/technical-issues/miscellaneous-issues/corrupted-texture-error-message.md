@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/miscellaneous-issues/corrupted-texture-error-message.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/miscellaneous-issues/corrupted-texture-error-message.html"
 breadcrumb-title: ''
-description: Substance 3D Painter에서 텍스처 기능을 복원하기 위해 손상된 텍스처 오류 메시지를 수정하는 방법을 알아봅니다.
+description: Substance 3D Painter에서 손상된 텍스처 오류 메시지를 수정하여 텍스처 기능을 복원하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
 helpx_description: Painter > Technical support > Technical Issues > Miscellaneous Issues > Corrupted texture error message
 helpx_experience_level: ""
@@ -30,7 +30,7 @@ ht-degree: 0%
 ### 1 - 리소스 찾기
 
 오류가 표시되는 첫 번째 단계에서는 문제가 있는 리소스를 찾고 식별합니다.\
-대부분의 경우 범인은 **메시 맵**(구운 텍스처)에서 비롯됩니다. 이를 확인하는 빠른 방법은 레이어 스택의 마스크 생성기를 확인하는 것입니다.
+대부분의 경우 범인은 **메시 맵**(구운 텍스처)에서 온 것입니다. 이를 확인하는 빠른 방법은 레이어 스택의 마스크 생성기를 확인하는 것입니다.
 
 손상된 리소스는 다음과 같습니다.
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 >[!NOTE]
 >
 > * 구운 텍스처의 경우에는 [텍스처 설정](../../../interface/texture-set/texture-set-settings.md) 창에서 메시 맵 슬롯도 지우는 것을 잊지 마십시오.
-> * 표준 맵과 같이 텍스처 설정 에서만 사용되는 베이크도 손상될 수 있습니다. 오류가 지속되는 경우 이러한 오류도 제거해 보십시오.
+> * 노멀 맵과 같이 텍스처 설정 에서만 사용되는 베이크도 손상될 수 있습니다. 오류가 지속되는 경우 이러한 오류도 제거해 보십시오.
 
 ### 3 - 정리
 

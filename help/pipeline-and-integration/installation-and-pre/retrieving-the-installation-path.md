@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/pipeline-and-integration/installation-and-preferences/retrieving-the-installation-path.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/pipeline-and-integration/installation-and-preferences/retrieving-the-installation-path.html"
 breadcrumb-title: ''
 description: 스크립팅 및 파이프라인 통합을 위해 Substance 3D Painter의 설치 경로를 검색하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
@@ -27,7 +27,7 @@ ht-degree: 5%
 ### Creative Cloud 데스크톱
 
 1. Windows 레지스트리 편집기(**regedit**)를 엽니다.
-1. 레지스트리 키로 이동합니다. **&#x200B; HKEY\_LOCAL\_MACHINE\Software\Microsoft\Windows\CurrentVersion\App 경로\**
+1. 레지스트리 키로 이동합니다. ** HKEY\_LOCAL\_MACHINE\Software\Microsoft\Windows\CurrentVersion\App 경로\**
 1. 이름이 **Adobe Substance 3D Painter.exe**&#x200B;인 하위 키를 엽니다.
 1. 키 값에는 키가 설치된 응용 프로그램 실행 파일의 경로가 포함됩니다
 

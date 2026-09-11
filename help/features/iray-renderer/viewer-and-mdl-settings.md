@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/iray-renderer/viewer-and-mdl-settings.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/iray-renderer/viewer-and-mdl-settings.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 Ray 렌더러의 뷰어 및 MDL 설정을 구성하여 질감 렌더링을 사용자 정의하는 방법을 살펴봅니다.
 helpx_creative_field: ""
@@ -25,10 +25,10 @@ ht-degree: 0%
 ## 환경
 
 일반 뷰포트와 마찬가지로 Iray에서 사용되는 환경 맵은 조명을 제어합니다.\
-버튼을 클릭하거나 HDR 텍스처를 드래그하여 놓아 환경 맵을 변경할 수 있습니다.
+버튼을 클릭하거나 환경 맵 안으로 HDR 텍스처를 끌어 놓아 환경 맵을 변경할 수 있습니다.
 
 * **환경 노출** : HDR 환경 맵의 노출 수준을 제어합니다.
-* **환경 회전** : 환경 텍스처를 이동하고 장면 주변의 조명을 회전합니다.
+* **환경 회전** : 환경 텍스처를 이동하고 장면 주위의 조명을 회전합니다.
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ![](../../assets/dome-type.png)
 
-* **무한 구** : 지평선을 시뮬레이션하기 위해 구면의 배경에 환경이 프로젝트되므로 항상 장면에서 멀리 떨어져 있습니다
+* **무한 구** : 지평선을 시뮬레이션하기 위해 배경에 있는 환경으로, 항상 장면에서 멀리 떨어져 있습니다
 * **구** : 환경이 크기를 조정할 수 있는 일반 구에 투영됩니다.
 * **바닥이 있는 구** : 이전 모양과 마찬가지로 이 모양에도 바닥을 시뮬레이션하기 위해 구의 아래쪽을 평평하게 하는 컨트롤이 있습니다.
 
@@ -55,8 +55,8 @@ ht-degree: 0%
 | *설정* | *설명* |
 | --- | --- |
 | **반경** | 구의 크기(무한하지 않은 경우) |
-| **텍스처 크기 조절** | **지면이 있는 구** 유형에 대해 텍스처가 얼마나 늘어날지 지정합니다. |
-| **색상 지우기** | 활성화되면 환경 맵의 배경 이미지를 균일한 색상으로 바꿉니다. 이것은 조명에 영향을 미칩니다. |
+| **텍스처 크기** | **지면이 있는 구** 유형의 텍스처는 얼마나 됩니까? |
+| **색상 지우기** | 활성화된 경우 환경 맵의 배경 이미지를 균일 색상으로 바꿉니다. 이것은 조명에 영향을 미칩니다. |
 
 ### 지표 설정
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 | --- | --- |
 | **X, Y, Z 값** | 세 축에서 바닥의 위치를 정의합니다.   0,0,0 값은 장면의 테두리 상자 중간에 해당합니다. |
 | **반사율** | 지면 반사의 강도와 색상을 정의합니다.   흰색 밝기 값은 지면이 100% 반사된다는 것을 의미하고, 검정은 전혀 반사되지 않는다는 것을 의미합니다. <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r2-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/reflectivity-optim.gif"/></div> |
-| **광택** | 반사의 광택(또는 거친) 정도를 정의합니다. <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r3-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/glossiness-optim.gif"/></div> |
+| **광택도** | 반사의 광택(또는 거친) 정도를 정의합니다. <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r3-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/glossiness-optim.gif"/></div> |
 | **그림자 강도** | 이 매개 변수는 조명이 계산된 후 그림자의 최종 불투명도를 정의합니다. |
 | **아래에서 표시** | 지면이 아래에서 보이는지 여부를 정의합니다. 이 옵션을 선택하면 그라운드가 그 위에 있는 요소를 가린다는 의미입니다. |
 
@@ -97,7 +97,7 @@ Substance 3D Painter의 기본 MDL은 다음 속성을 지원합니다.
 
 | *설정* | *설명* |
 | --- | --- |
-| **발광 강도** | 방출 채널의 승수. 값이 높으면 빛이 나기 시작할 것이다. <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table1_row-r1-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/emissive-optim.gif"/></div> |
+| **발광 강도** | 방출 채널의 승수입니다. 값이 높으면 빛이 나기 시작할 것이다. <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table1_row-r1-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/emissive-optim.gif"/></div> |
 | **굴절** | 굴절 정도를 제어합니다. |
 | **IOR** | 재질의 굴절 색인을 정의합니다.   참고 : 공기 = 1.0, 물 = 1.2, 유리 = 1.5. |
 | **분산** | 표면을 통해 산란되는 빛의 양을 제어합니다. |

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/dynamic-material-layering.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/dynamic-material-layering.html"
 breadcrumb-title: ''
-description: Substance 3D Painter에서 동적 재질 레이어를 사용하여 재료를 혼합하고 절차 마스크와 결합하는 방법을 살펴보세요.
+description: Substance 3D Painter에서 동적 재질 레이어를 사용하여 프로시저 마스크로 재질을 혼합하고 결합하는 방법을 살펴보세요.
 helpx_creative_field: ""
 helpx_description: Painter > Features > Dynamic Material Layering
 helpx_experience_level: ""
@@ -56,10 +56,10 @@ ht-degree: 0%
 
 ![](../assets/sub-stacks.png) 이 예에서 셰이더는 각각 &quot;opacity&quot; 채널을 사용하여 지정된 텍스처 집합에 3개의 하위 스택을 만듭니다. 하위 스택은 TextureSet 목록 창에서 액세스할 수 있습니다.
 
-하위 레이어 스택의 **채널**&#x200B;이(가) 셰이더&#x200B;**에**&#x200B;정의되어 있으므로 텍스처 집합 설정에 새 채널을 추가할 수 없습니다. 채널을 추가하거나 제거하려면 셰이더 파일의 업데이트가 필요합니다.
+하위 레이어 스택의 **채널**&#x200B;이 셰이더&#x200B;**에**&#x200B;정의되어 있으므로 텍스처 집합 설정에 새 채널을 추가할 수 없습니다. 채널을 추가하거나 제거하려면 셰이더 파일의 업데이트가 필요합니다.
 
 지원되는 최대 채널 수는 하드웨어에서 지원하는 총 샘플 수로 정의됩니다.\
-Substance 3D Painter은 매개 변수로 로드된 재질에 대해 무제한 텍스처를 지원하지만, 엔진이 레이어 스택용으로 제공하는 채널은 Windows에서 32개로 제한됩니다. 이 제한에는 프로젝트의 메쉬에 적용된 표준 및 주변 오클루전 등의 다른 텍스처도 포함됩니다.
+Substance 3D Painter은 매개 변수로 로드된 자료에 대해 제한 없는 텍스처(따라서 무제한 텍스처 수)를 지원하지만, 엔진에 의해 레이어 스택으로 제공되는 채널은 Windows에서 32개로 제한됩니다. 이 제한에는 [표준] 및 프로젝트의 메쉬에 적용된 앰비언트 오클루전과 같은 다른 텍스처가 포함됩니다.
 
 ## 재질 입력
 
@@ -107,13 +107,13 @@ uniform sampler2D mask;
 ```
 
 
-이 특정 워크플로에서 가장 중요한 부분은 마스크 및 셰이더 매개 변수입니다. 따라서 Substance 3D Painter의 내보내기 창에서 &quot;**셰이더스 매개 변수 내보내기**&quot; 설정을 활성화하는 것이 좋습니다. 그러면 텍스처 옆에 하위 스택 설정, 사용된 재질, 셰이더와 매개 변수에 대한 정보가 포함된 **JSON** 파일이 디스크에 만들어집니다. 매개 변수 내보내기 및 가져오기
+이 특정 워크플로에서 가장 중요한 부분은 마스크 및 셰이더 매개 변수입니다. 따라서 Substance 3D Painter의 내보내기 창에서 &quot;**셰이더스 매개 변수 내보내기**&quot; 설정을 활성화하는 것이 좋습니다. 하위 스택 설정, 사용된 재질 및 셰이더와 매개 변수에 대한 정보를 포함할 텍스처 옆에 **JSON** 파일이 디스크에 만들어집니다. 매개 변수 내보내기 및 가져오기
 
-현재 단일 텍스처로의 마스크 패킹은 내보내기 중에 지원되지 않습니다. 그러나 이를 위한 간단한 해결 방법은 스크립팅 기능을 사용하고 Substance 일괄 처리 도구를 호출하여 대신 Substance으로 패킹을 수행하는 것입니다.
+지금은 내보내기 중 단일 텍스처에 대한 마스크 패킹이 지원되지 않습니다. 그러나 이를 위한 간단한 해결 방법은 스크립팅 기능을 사용하고 Substance 일괄 처리 도구를 호출하여 대신 Substance으로 패킹을 수행하는 것입니다.
 
 ![](../assets/export-window-shader.png)
 
-이 JSON 파일을 사용하여 프로젝트의 레이어 스택 및 셰이더를 설정할 수 있습니다.\
+그런 다음 이 JSON 파일을 사용하여 프로젝트의 레이어 스택 및 셰이더를 설정할 수 있습니다.\
 이렇게 하면 공통 매개 변수를 공유하여 여러 응용 프로그램 간에 쉽게 주고받을 수 있습니다.
 
 ![](../assets/import-jsons.png)

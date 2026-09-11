@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-pom-shader-api.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-pom-shader-api.html"
 breadcrumb-title: ''
 description: Substance 3D Painter용 Lib POM 셰이더 API 참조에 액세스하여 사용자 정의 셰이더에서 시차 오클루전 매핑 효과를 만듭니다.
 helpx_creative_field: ""
@@ -70,7 +70,7 @@ uniform int maxPOMSamples;
 ```
 
 
-시차를 기반으로 텍스처 좌표 오프셋 계산
+시차를 기준으로 텍스처 좌표 오프셋 계산
 
 ```
 vec2 getParallaxOffset(SparseCoord coord, vec3 viewTS) 

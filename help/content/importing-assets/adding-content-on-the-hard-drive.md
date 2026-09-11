@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/content/importing-assets/adding-content-on-the-hard-drive.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/content/importing-assets/adding-content-on-the-hard-drive.html"
 breadcrumb-title: ''
 description: 하드 드라이브에서 Substance 3D Painter으로 콘텐츠를 추가하여 로컬 파일로 리소스 라이브러리를 확장하는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 하드 드라이브의 올바른 위치에 새 콘텐츠를 직접 배치하여 라이브러리에 리소스를 추가할 수 있습니다.
 
-사용자 에셋에 대한 기본 폴더는 애플리케이션 인터페이스를 통하거나 다음 위치에 수동으로 놓아 새 콘텐츠를 추가할 수 있는 위치에 기본적으로 제공됩니다. 브러시, 도구, 스마트 재질 등과 같은 새 사전 설정을 만들 때도 이 기본 라이브러리가 사용됩니다. 자세한 내용은 [사전 설정](../../painting/presets/presets.md) 설명서를 참조하세요.
+사용자 에셋에 대한 기본 폴더는 애플리케이션 인터페이스를 통하거나 다음 위치에 수동으로 놓아 새 콘텐츠를 추가할 수 있는 위치에 기본적으로 제공됩니다. 이 기본 라이브러리는 브러시, 도구, 스마트 재질 등과 같은 새 사전 설정을 만들 때도 사용됩니다. 자세한 내용은 [사전 설정](../../painting/presets/presets.md) 설명서를 참조하세요.
 
 ## 에셋을 어디에 넣어야 합니까?
 
@@ -57,7 +57,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
-> 버전 7.2.0부터 사용자 정의 폴더 및 범주는 라이브러리에서 사용할 수 있습니다. 에셋 창에서 [경로별 필터링](../../interface/assets/filter-by-path.md) 또는 [탐색 경로](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/navigating-in-the-shelf-147095659.html)를 통해 액세스할 수 있습니다.
+> 버전 7.2.0부터 사용자 정의 폴더 및 범주는 라이브러리에서 사용할 수 있습니다. 에셋 창에서 [경로별 필터링](../../interface/assets/filter-by-path.md) 또는 [탐색 경로](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/navigating-in-the-shelf-147095659.html)를 통해 액세스할 수 있습니다.
 
 >[!WARNING]
 >

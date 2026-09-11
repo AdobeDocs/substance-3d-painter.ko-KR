@@ -14,7 +14,7 @@ ht-degree: 0%
 <table>
   <tr style="border: 0;">
     <td style="border: 0;" valign="top"><img src="../../../assets/generators/icon_uv_texel_density.png" alt=""/><br><strong>인:</strong> uv, 크기, 유틸리티</td>
-    <td style="border: 0;" valign="top"><strong>설명</strong><br>UV 텍셀 밀도 생성기는 낮은 수준에서 높은 수준까지 색상 그레이디언트를 적용하여 메쉬의 텍셀 밀도를 시각화합니다.<br>UV 텍스처 밀도 생성기는 전체 색상 텍스처를 출력하며, 일관되지 않은 UV 비율을 식별하고 모델 전체에 균일한 텍스처 세부 사항을 보장하기 위해 채우기 레이어에서 가장 잘 사용됩니다.</td>
+    <td style="border: 0;" valign="top"><strong>설명</strong><br>UV 텍셀 밀도 생성기는 낮은 수준에서 높은 수준까지 색상 그레이디언트를 적용하여 메쉬의 텍셀 밀도를 시각화합니다.<br>UV 텍스트 밀도 생성기는 전체 색상 텍스처를 출력하며, 일관되지 않은 UV 비율을 식별하고 모델 전체에 균일한 텍스처 세부 사항을 보장하기 위해 채우기 레이어에 가장 잘 사용됩니다.</td>
   </tr>
 </table>
 

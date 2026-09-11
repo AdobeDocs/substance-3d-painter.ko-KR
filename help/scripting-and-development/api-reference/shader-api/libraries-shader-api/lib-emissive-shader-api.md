@@ -1,13 +1,13 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-emissive-shader-api.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-emissive-shader-api.html"
 breadcrumb-title: ''
-description: Substance 3D Painter용 Lib Emissive 셰이더 API 참조에 액세스하여 발광 재질 및 광선 효과를 생성합니다.
+description: Substance 3D Painter용 Lib 방출 셰이더 API 참조에 액세스하여 방출 재질 및 광선 효과를 만듭니다.
 helpx_creative_field: ""
 helpx_description: Painter > Scripting and development > API Reference > Shader API > Libraries - Shader API > Lib Emissive - Shader API
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Lib Emissive - 셰이더 API
+title: Lib 방출 - 셰이더 API
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
@@ -18,9 +18,9 @@ ht-degree: 0%
 ---
 
 
-# Lib Emissive - 셰이더 API
+# Lib 방출 - 셰이더 API
 
-## lib-emissive.glsl
+## lib-방출.glsl
 
 **공용 함수:** *pbrComputeEmissive*
 
@@ -31,7 +31,7 @@ import lib-sparse.glsl
 ```
 
 
-발광 채널 텍스처입니다.
+방출 채널 텍스처.
 
 ```
 //: param auto channel_emissive 
@@ -61,7 +61,7 @@ uniform float emissive_intensity;
 ```
 
 
-보는 사람의 눈까지 방출 광도를 계산합니다.
+보는 사람의 눈까지 방출 광도 계산
 
 ```
 vec3 pbrComputeEmissive(SamplerSparse emissive, SparseCoord coord) 

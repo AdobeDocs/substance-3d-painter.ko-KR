@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/content/creating-custom-effects/generic-filter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/content/creating-custom-effects/generic-filter.html"
 breadcrumb-title: ''
-description: Substance 3D Painter에서 일반 필터 효과를 만들어 사용자 정의 이미지 처리 및 텍스처 필터를 적용하는 방법을 살펴보세요.
+description: Substance 3D Painter에서 일반 필터 효과를 만들어 사용자 정의 이미지 처리 및 텍스처 필터를 적용하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
 helpx_description: Painter > Content > Creating custom effects > Generic filter
 helpx_experience_level: ""
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 입력 노드에서 **사용량** 또는 **식별자**&#x200B;를 사용할 수 있습니다(사용량에 우선 순위가 있음).
+> 입력 노드에서 **사용량** 또는 **식별자**&#x200B;을(를) 사용할 수 있습니다(사용량에 우선 순위가 있음).
 
 예 :
 

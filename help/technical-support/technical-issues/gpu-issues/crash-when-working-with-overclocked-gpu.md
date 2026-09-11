@@ -1,13 +1,13 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/gpu-issues/crash-when-working-with-overclocked-gpu.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/gpu-issues/crash-when-working-with-overclocked-gpu.html"
 breadcrumb-title: ''
-description: 안정적인 애플리케이션 성능을 위해 오버클럭된 GPU로 작업할 때 Substance 3D Painter이 충돌하는 문제를 해결하는 방법을 알아봅니다.
+description: 안정적인 애플리케이션 성능을 위해 오버클럭된 GPU로 작업할 때 Substance 3D Painter 충돌을 해결하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
 helpx_description: Painter > Technical support > Technical Issues > GPU Issues > Crash when working with overclocked GPU
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: 오버클럭된 GPU로 작업할 때 충돌이 발생함
+title: 오버클럭된 GPU로 작업할 때 충돌 발생
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# 오버클럭된 GPU로 작업할 때 충돌이 발생함
+# 오버클럭된 GPU로 작업할 때 충돌 발생
 
 오버클럭된 GPU는 처음에 GPU 생성자가 설계하지 않은 주파수를 실행하므로 불안정할 수 있습니다. GPU가 오버클럭되어 있고 안정성 문제가 있는 경우 잠시 동안 공장 기본 주파수로 돌아가는 것이 좋습니다.
 

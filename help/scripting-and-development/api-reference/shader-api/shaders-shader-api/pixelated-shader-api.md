@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/shaders-shader-api/pixelated-shader-api.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/shaders-shader-api/pixelated-shader-api.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 [픽셀화된 셰이더 API] 참조에 액세스하여 사용자 정의 픽셀화된 렌더링 효과를 만듭니다.
 helpx_creative_field: ""
@@ -45,7 +45,7 @@ uniform vec3 camera_pos;
 ```
 
 
-**문서의 채널**&#x200B;기본 색상&#x200B;**을(를) 균일한**&#x200B;기본 색상\_tex **에 바인딩**&#x200B;합니다.
+**문서의 채널**&#x200B;기본 색상&#x200B;**을(를) 균일한** basecolor\_tex **에 바인딩**&#x200B;합니다.
 
 ```
 //: param auto channel_basecolor 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/content/importing-assets/import-drag-and-drop.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/content/importing-assets/import-drag-and-drop.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 드래그 앤 드롭을 통해 리소스를 추가하여 에셋을 프로젝트로 빠르게 가져오는 방법을 살펴보세요.
 helpx_creative_field: ""
@@ -66,7 +66,7 @@ SVG 파일을 뷰포트에 끌어다 놓는 방법으로도 가져올 수 있습
 </tr>
 </table>
 
-![레이어 스택으로 리소스를 끌어서 놓는 것을 보여 주는 GID](../../assets/import_dragdrop_layerstack.gif)
+![리소스를 레이어 스택으로 끌어서 놓기를 보여 주는 GID](../../assets/import_dragdrop_layerstack.gif)
 
 ![](../../assets/120-0-comparison.png)
 

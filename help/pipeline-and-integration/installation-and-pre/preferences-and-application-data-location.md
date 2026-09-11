@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/pipeline-and-integration/installation-and-preferences/preferences-and-application-data-location.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/pipeline-and-integration/installation-and-preferences/preferences-and-application-data-location.html"
 breadcrumb-title: ''
 description: 설정 및 사용자 데이터를 관리하기 위한 Substance 3D Painter의 환경 설정 및 애플리케이션 데이터 위치에 대해 알아봅니다.
 helpx_creative_field: ""

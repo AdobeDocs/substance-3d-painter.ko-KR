@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/custom-shaders.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/custom-shaders.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 사용자 정의 셰이더를 만들고 사용하여 재질 렌더링 기능을 확장하는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -36,4 +36,4 @@ Substance Painter은 셰이더를 사용하여 실시간 뷰포트에서 재질�
 
 새 **.glsl** 파일만 만들면 새 사용자 지정 셰이더를 만들 수 있습니다.
 
-자세한 [셰이더 API](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/custom-shader-api-89686018.html)을(를) 사용할 수 있으며 새 효과를 만들고 기존 워크플로에 통합하기 위한 도우미 함수를 제공합니다.
+자세한 [셰이더 API](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/custom-shader-api-89686018.html)을(를) 사용할 수 있으며 새 효과를 만들고 기존 워크플로에 통합하기 위한 도우미 함수를 제공합니다.

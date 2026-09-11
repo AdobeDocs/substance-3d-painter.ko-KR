@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-utils-shader-api.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-utils-shader-api.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에 대한 Lib Utils 셰이더 API 참조에 액세스하여 사용자 정의 셰이더 개발에서 유틸리티 함수를 사용합니다.
 helpx_creative_field: ""

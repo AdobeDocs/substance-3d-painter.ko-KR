@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/parameters-shader-api/all-custom-params-shader-api.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/parameters-shader-api/all-custom-params-shader-api.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에 대한 모든 사용자 정의 매개 변수 셰이더 API 참조에 액세스하여 사용자 정의 셰이더 매개 변수를 정의하고 제어합니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/uv-tiles/image-sequence.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/uv-tiles/image-sequence.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 UV 타일과 함께 이미지 시퀀스를 사용하여 애니메이션 텍스처 워크플로우에 사용하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
@@ -53,4 +53,4 @@ ht-degree: 0%
 
 이미지 시퀀스는 다른 리소스처럼 인터페이스의 임의 리소스 슬롯에 로드될 수 있습니다. 그러나 경우에 따라 설정을 추가로 사용해야 제대로 사용할 수 있습니다.
 
-[레이어 채우기](../../painting/fill-projections/fill-projections.md)(및 채우기 효과)에서 프로젝션 모드가 **채우기(UV 타일에 따라 일치)**&#x200B;로 설정되어 있는지 확인하여 시퀀스의 각 이미지가 텍스처 세트의 오른쪽 [UV 타일](uv-tiles.md)에 할당되었는지 확인하십시오.
+[레이어 채우기](../../painting/fill-projections/fill-projections.md)(및 채우기 효과)에서 투영 모드가 **채우기(UV 타일에 따라 일치)**&#x200B;으로 설정되어 있는지 확인하여 시퀀스의 각 이미지가 [텍스처 세트]의 오른쪽 [UV 타일](uv-tiles.md)에 할당되었는지 확인하십시오.

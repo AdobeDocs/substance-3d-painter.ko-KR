@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/tool-list/polygon-fill.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/tool-list/polygon-fill.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 다각형 채우기 도구를 사용하여 선택한 다각형을 페인트로 채우면 텍스처 페인팅이 효율적으로 수행됩니다.
 helpx_creative_field: ""
@@ -20,9 +20,9 @@ ht-degree: 1%
 
 # 다각형 채우기
 
-**다각형 채우기** 도구(![](../../assets/image2018-6-12-18-15-12.png))를 사용하면 선택한 다각형을 픽셀 마스크로 변환하여 마스크를 빠르게 그릴 수 있습니다. 다른 3DCC 응용 프로그램의 3D 선택 도구처럼 보일 수 있지만 실제로는 픽셀 데이터가 생성되는 페인팅 채우기 도구입니다. 즉, 작품을 선택하고 선택 취소한 다음 이를 사용하여 흰색이나 검은색으로 페인팅합니다.
+**다각형 채우기** 도구(![](../../assets/image2018-6-12-18-15-12.png))를 사용하면 선택한 다각형을 픽셀 마스크로 변환하여 마스크를 빠르게 그릴 수 있습니다. 다른 3DCC 응용 프로그램의 3D 선택 도구처럼 보일 수 있지만 실제로는 픽셀 데이터가 생성되는 페인팅 채우기 도구입니다. 즉, 작품을 선택하고 선택 취소한 다음 이를 사용하여 흰색 또는 검정으로 페인트를 지정합니다.
 
-다각형 채우기 도구는 [페인트 레이어](../../interface/layer-stack/layer-stack.md)에서 작동하지만 기본색으로만 제한되며 이러한 용도로 사용되지 않습니다. [마스크에만 사용](../../interface/layer-stack/masking-and-effects.md).
+다각형 채우기 도구는 [레이어 페인팅,](../../interface/layer-stack/layer-stack.md)에서 작동하지만 기본색으로만 제한되며 이 용도로 사용되지 않습니다. [마스크에만 사용](../../interface/layer-stack/masking-and-effects.md).
 
 여기에는 4가지 선택 모드가 있습니다.
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/dynamic-strokes/enabling-dynamic-stroke-feature.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/dynamic-strokes/enabling-dynamic-stroke-feature.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 동적 획 기능을 사용하여 다양한 효과로 반응형 브러시 획을 만드는 방법을 알아봅니다.
 helpx_creative_field: ""

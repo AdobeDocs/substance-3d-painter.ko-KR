@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/configuring-pens-and-tablets.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/configuring-pens-and-tablets.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 최적의 압력 민감도와 드로잉 경험을 위해 펜과 태블릿을 구성하는 방법에 대해 알아보십시오.
 helpx_creative_field: ""
@@ -123,7 +123,7 @@ Windows Ink 설정은 일반 Windows 설정에서 액세스할 수 있습니다.
 | **한 번 클릭** | 권장: **없음** |
 | **두 번 클릭** | 권장: **없음** |
 | **길게 누르기(일부 펜에서만 지원됨)** | 권장: **없음** |
-| **앱이 바로 가기 단추 동작을 재정의하도록 허용** | 권장: **사용** |
+| **앱이 단축키 단추 동작을 재정의하도록 허용** | 권장: **사용** |
 | **사용 가능한 경우 저장소에서 펜을 제거한 후 잉크 작업 영역 표시** | 권장: **사용 안 함** |
 
 ## 펜 및 터치 설정에 액세스하는 방법

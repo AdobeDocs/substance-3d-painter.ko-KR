@@ -1,13 +1,13 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/miscellaneous-issues/impossible-to-use-the-alt-keyboard-shortcut-on-linux.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/miscellaneous-issues/impossible-to-use-the-alt-keyboard-shortcut-on-linux.html"
 breadcrumb-title: ''
-description: 적절한 키보드 탐색을 위해 Substance 3D Painter에서 Linux의 ALT 키보드 단축키 문제를 수정하는 방법을 알아봅니다.
+description: 적절한 키보드 탐색을 위해 Substance 3D Painter에서 Linux의 ALT 키보드 단축키 문제를 해결하는 방법을 알아봅니다.
 helpx_creative_field: ""
 helpx_description: Painter > Technical support > Technical Issues > Miscellaneous Issues > Impossible to use the ALT keyboard shortcut on Linux
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Linux에서 ALT 키보드 단축키를 사용할 수 없음
+title: Linux에서 ALT 키보드 단축키 사용 불가
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Linux에서 ALT 키보드 단축키를 사용할 수 없음
+# Linux에서 ALT 키보드 단축키 사용 불가
 
 **Gnome**&#x200B;을(를) 사용자 인터페이스로 사용하는 Linux 배포(**Ubuntu** 또는 **CentOS**)를 실행하는 경우, **ALT** 키의 기본 동작을 비활성화하여 뷰포트를 탐색할 수 있습니다.
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/dynamic-strokes/creating-custom-dynamic-strokes.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/dynamic-strokes/creating-custom-dynamic-strokes.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 사용자 정의 역동적인 획을 만들어 독특한 브러시 획 비헤이비어 및 효과를 디자인하는 방법을 살펴봅니다.
 helpx_creative_field: ""
@@ -37,12 +37,12 @@ ht-degree: 0%
 
 다음은 Substance 그래프의 역동적인 획에 대해 지원되는 매개 변수 목록입니다.
 
-| 변수 식별자 | 설명 |
+| 가변 식별자 | 설명 |
 | --- | --- |
 | <b>임의화</b> | Substance 파일이 [임의화]를 노출한 상태로 요리되는 경우 동적 선 기능을 사용하여 제어할 수 있습니다. |
 | <b>stampIndex</b> | 브러시 획을 페인트할 때 Substance 3D Painter에서 <b>Integer1</b>을(를) 제공합니다. 최소값과 최대값은 영향을 주지 않으므로 Substance 3D Painter은 해당 값을 무시합니다. |
 | <b>stampCycleCount</b> | <b>Integer1</b> Painter은 매개 변수 기본값, 최소값 및 최대값을 읽어서 스탬프 사이클 수 매개 변수를 표시합니다. 이 매개 변수는 만들 고유한 Substance 변형의 수를 제어합니다. |
-| <b>$time</b> | <b>Float1</b>은(는) 경과된 페인팅 시간(스트로크당)을 기준으로 브러시 스트로크를 페인팅할 때 Substance 3D Painter에서 공급됩니다. 이 속성은 많은 Substance 변형을 생성할 수 있으므로 성능에 영향을 줄 수 있습니다. |
+| <b>$time</b> | <b>부동1</b>은(는) 경과된 페인팅 시간(스트로크당)을 기준으로 브러시 스트로크를 페인팅할 때 Substance 3D Painter에서 제공합니다. 이 속성은 많은 Substance 변형을 생성할 수 있으므로 성능에 영향을 줄 수 있습니다. |
 | <b>선 간격</b> | <b>float1</b> 칠해진 전체 선에 대한 현재 간격 값입니다. |
 | <b>strokeSize</b> | <b>float1</b> 칠해진 전체 선의 현재 크기 값입니다. |
 | <b>stampStrokePosition</b> | <b>integer1</b> 선의 시작/시작을 지정하는 데 사용됩니다. 끝 값은 수동 페인팅이 아닌 패스 선에서만 사용할 수 있습니다. 가능한 값:<ul data-preserve-html="true"> <li data-preserve-html="true">0 = 중간</li> <li data-preserve-html="true">1 = 시작</li> <li data-preserve-html="true">2 = 끝</li> </ul>isstrokepositionactive 사용자 태그를 사용하여 비활성화할 수 있습니다. |

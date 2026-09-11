@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/changelog-shader-api.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/changelog-shader-api.html"
 breadcrumb-title: ''
 description: Substance 3D Painter 셰이더 API의 변경 로그를 검토하여 업데이트, 새로운 기능 및 시간 경과에 따른 변경 사항을 추적합니다.
 helpx_creative_field: ""
@@ -24,15 +24,15 @@ ht-degree: 3%
 
 ## 2018.3.2
 
-* [lib-sparse.glsl](libraries-shader-api/lib-sparse-shader-api.md): 샘플링 함수에서는 단순 밉맵 레벨 대신 텍스처 파생 함수를 사용합니다. 비등방성 샘플링 지원을 위한 요구 사항입니다. 샘플링 함수 서명은 수정되지 않습니다.
-* [lib-pom.glsl](libraries-shader-api/lib-pom-shader-api.md): 텍스처 파생 효과를 사용하기 위해 *getParallaxOffset* 함수 시그니처가 변경되었습니다.
+* [lib-sparse.glsl](libraries-shader-api/lib-sparse-shader-api.md): 샘플링 함수에서는 단순 밉맵 레벨 대신 텍스처 파생물을 사용합니다. 비등방성 샘플링 지원을 위한 요구 사항입니다. 샘플링 함수 서명은 수정되지 않습니다.
+* [lib-pom.glsl](libraries-shader-api/lib-pom-shader-api.md): 텍스처 파생물을 사용하도록 *getParallaxOffset* 함수 시그니처가 변경되었습니다.
 
 ## 2018.3.0
 
 * 비등방성 Specular 하이라이트를 시각화하는 데 도움이 되는 새 [lib-pbr-aniso.glsl](libraries-shader-api/lib-pbr-aniso-shader-api.md) 라이브러리를 추가합니다
 * 밉맵 가용성을 고려하여 채널 샘플링을 지원하는 새 [lib-sparse.glsl](libraries-shader-api/lib-sparse-shader-api.md) 라이브러리를 추가합니다.
 * 이 안전한 샘플링을 처리하기 위해 셰이더 라이브러리 인터페이스를 업데이트합니다.
-* **사용 중단**: vec2 텍스처 좌표 및 텍스처 샘플러에 기반한 이전 기능은 더 이상 사용되지 않습니다(새 서명 사용).
+* **사용 중단**: vec2 텍스처 좌표 및 텍스처 샘플러에 기반한 이전 함수는 사용되지 않습니다(새 서명 사용).
 * [lib-pom.glsl](libraries-shader-api/lib-pom-shader-api.md): *applyParallaxOffset* 함수를 추가하여 시차 오클루전 효과 사용을 단순화합니다.
 * [lib-random.glsl](libraries-shader-api/lib-random-shader-api.md): 파랑 노이즈 난수 값 생성기와 임시 대체를 추가합니다.
 * [lib-sampler.glsl](libraries-shader-api/lib-sampler-shader-api.md): 값 해석 및 샘플링 도우미를 모두 사용하도록 모든 채널 샘플링 도우미 분할
@@ -43,7 +43,7 @@ ht-degree: 3%
 * *shadeShadow* 함수는 더 이상 사용되지 않으며 사용자 지정 표면 셰이더에서 안전하게 제거할 수 있습니다
 * 하위 표면 분산 지원 추가는 자세한 내용은 [surface-shader.glsl](shaders-shader-api/surface-shader-shader-api.md) 및 [lib-sss.glsl](libraries-shader-api/lib-sss-shader-api.md)을 참조하십시오
 * [lib-pbr.glsl](libraries-shader-api/lib-pbr-shader-api.md): *pbrComputeBRDF* 함수가 제거되었습니다. 지금 라이브러리를 사용하는 방법을 알아보려면 [pbr-metal-rough.glsl](shaders-shader-api/pbr-metal-rough-shader-api.md) 예를 참조하십시오.
-* 새 엔진 매개 변수가 추가되었습니다. *텍스처\_파랑\_노이즈*, *종횡비\_비율*, *camera\_vp\_matrix\_inverse*, *환경\_노출*, *환경\_회전*, *포비*, *메인\_조명* 및 *화면\_크기*. 자세한 내용은 [all-engine-params.glsl](parameters-shader-api/all-engine-params-shader-api.md)을 참조하세요
+* 새 엔진 매개 변수가 추가되었습니다. *텍스처\_blue\_noise*, *종횡비\_비율*, *camera\_vp\_matrix\_inverse*, *환경\_노출*, *환경\_회전*, *fovy*, *메인\_조명* 및 *화면\_크기*. 자세한 내용은 [all-engine-params.glsl](parameters-shader-api/all-engine-params-shader-api.md)을 참조하세요
 * 사용자 지정 셰이더 매개 변수에 대한 도구 설명을 제공하려면 *설명* 메타데이터를 추가합니다.
 
 ## 2017.4.2
@@ -94,11 +94,11 @@ ht-degree: 3%
 
 ## 2.4.0
 
-* 내보낸 맵과 뷰포트에 표시된 맵을 결합한 표준 맵의 차이를 수정합니다
+* 내보낸 노멀 맵과 뷰포트에 표시된 글꼴을 결합한 글꼴의 차이를 수정합니다
 
 ## 2.2.0
 
-* 비문서 텍스처의 일반 재질에 비결합 텍스처에 대한 지원 추가
+* 비 문서 텍스처에 대한 일반 재질에 없는 텍스처 지원 추가
 * 사용자 정의 셰이더 슬라이더 설명서 업데이트
 * 슬라이더의 단계 정밀도 정의 허용
 * 동적 재질 레이어 설명서
@@ -132,7 +132,7 @@ ht-degree: 3%
 
 ## 1.7.0
 
-* 외부 텍스처(선반에서) 샘플링 가능
+* 외부 텍스처 샘플링 허용(선반에서)
 
 ## 1.6.0
 
@@ -146,7 +146,7 @@ ht-degree: 3%
 ## 1.4.1
 
 * sRGB 변환은 모두 sRGB 표준을 따릅니다. 단, 근사치가 가까운 셰이더에서 변환이 수행됩니다
-* Height 채널을 표준 맵으로 변환하면 잘못된 색상 공간으로 변환됩니다
+* Height 노멀 맵 채널이 잘못된 색상 공간으로 변환됨
 
 ## 1.4.0
 

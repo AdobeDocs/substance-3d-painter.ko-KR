@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/assets/adding-a-new-library.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/assets/adding-a-new-library.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에 새 라이브러리를 추가하여 리소스 컬렉션을 확장하고 추가 에셋에 액세스하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ ht-degree: 0%
 1. [편집] > [설정] > [라이브러리]로 이동합니다.
 1. 경로 필드 옆에 있는 ... 을 클릭하고 원하는 위치로 이동합니다.
 1. 라이브러리의 새 이름을 입력합니다. 공백 및 특수 문자는 지원되지 않으며 밑줄로 변환됩니다.
-1. &#x200B;+ 버튼을 클릭합니다.
+1. + 버튼을 클릭합니다.
 1. 라이브러리가 목록에 나타나야 합니다.
 1. *선택 사항:* 새 라이브러리를 기본 가져오기 위치로 사용하려면 기본 단추를 선택하십시오.
 

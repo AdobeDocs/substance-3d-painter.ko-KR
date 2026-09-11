@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/kr/substance-3d-painter/interface/miscellaneous/log.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-painter/interface/miscellaneous/log.html'
 breadcrumb-title: ''
 description: Substance 3D Painter에서 로그 창에 액세스하고 사용하여 응용 프로그램 메시지 및 디버그 정보를 보는 방법에 대해 알아봅니다.
 helpx_creative_field: ''

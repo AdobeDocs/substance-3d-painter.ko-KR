@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/presets/creating-and-saving-presets.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/presets/creating-and-saving-presets.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 브러시 사전 설정을 만들고 저장하여 재사용 가능한 사용자 정의 페인팅 도구 라이브러리를 만드는 방법을 살펴보세요.
 helpx_creative_field: ""
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 ![](../../assets/save-preset-1.png)
 
-사전 설정은 도구 속성을 사용할 수 있을 때 속성 창을 마우스 오른쪽 버튼으로 클릭하여 만들 수 있습니다(페인트 레이어 또는 페인트 효과).
+사전 설정은 도구 속성을 사용할 수 있을 때 속성 창을 마우스 오른쪽 버튼으로 클릭하여 만들 수 있습니다(레이어 페인팅 또는 페인트 효과).
 
 속성 창에서 마우스 오른쪽 버튼을 클릭하여 다음 옵션이 있는 컨텍스트 메뉴를 엽니다.
 

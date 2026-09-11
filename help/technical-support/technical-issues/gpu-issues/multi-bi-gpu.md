@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/gpu-issues/multi-bi-gpu.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/gpu-issues/multi-bi-gpu.html"
 breadcrumb-title: ''
 description: 렌더링 성능을 최적화하기 위해 다중 GPU 및 Bi-GPU 시스템용 Substance 3D Painter을 구성하는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Multi/Bi-GPU
 
-일부 GPU 구성 및/또는 GPU 모델이 Substance 3D Painter과 호환되지 않으며 불안정하고 충돌할 수 있습니다. 다음은 호환되지 않는 구성 목록입니다.
+일부 GPU 구성 및/또는 GPU 모델은 Substance 3D Painter과 호환되지 않으며 불안정하고 충돌이 발생할 수 있습니다. 다음은 호환되지 않는 구성 목록입니다.
 
 | ***구성*** | ***해결 방법*** |
 | --- | --- |

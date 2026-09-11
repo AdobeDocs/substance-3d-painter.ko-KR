@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/assets/sub-library-tab.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/assets/sub-library-tab.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 하위 라이브러리 탭을 사용하여 중첩된 리소스 라이브러리를 구성하고 액세스하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

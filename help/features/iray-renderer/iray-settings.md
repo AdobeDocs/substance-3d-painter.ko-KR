@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/iray-renderer/iray-settings.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/iray-renderer/iray-settings.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 Ray 렌더러 설정을 구성하여 렌더링 품질과 성능을 제어하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
@@ -38,8 +38,8 @@ Iray 설정은 IRay 뷰포트의 렌더링, 실행 기간 및 품질을 제어�
 
 >[!NOTE]
 >
-> 반복 횟수는 렌더링의 최종 품질을 정의합니다. 반복 횟수가 많을수록 품질이 좋습니다.\
-> 그러나 반복에는 시간이 걸릴 수 있으므로 최대 시간을 정의할 수 있습니다. 반복은 샘플 수로 정의됩니다.
+> 반복 수는 렌더링의 최종 품질을 정의합니다. 반복 수가 많을수록 품질이 좋습니다.\
+> 그러나 반복은 시간이 걸릴 수 있으므로 최대 시간을 정의할 수 있습니다. 반복은 샘플 수로 정의됩니다.
 
 ## 설정
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/plugins/autosave.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/plugins/autosave.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 자동 저장 플러그인을 사용하여 프로젝트를 정기적으로 자동 저장하는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -57,7 +57,7 @@ ht-degree: 0%
 > 다음의 경우 자동 저장 타이머가 일시 중지됩니다.
 > 
 > * 엔진이 계산을 하고 있다
-> * 텍스처를 내보내는 중
+> * 텍스처 내보내기 중
 > * 구성 창이 열립니다.
 > * 프로젝트를 현재 저장 중입니다.
 

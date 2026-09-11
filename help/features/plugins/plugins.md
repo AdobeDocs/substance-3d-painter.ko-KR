@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/plugins.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/plugins.html"
 breadcrumb-title: ''
-description: Substance 3D Painter에서 플러그인을 사용하여 기능을 확장하고 텍스처 페인팅 작업 과정을 맞춤화하는 방법에 대해 알아봅니다.
+description: Substance 3D Painter에서 플러그인을 사용하여 기능을 확장하고 텍스처 페인팅 작업 과정을 사용자 정의하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
 helpx_description: Painter > Features > Plugins
 helpx_experience_level: ""

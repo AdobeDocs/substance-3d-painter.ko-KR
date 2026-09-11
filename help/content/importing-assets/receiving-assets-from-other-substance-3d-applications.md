@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/content/importing-assets/receiving-assets-from-other-substance-3d-applications.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/content/importing-assets/receiving-assets-from-other-substance-3d-applications.html"
 breadcrumb-title: ''
 description: 원활한 워크플로우를 위해 다른 Substance 3D 애플리케이션에서 Substance 3D Painter으로 에셋을 수신 및 가져오는 방법을 알아봅니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/parameters-shader-api/layering-bind-materials-shader-api.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/parameters-shader-api/layering-bind-materials-shader-api.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 레이어 바인딩 재질 셰이더 API 참조에 액세스하여 레이어 워크플로우에서 재질을 바인딩합니다.
 helpx_creative_field: ""
@@ -22,10 +22,10 @@ ht-degree: 0%
 
 ## 재질 레이어 구성: 재질을 셰이더 매개 변수로 바인딩합니다.
 
-재질은 고유 식별자 &#39;id&#39;로 정의됩니다. 추가 매개 변수:
+재질은 고유한 식별자 &#39;id&#39;로 정의됩니다. 추가 매개 변수:
 
 * &#39;default&#39;: 사용할 기본 재료 자원 이름입니다.
-* &#39;size&#39;: 재질 맵의 텍스처 크기입니다.
+* &#39;size&#39;: 질감 맵의 텍스처 크기입니다.
 * &#39;group&#39;: 재질 선택 위젯의 UI 그룹입니다.
 
 예:

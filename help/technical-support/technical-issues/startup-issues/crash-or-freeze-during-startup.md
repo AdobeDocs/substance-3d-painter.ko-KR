@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/startup-issues/crash-or-freeze-during-startup.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/startup-issues/crash-or-freeze-during-startup.html"
 breadcrumb-title: ''
-description: 안정적인 애플리케이션 실행을 위해 Substance 3D Painter 시작 중에 발생하는 충돌과 작동 중지를 해결하는 방법을 알아봅니다.
+description: 안정적인 애플리케이션 실행을 위해 Substance 3D Painter 시작 시 충돌과 작동 중지를 해결하는 방법을 알아봅니다.
 helpx_creative_field: ""
 helpx_description: Painter > Technical support > Technical Issues > Startup Issues > Crash or freeze during startup
 helpx_experience_level: ""
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 ## 오래된 GPU 드라이버
 
-이전 GPU 드라이버를 사용하면 작동 중지 및/또는 충돌이 발생할 수 있습니다. 가능한 경우 최신 GPU 드라이버를 사용하는 것이 좋습니다. 참조: [GPU에 오래된 드라이버가 있음](../gpu-issues/gpu-has-outdated-drivers.md).
+이전 GPU 드라이버를 사용하면 정지 및/또는 충돌이 발생할 수 있습니다. 가능한 경우 최신 GPU 드라이버를 사용하는 것이 좋습니다. 참조: [GPU에 오래된 드라이버가 있음](../gpu-issues/gpu-has-outdated-drivers.md).
 
 ## 흰색 화면 및 응답하지 않음
 
@@ -41,12 +41,12 @@ Windows에서 시작할 때 애플리케이션이 바로 멈추면(흰색 화면
 * 외부 응용 프로그램에서 충돌을 만들고 있습니다. 충돌을 확인하려면 [소프트웨어 충돌](software-conflicts.md)을 참조하세요.
 * 응용 프로그램의 일부 창이 다른 모니터에서 열렸습니다. 인터페이스를 기본 레이아웃으로 복원하면 응용 프로그램을 정상적으로 시작할 수 있습니다.
   1. 시작 메뉴에서 레지스트리 편집기(**regedit**)를 엽니다.
-  1. 응용 프로그램 기본 설정으로 이동합니다([기본 설정 및 응용 프로그램 데이터 위치](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/application-preferences-location-147095594.html) 참조).
+  1. 응용 프로그램 기본 설정으로 이동합니다([기본 설정 및 응용 프로그램 데이터 위치](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/application-preferences-location-147095594.html) 참조).
   1. **Adobe Substance 3D Painter** 키 확장
   1. **주 창 2018** 키를 선택하고 삭제합니다.
   1. 애플리케이션을 다시 시작합니다
 
-## 잘못된 시스템 경로/Python 경로로 인해 충돌이 발생합니다
+## 잘못된 시스템 경로/Python 경로로 인해 충돌 발생
 
 애플리케이션은 시스템 경로를 확인하여 Python 모듈과 환경 설정을 로드합니다. 시스템에 잘못된 설정이 있으면 시작하는 동안 충돌이 발생할 수 있습니다.
 
@@ -58,7 +58,7 @@ Windows에서:
 1. **환경 변수**&#x200B;를 클릭합니다.
 1. **시스템 변수**&#x200B;에서 **PATH** 변수를 찾습니다.
 
-그런 다음 변수를 편집하여 내용을 확인할 수 있습니다. 예를 들어 변수에 다음과 같은 문자가 포함된 경우 충돌이 발생합니다
+그런 다음 변수를 편집하여 내용을 확인할 수 있습니다. 예를 들어 충돌에 다음과 같은 문자가 포함되어 있으면 변수가 생성됩니다
 
 ```
 ï–›éŒ à €è¸€ì‡ì‡ç¿¹
@@ -91,9 +91,9 @@ Windows 10의 일부 업데이트는 때때로 불안정을 초래할 수 있습
 
 이 제목에 대한 자세한 내용은 [시스템 파일 검사기 도구를 사용하여 누락 또는 손상된 시스템 파일을 복구하십시오](https://support.microsoft.com/en-us/help/929833/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system).
 
-## 이전 버전에서 시작할 때 충돌 발생
+## 이전 버전에서 시작할 때 충돌
 
-Windows에서 설치 폴더와 함께 제공된 dll 파일 중 하나가 운영 체제에 비해 너무 오래되어 버전 2018(4.x) 이상이 시작되지 않을 수 있습니다. 이 충돌은 파일을 최신 버전으로 수동으로 교체하여 해결할 수 있습니다.
+Windows에서 설치 폴더와 함께 제공된 dll 파일 중 하나가 운영 체제에 비해 너무 오래되어 버전 2018(4.x) 이상이 시작되지 않을 수 있습니다. 이 충돌은 수동으로 파일을 최신 버전으로 대체하여 해결할 수 있습니다.
 
 이를 위해 다음을 수행합니다.
 

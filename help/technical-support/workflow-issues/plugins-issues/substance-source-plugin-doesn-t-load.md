@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/workflow-issues/plugins-issues/substance-source-plugin-doesn-t-load.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/workflow-issues/plugins-issues/substance-source-plugin-doesn-t-load.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 리소스 라이브러리에 액세스하기 위해 Substance Source 플러그인 로딩 문제를 해결하는 방법에 대해 알아보십시오.
 helpx_creative_field: ""

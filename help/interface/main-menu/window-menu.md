@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/main-menu/window-menu.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/main-menu/window-menu.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 창 메뉴를 사용하여 인터페이스 패널을 관리하고 작업 영역 레이아웃을 사용자 정의하는 방법을 살펴보세요.
 helpx_creative_field: ""

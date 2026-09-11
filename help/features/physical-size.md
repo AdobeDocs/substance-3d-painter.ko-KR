@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/physical-size.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/physical-size.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 물리적 크기를 설정하여 정확한 텍스처 비율을 위한 실제 치수를 정의하는 방법을 살펴보세요.
 helpx_creative_field: ""

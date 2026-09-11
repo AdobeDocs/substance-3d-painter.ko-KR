@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/release-notes/old-versions/version-2-4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/release-notes/old-versions/version-2-4.html"
 breadcrumb-title: ''
 description: Substance 3D Painter 버전 2.4의 릴리스 노트를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
 helpx_creative_field: ""
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 셸프를 다시 사용하여 **리소스 가져오기 창**&#x200B;을 개선했습니다. 이 창은 이제 일관성이 더 높아졌으며 **세 가지 다른 방법으로 호출할 수 있습니다**: 파일 메뉴를 통해, 선반 창의 버튼을 통해 또는 이전과 마찬가지로 리소스를 선반 창으로 끌어 놓아 호출할 수 있습니다. 새 창에서 **한 번에**&#x200B;여러 리소스&#x200B;**에 대한 사용을 빠르게 설정**&#x200B;할 수 있습니다. 즉, 더 이상 리소스를 올바른 위치로 끌어서 놓을 필요가 없습니다. 또한 새 트리 보기를 활용하기 위해 하위 폴더를 만들 수 있는 **사용자 지정 경로 지정**&#x200B;에 가능성을 추가했습니다.
 
-자세한 내용은 설명서의 전용 부분을 참조하십시오. [가져오기 창을 통해 리소스 추가](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/adding-content-via-the-import-window-151584824.html)
+자세한 내용은 설명서의 전용 부분을 참조하십시오. [가져오기 창을 통해 리소스 추가](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/adding-content-via-the-import-window-151584824.html)
 
 ### 새 입자 사전 설정
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 **고정:**
 
-* 템플릿을 사용하여 프로젝트를 생성할 때 충돌 발생
+* 템플릿을 사용하여 프로젝트를 만들 때 충돌
 * 내보내기 중 내보내기 대화 상자를 닫을 때 충돌 발생
 * [Mac] 프로젝트 저장 시 오류 발생(내보내기 사전 설정 저장 실패)
 * [Shelf] 새 사전 설정을 만들면 두 번 표시됩니다
@@ -85,14 +85,14 @@ ht-degree: 0%
 
 **고정:**
 
-* 마스크를 제거할 때 충돌 발생
-* 사전 설정을 저장한 후 페인팅 시 충돌 발생
-* 일부 GPU에서 환경 흐림 효과 사용 시 충돌 발생
-* 미니 쉘프로 잘못된 리소스를 할당할 때 충돌 발생
+* 마스크를 제거할 때 충돌
+* 사전 설정을 저장한 후 페인팅할 때 충돌
+* 일부 GPU에서 환경 흐림 효과 사용 시 충돌
+* 미니 쉘프를 사용하여 잘못된 리소스를 할당할 때 충돌
 * [Shelf] 정리 + 저장 프로젝트의 리소스에 대한 태그 및 메타데이터 제거
 * [Shelf] 사전 설정을 가져오면 셸프에 해당 리소스가 표시됩니다.
-* [내보내기] Height 채널에서 생성된 표준 맵의 강도가 낮습니다
-* [내보내기] 최종 표준 맵에 메쉬에서 표준이 항상 있는 것은 아닙니다
+* [내보내기] Height 채널에서 생성된 노멀 맵의 강도가 낮습니다.
+* [내보내기] 메시에서 표준이 최종 노멀 맵에 항상 있는 것은 아닙니다
 * [내보내기] 투명도를 사용하여 확장하면 경우에 따라 투명도가 없는 경우도 있습니다
 * [스크립팅] &quot;alg.plugin\_root\_directory&quot;는 잘린 네트워크 경로를 반환할 수 있습니다.
 * [TextureSet] 정사각형이 아닌 프로젝트를 다시 열 때 잠금 버튼이 활성화됨

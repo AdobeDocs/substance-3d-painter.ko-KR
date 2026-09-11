@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/release-notes/old-versions/version-2-6.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/release-notes/old-versions/version-2-6.html"
 breadcrumb-title: ''
 description: Substance 3D Painter 버전 2.6의 릴리스 노트를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
 helpx_creative_field: ""
@@ -48,7 +48,7 @@ ht-degree: 0%
 ![](../../assets/texture-set-rename-description.png)
 
 이제 Substance Painter 내부에 직접 설정된 텍스처의 이름을 변경할 수 있습니다. 텍스처 세트의 이름을 바꾸면 사용된 내보내기 사전 설정에 따라 디스크에서 내보내는 텍스처의 이름에 영향을 미칩니다.\
-텍스처 세트의 이름을 바꾸려면 해당 이름을 두 번 클릭하여 수정하거나 마우스 오른쪽 버튼을 클릭하여 컨텍스트 메뉴를 엽니다. 사용자 정의 설명을 추가하여 텍스처 세트의 역할에 대한 자세한 정보를 제공할 수도 있습니다. 이 기능은 [UDIM 프로젝트](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html)에서 작업할 때 매우 유용합니다. &quot;**설정**&quot; 단추를 사용하여 설명이 목록에 표시되는 방법을 구성하십시오.
+텍스처 세트의 이름을 바꾸려면 해당 이름을 두 번 클릭하여 수정하거나 마우스 오른쪽 버튼을 클릭하여 컨텍스트 메뉴를 엽니다. 사용자 정의 설명을 추가하여 텍스처 세트의 역할에 대한 자세한 정보를 제공할 수도 있습니다. 이 기능은 [UDIM 프로젝트](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html)에서 작업할 때 매우 유용합니다. &quot;**설정**&quot; 단추를 사용하여 설명이 목록에 표시되는 방법을 구성하십시오.
 
 ![](../../assets/reasign-texture-set.png)
 
@@ -103,12 +103,12 @@ ht-degree: 0%
 
 * 베이킹된 맵을 교체한 후 TextureSet을 전환할 때 충돌 발생
 * 레이어의 혼합 모드를 변경한 후 &quot;실행 취소 및 재실행&quot;을 수행할 때 충돌 발생
-* big ID 맵에서 &quot;색상 선택&quot; 효과를 사용할 때 충돌 또는 멈춤
+* big ID 맵에서 &quot;색상 선택&quot; 효과를 사용할 때 충돌 또는 고정
 * [내보내기] 이름을 바꾼 텍스처 세트가 내보내기 창에서 알파벳순으로 정렬되지 않습니다
 * [TextureSet] 기본 이름으로 재설정하면 단일성이 확인되지 않음
 * [TextureSet] 프로젝트를 다시 연 후 이름이 바뀐 텍스처 세트가 비활성화됩니다.
 * [Shelf] 기본 템플릿 콘텐츠가 누락됨
-* [Shelf] 정사각형이 아닌 텍스처는 정사각형으로 표시됩니다
+* [Shelf] 정사각형이 아닌 텍스처는 정사각형으로 표시됩니다.
 * [Shader] 텍스처 세트를 비활성화하면 연관된 셰이더가 제거됩니다.
 * [스크립팅] alg.baking.setTextureSetBakingParameters()가 더 이상 작동하지 않음
 * [스크립팅] 웹소켓 튜토리얼의 오타

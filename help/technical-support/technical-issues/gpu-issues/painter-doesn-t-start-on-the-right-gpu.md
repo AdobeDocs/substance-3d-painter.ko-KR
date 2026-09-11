@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/gpu-issues/painter-doesn-t-start-on-the-right-gpu.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/gpu-issues/painter-doesn-t-start-on-the-right-gpu.html"
 breadcrumb-title: ''
 description: 최적의 성능과 호환성을 위해 올바른 GPU에서 시작하도록 Substance 3D Painter을 구성하는 방법에 대해 알아보십시오.
 helpx_creative_field: ""
@@ -75,7 +75,7 @@ GPU 드라이버가 올바르게 설치되지 않으면 응용 프로그램이 �
 
 ### &quot;기본 GPU가 아닌 항목 우선&quot; 사용 안 함
 
-데스크탑 바로 가기에서 Painter을 실행하거나 Steam을 통해 실행할 때는 <b>\*.desktop</b> 파일 내의 <b>PreferencesNonDefaultGPU</b> 설정이 <b>false</b>로 설정되어 있는지 확인하십시오.
+데스크탑 단축키에서 Painter을 실행하거나 Steam을 통해 실행할 때는 <b>\*.desktop</b> 파일 내의 <b>PreferencesNonDefaultGPU</b> 설정이 <b>false</b>로 설정되어 있는지 확인하십시오.
 
 이 설정은 오해의 소지가 있으며 더 섬세하고 강력한 통합 GPU 대신 통합 GPU가 사용/강제될 수 있습니다. 자세한 내용은 [이 토론을 참조하십시오](https://github.com/ValveSoftware/steam-for-linux/issues/9940).
 

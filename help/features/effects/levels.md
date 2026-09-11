@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/effects/levels.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/effects/levels.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 레벨 효과를 사용하여 텍스처의 명도, 대비 및 색조 범위를 조정하는 방법을 살펴보세요.
 helpx_creative_field: ""
@@ -38,6 +38,6 @@ ht-degree: 0%
 > 레벨 효과는 *영향을 받는 채널* 옵션에서 선택한 대로 한 번에 하나의 채널에만 적용할 수 있습니다. 여러 채널에 레벨을 적용하려면 여러 레벨 효과를 만들어야 합니다.
 
 * 오른쪽 위에 있는 [색상] 드롭다운 상자를 사용하면 전체 rgb 이미지의 레벨을 변경하거나 빨강, 녹색 및 파랑 채널 중 하나의 레벨만 변경할 수 있습니다.
-* 오른쪽 하단의 클램프 옵션을 사용하면 0과 1(0-255) 사이의 레벨 값을 클램프할 수 있습니다. 이 옵션은 HDR이 아닌 채널(예: **기본 색상**)에서 작업할 때 항상 선택되어 있어야 합니다.
+* 오른쪽 하단에 있는 레벨 0(0-255)을 사용하여 값을 고정할 수 있습니다. 이 옵션은 **기본 색상**&#x200B;와 같이 HDR 채널이 아닌 채널에서 작업할 때 항상 선택해야 합니다.
 
 [레벨을 더 이해하기 위해, 당신은 주제에 전념하는 Substance 아카데미에 대한 우리의 과정을 시청해야합니다.](https://academy.substance3d.com/courses/Mastering-Levels-Histogram)

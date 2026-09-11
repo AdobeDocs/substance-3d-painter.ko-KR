@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/straight-line.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/straight-line.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 직선 도구를 사용하여 텍스처 페인팅을 위한 정확한 직선 페인트 선을 만들 수 있습니다.
 helpx_creative_field: ""
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 [직선]은 모든 페인팅 도구로 클릭을 줄이고 보다 정밀하게 선을 그리는 쉬운 방법입니다.
 
-키보드 단축키를 사용하여 일시적으로 적용한 수정입니다.
+키보드 단축키의 도움으로 일시적으로 적용되는 수정입니다.
 
 직선 위치는 뷰포트에서 계산됩니다. 즉, 브러시 획 사이에 카메라가 이동하면 다음 직선이 잘못 배치될 수 있습니다.
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/scripts-and-plugins/creating-a-javascript-plugin.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/scripts-and-plugins/creating-a-javascript-plugin.html"
 breadcrumb-title: ''
 description: Substance 3D Painter용 JavaScript 플러그인을 만들어 기능을 확장하고 사용자 정의 작업 과정을 자동화하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 이 단계별 안내서에서는 프로젝트에서 현재 선택한 레이어의 마스크를 내보낼 수 있는 간단한 플러그인을 만드는 방법에 대해 설명합니다.
 
-이 안내서의 플러그인의 목표는 프로젝트 내에 있는 현재 텍스처 세트의 모든 채널을 개별 텍스처로 내보내는 것입니다.
+이 안내서의 텍스처 목표는 프로젝트 내에 있는 현재 텍스처 세트의 모든 채널을 개별 채널로 내보내는 것입니다.
 
 ## 1 - 플러그인 폴더로 이동
 
@@ -36,7 +36,7 @@ ht-degree: 1%
 
 플러그인 이름은 상위 폴더의 이름을 기반으로 합니다.
 
-이 예제에서는 플러그인 폴더 내에 **export-textures**&#x200B;이라는 이름의 새 폴더를 간단히 만듭니다.
+이 예제에서는 플러그인 폴더 내에 **export-plugins**&#x200B;이라는 이름의 새 텍스처를 만들기만 하면 됩니다.
 
 ### 3 - 플러그인 파일 만들기
 

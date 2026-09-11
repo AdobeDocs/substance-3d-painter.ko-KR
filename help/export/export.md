@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/getting-started/export.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/getting-started/export.html"
 breadcrumb-title: ''
-description: Substance 3D Painter의 텍스처를 다양한 포맷으로 내보내 다른 애플리케이션과 게임 엔진에 사용하는 방법을 살펴보세요.
+description: Substance 3D Painter에서 텍스처를 다양한 포맷으로 내보내 다른 애플리케이션과 게임 엔진에서 사용하는 방법을 살펴보세요.
 helpx_creative_field: ""
 helpx_description: Painter > Getting Started > Export
 helpx_experience_level: ""
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 # 내보내기
 
-## 텍스처 내보내기
+## 내보내기 텍스처
 
-텍스처는 비트맵 컬렉션으로 내보내집니다. Painter은 출력 템플릿 덕분에 텍스처를 내보낼 때 많은 유연성을 제공합니다. 출력 템플릿을 사용하면 내보낸 파일의 이름 지정, 텍스처가 채널에 압축되는 방식, 내보낸 파일의 형식 및 비트 심도 등을 제어할 수 있습니다. 두렵지만 걱정하지 마십시오. Painter에는 일반적으로 사용되는 3D 출력 템플릿 및 사용 사례로 구성된 수십 개의 기본 애플리케이션이 포함되어 있습니다.
+텍스처는 비트맵 컬렉션으로 내보내집니다. Painter은 출력 템플릿 덕분에 텍스처를 내보낼 때 많은 유연성을 제공합니다. 출력 템플릿을 사용하면 내보낸 파일의 이름 지정, 텍스처를 채널로 압축하는 방식, 내보낸 파일의 형식 및 비트 심도 등을 제어할 수 있습니다. 두렵지만 걱정하지 마십시오. Painter에는 일반적으로 사용되는 3D 출력 템플릿 및 사용 사례로 구성된 수십 개의 기본 애플리케이션이 포함되어 있습니다.
 
-<b>내보내기 창</b>을 열고 <b>파일 > 텍스처 내보내기</b>를 사용하여 텍스처 내보내기를 시작하거나 키보드 단축키 <b>CTRL + SHIFT + E</b>를 사용합니다. 다음 링크를 사용하여 텍스처 내보내기에 대해 자세히 알아보십시오.
+<b>내보내기 창</b>을 열고 <b>파일 > 내보내기 텍스처</b>를 사용하여 텍스처 내보내기를 시작하거나 키보드 단축키 <b>CTRL + SHIFT + E</b>를 사용합니다. 다음 링크를 사용하여 텍스처 내보내기에 대해 자세히 알아보십시오.
 
 * [내보내기 창](../export/export-window/export-window.md)
 * [출력 템플릿](../export/export-presets/export-presets.md)

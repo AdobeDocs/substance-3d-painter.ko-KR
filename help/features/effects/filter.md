@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/effects/filter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/effects/filter.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 필터 효과를 사용하여 이미지 처리 필터 및 텍스처 조정을 적용하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 필터
 
-필터 효과는 레이어 또는 마스크의 내용을 변형하는 물질입니다.
+필터 효과는 레이어 또는 레이어의 내용을 마스킹하는 물질입니다.
 
 ## 필터를 적용하는 방법
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ![](../../assets/filter-dragdrop.gif)
 
-위의 예에서 드롭된 필터에 이미 통과 혼합 모드가 있는 방법은 무엇입니까? 문서의 모든 채널에 적용됩니다.
+위의 예시에서 드롭된 필터에 이미 [패스스루 혼합] 모드가 있는 방법은 무엇입니까? 문서의 모든 채널에 적용됩니다.
 
 ## 새 유형의 필터 추가
 

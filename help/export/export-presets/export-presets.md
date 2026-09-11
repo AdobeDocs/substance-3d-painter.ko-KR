@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/getting-started/export/export-presets.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/getting-started/export/export-presets.html"
 breadcrumb-title: ''
-description: Substance 3D Painter에서 출력 템플릿을 사용하여 텍스처 내보내기 형식 및 채널 매핑을 구성하는 방법을 알아보십시오.
+description: Substance 3D Painter에서 출력 템플릿을 사용하여 텍스처 내보내기 형식 및 채널 매핑을 구성하는 방법에 대해 알아보십시오.
 helpx_creative_field: ""
 helpx_description: Painter > Getting Started > Export > Output templates
 helpx_experience_level: ""

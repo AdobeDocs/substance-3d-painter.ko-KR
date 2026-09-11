@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/post-processing.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/post-processing.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 후처리 효과를 사용하여 색상 그레이딩 및 시각 효과를 통해 뷰포트 렌더링을 향상시키는 방법을 살펴보세요.
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ ht-degree: 10%
 
 >[!NOTE]
 >
-> 이러한 포스트 효과는 편의상 2D 보기에 적용되지 않습니다. 3D 보기에만 효과가 적용된 이미지 결과가 표시됩니다.
+> 이러한 포스트 효과는 편의상 2D 보기에 적용되지 않는다. 3D 보기에만 효과가 적용된 이미지 결과가 표시됩니다.
 
 다음 페이지에서는 현재 지원되는 다양한 포스트 프로세스 효과에 대해 설명합니다.
 
@@ -43,4 +43,4 @@ ht-degree: 10%
 * [톤 매핑](tone-mapping.md)
 * [색상 교정](color-correction.md)
 
-조회 텍스처 테이블은 또한 최종 이미지 결과를 미세 조정하는 데 사용될 수 있다. 자세한 내용은 [색상 프로필](color-profile.md) 설명서를 참조하십시오.
+룩업 텍스처 테이블은 또한 최종 이미지 결과를 미세 조정하는데 사용될 수 있다. 자세한 내용은 [색상 프로필](color-profile.md) 설명서를 참조하십시오.

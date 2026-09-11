@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/effects/fill.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/effects/fill.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 채우기 효과를 사용하여 단색, 텍스처 또는 재질로 레이어를 채우는 방법을 살펴보세요.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/pipeline-and-integration/resource-management/preferences-and-content-migration.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/pipeline-and-integration/resource-management/preferences-and-content-migration.html"
 breadcrumb-title: ''
 description: 업그레이드하거나 새 시스템으로 이동할 때 Substance 3D Painter의 환경 설정 및 콘텐츠를 마이그레이션하는 방법에 대해 알아보십시오.
 helpx_creative_field: ""
@@ -66,4 +66,4 @@ ht-degree: 1%
 
 인터페이스에서 애플리케이션 설정을 수동으로 다시 조정하는 것이 좋습니다. 이는 호환성 문제를 야기하지 않고 정보를 마이그레이션하는 가장 안전한 방법입니다.
 
-그렇지 않으면 다음 페이지를 확인하여 환경 설정의 위치를 알아보십시오. [환경 설정 및 응용 프로그램 데이터 위치](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/application-preferences-location-147095594.html).
+그렇지 않으면 다음 페이지를 확인하여 환경 설정의 위치를 알아보십시오. [환경 설정 및 응용 프로그램 데이터 위치](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/application-preferences-location-147095594.html).

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/pipeline-and-integration/configuration/firewall-configuration.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/pipeline-and-integration/configuration/firewall-configuration.html"
 breadcrumb-title: ''
 description: 네트워크 기능 및 원격 액세스를 사용하도록 설정하기 위한 Substance 3D Painter의 방화벽 설정을 구성하는 방법에 대해 알아보십시오.
 helpx_creative_field: ""

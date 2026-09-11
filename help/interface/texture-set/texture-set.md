@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/texture-set.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/texture-set.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 텍스처 세트를 사용하여 텍스처를 구성하고 다양한 재질 할당을 관리하는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 4%
 
 ![](../../assets/texture-set.png)
 
-Substance 3D Painter은 가져온 메시에서 질감 ID를 찾을 때마다 자동으로 새 질감 세트를 만듭니다([프로젝트에서 UV 타일 워크플로를 사용하지 않는 경우](../../features/uv-tiles/uv-tiles.md)).
+Substance 3D Painter은 가져온 메시에서 질감 ID를 찾을 때마다 자동으로 새 질감 세트를 만듭니다([프로젝트에서 UV 타일 워크플로를 사용하지 않는 한](../../features/uv-tiles/uv-tiles.md)).
 
 각 재료 ID에는 고유한 UV가 있어야 합니다(또는 대칭복사된 형상의 경우 논리적 중첩).
 

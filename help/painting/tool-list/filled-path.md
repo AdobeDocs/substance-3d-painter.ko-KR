@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/tool-list/filled-path.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/tool-list/filled-path.html"
 breadcrumb-title: ''
-description: Substance 3D Painter에서 칠 패스 툴을 사용하여 텍스처 페인팅을 위해 칠 모양과 패스를 만드는 방법을 살펴보세요.
+description: Substance 3D Painter에서 칠 패스 툴을 사용하여 텍스처 페인팅을 위한 칠 모양과 패스를 만드는 방법을 살펴보세요.
 helpx_creative_field: ""
 helpx_description: Substance 3D Painter
 helpx_experience_level: ""
@@ -22,7 +22,7 @@ ht-degree: 8%
 
 ![](../../assets/banner_filled_path.jpg)
 
-채우기 패스 도구는 균일한 색상으로 채워진 3D 모델의 표면에 모양을 만들 수 있는 패스 도구의 유형입니다.
+채우기 패스 도구는 균일 색상으로 채워진 3D 모델의 표면에 모양을 만들 수 있는 패스 도구의 유형입니다.
 
 ![](../../assets/filled_path_across_gaps.png)
 

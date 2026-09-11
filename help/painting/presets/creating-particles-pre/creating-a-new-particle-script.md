@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/presets/creating-particles-presets/creating-a-new-particle-script.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/presets/creating-particles-presets/creating-a-new-particle-script.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 새 입자 스크립트를 만들어 사용자 정의 입자 브러시 비헤이비어 및 효과를 정의하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 ## 메시 가져오기
 
-팝콘FX는 **FBX**&#x200B;만 지원합니다. 메시를 이 형식으로 내보내야 합니다. 내보내기 단계에서 메시 크기를 확인하여 &quot;실제&quot;의 올바른 단위에 맞춥니다.
+팝콘FX는 **FBX**&#x200B;만 지원하므로 메쉬를 이 형식으로 내보내야 합니다. 내보내기 단계에서 메시 크기를 확인하여 &quot;실제&quot;의 올바른 단위에 맞춥니다.
 
 프로젝트의 &quot;망&quot; 폴더에 복사하여 붙여 넣습니다(PostonFX에서 &quot;망&quot; 폴더를 마우스 오른쪽 버튼으로 클릭하고 &quot;파일 위치 열기&quot;를 선택).
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/workflow-issues/license-issues/maintenance-is-expired-dialog-on-startup.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/workflow-issues/license-issues/maintenance-is-expired-dialog-on-startup.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 라이선스 관리를 위해 시작할 때 표시되는 유지 관리 만료 대화 상자를 해결하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

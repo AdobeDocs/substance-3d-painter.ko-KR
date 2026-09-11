@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/project-resources.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/project-resources.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 프로젝트 리소스 및 기술 문서에 액세스하여 워크플로우와 문제 해결을 개선합니다.
 helpx_creative_field: ""
@@ -30,7 +30,7 @@ ht-degree: 0%
 +++가져온 비트맵 관리
 가져온 이미지는 성능에 큰 영향을 줄 수 있으므로 가져온 이미지에 주의해야 합니다. 텍스처 세트가 2k로 설정되어 있고 더 높은 해상도로 내보내지지 않는 경우 8k 이미지를 사용해도 긍정적인 영향을 주지 않으며, 텍스처 세트의 해상도이므로 품질이 2k로 제한됩니다.
 
-포맷도 중요합니다. EXR, HDR 및 PNG도 JPG보다 훨씬 무겁고, 일부 이미지에는 EXR의 품질 수준(예: 기본 색상 대 Height 세부 정보)이 필요하지 않을 수 있습니다.
+형식 또한 중요합니다. EXR, HDR 및 PNG도 JPG보다 훨씬 무겁고 모든 이미지에 기본 색상과 Height 세부 정보 등의 EXR 품질 수준이 필요한 것은 아닙니다.
 
 +++
 

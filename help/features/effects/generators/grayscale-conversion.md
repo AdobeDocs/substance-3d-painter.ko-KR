@@ -1,6 +1,6 @@
 ---
 title: 회색 음영 전환
-description: Substance 3D Painter의 회색 음영 변환 생성기를 사용하는 방법에 대해 알아봅니다.
+description: Substance 3D Painter의 회색 음영 전환 생성기 사용 방법을 알아봅니다.
 source-git-commit: b7770a9497f0db047433aec32c31b57f8dc13ae7
 workflow-type: tm+mt
 source-wordcount: '229'
@@ -14,7 +14,7 @@ ht-degree: 5%
 <table>
   <tr style="border: 0;">
     <td style="border: 0;" valign="top"><img src="../../../assets/generators/icon_grayscale_conversion.png" alt=""/><br><strong>인:</strong> 생성기, 회색 음영, 색상</td>
-    <td style="border: 0;" valign="top"><strong>설명</strong><br>회색 음영 변환 생성기는 텍스처나 맵을 회색 음영 값으로 변환합니다.<br><br>회색 음영 변환 생성기는 단색(흑백) 텍스처를 출력합니다. 따라서 전체 색상 입력 맵에서 마스크를 생성하는 데 유용합니다.</td>
+    <td style="border: 0;" valign="top"><strong>설명</strong><br>회색 음영 전환 생성기는 텍스처 또는 맵을 회색 음영 값으로 변환합니다.<br><br>회색 음영 전환 생성기는 흑백 텍스처를 출력합니다. 따라서 전체 색상 입력 맵에서 마스크를 생성하는 데 유용합니다.</td>
   </tr>
 </table>
 
