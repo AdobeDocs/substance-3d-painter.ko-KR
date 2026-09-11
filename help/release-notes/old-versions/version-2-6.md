@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/release-notes/old-versions/version-2-6.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/release-notes/old-versions/version-2-6.html"
 breadcrumb-title: ''
 description: Substance 3D Painter 버전 2.6의 릴리스 노트를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
 helpx_creative_field: ""
@@ -48,7 +48,7 @@ ht-degree: 0%
 ![](../../assets/texture-set-rename-description.png)
 
 이제 Substance Painter 내부에 직접 설정된 텍스처의 이름을 변경할 수 있습니다. 텍스처 세트의 이름을 바꾸면 사용된 내보내기 사전 설정에 따라 디스크에서 내보내는 텍스처의 이름에 영향을 미칩니다.\
-텍스처 세트의 이름을 바꾸려면 해당 이름을 두 번 클릭하여 수정하거나 마우스 오른쪽 버튼을 클릭하여 컨텍스트 메뉴를 엽니다. 사용자 정의 설명을 추가하여 텍스처 세트의 역할에 대한 자세한 정보를 제공할 수도 있습니다. 이 기능은 [UDIM 프로젝트](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html)에서 작업할 때 매우 유용합니다. &quot;**설정**&quot; 단추를 사용하여 설명이 목록에 표시되는 방법을 구성하십시오.
+텍스처 세트의 이름을 바꾸려면 해당 이름을 두 번 클릭하여 수정하거나 마우스 오른쪽 버튼을 클릭하여 컨텍스트 메뉴를 엽니다. 사용자 정의 설명을 추가하여 텍스처 세트의 역할에 대한 자세한 정보를 제공할 수도 있습니다. 이 기능은 [UDIM 프로젝트](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html)에서 작업할 때 매우 유용합니다. &quot;**설정**&quot; 단추를 사용하여 설명이 목록에 표시되는 방법을 구성하십시오.
 
 ![](../../assets/reasign-texture-set.png)
 

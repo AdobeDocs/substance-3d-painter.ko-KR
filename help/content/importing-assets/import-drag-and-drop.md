@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/content/importing-assets/import-drag-and-drop.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/content/importing-assets/import-drag-and-drop.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 드래그 앤 드롭을 통해 리소스를 추가하여 에셋을 프로젝트로 빠르게 가져오는 방법을 살펴보세요.
 helpx_creative_field: ""

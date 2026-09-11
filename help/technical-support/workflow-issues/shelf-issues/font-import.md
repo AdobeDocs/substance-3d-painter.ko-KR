@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/workflow-issues/shelf-issues/font-import.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/workflow-issues/shelf-issues/font-import.html"
 breadcrumb-title: ''
 description: 글꼴 리소스를 성공적으로 가져오고 사용하기 위해 Substance 3D Painter에서 글꼴 파일 가져오기 문제를 해결하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

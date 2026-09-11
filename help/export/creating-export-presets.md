@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/getting-started/export/creating-export-presets.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/getting-started/export/creating-export-presets.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 사용자 정의 출력 템플릿을 만들어 자신만의 텍스처 내보내기 구성을 정의하는 방법을 살펴보세요.
 helpx_creative_field: ""

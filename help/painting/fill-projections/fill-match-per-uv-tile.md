@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/fill-projections/fill-match-per-uv-tile.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/fill-projections/fill-match-per-uv-tile.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 UV 타일별로 채우기 일치를 사용하여 매끄러운 타일링을 위해 UV 타일 간 텍스처 패턴을 일치시킬 수 있습니다.
 helpx_creative_field: ""

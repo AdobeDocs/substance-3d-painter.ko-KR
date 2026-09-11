@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/pipeline-and-integration/resource-management/adding-resource-paths-by-editing-preferences-manually.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/pipeline-and-integration/resource-management/adding-resource-paths-by-editing-preferences-manually.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 환경 설정을 편집하여 쉘프 리소스 라이브러리를 확장하여 수동으로 리소스 경로를 추가하는 방법을 알아봅니다.
 helpx_creative_field: ""

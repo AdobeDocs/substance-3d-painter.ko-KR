@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/configuring-pens-and-tablets.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/configuring-pens-and-tablets.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 최적의 압력 민감도와 드로잉 경험을 위해 펜과 태블릿을 구성하는 방법에 대해 알아보십시오.
 helpx_creative_field: ""

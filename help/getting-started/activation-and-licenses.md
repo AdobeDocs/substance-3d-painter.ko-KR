@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/getting-started/activation-and-licenses.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/getting-started/activation-and-licenses.html"
 breadcrumb-title: ''
 description: 텍스처 페인팅용 애플리케이션을 사용하기 위해 Substance 3D Painter을 활성화하고 라이선스를 관리하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ ht-degree: 1%
 
 | 응용 프로그램 유형 | 활성화 프로세스 |
 | --- | --- |
-| Creative Cloud 데스크톱 | [HelpX 설명서](https://helpx.adobe.com/download-install/using/download-creative-cloud-apps.html)의 전용 페이지를 참조하십시오. 문제가 있는 경우 [Creative Cloud 설명서](https://helpx.adobe.com/creative-cloud/user-guide.html)에서 추가 답변을 제공할 수 있습니다. |
+| Creative Cloud 데스크톱 | [HelpX 설명서](https://helpx.adobe.com/kr/download-install/using/download-creative-cloud-apps.html)의 전용 페이지를 참조하십시오. 문제가 있는 경우 [Creative Cloud 설명서](https://helpx.adobe.com/kr/creative-cloud/user-guide.html)에서 추가 답변을 제공할 수 있습니다. |
 | 증기 | Steam 라이브러리에서 직접 제품을 실행합니다. |
 | Substance 3D 독립형 | 아래에 설명된 활성화 프로세스를 참조하십시오. |
 
@@ -44,7 +44,7 @@ Substance 3D Painter의 특정 이전 버전에서 활성화 마법사가 나타
 
 활성화 마법사에는 세 가지 옵션이 있습니다.
 
-* <b>이 제품 평가</b>: 레거시 평가판을 더 이상 사용할 수 없습니다. 대신 [여기에서 또는 Creative Cloud 데스크톱을 사용하여 각 Substance 3D 응용 프로그램에 대해 30일 체험판을 시작할 수 있습니다](https://www.adobe.com/products/substance3d/free-trial-download.html?msockid=35568f9be2b964ec22d09c04e3eb65af).
+* <b>이 제품 평가</b>: 레거시 평가판을 더 이상 사용할 수 없습니다. 대신 [여기에서 또는 Creative Cloud 데스크톱을 사용하여 각 Substance 3D 응용 프로그램에 대해 30일 체험판을 시작할 수 있습니다](https://www.adobe.com/kr/products/substance3d/free-trial-download.html?msockid=35568f9be2b964ec22d09c04e3eb65af).
 * <b>라이선스 파일을 사용하여 활성화</b>: 2022년 9월 30일 이전에 Substance 3D 웹 사이트의 계정 페이지에서 다운로드한 라이선스 파일(<b>\*.key</b>)로 제품을 활성화합니다.
 * <b>내 계정을 사용하여 활성화</b>: 기존 Substance 계정은 더 이상 활성화에 사용할 수 없습니다.
 

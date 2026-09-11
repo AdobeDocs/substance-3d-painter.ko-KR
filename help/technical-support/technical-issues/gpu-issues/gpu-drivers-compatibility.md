@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/gpu-issues/gpu-drivers-compatibility.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/gpu-issues/gpu-drivers-compatibility.html"
 breadcrumb-title: ''
 description: 안정적인 렌더링과 성능을 보장하기 위한 Substance 3D Painter의 GPU 드라이버 호환성 요구 사항에 대해 알아봅니다.
 helpx_creative_field: ""

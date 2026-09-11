@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/dynamic-strokes/creating-custom-dynamic-strokes.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/dynamic-strokes/creating-custom-dynamic-strokes.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 사용자 정의 역동적인 획을 만들어 독특한 브러시 획 비헤이비어 및 효과를 디자인하는 방법을 살펴봅니다.
 helpx_creative_field: ""

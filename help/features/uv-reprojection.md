@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/uv-reprojection.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/uv-reprojection.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 UV 재투영을 사용하여 다양한 UV 레이아웃 간에 텍스처를 전송하는 방법을 알아보십시오.
 helpx_creative_field: ""

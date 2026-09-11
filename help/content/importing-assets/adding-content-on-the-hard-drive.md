@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/content/importing-assets/adding-content-on-the-hard-drive.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/content/importing-assets/adding-content-on-the-hard-drive.html"
 breadcrumb-title: ''
 description: 하드 드라이브에서 Substance 3D Painter으로 콘텐츠를 추가하여 로컬 파일로 리소스 라이브러리를 확장하는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -57,7 +57,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
-> 버전 7.2.0부터 사용자 정의 폴더 및 범주는 라이브러리에서 사용할 수 있습니다. 에셋 창에서 [경로별 필터링](../../interface/assets/filter-by-path.md) 또는 [탐색 경로](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/navigating-in-the-shelf-147095659.html)를 통해 액세스할 수 있습니다.
+> 버전 7.2.0부터 사용자 정의 폴더 및 범주는 라이브러리에서 사용할 수 있습니다. 에셋 창에서 [경로별 필터링](../../interface/assets/filter-by-path.md) 또는 [탐색 경로](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/navigating-in-the-shelf-147095659.html)를 통해 액세스할 수 있습니다.
 
 >[!WARNING]
 >

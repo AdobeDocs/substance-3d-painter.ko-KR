@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/substance-3d-assets.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/substance-3d-assets.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 Substance 3D Assets에 액세스하고 사용하여 3D 모델 및 재질을 검색하고 가져오는 방법을 알아봅니다.
 helpx_creative_field: ""

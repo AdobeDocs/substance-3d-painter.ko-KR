@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/toolbars.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/toolbars.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 도구 모음을 사용하고 사용자 정의하여 도구와 기능에 효율적으로 액세스하는 방법을 알아봅니다.
 helpx_creative_field: ""

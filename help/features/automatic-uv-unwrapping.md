@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/automatic-uv-unwrapping.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/automatic-uv-unwrapping.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 자동 UV 언래핑을 사용하여 3D 모델에 사용할 UV 레이아웃을 자동으로 생성하는 방법을 살펴보세요.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/workflow-issues/viewport-issues/viewports-and-textures-are-blurry-or-lack-sharpness.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/workflow-issues/viewport-issues/viewports-and-textures-are-blurry-or-lack-sharpness.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 흐린 뷰포트 및 텍스처를 수정하여 선명하고 선명한 시각적 품질을 보장하는 방법을 살펴보세요.
 helpx_creative_field: ""
@@ -26,7 +26,7 @@ ht-degree: 1%
 
 기본적으로 Substance 3D Painter은 높은 DPI/Retina 화면에서 뷰 포트 해상도를 다운스케일하여 성능을 개선합니다.
 
-이 동작은 **뷰포트 비율** 매개 변수를 변경하여 [기본 설정](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/general-71008262.html)에서 변경할 수 있습니다.
+이 동작은 **뷰포트 비율** 매개 변수를 변경하여 [기본 설정](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/general-71008262.html)에서 변경할 수 있습니다.
 
 ## 텍스처 필터링
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/display-settings.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/display-settings.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 디스플레이 설정을 구성하여 뷰포트 렌더링 및 시각적 품질을 사용자 정의하는 방법을 살펴보세요.
 helpx_creative_field: ""

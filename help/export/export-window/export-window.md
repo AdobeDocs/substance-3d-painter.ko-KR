@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/getting-started/export/export-window.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/getting-started/export/export-window.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 내보내기 창을 사용하여 다양한 형식으로 텍스처를 구성하고 내보내는 방법을 알아봅니다.
 helpx_creative_field: ""

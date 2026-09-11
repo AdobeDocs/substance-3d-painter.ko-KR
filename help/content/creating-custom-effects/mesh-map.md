@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/content/creating-custom-effects/mesh-map.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/content/creating-custom-effects/mesh-map.html"
 breadcrumb-title: ''
 description: Substance 3D Painter이 사용자 정의 효과에서 메시 맵을 사용하여 모양 기반 텍스처 정보에 액세스하는 방법을 알아봅니다.
 helpx_creative_field: ""

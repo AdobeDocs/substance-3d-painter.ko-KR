@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/shaders-shader-api/surface-shader-shader-api.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/shaders-shader-api/surface-shader-shader-api.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 Surface 셰이더 API 참조에 액세스하여 사용자 정의 표면 셰이더 효과 및 재질을 만듭니다.
 helpx_creative_field: ""

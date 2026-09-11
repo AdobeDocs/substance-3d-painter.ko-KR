@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/pipeline-and-integration/configuration/remote-desktop.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/pipeline-and-integration/configuration/remote-desktop.html"
 breadcrumb-title: ''
 description: 원격 작업 과정 및 공동 작업을 활성화하기 위해 원격 데스크톱 액세스용 Substance 3D Painter을 구성하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

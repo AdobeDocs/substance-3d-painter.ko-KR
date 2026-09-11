@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-painter/interface/viewport/camera-management.html'
+helpx_url: 'https://helpx.adobe.com/kr/substance-3d-painter/interface/viewport/camera-management.html'
 breadcrumb-title: ''
 description: Substance 3D Painter 뷰포트에서 카메라 보기를 관리하여 3D 모델을 효과적으로 탐색하고 프레임 하는 방법을 알아봅니다.
 helpx_creative_field: ''

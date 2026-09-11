@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/getting-started/export/export-window/export-settings.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/getting-started/export/export-window/export-settings.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 내보내기 설정을 구성하여 텍스처 해상도, 형식 및 출력 옵션을 제어하는 방법을 알아봅니다.
 helpx_creative_field: ""

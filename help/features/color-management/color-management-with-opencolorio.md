@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/color-management/color-management-with-opencolorio.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/color-management/color-management-with-opencolorio.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 OpenColorIO 색상 관리를 사용하여 파이프라인 간에 일관된 색상 작업 과정을 만드는 방법을 살펴보세요.
 helpx_creative_field: ""

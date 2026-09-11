@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/performances-guidelines/mesh-and-uv-setup.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/performances-guidelines/mesh-and-uv-setup.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 성능 및 텍스처 품질을 최적화하기 위한 메쉬 및 UV 설정에 대한 모범 사례를 알아봅니다.
 helpx_creative_field: ""

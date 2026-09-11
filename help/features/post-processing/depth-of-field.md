@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/post-processing/depth-of-field.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/post-processing/depth-of-field.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 필드 후처리 깊이를 사용하여 사실적인 카메라 초점 흐림 효과를 만드는 방법을 알아봅니다.
 helpx_creative_field: ""

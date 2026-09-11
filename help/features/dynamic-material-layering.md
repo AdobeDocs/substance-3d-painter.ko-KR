@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/dynamic-material-layering.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/dynamic-material-layering.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 동적 재질 레이어를 사용하여 프로시저 마스크로 재질을 혼합하고 결합하는 방법을 살펴보세요.
 helpx_creative_field: ""

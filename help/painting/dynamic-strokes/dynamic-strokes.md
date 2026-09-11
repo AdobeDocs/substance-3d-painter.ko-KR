@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/dynamic-strokes.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/dynamic-strokes.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 역동적인 획을 사용하여 페인팅 속도와 압력에 맞는 반응형 브러시 획을 만드는 방법을 알아봅니다.
 helpx_creative_field: ""

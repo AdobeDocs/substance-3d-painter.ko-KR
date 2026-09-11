@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/baking/baking-visualization-settings.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/baking/baking-visualization-settings.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 메시 맵 굽기 결과를 미리 보고 디버깅하기 위해 굽기 시각화 설정을 구성하는 방법을 알아봅니다.
 helpx_creative_field: ""

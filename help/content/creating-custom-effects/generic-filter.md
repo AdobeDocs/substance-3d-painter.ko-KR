@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/content/creating-custom-effects/generic-filter.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/content/creating-custom-effects/generic-filter.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 일반 필터 효과를 만들어 사용자 정의 이미지 처리 및 텍스처 필터를 적용하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

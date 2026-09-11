@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/presets/photoshop-brush-presets-abr.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/presets/photoshop-brush-presets-abr.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 Photoshop 브러시 사전 설정(ABR 파일)을 사용하여 기존 브러시 컬렉션을 활용하는 방법을 알아봅니다.
 helpx_creative_field: ""

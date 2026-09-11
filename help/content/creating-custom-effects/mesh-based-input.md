@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/content/creating-custom-effects/mesh-based-input.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/content/creating-custom-effects/mesh-based-input.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 사용자 정의 효과에서 메쉬 기반 입력을 사용하여 모양 인식 텍스처 효과를 만드는 방법을 알아봅니다.
 helpx_creative_field: ""

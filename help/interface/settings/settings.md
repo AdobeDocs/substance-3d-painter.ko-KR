@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/settings.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/settings.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 설정에 액세스하고 구성하여 애플리케이션 환경 설정, 단축키 및 비헤이비어를 맞춤화할 수 있습니다.
 helpx_creative_field: ""

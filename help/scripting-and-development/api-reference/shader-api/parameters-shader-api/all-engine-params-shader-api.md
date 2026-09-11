@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/parameters-shader-api/all-engine-params-shader-api.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/parameters-shader-api/all-engine-params-shader-api.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에 대한 모든 엔진 매개변수 셰이더 API 참조에 액세스하여 엔진 레벨 셰이더 매개변수를 제어합니다.
 helpx_creative_field: ""

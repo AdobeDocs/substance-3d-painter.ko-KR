@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/pipeline-and-integration/resource-management/shelf-and-assets-location.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/pipeline-and-integration/resource-management/shelf-and-assets-location.html"
 breadcrumb-title: ''
 description: 리소스 라이브러리를 구성하고 액세스하기 위해 Substance 3D Painter에서 쉘프 및 에셋 위치를 구성하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

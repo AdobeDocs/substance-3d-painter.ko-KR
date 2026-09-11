@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/main-menu/edit-menu.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/main-menu/edit-menu.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 편집 메뉴를 사용하여 실행 취소, 다시 실행 및 편집 작업에 액세스하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

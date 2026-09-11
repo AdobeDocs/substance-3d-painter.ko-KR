@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-normal-shader-api.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-normal-shader-api.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 [Lib 표준] 셰이더 API 참조에 액세스하여 사용자 정의 셰이더에서 노멀 맵 및 표면 표준을 사용하여 작업할 수 있습니다.
 helpx_creative_field: ""

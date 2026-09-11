@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/pipeline-and-integration/configuration/querying-current-software-version.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/pipeline-and-integration/configuration/querying-current-software-version.html"
 breadcrumb-title: ''
 description: 파이프라인 통합 및 자동화를 위해 프로그래밍 방식으로 현재 Substance 3D Painter 소프트웨어 버전을 쿼리하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/pipeline-and-integration/resource-management/excluding-resources-in-a-resource-path.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/pipeline-and-integration/resource-management/excluding-resources-in-a-resource-path.html"
 breadcrumb-title: ''
 description: 더욱 개선된 셸프 구성을 위해 Substance 3D Painter에서 리소스 경로에서 특정 리소스를 제외하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

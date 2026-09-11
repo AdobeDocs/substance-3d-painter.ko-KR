@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-vectors-shader-api.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-vectors-shader-api.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 사용자 정의 셰이더에서 벡터 작업을 수행하려면 Lib 벡터 셰이더 API 참조에 액세스하십시오.
 helpx_creative_field: ""

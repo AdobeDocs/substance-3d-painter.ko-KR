@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/miscellaneous-issues/assets-or-shelf-previews-are-empty.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/miscellaneous-issues/assets-or-shelf-previews-are-empty.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 빈 에셋 및 셸프 미리 보기를 수정하여 썸네일 표시 기능을 복원하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

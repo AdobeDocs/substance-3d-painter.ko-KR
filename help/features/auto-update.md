@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/auto-update.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/auto-update.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 자동 리소스 업데이트를 사용하여 리소스 라이브러리를 동기화하여 최신 상태로 유지하는 방법을 알아봅니다.
 helpx_creative_field: ""

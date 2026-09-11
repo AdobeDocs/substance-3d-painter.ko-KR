@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/stability-issues/windows-blue-screens.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/stability-issues/windows-blue-screens.html"
 breadcrumb-title: ''
 description: 안정적인 시스템 운영을 위해 Substance 3D Painter을 사용할 때 Windows 블루 스크린 오류를 방지하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

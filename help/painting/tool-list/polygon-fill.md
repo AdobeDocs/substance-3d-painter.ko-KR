@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/tool-list/polygon-fill.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/tool-list/polygon-fill.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 다각형 채우기 도구를 사용하여 선택한 다각형을 페인트로 채우면 텍스처 페인팅이 효율적으로 수행됩니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/shader-settings.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/shader-settings.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 셰이더 설정을 구성하여 재질 렌더링 및 시각적 모양을 사용자 정의하는 방법을 알아봅니다.
 helpx_creative_field: ""

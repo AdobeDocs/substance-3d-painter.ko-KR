@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/presets/creating-and-saving-presets.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/presets/creating-and-saving-presets.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 브러시 사전 설정을 만들고 저장하여 재사용 가능한 사용자 정의 페인팅 도구 라이브러리를 만드는 방법을 살펴보세요.
 helpx_creative_field: ""

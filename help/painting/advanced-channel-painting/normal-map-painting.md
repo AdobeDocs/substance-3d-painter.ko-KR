@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/advanced-channel-painting/normal-map-painting.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/advanced-channel-painting/normal-map-painting.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 직접 노멀 맵을 페인트 하여 텍스처에 표면 세부 사항과 깊이를 추가하는 방법을 살펴보세요.
 helpx_creative_field: ""

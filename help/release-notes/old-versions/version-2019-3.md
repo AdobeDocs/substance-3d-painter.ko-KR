@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/release-notes/old-versions/version-2019-3.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/release-notes/old-versions/version-2019-3.html"
 breadcrumb-title: ''
 description: Substance 3D Painter 버전 2019.3의 릴리스 노트를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
 helpx_creative_field: ""
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 가져올 ABR 파일이 없는 경우 온라인에서 많은 파일을 찾을 수 있습니다.
 
-* [Adobe 시 Kyle의 브러시 사전 설정](https://www.adobe.com/products/photoshop/brushes.html)
+* [Adobe 시 Kyle의 브러시 사전 설정](https://www.adobe.com/kr/products/photoshop/brushes.html)
 * [ArtStation의 브러시 사전 설정](https://www.artstation.com/marketplace?q=photoshop%20brush&sort_by=trending)
 * [DeviantArt의 브러시 사전 설정](https://www.deviantart.com/search?q=photoshop%20brush)
 * [큐브브러시의 브러시 사전 설정](https://cubebrush.co/marketplace?categories=354,57)
@@ -115,7 +115,7 @@ Photoshop 브러시 사전 설정 지원 외에도 그래픽 태블릿 사용과
 이제 Substance Painter이 누락된 UV 좌표가 있는 메시의 감싸기를 자동으로 해제합니다. 이렇게 하면 모든 종류의 형상을 가져오고 즉시 페인트를 시작할 수 있습니다. 우리의 UV 언래핑 시스템은 텍스처 세트를 만들기 위해 재료 지정을 계속 따라가면서 하위 메쉬당 하나의 UV 섬을 생성합니다. 이 기능은 현재 Beta 버전이며 향후 버전에서 발전할 예정입니다. 자동 래핑 해제는 **UDIM 워크플로를 사용하지 않는** 프로젝트에만 적용됩니다.
 
 * **자동 UV 감싸기 해제**\
-  이제 기본 Substance Painter에서 누락된 메시에 대한 UV 좌표를 자동으로 생성합니다. 이는 프로젝트 생성 및 메시 다시 가져오기 모두에 적용됩니다. 그러나 [기본 설정](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/general-71008262.html)으로 이동하여 **가져오기 옵션**&#x200B;에서 **자동 UV 감싸기 사용**&#x200B;을 사용하지 않도록 설정하여 이 동작을 사용하지 않도록 설정할 수 있습니다.
+  이제 기본 Substance Painter에서 누락된 메시에 대한 UV 좌표를 자동으로 생성합니다. 이는 프로젝트 생성 및 메시 다시 가져오기 모두에 적용됩니다. 그러나 [기본 설정](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/general-71008262.html)으로 이동하여 **가져오기 옵션**&#x200B;에서 **자동 UV 감싸기 사용**&#x200B;을 사용하지 않도록 설정하여 이 동작을 사용하지 않도록 설정할 수 있습니다.
 
   ![](../../assets/uv-unwrap-setting.png)
 * **UV 감싸기 해제 진행률 표시줄**\
@@ -215,7 +215,7 @@ Photoshop 브러시 사전 설정 지원 외에도 그래픽 태블릿 사용과
 * **새 브러시 사전 설정**
 
   * **102 Photoshop 브러시 사전 설정**\
-    Photoshop 브러시가 도입되면서 이를 표시하기 위한 새로운 사전 설정 세트가 포함되었습니다. 해당 사전 설정은 [Adobe 웹 사이트](https://www.adobe.com/products/photoshop/brushes.html)에서 사용할 수 있는 Kyle T. Webster 팩에서 선택되었습니다.
+    Photoshop 브러시가 도입되면서 이를 표시하기 위한 새로운 사전 설정 세트가 포함되었습니다. 해당 사전 설정은 [Adobe 웹 사이트](https://www.adobe.com/kr/products/photoshop/brushes.html)에서 사용할 수 있는 Kyle T. Webster 팩에서 선택되었습니다.
 
     ![](../../assets/shelf-abr-demo.jpg){width="500px"}
   * **18개의 새 브러시 사전 설정**\

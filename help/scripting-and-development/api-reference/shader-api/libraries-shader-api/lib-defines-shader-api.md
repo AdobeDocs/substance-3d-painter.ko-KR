@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-defines-shader-api.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-defines-shader-api.html"
 breadcrumb-title: ''
 description: Lib Substance 3D Painter에 대한 정의 셰이더 API 참조에 액세스하여 셰이더 상수 및 프리프로세서 지시어를 정의합니다.
 helpx_creative_field: ""

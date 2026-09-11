@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/getting-started/export/export-presets/default-presets.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/getting-started/export/export-presets/default-presets.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 기본 출력 템플릿에 대해 알아보고 표준 내보내기 구성 및 형식을 이해합니다.
 helpx_creative_field: ""
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 여기에 나열되지 않은 다른 소프트웨어(**옥탄** 등)도 지원될 수 있습니다. 자세한 내용은 [에코시스템 및 플러그인](https://experienceleague.adobe.com/en/docs/substance-3d/ecosystem/home)을 참조하세요.
+> 여기에 나열되지 않은 다른 소프트웨어(**옥탄** 등)도 지원될 수 있습니다. 자세한 내용은 [에코시스템 및 플러그인](https://experienceleague.adobe.com/ko/docs/substance-3d/ecosystem/home)을 참조하세요.
 
 | *사전 설정* | *설명* |
 | --- | --- |

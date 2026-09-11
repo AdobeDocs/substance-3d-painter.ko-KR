@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-sampler-shader-api.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-sampler-shader-api.html"
 breadcrumb-title: ''
 description: Substance 3D Painter용 Lib Sampler 셰이더 API 참조에 액세스하여 사용자 정의 셰이더 개발에서 텍스처 및 데이터를 샘플링합니다.
 helpx_creative_field: ""

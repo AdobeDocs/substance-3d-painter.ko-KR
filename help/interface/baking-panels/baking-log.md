@@ -19,6 +19,6 @@ ht-degree: 0%
 
 >[!TIP]
 >
-> 이름별로 에셋을 일치시키는 방법에 대한 정보는 [Bakers 설명서](https://experienceleague.adobe.com/en/docs/substance-3d/bakers/features/matching-by-name)에서 확인할 수 있습니다.
+> 이름별로 에셋을 일치시키는 방법에 대한 정보는 [Bakers 설명서](https://experienceleague.adobe.com/ko/docs/substance-3d/bakers/features/matching-by-name)에서 확인할 수 있습니다.
 
 ![](../../assets/baking/baking-log-panel.png)

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/startup-issues/crash-or-freeze-during-startup.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/startup-issues/crash-or-freeze-during-startup.html"
 breadcrumb-title: ''
 description: 안정적인 애플리케이션 실행을 위해 Substance 3D Painter 시작 시 충돌과 작동 중지를 해결하는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -41,7 +41,7 @@ Windows에서 시작할 때 애플리케이션이 바로 멈추면(흰색 화면
 * 외부 응용 프로그램에서 충돌을 만들고 있습니다. 충돌을 확인하려면 [소프트웨어 충돌](software-conflicts.md)을 참조하세요.
 * 응용 프로그램의 일부 창이 다른 모니터에서 열렸습니다. 인터페이스를 기본 레이아웃으로 복원하면 응용 프로그램을 정상적으로 시작할 수 있습니다.
   1. 시작 메뉴에서 레지스트리 편집기(**regedit**)를 엽니다.
-  1. 응용 프로그램 기본 설정으로 이동합니다([기본 설정 및 응용 프로그램 데이터 위치](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/application-preferences-location-147095594.html) 참조).
+  1. 응용 프로그램 기본 설정으로 이동합니다([기본 설정 및 응용 프로그램 데이터 위치](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/application-preferences-location-147095594.html) 참조).
   1. **Adobe Substance 3D Painter** 키 확장
   1. **주 창 2018** 키를 선택하고 삭제합니다.
   1. 애플리케이션을 다시 시작합니다

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/main-menu/viewport-menu.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/main-menu/viewport-menu.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 뷰포트 메뉴를 사용하여 뷰포트 설정과 표시 옵션에 액세스하는 방법을 살펴보세요.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/vector-graphic-svg.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/vector-graphic-svg.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 벡터 그래픽(SVG 및 AI 파일)을 사용하여 확장 가능한 벡터 아트워크를 텍스처에 추가하는 방법을 알아봅니다.
 helpx_creative_field: ""

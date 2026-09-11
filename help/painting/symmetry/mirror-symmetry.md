@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/symmetry/mirror-symmetry.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/symmetry/mirror-symmetry.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 대칭 미러링 기능을 사용하여 축을 기준으로 대칭적으로 페인트 하여 텍스처를 균형 있게 만듭니다.
 helpx_creative_field: ""

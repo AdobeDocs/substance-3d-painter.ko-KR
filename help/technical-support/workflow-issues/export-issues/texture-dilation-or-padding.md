@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/workflow-issues/export-issues/texture-dilation-or-padding.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/workflow-issues/export-issues/texture-dilation-or-padding.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 텍스처 확장 및 패딩을 사용하여 내보낸 텍스처에서 가장자리 아티팩트를 방지하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

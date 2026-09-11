@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/presets/photoshop-brush-presets-abr/exporting-brush-presets-from-photoshop.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/presets/photoshop-brush-presets-abr/exporting-brush-presets-from-photoshop.html"
 breadcrumb-title: ''
 description: Photoshop에서 브러시 사전 설정을 Substance 3D Painter 텍스처 페인팅 작업 과정에 사용할 ABR 파일로 내보내는 방법을 알아봅니다.
 helpx_creative_field: ""

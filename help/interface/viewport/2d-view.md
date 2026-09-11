@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/viewport/2d-view.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/viewport/2d-view.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 2D 보기를 사용하여 UV 공간에서 텍스처를 보고 편집하여 정밀한 텍스처 페인팅을 하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

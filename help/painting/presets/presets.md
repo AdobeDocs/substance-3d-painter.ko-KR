@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/presets.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/presets.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 브러시 사전 설정을 사용하고 관리하여 텍스처 페인팅 워크플로우를 간소화하는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -30,6 +30,6 @@ ht-degree: 1%
 
 사전 설정을 관리하려면 다음을 참조하십시오.
 
-* [사전 설정 만들기 및 저장](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/creating-and-saving-a-preset-180191514.html)
+* [사전 설정 만들기 및 저장](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/creating-and-saving-a-preset-180191514.html)
 * [파티클 사전 설정 만들기](../../painting/presets/creating-particles-pre/creating-particles-presets.md)
 * [Photoshop 브러시 사전 설정 (ABR)](../../painting/presets/photoshop-brush-presets/photoshop-brush-presets-abr.md)

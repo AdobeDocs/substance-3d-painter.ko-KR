@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/color-picker.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/color-picker.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 색상 피커를 사용하여 텍스처 및 재질에서 색상을 선택하는 방법을 살펴보세요.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/tool-list/filled-path.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/tool-list/filled-path.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 칠 패스 툴을 사용하여 텍스처 페인팅을 위한 칠 모양과 패스를 만드는 방법을 살펴보세요.
 helpx_creative_field: ""

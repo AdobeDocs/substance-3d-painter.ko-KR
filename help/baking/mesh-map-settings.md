@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-painter/baking/mesh-map-settings.html'
+helpx_url: 'https://helpx.adobe.com/kr/substance-3d-painter/baking/mesh-map-settings.html'
 breadcrumb-title: ''
 description: Substance 3D Painter에서 메시 맵 설정을 구성하여 베이킹 매개 변수와 출력 품질을 제어하는 방법을 알아봅니다.
 helpx_creative_field: ''

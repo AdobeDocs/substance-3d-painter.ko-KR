@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/stability-issues/crash-during-export.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/stability-issues/crash-during-export.html"
 breadcrumb-title: ''
 description: 안정적인 텍스처 내보내기 워크플로우를 위해 내보내기 작업 중에 Substance 3D Painter 충돌을 해결하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 TDR(Timeout Detection and Recovery)은 GPU가 끝나지 않는 계산으로 시스템을 잠그는 것을 방지하기 위한 Microsoft Windows의 안전 메커니즘입니다. 이 메커니즘은 기본적으로 Substance 3D Painter에 대해 너무 제한적입니다.
 
-자세한 내용은 [GPU 드라이버 충돌(TDR 충돌)](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)을(를) 참조하십시오.
+자세한 내용은 [GPU 드라이버 충돌(TDR 충돌)](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)을(를) 참조하십시오.
 
 ## 가상 메모리 부족
 

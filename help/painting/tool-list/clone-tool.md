@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/tool-list/clone-tool.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/tool-list/clone-tool.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 복제 툴을 사용하면 텍스처 디테일을 한 영역에서 다른 영역으로 복사할 수 있어 텍스처 페인팅이 원활해집니다.
 helpx_creative_field: ""

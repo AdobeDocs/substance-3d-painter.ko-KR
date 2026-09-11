@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/lazy-mouse.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/lazy-mouse.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 레이지 마우스를 사용하여 커서 응답이 지연된 부드럽고 유연한 브러시 획을 만드는 방법을 알아봅니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/smart-materials-and-masks.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/smart-materials-and-masks.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 스마트 재질과 마스크를 사용하여 도형에 맞는 프로시저 텍스처를 만드는 방법을 살펴보세요.
 helpx_creative_field: ""

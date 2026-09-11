@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/display-settings/environment-settings.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/display-settings/environment-settings.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 재질 미리 보기의 조명과 배경을 제어하도록 환경 설정을 구성하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/subsurface-scattering/subsurface-parameters.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/subsurface-scattering/subsurface-parameters.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 서브서피스 스캐터링 매개변수를 구성하여 사실적인 반투명 재질을 만드는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

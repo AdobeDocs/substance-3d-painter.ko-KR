@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/advanced-channel-painting/flow-map-painting.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/advanced-channel-painting/flow-map-painting.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 플로우 맵을 페인트 하여 재질 흐름 방향과 이방성 효과를 제어하는 방법을 알아봅니다.
 helpx_creative_field: ""

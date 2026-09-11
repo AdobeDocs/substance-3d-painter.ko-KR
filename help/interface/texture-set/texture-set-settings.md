@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/texture-set/texture-set-settings.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/texture-set/texture-set-settings.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 텍스처 해상도 및 채널 속성을 제어하기 위해 텍스처 세트 설정을 구성하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

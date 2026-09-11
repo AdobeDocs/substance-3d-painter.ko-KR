@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-painter/interface/project-configuration.html'
+helpx_url: 'https://helpx.adobe.com/kr/substance-3d-painter/interface/project-configuration.html'
 breadcrumb-title: ''
 description: Substance 3D Painter에서 프로젝트 설정을 구성하여 텍스처 해상도, 채널 및 프로젝트 속성을 설정하는 방법을 알아봅니다.
 helpx_creative_field: ''

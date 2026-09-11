@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/layer-stack/managing-layers.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/layer-stack/managing-layers.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 레이어를 관리하여 텍스처 페인팅 워크플로우를 구성, 순서 변경 및 제어하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/iray-renderer/iray-settings.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/iray-renderer/iray-settings.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 Ray 렌더러 설정을 구성하여 렌더링 품질과 성능을 제어하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

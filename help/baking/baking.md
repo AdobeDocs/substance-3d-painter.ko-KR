@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-painter/baking.html'
+helpx_url: 'https://helpx.adobe.com/kr/substance-3d-painter/baking.html'
 breadcrumb-title: ''
 description: Substance 3D Painter에서 메시 맵을 굽어 앰비언트 오클루전, 곡률 및 기타 모양 기반 텍스처를 생성하는 방법을 알아봅니다.
 helpx_creative_field: ''
@@ -37,4 +37,4 @@ Painter의 베이킹 과정에 대한 자세한 내용은 다음 페이지를 �
 
 >[!NOTE]
 >
-> 일반적인 굽기에 대해 자세히 알아보려면 전용 [굽기 설명서](https://experienceleague.adobe.com/en/docs/substance-3d/bakers/home)를 살펴보세요.
+> 일반적인 굽기에 대해 자세히 알아보려면 전용 [굽기 설명서](https://experienceleague.adobe.com/ko/docs/substance-3d/bakers/home)를 살펴보세요.

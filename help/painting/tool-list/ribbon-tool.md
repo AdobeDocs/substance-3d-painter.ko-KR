@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/tool-list/ribbon-tool.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/tool-list/ribbon-tool.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 리본 툴을 사용하여 장식용 텍스처 페인팅을 위해 패스를 따라 리본과 같은 페인트 획을 만듭니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/sparse-virtual-textures.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/sparse-virtual-textures.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 스파스 가상 텍스처를 사용하여 초고해상도 텍스처로 효율적으로 작업하는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -60,7 +60,7 @@ SVT의 목표는 메인 엔진이 계산을 수행할 수 있는 공간을 최�
 ![](../assets/settings-temp.png)
 
 SVT 캐시를 저장할 수 있는 시스템 메모리(Ram)가 충분하지 않으면 Substance 3D Painter이 캐시를 저장하는 대신 컴퓨터 하드 드라이브로 전환됩니다.\
-이 캐시의 위치는 기본적으로 운영 체제 임시 파일 폴더로 이동합니다. 응용 프로그램의 기본 설정으로 이동하여 이 위치를 변경할 수 있습니다. [일반 환경 설정](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/general-71008262.html) 을 참조하세요.
+이 캐시의 위치는 기본적으로 운영 체제 임시 파일 폴더로 이동합니다. 응용 프로그램의 기본 설정으로 이동하여 이 위치를 변경할 수 있습니다. [일반 환경 설정](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/general-71008262.html) 을 참조하세요.
 
 ## 셰이더 호환성
 
@@ -69,7 +69,7 @@ SVT를 최대한 활용하려면 Shaders는 Sparse 시스템에서 텍스처를 
 셰이더를 업데이트하려면:
 
 * **기본 Substance 3D Painter 셰이더**&#x200B;의 경우: [셰이더 업데이트](../interface/shader-settings/updating-a-shader.md) 페이지의 단계별 절차를 따르십시오.
-* **사용자 지정 셰이더**&#x200B;의 경우: 로그의 오류 메시지와 [셰이더 API](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/custom-shader-api-89686018.html) 페이지를 확인합니다.
+* **사용자 지정 셰이더**&#x200B;의 경우: 로그의 오류 메시지와 [셰이더 API](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/custom-shader-api-89686018.html) 페이지를 확인합니다.
 
 >[!WARNING]
 >

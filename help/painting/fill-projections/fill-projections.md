@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/fill-projections.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/fill-projections.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 채우기 투영을 사용하여 효율적인 페인팅을 위해 다양한 투영 방법을 사용하여 텍스처를 적용하는 방법에 대해 알아보십시오.
 helpx_creative_field: ""

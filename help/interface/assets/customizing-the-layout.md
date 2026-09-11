@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/assets/customizing-the-layout.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/assets/customizing-the-layout.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 에셋 패널 레이아웃을 사용자 정의하여 리소스 검색 경험을 최적화하는 방법을 알아봅니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/uv-tiles.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/uv-tiles.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 UV 타일을 사용하여 타일 UV 레이아웃 및 여러 텍스처 세트를 사용하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

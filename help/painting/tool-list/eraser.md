@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/tool-list/eraser.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/tool-list/eraser.html"
 breadcrumb-title: ''
 description: Substance 3D Painter의 지우개 툴을 사용하여 3D 모델에서 페인트 및 텍스처를 정밀하게 제어할 수 있습니다.
 helpx_creative_field: ""
