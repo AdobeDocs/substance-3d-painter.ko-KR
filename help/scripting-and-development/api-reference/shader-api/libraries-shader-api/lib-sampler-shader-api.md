@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## lib-sampler.glsl
 
-**공용 함수:** *getAO* *getShadowFactor* *getGlossness* *getRoughness* *getMetallic* *getAnisotropyLevel* *getAnisotropyAngle* *getOpacity* *getHeight* *getDisplacement* *getSpecularLevel* *getBaseColor* *get7}* getSpecularColor ** getScattering ** generateAnisotropicRoughness ** generateDisperseColor ** generateSpecularColor **
+**공용 함수:** *getAO* *getShadowFactor* *getGlossness* *getRoughness* *getMetallic* *getAnisotropyLevel* *getAnisotropyAngle* *getOpacity* *getHeight* *getDisplacement* *getSpecularLevel* *getBaseColor* *get7&rbrace;* getSpecularColor **&#x200B; getScattering &#x200B;** generateAnisotropicRoughness **&#x200B; generateDisperseColor &#x200B;** generateSpecularColor **
 
 라이브러리에서 가져오기
 

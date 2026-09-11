@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## 재질 레이어: 편집 가능한 스택 선언
 
-편집 가능한 스택은 고유한 식별자와 문서 채널 목록으로 정의됩니다. 가능한 채널 ID는 다음과 같습니다. *ambientocclusion* *anisotropyangle* *anisotropylevel* *basecolor* *blendingmask* *disperse* *변위* *방출* *광택도* *Height* *ior* *metallic* *normal* *opacity* *reflection* *거칠음* ** Specular ** specularlevel **&#x200B;투과&#x200B;** user0 ** user1 ** user2 ** user3 ** user4 ** user5 ** user6 ** user7 **
+편집 가능한 스택은 고유한 식별자와 문서 채널 목록으로 정의됩니다. 가능한 채널 ID는 다음과 같습니다. *ambientocclusion* *anisotropyangle* *anisotropylevel* *basecolor* *blendingmask* *disperse* *변위* *방출* *광택도* *Height* *ior* *metallic* *normal* *opacity* *reflection* *거칠음* **&#x200B; Specular &#x200B;** specularlevel **&#x200B;투과&#x200B;** user0 **&#x200B; user1 &#x200B;** user2 **&#x200B; user3 &#x200B;** user4 **&#x200B; user5 &#x200B;** user6 **&#x200B; user7 &#x200B;**
 
 예:
 

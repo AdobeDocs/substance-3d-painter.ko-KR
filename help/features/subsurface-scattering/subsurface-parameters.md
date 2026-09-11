@@ -21,7 +21,7 @@ ht-degree: 0%
 # 서브서피스 매개변수
 
 Substance 3D Painter 실시간 서브서피스 구현은 스크린-공간 서브서피스 스캐터링 효과입니다. 이를 제어하는 매개변수에 대해서는 이 페이지에서 설명합니다.\
-현재 구현은 PIXAR에서 [발표한 ](http://graphics.pixar.com/library/ApproxBSSRDF/)효율적인 서브표면 산란을 위한 대략적인 반사도 프로파일&quot;방법을 기반으로 합니다.
+현재 구현은 PIXAR에서 [발표한 &#x200B;](http://graphics.pixar.com/library/ApproxBSSRDF/)효율적인 서브표면 산란을 위한 대략적인 반사도 프로파일&quot;방법을 기반으로 합니다.
 
 이러한 매개 변수를 기반으로 한 재질 예제는 [표면 아래 재질 유형](subsurface-material-type.md)을 참조하세요.
 

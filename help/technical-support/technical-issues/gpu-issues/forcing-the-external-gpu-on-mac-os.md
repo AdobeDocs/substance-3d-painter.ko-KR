@@ -27,7 +27,7 @@ Mac OS Mojave에서는 외부 GPU를 사용하도록 애플리케이션별로 �
 활성화하려면 다음을 수행합니다.
 
 1. Substance 3D Painter이 이미 실행 중이면 닫습니다.
-1. Finder에서 Substance 3D Painter을 선택하면 **응용 프로그램** 폴더에서 찾을 수 있습니다**.**
+1. Finder에서 Substance 3D Painter을 선택하면 **응용 프로그램** 폴더에서 찾을 수 있습니다&#x200B;**.**
 1. **Command-I**&#x200B;을 누르거나 **Substance 3D Painter** 응용 프로그램을 마우스 오른쪽 단추로 클릭하고 **정보 가져오기**&#x200B;를 선택합니다.
 1. 새 창에서 **외부 GPU 선호** 설정을 활성화합니다.
 1. Substance 3D Painter을 다시 시작합니다.

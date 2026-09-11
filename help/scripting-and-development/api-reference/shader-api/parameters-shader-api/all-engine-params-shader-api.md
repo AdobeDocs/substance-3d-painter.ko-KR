@@ -62,7 +62,7 @@ uniform SamplerSparse uniform_tex; // if TEXTURE_TAG_1 exists then TEXTURE_TAG_1
 
 **텍스처 집합 채널**
 
-*채널\_ambientocclusion* *채널\_anisotropyangle* *채널\_anisotropylevel* *채널\_basecolor* *채널\_blendingmask* *채널\_disperse* *채널\_변위* *채널\_방출* *채널\_광택도* *채널\_Height* *채널\_ior* *채널\_metallic* {24 채널\_normal **&#x200B;채널\_opacity **&#x200B;채널\_반사&#x200B;**&#x200B;채널\_거칠기&#x200B;**&#x200B;채널\_산란&#x200B;**&#x200B;채널\_Specular **&#x200B;채널\_specularlevel **&#x200B;채널\_투과&#x200B;**
+*채널\_ambientocclusion* *채널\_anisotropyangle* *채널\_anisotropylevel* *채널\_basecolor* *채널\_blendingmask* *채널\_disperse* *채널\_변위* *채널\_방출* *채널\_광택도* *채널\_Height* *채널\_ior* *채널\_metallic* &lbrace;24 채널\_normal **&#x200B;채널\_opacity &#x200B;**&#x200B;채널\_반사&#x200B;**&#x200B;채널\_거칠기&#x200B;**&#x200B;채널\_산란&#x200B;**&#x200B;채널\_Specular &#x200B;**&#x200B;채널\_specularlevel **&#x200B;채널\_투과&#x200B;**
 
 **사용자 채널**
 
