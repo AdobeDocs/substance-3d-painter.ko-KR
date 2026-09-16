@@ -1,6 +1,6 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/release-notes/know-issues.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에 대해 알려진 문제를 검토하여 현재 제한 사항 및 해결 방법에 대해 최신 버전을 통해 최신 정보를 확인하십시오.
 helpx_creative_field: ""
 helpx_description: Substance 3D Painter
@@ -8,19 +8,17 @@ helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
 title: 알려진 문제
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 50df3a58ec4719d302999421774a1c67ce3e0ef1
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: a652271a4b12d9c27513ebc4d5974fa87da29580
 workflow-type: tm+mt
-source-wordcount: '848'
+source-wordcount: '855'
 ht-degree: 0%
-
 ---
-
 
 # 알려진 문제
 
-이 페이지에는 Substance 3D Painter v12.1.3에 있는 알려진 모든 문제가 나열됩니다.
+이 페이지에는 Substance 3D Painter v12.1.5에 있는 알려진 모든 문제가 나열됩니다.
 
 * `[Baking]` 단순 큐브의 AO가 잘못되었습니다.
 * `[Baking]` 이름 접미사 일치가 잘못되었습니다.
@@ -42,6 +40,10 @@ ht-degree: 0%
 * `[Color Management]` 필터 출력이 제대로 고려되지 않음
 * Linux에서 ACE를 사용한 `[Color Management]` HDR 색상 공간 변환은 클램프된 색상을 생성합니다.
 
+* `[USD]` 경우에 잘못된 usda 할당이 있습니다.
+* 내보낸 USD 기하학이 UV 테두리를 따라 밀어넣음`[USD]`
+* 잘못된 형식의 USDz를 로드할 때 `[USD]` 멈춤
+
 * `[Shelf]` 리소스를 특정 이름의 폴더에 배치하면 잘못된 사용이 발생합니다.
 * `[Shelf]` `[Substance]` 사용자 데이터가 셸프 축소판 생성을 고려하지 않음
 
@@ -51,8 +53,8 @@ ht-degree: 0%
 * 내보내기 함수에서 디더링 매개 변수를 지정할 때 `[Scripting]` `[Javascript]` 오타가 &quot;해제됨&quot;
 * `[Scripting]` `[Python]` substance_painter.project 모듈의 다양한 오타
 
-* `[USD]` 경우에 잘못된 usda 할당이 있습니다.
-* 내보낸 USD 기하학이 UV 테두리를 따라 밀어넣음`[USD]`
+* `[Path]` Height이 여러 경로를 혼합하면 아티팩트가 발생할 수 있습니다.
+* `[Path]` 파란색 사각형 선택 표시 문제
 
 * 기본 색상 보기에 저장된 `[Single Channel View]` 프로젝트가 Painter 버전 업데이트 후 더 어둡게 보입니다.
 * 기본 색상 보기에 저장된 `[Single Channel View]` 프로젝트가 Painter 버전 업데이트 후 더 어둡게 보입니다.
@@ -93,11 +95,12 @@ ht-degree: 0%
 * `[User Channels]` 색상 혼합 공간 미리 보기가 잘못되었습니다.
 * 베이크 모드로 전환한 후 `[Mask]` 도형 선택이 여전히 활성 상태입니다.
 * `[Sonoma]` 아이콘이 메뉴에 나타나지 않습니다.
-* `[Path]` Height이 여러 경로를 혼합하면 아티팩트가 발생할 수 있습니다.
 * `[Polygon Fill]` 기본 색상의 색상 공간을 변경해도 색상 피커가 업데이트되지 않습니다.
 * 내보낼 때 텍스처를 4k에서 8k로 업스케일할 때 `[UV Padding]`개 아티팩트
 * `[Performances]` Painter이 VRAM 사용을 호스팅함
-* `[Generator]` &quot;텍스처 사용&quot;을 false로 설정해도 텍스처 입력의 사용이 비활성화되지 않습니다.
+* `[FBX]`개 크기 조절 문제
+* `[Texture set list]`개의 UV 타일을 텍스처 집합과 동시에 선택할 수 있습니다.
+* `[Viewport]` 굽기 모드 뷰포트의 맨 아래에 커서 지연 있음
 * 정사각형이 아닌 리소스는 브러시 채널의 슬롯에서 사용할 때 늘어납니다.
 * Substance를 디코딩하지 못했습니다.
 * 완벽하게 겹치지 않는 UV는 가공물을 만들 수 있습니다
@@ -116,8 +119,6 @@ ht-degree: 0%
 * 상황별 도구 모음에서 수정한 브러시 매개 변수가 기록에 표시되지 않음
 * 이 세션에서 이미 삭제했다가 다시 만든 내보내기 사전 설정의 이름은 바꾸거나 삭제할 수 없습니다
 * 경우에 따라 투영 도구 미리 보기에 대해 채널 매핑이 작동하지 않습니다
-* 3D 투영 편집 중 저장 시 뷰포트 고정
-* 재질 레이어 해상도가 너무 낮음
 
 ## 안정성
 
