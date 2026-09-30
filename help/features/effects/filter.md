@@ -1,9 +1,9 @@
 ---
 title: 필터
 description: Substance 3D Painter에서 필터 효과를 사용하여 이미지 처리 필터 및 텍스처 조정을 적용하는 방법에 대해 알아봅니다.
-source-git-commit: 644a36a1dde953c1d793821e104049ebb6ec3c19
+source-git-commit: 4b8afda243f2969b036efe14588f201177ee3139
 workflow-type: tm+mt
-source-wordcount: '584'
+source-wordcount: '635'
 ht-degree: 3%
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 3%
 * 수동 방식은 필터를 설정하기 위해 여러 단계가 필요하지만, 프로세스의 각 단계에 대한 직접 제어를 제공합니다.
 * 드래그하여 놓기 방식을 사용하면 필터를 빠르게 추가하고 모든 채널에서 혼합 모드를 통과하도록 자동으로 설정할 수 있습니다.
 
-### 수동으로 필터 적용
+### 수동으로 필터 추가
 
 다음 예제에서는 흐림 효과 필터가 레이어 콘텐츠에 적용되지만 마스크에 필터를 적용하는 데 더 일반적으로 사용됩니다.
 
@@ -30,7 +30,7 @@ ht-degree: 3%
 
 **2. 속성 창에서 필터 선택**
 
-**속성 패널**&#x200B;에서 필터가 아직 선택되지 않았습니다. 필터 선택 단추를 클릭하여 미니 쉘프를 열고 원하는 필터를 선택합니다. 여기서 **흐림 효과 필터**&#x200B;를 선택합니다.
+**속성 패널**&#x200B;에서 필터가 아직 선택되지 않았습니다. 필터 선택 단추를 클릭하여 미니 쉘프를 열고 원하는 필터를 선택합니다. 여기서 **흐림 효과 필터**를 선택합니다.
 ![](../../assets/filters/filter-select.gif)
 
 >[!NOTE]
@@ -55,13 +55,17 @@ ht-degree: 3%
 
 위의 예시에서 드롭된 필터에는 [패스스루 혼합] 모드가 이미 있습니다. 문서의 모든 채널에 적용됩니다.
 
-## 새 필터 추가
+## Painter에 새 필터 추가
 
-모든 필터는 Substance으로, Substance 3D Designer으로 만들 수 있습니다. 빠른 시작으로서, Substance 3D Designer은 Substance 3D Painter에 사용할 수 있는 템플릿을 제공합니다.
+Painter으로 가져올 새 필터가 있는 경우 표준 리소스를 추가하는 것처럼 추가할 수 있습니다. SBSAR 파일을 **에셋 패널**&#x200B;로 드래그하여 놓으면 새 필터 가져오기를 관리할 수 있습니다.
+
+## 나만의 필터 만들기
+
+모든 필터는 Substance으로, Substance 3D Designer으로 만들 수 있습니다. Substance 3D Designer은 빠르게 시작할 수 있도록 Substance 3D Painter 템플릿을 제공합니다.
 
 자세한 내용은 이 페이지([사용자 지정 효과 만들기](../../content/creating-custom-effects/creating-custom-effects.md))를 참조하십시오.
 
-## 사용 가능한 필터
+## Painter의 기본 필터
 
 ### 표준
 
