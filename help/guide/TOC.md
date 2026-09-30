@@ -2,13 +2,11 @@
 user-guide-title: Substance 3D Painter
 breadcrumb-title: Substance 3D Painter
 user-guide-description: Substance 3D Painter
-source-git-commit: b7770a9497f0db047433aec32c31b57f8dc13ae7
+source-git-commit: 644a36a1dde953c1d793821e104049ebb6ec3c19
 workflow-type: tm+mt
-source-wordcount: '1213'
+source-wordcount: '1346'
 ht-degree: 13%
-
 ---
-
 
 # Substance 3D Painter {#using}
 
@@ -160,18 +158,86 @@ ht-degree: 13%
     + [마스크 편집기](/help/features/effects/generators/mask-editor.md)
     + [금속 Edge Wear](/help/features/effects/generators/metal-edge-wear.md)
     + [위치](/help/features/effects/generators/position.md)
-    + [삼면 고급](/help/features/effects/generators/tri-planar-advanced.md)
+    + [3회 평면 고급](/help/features/effects/generators/tri-planar-advanced.md)
     + [UV 테두리 거리](/help/features/effects/generators/uv-border-distance.md)
     + [UV 체커](/help/features/effects/generators/uv-checker.md)
     + [UV 무작위 색상](/help/features/effects/generators/uv-random-color.md)
     + [UV 텍셀 밀도](/help/features/effects/generators/uv-texel-density.md)
     + [실제 공간 표준](/help/features/effects/generators/world-space-normals.md)
+  + 필터{#filters}
+    + [필터 개요](/help/features/effects/filter.md)
+    + 표준{#standard-filters}
+      + [흐리게](/help/features/effects/filters/standard/blur.md)
+      + [흐림 방향](/help/features/effects/filters/standard/blur-directional.md)
+      + [흐림 경사](/help/features/effects/filters/standard/blur-slope.md)
+      + [클램프](/help/features/effects/filters/standard/clamp.md)
+      + [색상 균형](/help/features/effects/filters/standard/color-balance.md)
+      + [색상 보정](/help/features/effects/filters/standard/color-correct.md)
+      + [대비 광도](/help/features/effects/filters/standard/contrast-luminosity.md)
+      + [그림자](/help/features/effects/filters/standard/drop-shadow.md)
+      + [영역 색상 채우기](/help/features/effects/filters/standard/fill-area-color.md)
+      + [영역 마스크 채우기](/help/features/effects/filters/standard/fill-area-mask.md)
+      + [FXAA (앤티 앨리어스)](/help/features/effects/filters/standard/fxaa-anti-aliasing.md)
+      + [광선](/help/features/effects/filters/standard/glow.md)
+      + [그래디언트](/help/features/effects/filters/standard/gradient.md)
+      + [동적 그레이디언트](/help/features/effects/filters/standard/gradient-dynamic.md)
+      + [회색 음영 전환](/help/features/effects/filters/standard/grayscale-conversion.md)
+      + [하이패스](/help/features/effects/filters/standard/highpass.md)
+      + [막대 그래프 스캔](/help/features/effects/filters/standard/histogram-scan.md)
+      + [히스토그램 이동](/help/features/effects/filters/standard/histogram-shift.md)
+      + [HSL 가시 범위](/help/features/effects/filters/standard/hsl-perceptive.md)
+      + [반전](/help/features/effects/filters/standard/invert.md)
+      + [대칭](/help/features/effects/filters/standard/mirror.md)
+      + [픽셀화](/help/features/effects/filters/standard/pixelate.md)
+      + [포스터화](/help/features/effects/filters/standard/posterize.md)
+      + [선명하게](/help/features/effects/filters/standard/sharpen.md)
+      + [Smoothstep](/help/features/effects/filters/standard/smoothstep.md)
+      + [임계값](/help/features/effects/filters/standard/threshold.md)
+      + [변환](/help/features/effects/filters/standard/transform.md)
+      + [뒤틀기](/help/features/effects/filters/standard/warp.md)
+    + 완료{#finish-filters}
+      + [MatFinish 브러시 적용 선형](/help/features/effects/filters/finishes/matfinish-brushed-linear.md)
+      + [MatFinish 아연 도금](/help/features/effects/filters/finishes/matfinish-galvanized.md)
+      + [매트피니시 그레인](/help/features/effects/filters/finishes/matfinish-grainy.md)
+      + [매트피니쉬연삭](/help/features/effects/filters/finishes/matfinish-grinded.md)
+      + [MatFinish Hammered](/help/features/effects/filters/finishes/matfinish-hammered.md)
+      + [MatFinish 천공 원](/help/features/effects/filters/finishes/matfinish-perforated-circles.md)
+      + [MatFinish 파우더 코팅](/help/features/effects/filters/finishes/matfinish-powder-coated.md)
+      + [매트 피니시](/help/features/effects/filters/finishes/matfinish-raw.md)
+      + [매트 피니시 러프](/help/features/effects/filters/finishes/matfinish-rough.md)
+    + MatFx{#matfx-filters}
+      + [MatFX Comic Book](/help/features/effects/filters/matfx/matfx-comic-book.md)
+      + [MatFX 세부 정보 Edge Wear](/help/features/effects/filters/matfx/matfx-detail-edge-wear.md)
+      + [MatFX Edge Damage](/help/features/effects/filters/matfx/matfx-edge-damages.md)
+      + [MatFX HBAO](/help/features/effects/filters/matfx/matfx-hbao.md)
+      + [MatFX 오일 페인트](/help/features/effects/filters/matfx/matfx-oil-paint.md)
+      + [MatFX 필링 페인트](/help/features/effects/filters/matfx/matfx-peeling-paint.md)
+      + [MatFX 녹 풍화](/help/features/effects/filters/matfx/matfx-rust-weathering.md)
+      + [MatFX 차단 라인](/help/features/effects/filters/matfx/matfx-shut-line.md)
+      + [MatFX Watercolor](/help/features/effects/filters/matfx/matfx-watercolor.md)
+      + [MatFX 물방울](/help/features/effects/filters/matfx/matfx-water-drops.md)
+    + 조명{#lighting-filters}
+      + [베이크된 조명 환경](/help/features/effects/filters/lighting/baked-lighting-environment.md)
+      + [스타일이 적용된 구운 조명](/help/features/effects/filters/lighting/baked-lighting-stylized.md)
+    + 고급{#advanced-filters}
+      + [비등방성 구와하라](/help/features/effects/filters/advanced/anisotropic-kuwahara.md)
+      + [경사](/help/features/effects/filters/advanced/bevel.md)
+      + [베벨 매끄럽게](/help/features/effects/filters/advanced/bevel-smooth.md)
+      + [색상 일치](/help/features/effects/filters/advanced/color-match.md)
+      + [방향 거리](/help/features/effects/filters/advanced/directional-distance.md)
+      + [그레이디언트 곡선](/help/features/effects/filters/advanced/gradient-curve.md)
+      + [Height 조정](/help/features/effects/filters/advanced/height-adjustments.md)
+      + [Height을 표준으로](/help/features/effects/filters/advanced/height-to-normal.md)
+      + [마스크 윤곽선](/help/features/effects/filters/advanced/mask-outline.md)
+      + [PBR 유효성 검사](/help/features/effects/filters/advanced/pbr-validate.md)
+      + [정량화](/help/features/effects/filters/advanced/quantize.md)
+      + [스타일화](/help/features/effects/filters/advanced/stylization.md)
+      + [3회 평면 고급](/help/features/effects/filters/advanced/tri-planar-advanced-filter.md)
   + [효과 개요](/help/features/effects/effects.md)
   + [페인트](/help/features/effects/paint.md)
   + [채우기](/help/features/effects/fill.md)
   + [레벨](/help/features/effects/levels.md)
   + [마스크 비교](/help/features/effects/compare-mask.md)
-  + [필터](/help/features/effects/filter.md)
   + [고정점](/help/features/effects/anchor-point.md)
 + 베이킹{#baking}
   + [굽기 개요](/help/baking/baking.md)
