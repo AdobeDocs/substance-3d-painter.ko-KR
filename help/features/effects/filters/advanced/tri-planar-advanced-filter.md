@@ -1,10 +1,10 @@
 ---
 title: 3회 평면 고급
 description: Substance 3D Painter의 3D 평면 고급 필터를 사용하는 방법을 알아봅니다.
-source-git-commit: 644a36a1dde953c1d793821e104049ebb6ec3c19
+source-git-commit: 5078774d081555f586a50965b91d85f7c340ef13
 workflow-type: tm+mt
-source-wordcount: '544'
-ht-degree: 0%
+source-wordcount: '553'
+ht-degree: 1%
 ---
 
 # 3회 평면 고급
@@ -56,20 +56,11 @@ Tri-free Advanced 필터는 Tri-평면 Advanced 생성기의 필터 버전으로
 
 ### 축 X
 
-<table>
-<tr>
-<td><b>회전 X:</b></td>
-<td>X축 텍스처 투영의 회전을 조정합니다.</td>
-</tr>
-<tr>
-<td><b>오프셋 X X</b></td>
-<td>X축을 따라 X축 투영 오프셋을 조정합니다.</td>
-</tr>
-<tr>
-<td><b>오프셋 X Y:</b></td>
-<td>Y축을 따라 X축 투영 오프셋을 조정합니다.</td>
-</tr>
-</table>
+| 매개 변수 이름 | 설명 |
+| --- | --- |
+| **회전 X:** | X축 텍스처 투영의 회전을 조정합니다. |
+| **오프셋 X X:** | X축을 따라 X축 투영 오프셋을 조정합니다. |
+| **오프셋 X Y:** | Y축을 따라 X축 투영 오프셋을 조정합니다. |
 
 >[!NOTE]
 >
@@ -79,20 +70,11 @@ Tri-free Advanced 필터는 Tri-평면 Advanced 생성기의 필터 버전으로
 
 ### 축 Y
 
-<table>
-<tr>
-<td><b>회전 X:</b></td>
-<td>Y축 텍스처 투영의 회전을 조정합니다.</td>
-</tr>
-<tr>
-<td><b>오프셋 Y X:</b></td>
-<td>X축을 따라 Y축 투영 오프셋을 조정합니다.</td>
-</tr>
-<tr>
-<td><b>오프셋 Y:</b></td>
-<td>Y축을 따라 Y축 투영 오프셋을 조정합니다.</td>
-</tr>
-</table>
+| 매개 변수 이름 | 설명 |
+| --- | --- |
+| **회전 X:** | Y축 텍스처 투영의 회전을 조정합니다. |
+| **오프셋 Y X:** | X축을 따라 Y축 투영 오프셋을 조정합니다. |
+| **오프셋 Y:** | Y축을 따라 Y축 투영 오프셋을 조정합니다. |
 
 >[!NOTE]
 >
@@ -102,20 +84,11 @@ Tri-free Advanced 필터는 Tri-평면 Advanced 생성기의 필터 버전으로
 
 ### 축 Z
 
-<table>
-<tr>
-<td><b>회전 X:</b></td>
-<td>Z축 텍스처 투영의 회전을 조정합니다.</td>
-</tr>
-<tr>
-<td><b>오프셋 Z X:</b></td>
-<td>Z축 투영 오프셋을 X축을 따라 조정합니다.</td>
-</tr>
-<tr>
-<td><b>오프셋 Z Y:</b></td>
-<td>Y축을 따라 Z축 투영 오프셋을 조정합니다.</td>
-</tr>
-</table>
+| 매개 변수 이름 | 설명 |
+| --- | --- |
+| **회전 X:** | Z축 텍스처 투영의 회전을 조정합니다. |
+| **오프셋 Z X:** | Z축 투영 오프셋을 X축을 따라 조정합니다. |
+| **오프셋 Y:** | Y축을 따라 Z축 투영 오프셋을 조정합니다. |
 
 >[!NOTE]
 >
