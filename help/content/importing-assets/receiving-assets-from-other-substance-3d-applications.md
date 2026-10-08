@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/content/importing-assets/receiving-assets-from-other-substance-3d-applications.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 원활한 워크플로우를 위해 다른 Substance 3D 애플리케이션에서 Substance 3D Painter으로 에셋을 수신 및 가져오는 방법을 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Content > Importing assets > Receiving assets from other Substance 3D applications
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 다른 Substance 3D 애플리케이션에서 에셋 받기
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
-
 ---
-
 
 # 다른 Substance 3D 애플리케이션에서 에셋 받기
 

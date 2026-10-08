@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/workflow-issues/tools-issues/normal-map-looks-incorrect-when-loaded-in-layer-or-tool-properties.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter 레이어의 노멀 맵 표시 문제와 정확한 표면 세부 사항을 위한 도구 속성을 해결하는 방법을 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Workflow Issues > Tools Issues > Normal map looks incorrect when loaded in layer or tool properties
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 레이어 또는 도구 속성에 로드하면 노멀 맵이 잘못 표시됩니다
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
-
 ---
-
 
 # 레이어 또는 도구 속성에 로드하면 노멀 맵이 잘못 표시됩니다
 

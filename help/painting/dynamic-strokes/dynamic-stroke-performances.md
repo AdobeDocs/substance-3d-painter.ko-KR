@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/dynamic-strokes/dynamic-stroke-performances.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 브러시 획 렌더링 및 응답성을 최적화하기 위해 동적 획 성능 고려 사항에 대해 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Painting > Dynamic strokes > Dynamic Stroke Performances
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 동적 획 성능
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '995'
 ht-degree: 0%
-
 ---
-
 
 # 동적 획 성능
 
@@ -26,7 +18,7 @@ ht-degree: 0%
 
 계산이 다른 컨텍스트에 영향을 줄 수 있다는 점을 아는 것도 중요합니다.
 
-* 페인팅 시 **&#x200B;**&#x200B;: 페인팅 중에 동적 선이 생성됩니다(설정에 따라). 잘못된 구성으로 인해 그림이 느리고 지연될 수 있습니다.
+* 페인팅 시 **** : 페인팅 중에 동적 선이 생성됩니다(설정에 따라). 잘못된 구성으로 인해 그림이 느리고 지연될 수 있습니다.
 * **프로젝트를 다시 열 때** : 페인팅 프로세스가 정상적으로 진행되었더라도 프로젝트를 열 때 계산이 지연되어 프로젝트가 평소보다 훨씬 더 오래 열릴 가능성이 있습니다. 계산이 시간에 따라 분산되어 초기 페인팅 프로세스가 잘 진행되었지만 프로젝트를 열 때는 거의 동시에 진행되기 때문입니다. 즉, 동적 획이 제대로 구성되지 않은 경우 프로젝트에서 수천 개의 고유한 Substance을 요청하여 생성할 수 있습니다.
 * **메모리 사용** : Substance 그래프에 대한 변형을 많이 생성하면 결국 메모리를 많이 소비할 수 있습니다(이러한 세대는 즉석에서 만들어지는 만큼 유동적이기 때문).
 

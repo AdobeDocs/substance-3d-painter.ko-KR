@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/exporting-the-log-file.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 문제 해결 및 기술 지원을 위해 Substance 3D Painter에서 로그 파일을 내보내는 방법을 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Exporting the log file
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 로그 파일 내보내기
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 1%
-
 ---
-
 
 # 로그 파일 내보내기
 

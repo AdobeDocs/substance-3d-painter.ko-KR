@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/shaders-shader-api/surface-shader-shader-api.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter의 Surface 셰이더 API 참조에 액세스하여 사용자 정의 표면 셰이더 효과 및 재질을 만듭니다.
-helpx_creative_field: ""
-helpx_description: Painter > Scripting and development > API Reference > Shader API > Shaders - Shader API > Surface Shader - Shader API
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 서피스 셰이더 - 셰이더 API
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
-
 ---
-
 
 # 서피스 셰이더 - 셰이더 API
 

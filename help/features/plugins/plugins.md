@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/plugins.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 플러그인을 사용하여 기능을 확장하고 텍스처 페인팅 작업 과정을 사용자 정의하는 방법에 대해 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Features > Plugins
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 플러그인
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 2%
-
 ---
-
 
 # 플러그인
 

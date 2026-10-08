@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/shaders-shader-api/pbr-material-layering-shader-api.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter의 PBR 재질 레이어 셰이더 API 참조에 액세스하여 레이어 재질 효과를 만듭니다.
-helpx_creative_field: ""
-helpx_description: Painter > Scripting and development > API Reference > Shader API > Shaders - Shader API > PBR Material Layering - Shader API
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: PBR 재질 레이어 - 셰이더 API
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '39'
 ht-degree: 0%
-
 ---
-
 
 # PBR 재질 레이어 - 셰이더 API
 

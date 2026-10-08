@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/miscellaneous-issues/error-there-is-no-disk-in-the-drive.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 적절한 파일 액세스 및 프로젝트 로드를 위해 Substance 3D Painter에서 '드라이브에 디스크 없음' 오류를 수정하는 방법에 대해 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Technical Issues > Miscellaneous Issues > Error there is no disk in the drive
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: '오류: 드라이브에 디스크가 없습니다.'
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
-
 ---
-
 
 # 오류: 드라이브에 디스크가 없습니다.
 

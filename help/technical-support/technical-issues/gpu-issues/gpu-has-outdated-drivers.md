@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/gpu-issues/gpu-has-outdated-drivers.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 호환성과 최적의 렌더링 성능을 보장하기 위해 Substance 3D Painter용 GPU 드라이버를 업데이트하는 방법을 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Technical Issues > GPU Issues > GPU has outdated drivers
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: GPU에 오래된 드라이버가 있음
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
-
 ---
-
 
 # GPU에 오래된 드라이버가 있음
 

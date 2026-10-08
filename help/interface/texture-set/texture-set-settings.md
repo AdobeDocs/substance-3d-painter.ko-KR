@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/texture-set/texture-set-settings.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 텍스처 해상도 및 채널 속성을 제어하기 위해 텍스처 세트 설정을 구성하는 방법에 대해 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Interface > Texture Set > Texture Set settings
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 텍스처 설정
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '1146'
 ht-degree: 0%
-
 ---
-
 
 # 텍스처 설정
 
@@ -61,7 +53,7 @@ ht-degree: 0%
 | --- | --- |
 | **일반 믹싱** | &quot;구워진 노멀 맵&quot;를 &quot;표준&quot; 채널과 결합하는 방법을 제어합니다. 가능한 값은 다음과 같습니다.<ul data-preserve-html="true"><li data-preserve-html="true"><strong> </strong> 바꾸기 : &quot;구운 노멀 맵&quot;은 무시하고 이 텍스처 집합에 대해 &quot;일반&quot; 채널만 사용합니다. 구운 노멀 맵 위에 페인트를 하는 데 사용할 수 있습니다. 자세한 내용은 [고급 채널 페인팅](../../painting/advanced-channel-painting/normal-map-painting.md)설명서를 참조하십시오. 표준 노멀 맵이 없거나 표준 채널 출력이 비어 있으면 굽은 채널이 계속 사용됩니다.</li><li data-preserve-html="true"><strong> </strong> 결합(기본값) : 세부 정보 지향 함수를 사용하여 &quot;일반&quot; 노멀 맵과 &quot;구운 채널&quot;을 결합합니다.</li></ul>  **참고:** 채널의 목록에 없는 경우 이 설정을 사용하지 않도록 설정할 수 있습니다. 채널이 없으면 기본 믹싱 값이 사용됩니다. |
 | **일반 메서드 Height** | Height 노멀 맵을 채널로 변환하는 데 사용할 메서드를 제어합니다. 가능한 값은 다음과 같습니다.<ul data-preserve-html="true"><li data-preserve-html="true"><strong>선명</strong>: 노이즈와 앨리어싱이 발생할 수 있으므로 좀 더 명확한 노멀 맵을 생성합니다. 패브릭과 같은 반복 패턴에 맞게 조정됩니다.</li><li data-preserve-html="true"><strong>매끄럽게(Sobel)</strong>(기본값): 세부 사항이 손실될 위험이 있는 Sobel 필터를 사용하여 더 매끄러운 노멀 맵을 만듭니다. 대부분의 경우에 적용됩니다.</li></ul> |
-| **앰비언트 오클루전 믹싱** | &quot;구워진 앰비언트 오클루전&quot;를 &quot;앰비언트 오클루전&quot; 채널과 결합하는 방법을 제어합니다. 가능한 값은 다음과 같습니다.<ul data-preserve-html="true"><li data-preserve-html="true"><strong> </strong> 바꾸기 : &quot;구워진 앰비언트 오클루전&quot;은 무시하고 이 텍스처 집합에 대해서만 &quot;앰비언트 오클루전&quot; 채널을 사용합니다. 구운 주변 오클루전 위에 페인트를 칠하는 데 사용할 수 있습니다. 자세한 내용은 [고급 채널 페인팅](../../painting/advanced-channel-painting/ambient-occlusion-painting.md) 설명서를 참조하십시오.  </li><li data-preserve-html="true"><strong> </strong> 곱하기(기본값) : 곱하기 작업을 사용하여 &quot;앰비언트 오클루전&quot; 앰비언트 오클루전과 &quot;구워진 채널&quot;을 결합합니다.  </li></ul>  **참고:** 채널의 목록에 없는 경우 이 설정을 사용하지 않도록 설정할 수 있습니다. 채널이 없으면 기본 믹싱 값이 사용됩니다. |
+| **앰비언트 오클루전 믹싱** | &quot;구워진 앰비언트 오클루전&quot;를 &quot;앰비언트 오클루전&quot; 채널과 결합하는 방법을 제어합니다. 가능한 값은 다음과 같습니다.<ul data-preserve-html="true"><li data-preserve-html="true"><strong> </strong> 바꾸기 : &quot;구워진 앰비언트 오클루전&quot;은 무시하고 이 텍스처 집합에 대해서만 &quot;앰비언트 오클루전&quot; 채널을 사용합니다. 구운 앰비언트 오클루전 위에 페인트를 하는 데 사용할 수 있습니다. 자세한 내용은 [고급 채널 페인팅](../../painting/advanced-channel-painting/ambient-occlusion-painting.md) 설명서를 참조하십시오.  </li><li data-preserve-html="true"><strong> </strong> 곱하기(기본값) : 곱하기 작업을 사용하여 &quot;앰비언트 오클루전&quot; 앰비언트 오클루전과 &quot;구워진 채널&quot;을 결합합니다.  </li></ul>  **참고:** 채널의 목록에 없는 경우 이 설정을 사용하지 않도록 설정할 수 있습니다. 채널이 없으면 기본 믹싱 값이 사용됩니다. |
 | **UV 패딩** | UV 섬 외부의 패딩이 생성되는 방식을 제어합니다. 가능한 값은 다음과 같습니다.  <ul class="steps" data-preserve-html="true"> <li class="step" data-preserve-html="true">    <strong>3D 공간 인접</strong>(기본값): UV 솔기의 다른 쪽을 보고 인접 픽셀 색상을 찾아 UV 테두리에서 사용합니다. 이 설정은 연속 패턴이 있는 UV 이음새를 페인팅할 때 권장됩니다. 왼쪽에 일반 패딩이 있고 오른쪽에 3D 인접 라우터가 있는 예:<br/>       <img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table1_row-r4-column-c1_procedure_proc_par_proc_step_step_par_image_1671759737" src="../../assets/seam-3.png" width="450px"/>   </li> <li class="step" data-preserve-html="true">    <strong>2D Space Neighbor</strong>: 패딩을 생성하기 전에 UV 섬 내부의 픽셀을 UV 섬 외부의 테두리에 복사합니다. 이 설정은 UV 섬이 매우 상반되는 정보를 가지고 있고 중복되지 않을 때 권장됩니다. UV 섬에 따라 고유한 색상을 띠는 구의 예시(왼쪽에는 2D 인접 설정, 오른쪽에는 3D 인접 설정):<br/>       <img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table1_row-r4-column-c1_procedure_proc_par_proc_step1_step_par_image" src="../../assets/2d-neigbor-padding.png" width="450px"/>   </li> </ul>  **참고:** 이 패딩 설정은 텍스처 세트별로 저장되며 뷰포트로 텍스처 내보내기 및 시각화 중에 고려됩니다.3D 공간 이웃이 작동하는 방식 때문에 일반 채널에는 사용할 수 없으며 2D 버전을 대신 사용합니다. |
 
 ## 메시 맵

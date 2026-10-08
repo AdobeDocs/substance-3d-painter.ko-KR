@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/release-notes/old-versions/version-2017-4.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter 버전 2017.4의 릴리스 노트를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
-helpx_creative_field: ""
-helpx_description: Painter > Release notes > Old versions > Version 2017.4
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 버전 2017.4
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '1130'
 ht-degree: 0%
-
 ---
-
 
 # 버전 2017.4
 
@@ -43,8 +35,8 @@ ht-degree: 0%
 > 
 > * 페인팅 동작은 소스 레이어에만 표시되며, 인스턴스 레이어는 브러시 획을 복제하지 않습니다.
 > * 앵커 참조에는 인스턴스의 같은 수준에 앵커 포인트가 있어야 합니다. 앵커 포인트는 인스턴스 폴더 외부에 있을 수 없습니다. 그렇지 않으면 연결이 끊어집니다.
-> * 스마트 재질을 인스턴스 레이어와 함께 저장할 경우 소스 레이어가 스마트 재질 폴더에 있어야 합니다. 그렇지 않으면 인스턴스 링크가 끊어집니다.
-> * 레이어 스택 설정에 따라 인스턴스 레이어에서 순환을 만들 수 있습니다. 이 순환은 지원되지 않으며 인스턴스 결과를 중단합니다. 인스턴스를 삭제하거나 이동하여 수정하십시오.
+> * 스마트 재질을 인스턴스 레이어와 함께 저장한 경우 소스 레이어가 스마트 재질 폴더에 있어야 합니다. 그렇지 않으면 인스턴스 링크가 끊어집니다.
+> * 인스턴스 설정에 따라 인스턴스화된 레이어가 사이클을 만들 수 있으며, 이는 지원되지 않으며 인스턴스 결과를 손상시킵니다. 인스턴스를 삭제하거나 이동하여 수정하십시오.
 
 자세한 내용과 예제는 전용 페이지 [레이어 인스턴싱](../../interface/layer-stack/layer-instancing.md)를 참조하세요.
 
@@ -97,7 +89,7 @@ Sketchfab 내보내기를 업데이트했고 프로젝트를 초안으로 게시
 * [스크립팅] 텍스처를 내보낼 때 이전 및 이후 콜백 함수 추가
 * [Iray] SDK 2017.1로 업그레이드(Volta GPU 지원)
 
-**&#x200B;**&#x200B;고정:**&#x200B;**
+****고정:****
 
 * 주 창이 표시되기 전에 응용 프로그램을 종료할 때 충돌
 * [MAC] IRAY를 사용하여 회색 음영 맵을 로드할 때 충돌

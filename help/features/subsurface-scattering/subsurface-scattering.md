@@ -1,28 +1,20 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/subsurface-scattering.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 표면 아래 산란을 사용하여 피부나 왁스와 같은 사실적인 반투명 재질을 만드는 방법을 살펴보세요.
-helpx_creative_field: ""
-helpx_description: Painter > Features > Subsurface Scattering
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 서브서피스 스케터링
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 3%
-
 ---
-
 
 # 서브서피스 스케터링
 
 ![](../../assets/sss-sarah.jpg){width="500px"}
 
-&#x200B;>> 
+>> 
 
 (크레딧 : The Soldier, [by Ribeyrolles Leo](https://www.artstation.com/artwork/xNYDm) )
 

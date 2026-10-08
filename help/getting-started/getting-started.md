@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/getting-started.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 프로젝트 만들기, 인터페이스 탐색 및 텍스처 페인팅 워크플로우의 기본 사항을 학습하여 Substance 3D Painter을 시작하십시오.
-helpx_creative_field: ""
-helpx_description: Painter > Getting Started
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 시작하기
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 8%
-
 ---
-
 
 # 시작하기
 

@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/release-notes/version-10-1.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter 버전 10.1의 릴리스 노트를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
-helpx_creative_field: ""
-helpx_description: Substance 3D Painter
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 버전 10.1
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '1436'
 ht-degree: 0%
-
 ---
-
 
 # 버전 10.1
 
@@ -88,7 +80,7 @@ ht-degree: 0%
 
 이 버전의 Painter에서는 여러 타사 구성 요소가 개선되고 업데이트되었습니다.
 
-* <b>USD로 Adobe 표준 재질로 텍스처 내보내기\
+* <b>USD에서 Adobe Standard Material으로 텍스처 내보내기\
   </b>Painter에서 USD 파일로 텍스처를 내보낼 때 Adobe Standard Material 속성을 가져옵니다. 이렇게 하면 이러한 USD 파일을 해당 속성을 지원하는 애플리케이션에서도 사용할 수 있습니다.
 * <b>USD 파일에서 텍스처 가져오기</b>\
   USD 파일을 가져오면 이제 만든 프로젝트에서도 텍스처가 가져오므로 응용 프로그램 간에 주고 받는 작업이 쉬워집니다. USD 파일에서 Adobe Standard Material을 사용하는 경우 이 역시 셰이더 설정을 구성하여 뷰포트의 결과를 다른 소스 응용 프로그램과 일치시킵니다.
@@ -149,43 +141,43 @@ ht-degree: 0%
 * [Content] 자수 데칼 필터 새로 추가
 * [콘텐츠] 6개의 새로운 일반 Substance 필터(FXAA, 픽셀화, 하이패스, 포스터화, 스무딩 단계, 임계값)를 추가합니다.
 * [USD] 정의된 ASM 재질이 있는 USD 레이어 내보내기
-* [USD] 재료 및 셰이더 속성과 함께 USD 가져오기
+* [USD] 재료 및 셰이더 속성을 사용하여 USD 가져오기
 * [성능] 기본적으로 최적화된 레이어 스택 축소판 사용
 * [성능] 프로젝트 파일 열기 시간 및 메모리 소비량 감소(데이터 디코딩)
 * VFX 플랫폼 2024 호환
 * [VFX Platform 2024] Python 3.11로 업데이트
 * [VFX Platform 2024] OpenEXR 3.2로 업데이트
-* [VFX Platform 2024] [USD] OpenSubdiv 3.6.0 업데이트
-* [VFX Platform 2024]&#x200B;[색상 관리] OCIO 2.3.2로 업데이트
+* [VFX Platform 2024] [USD] 업데이트 OpenSubdiv 3.6.0
+* [VFX Platform 2024][색상 관리] OCIO 2.3.2로 업데이트
 * [Linux] Linux RedHat으로 마이그레이션
 * [Linux] Nvidia 드라이버 최소 버전을 535.171.04로 업데이트합니다.
-* [가져오기] GLTF 메시를 가져올 때 표준 맵을 뒤집는 옵션을 추가합니다
+* [가져오기] GLTF 메시를 가져올 때 노멀 맵 뒤집기 옵션을 추가합니다
 * [UI] 드래그 이벤트 감지 거리에 운영 체제 기본값 사용
 * [Substance 엔진] 호출 스트립 함수를 추가하여 실행 파일에서 기호를 제거합니다.
 * [Splash screen] 새 Splash Screen 형식으로 업데이트
 * Substance 엔진을 버전 9.1.3으로 업데이트
-* [Python] 레이어 스택 설명서 메뉴에서 예제에 대한 링크를 표시합니다
+* [Python] 레이어 스택 설명서 메뉴에서 예제에 대한 링크를 표시합니다.
 * [JavaScript] Javascript 플러그인을 javascript/plugins 하위 폴더로 이동
 
 <b>고정</b>:
 
-* [Illustrator] 특정 경우에 .ai 그래픽이 있는 UV 타일을 내보낼 때 충돌이 발생합니다
-* [역동적인 획]&#x200B;[패스] 획당 임의 회전이 패스에서 작동하지 않습니다.
-* [UI]&#x200B;[속성] 타일링이 균일하지 않을 때 잠금이 활성화됩니다
+* [Illustrator] 특정 경우에 .ai 그래픽이 포함된 UV 타일을 내보내는 충돌
+* [역동적인 획][패스] 획당 임의 회전이 패스에서 작동하지 않습니다.
+* [UI][속성] 타일링이 균일하지 않을 때 잠금이 활성화됩니다
 * Painter &#x200B; 프로젝트를 두 번 클릭하면 디버그 TXT 파일이 생성됨
-* [USD]&#x200B;[내보내기] 일부 텍스처가 누락될 수 있습니다.
+* [USD][내보내기] 일부 텍스처가 누락될 수 있습니다
 * [ASM] 색상 분산 채널은 금속색을 무시합니다.
 * [콘텐츠] 흐림 효과 필터가 &quot;작업&quot; 색상 공간에서 작동하지 않음
 * [내용] Height 조정 필터는 레이어의 알파도 수정합니다
 
 <b>알려진 문제</b>:
 
-* [색상 관리] Linux에서 ACE를 사용한 HDR 색상 공간 변환으로 클램프된 색상 생성
-* [Win]&#x200B;[충돌] [ACE] 디스플레이 변환에 sRGB ICE 색상 공간을 사용하지 않음
-* [회귀]&#x200B;[UI] 마우스 오른쪽 단추 클릭 메뉴가 HD 화면에서 너무 작습니다.
-* [충돌]&#x200B;[Python] TextureStateEvent에 의해 USD 내보내기가 트리거되었습니다.
-* [MacOS Intel] 일부 사전 설정을 가져올 때 충돌이 발생함
+* [색상 관리] Linux에서 ACE을 사용하여 HDR 색상 공간을 변환하면 클램프된 색상이 생성됩니다
+* [Win][충돌] [ACE] 디스플레이 변환에 sRGB ICE 색상 공간을 사용하지 않음
+* [회귀][UI] 마우스 오른쪽 단추 클릭 메뉴가 HD 화면에서 너무 작습니다.
+* [충돌][Python] TextureStateEvent에서 USD 내보내기가 트리거됨
+* [MacOS Intel] 사전 설정을 가져올 때 충돌
 * [충돌] 리소스 재배치 및 프로젝트 저장
-* [엔진] 일반 채널 이동 색상에서 복제 도구를 사용하여 페인팅이 잘못됨
+* [엔진] 표준 채널 이동 색상에서 복제 도구로 페인팅이 잘못됨
 * [Python] 아직 작동 중인 스크립트에 의해 고스트 위젯이 삭제된 것으로 나타남
 * [RedHat] 색상 피커 문제

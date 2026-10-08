@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/smart-materials-and-masks.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 스마트 재질과 마스크를 사용하여 도형에 맞는 프로시저 텍스처를 만드는 방법을 살펴보세요.
-helpx_creative_field: ""
-helpx_description: Painter > Features > Smart Materials and Masks
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 스마트 재질 및 마스크
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '382'
 ht-degree: 0%
-
 ---
-
 
 # 스마트 재질 및 마스크
 

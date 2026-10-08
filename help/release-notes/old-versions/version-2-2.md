@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/release-notes/old-versions/version-2-2.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter 버전 2.2의 릴리스 노트를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
-helpx_creative_field: ""
-helpx_description: Painter > Release notes > Old versions > Version 2.2
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 버전 2.2
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '587'
 ht-degree: 0%
-
 ---
-
 
 # 버전 2.2
 

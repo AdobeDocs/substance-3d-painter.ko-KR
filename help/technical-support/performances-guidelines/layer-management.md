@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/performances-guidelines/layer-management.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 성능을 최적화하고 구성된 프로젝트를 유지하기 위한 Substance 3D Painter의 레이어 관리 모범 사례를 알아보십시오.
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Performances guidelines > Layer management
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 레이어 관리
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '677'
 ht-degree: 0%
-
 ---
-
 
 # 레이어 관리
 
@@ -52,7 +44,7 @@ Painter은 아래에서 위로 레이어 스택을 계산합니다. 따라서 �
 +++
 
 +++통과 혼합 모드 사용 제한
-패스스루는 필터 또는 브러시 획 레이어와 함께 자주 사용됩니다. 이 혼합 모드는 비용이 많이 드는 혼합 모드입니다. 표준 혼합 모드처럼 결과를 재정의하는 대신 아래에 있는 모든 레이어를 살펴보고 결과를 변형하기 때문입니다. 패스스루를 사용할 때마다 성능 영향을 최소화하기 위해 지오메트리 마스크 및 폴더와 결합해 봅니다.
+패스스루는 필터 또는 브러시 획 레이어와 함께 자주 사용됩니다. 이 모드는 모든 레이어 아래에 있는 개별 레이어와 개별 레이어의 결과에서 비용이 많이 드는 혼합 모드이므로 일반 혼합과 같은 결과를 무시합니다. 패스스루를 사용할 때마다 성능 영향을 최소화하기 위해 지오메트리 마스크 및 폴더와 결합해 봅니다.
 
 +++
 
@@ -68,7 +60,7 @@ Painter은 아래에서 위로 레이어 스택을 계산합니다. 따라서 �
 
 +++
 
-+++낮은 텍스처 해상도에서 작업
++++낮은 텍스처 해상도로 작업
 문서 해상도를 낮추는 것이 가장 빠른 성능 향상 방법입니다. 해상도를 2배로 늘리면 4배 더 큰 지도를 의미하므로, 1k에서 2k로 갈수록 성능 비용이 최대 4배 증가한다는 뜻이다. 따라서 가능한 한 낮은 해상도로 작업하는 것이 유용합니다.
 
 +++

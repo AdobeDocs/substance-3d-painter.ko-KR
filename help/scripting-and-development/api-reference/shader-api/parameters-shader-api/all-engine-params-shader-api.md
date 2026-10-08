@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/parameters-shader-api/all-engine-params-shader-api.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에 대한 모든 엔진 매개변수 셰이더 API 참조에 액세스하여 엔진 레벨 셰이더 매개변수를 제어합니다.
-helpx_creative_field: ""
-helpx_description: Painter > Scripting and development > API Reference > Shader API > Parameters - Shader API > All Engine Params - Shader API
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 모든 엔진 매개변수 - 셰이더 API
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '511'
 ht-degree: 0%
-
 ---
-
 
 # 모든 엔진 매개변수 - 셰이더 API
 
@@ -45,7 +37,7 @@ uniform SamplerSparse uniform_tex;   // Texture sampler and its information
 ```
 
 
-텍스처 매개 변수를 사용하면 &#39;or&#39; 연산자를 사용하여 대체(fallback)를 정의할 수 있습니다.
+텍스처 매개 변수는 &#39;or&#39; 연산자를 사용하여 대체(fallback)를 정의할 수 있습니다.
 
 ```
 //: param auto TEXTURE_TAG_1 or TEXTURE_TAG_2 
@@ -54,7 +46,7 @@ uniform SamplerSparse uniform_tex; // if TEXTURE_TAG_1 exists then TEXTURE_TAG_1
 ```
 
 
-여기서 *TEXTURE\_TAG*&#x200B;는 아래 설명된 태그 중 하나입니다.
+여기서 *텍스처\_태그*&#x200B;는 아래에 설명된 태그 중 하나입니다.
 
 ### 문서의 채널 태그
 
@@ -62,7 +54,7 @@ uniform SamplerSparse uniform_tex; // if TEXTURE_TAG_1 exists then TEXTURE_TAG_1
 
 **텍스처 집합 채널**
 
-*채널\_ambientocclusion* *채널\_anisotropyangle* *채널\_anisotropylevel* *채널\_basecolor* *채널\_blendingmask* *채널\_disperse* *채널\_변위* *채널\_방출* *채널\_광택도* *채널\_Height* *채널\_ior* *채널\_metallic* &lbrace;24 채널\_normal **&#x200B;채널\_opacity &#x200B;**&#x200B;채널\_반사&#x200B;**&#x200B;채널\_거칠기&#x200B;**&#x200B;채널\_산란&#x200B;**&#x200B;채널\_Specular &#x200B;**&#x200B;채널\_specularlevel **&#x200B;채널\_투과&#x200B;**
+*채널\_ambientocclusion* *채널\_anisotropyangle* *채널\_anisotropylevel* *채널\_basecolor* *채널\_blendingmask* *채널\_disperse* *채널\_변위* *채널\_방출* *채널\_광택도* *채널\_Height* *채널\_ior* *채널\_metallic* {24 채널\_normal **&#x200B;채널\_opacity **&#x200B;채널\_반사&#x200B;**&#x200B;채널\_거칠기&#x200B;**&#x200B;채널\_산란&#x200B;**&#x200B;채널\_Specular **&#x200B;채널\_specularlevel **&#x200B;채널\_투과&#x200B;**
 
 **사용자 채널**
 
@@ -95,7 +87,7 @@ uniform vec4 uniform_tex_size;   // The size of the texture (width, height, 1/wi
 ```
 
 
-텍스처 매개 변수를 사용하면 &#39;or&#39; 연산자를 사용하여 대체(fallback)를 정의할 수 있습니다.
+텍스처 매개 변수는 &#39;or&#39; 연산자를 사용하여 대체(fallback)를 정의할 수 있습니다.
 
 ```
 //: param auto TEXTURE_TAG_1 or TEXTURE_TAG_2 
@@ -110,7 +102,7 @@ uniform vec4 uniform_tex_size; // if TEX_TAG_1 exists then TEX_TAG_1_size else T
 ```
 
 
-여기서 *TEXTURE\_TAG*&#x200B;는 아래 설명된 태그 중 하나입니다.
+여기서 *텍스처\_태그*&#x200B;는 아래에 설명된 태그 중 하나입니다.
 
 *텍스처\_파랑\_노이즈* : 파랑 노이즈 텍스처\
 *텍스처\_환경* : 환경 맵, **mip-mapped**, [lib-env.glsl](../libraries-shader-api/lib-env-shader-api.md)을 사용하여 이 환경 맵 사용

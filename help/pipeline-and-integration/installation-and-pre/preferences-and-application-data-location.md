@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/pipeline-and-integration/installation-and-preferences/preferences-and-application-data-location.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 설정 및 사용자 데이터를 관리하기 위한 Substance 3D Painter의 환경 설정 및 애플리케이션 데이터 위치에 대해 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Pipeline and integration > Installation and preferences > Preferences and application data location
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 환경 설정 및 응용 프로그램 데이터 위치
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 4%
-
 ---
-
 
 # 환경 설정 및 응용 프로그램 데이터 위치
 

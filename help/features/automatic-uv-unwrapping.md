@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/automatic-uv-unwrapping.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 자동 UV 언래핑을 사용하여 3D 모델에 사용할 UV 레이아웃을 자동으로 생성하는 방법을 살펴보세요.
-helpx_creative_field: ""
-helpx_description: Painter > Features > Automatic UV Unwrapping
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 자동 UV 풀기
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '482'
 ht-degree: 0%
-
 ---
-
 
 # 자동 UV 풀기
 
@@ -27,7 +19,7 @@ ht-degree: 0%
 
 ![](../assets/uv-new-project.png)
 
-새 프로젝트를 만들거나 기존 프로젝트로 메시를 다시 가져오는 경우 &quot;자동 줄 바꿈&quot; 설정이 선택되어 있는지 확인합니다. 비활성화된 경우 프로세스를 건너뛰고 메시 UV가 그대로 유지됩니다.
+새 프로젝트를 만들거나 기존 프로젝트로 메시를 다시 가져오는 경우 &quot;자동 언랩&quot; 설정이 선택되어 있는지 확인합니다. 비활성화된 경우 프로세스를 건너뛰고 메시 UV가 그대로 유지됩니다.
 
 ## UV 감싸기 해제 설정
 

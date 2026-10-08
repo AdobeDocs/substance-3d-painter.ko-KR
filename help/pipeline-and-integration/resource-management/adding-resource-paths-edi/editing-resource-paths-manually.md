@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/pipeline-and-integration/resource-management/adding-resource-paths-by-editing-preferences-manually/editing-resource-paths-manually.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter 환경 설정에서 리소스 경로를 수동으로 편집하여 쉘프 리소스 위치를 사용자 정의하는 방법에 대해 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Pipeline and integration > Resource management > Adding resource paths by editing preferences manually > Editing resource paths manually
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 수동으로 리소스 경로 편집
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 1%
-
 ---
-
 
 # 수동으로 리소스 경로 편집
 

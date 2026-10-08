@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/content/creating-custom-effects/user-data.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 사용자 정의 효과의 사용자 데이터를 사용하여 사용자 정의 정보를 셰이더 효과에 전달하는 방법을 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Content > Creating custom effects > User data
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 사용자 데이터
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '1175'
 ht-degree: 1%
-
 ---
-
 
 # 사용자 데이터
 
@@ -96,7 +88,7 @@ Substance 그래프 이미지 입력의 기본 색상은 검정색이며 알파 
 
 기본적으로 Substance 그래프의 이미지 입력에는 패딩이 없으며, 성능 상의 이유로 UV 섬 외부 영역은 일반적으로 균일 색상으로 채워집니다. 패딩 설정을 사용하여 무한 확장을 요청할 수 있습니다. 무한 확장을 요청하면 필터를 사용하여 예를 들어 이음새를 만들지 않을 수 있습니다.
 
-구문 예: **p**&#x200B;**adding=extend**
+구문 예: **p****adding=extend**
 
 ## 기본적으로 출력 사용 안 함
 
@@ -129,7 +121,7 @@ Substance 그래프의 출력은 다른 출력에서 공유된 알파 채널/마
 
 ## 재질 출력에 대한 기본 혼합 모드 설정
 
-셸프에서 뷰포트나 레이어 스택으로 재질을 드래그 앤 드롭할 때 Substance 그래프에서 특정 출력의 혼합 모드를 정의하면 됩니다.
+셸프에서 뷰포트 또는 레이어 스택으로 재질을 드래그하여 놓을 때 Substance 그래프에서 특정 출력의 혼합 모드를 정의할 수 있습니다.
 
 * 특정 출력 노드에서: **blendingmode=normal**
 

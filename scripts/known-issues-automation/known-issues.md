@@ -1,16 +1,10 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/release-notes/know-issues.html"
 breadcrumb-title: ""
 description: Substance 3D Painter에 대해 알려진 문제를 검토하여 현재 제한 사항 및 해결 방법에 대해 최신 버전을 통해 최신 정보를 확인하십시오.
-helpx_creative_field: ""
-helpx_description: Substance 3D Painter
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 알려진 문제
 user-guide-description: ""
 user-guide-title: ""
-source-git-commit: a652271a4b12d9c27513ebc4d5974fa87da29580
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '855'
 ht-degree: 0%
@@ -95,9 +89,9 @@ ht-degree: 0%
 * `[User Channels]` 색상 혼합 공간 미리 보기가 잘못되었습니다.
 * 베이크 모드로 전환한 후 `[Mask]` 도형 선택이 여전히 활성 상태입니다.
 * `[Sonoma]` 아이콘이 메뉴에 나타나지 않습니다.
-* `[Polygon Fill]` 기본 색상의 색상 공간을 변경해도 색상 피커가 업데이트되지 않습니다.
+* `[Polygon Fill]` 기본 색상의 색상 공간을 변경해도 색상 피커가 업데이트되지 않음
 * 내보낼 때 텍스처를 4k에서 8k로 업스케일할 때 `[UV Padding]`개 아티팩트
-* `[Performances]` Painter이 VRAM 사용을 호스팅함
+* `[Performances]`개의 Painter hogs VRAM 사용
 * `[FBX]`개 크기 조절 문제
 * `[Texture set list]`개의 UV 타일을 텍스처 집합과 동시에 선택할 수 있습니다.
 * `[Viewport]` 굽기 모드 뷰포트의 맨 아래에 커서 지연 있음

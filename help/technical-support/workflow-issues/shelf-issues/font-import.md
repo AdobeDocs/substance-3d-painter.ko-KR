@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/workflow-issues/shelf-issues/font-import.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 글꼴 리소스를 성공적으로 가져오고 사용하기 위해 Substance 3D Painter에서 글꼴 파일 가져오기 문제를 해결하는 방법에 대해 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Substance 3D Painter
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 글꼴 파일을 가져올 수 없음
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
-
 ---
-
 
 # 글꼴 파일을 가져올 수 없음
 

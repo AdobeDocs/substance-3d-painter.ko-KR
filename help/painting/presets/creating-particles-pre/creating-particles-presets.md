@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/presets/creating-particles-presets.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 입자 브러시 사전 설정을 만들어 동적 텍스처 페인팅 효과를 작업 과정에 추가하는 방법을 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Painting > Presets > Creating particles presets
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 파티클 사전 설정 만들기
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
-
 ---
-
 
 # 파티클 사전 설정 만들기
 
@@ -26,6 +18,6 @@ ht-degree: 0%
 
 자세한 내용은 전용 페이지 를 참조하십시오.
 
-* [입자 편집기 설치](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/installation-of-the-editor-67403780.html)
-* [입자 편집기 개요](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/overview-of-popcornfx-particle-editor-67796996.html)
+* [입자 편집기 설치](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/installation-of-the-editor-67403780.html)
+* [입자 편집기 개요](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/overview-of-popcornfx-particle-editor-67796996.html)
 * [새 입자 스크립트 만들기](creating-a-new-particle-script.md)

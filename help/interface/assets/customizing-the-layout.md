@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/assets/customizing-the-layout.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 에셋 패널 레이아웃을 사용자 정의하여 리소스 검색 경험을 최적화하는 방법을 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Interface > Assets > Customizing the layout
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 레이아웃 사용자 정의
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
-
 ---
-
 
 # 레이아웃 사용자 정의
 
@@ -40,6 +32,6 @@ ht-degree: 0%
 
 ## 축소판 크기
 
-에셋 축소판 크기는 [작게], [중간] (기본값), [크게] 및 [목록] 옵션을 제공하는 맨 왼쪽 아이콘을 사용하여 조정할 수 있습니다.
+에셋 축소판 크기는 [작게], [중간](기본값), [크게] 및 [목록] 옵션을 제공하는 맨 왼쪽 아이콘을 사용하여 조정할 수 있습니다.
 
 ![](../../assets/00-04-thumbs.jpg){width="600px"}

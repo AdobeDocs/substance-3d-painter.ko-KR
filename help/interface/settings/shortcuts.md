@@ -1,22 +1,14 @@
 ---
-helpx_url: 'https://helpx.adobe.com/kr/substance-3d-painter/interface/settings/shortcuts.html'
 breadcrumb-title: ''
 description: Substance 3D Painter에서 키보드 단축키를 사용자 정의하여 작업 과정을 간소화하고 효율성을 개선하는 방법에 대해 알아봅니다.
-helpx_creative_field: ''
-helpx_description: Painter > Interface > Settings > Shortcuts
-helpx_experience_level: ''
-helpx_learn_topic: ''
-helpx_tags: ''
 title: 단축키
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 7b5f6e6c9623cb51253b6e49c8dbcbb22856418c
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '1369'
 ht-degree: 4%
-
 ---
-
 
 # 단축키
 
@@ -26,7 +18,7 @@ ht-degree: 4%
 
 ## 단축키 개요
 
-사용 가능한 모든 바로 가기에 대한 간략한 개요는 자습서에서 사용할 수 있는 그래픽 [을(를) 살펴보십시오](https://helpx.adobe.com/kr/substance-3d/unlisted/tutorials/courses/substance-3d-painter-keyboard-shortcuts.html) .
+사용 가능한 모든 바로 가기에 대한 간략한 개요는 자습서에서 사용할 수 있는 그래픽 [을(를) 살펴보십시오](https://helpx.adobe.com/substance-3d/unlisted/tutorials/courses/substance-3d-painter-keyboard-shortcuts.html) .
 
 ## 단축키 변경 방법
 
@@ -53,10 +45,10 @@ ht-degree: 4%
 |  |  |  |  |
 | **조작기 표시/숨기기** | Q | Q | 채우기 레이어를 제어하는 데 사용되는 조작기 표시를 토글합니다. |
 | **조작기 크기 늘리기** | + | + | 뷰포트에서 조작기를 더 크게 만듭니다. |
-| **조작기 크기 줄이기** | \- | \- | 뷰포트에서 조작기를 더 작게 만듭니다. |
+| **조작기 크기 줄이기** | \- | \- | 뷰포트에서 조작기 크기를 줄입니다. |
 | **조작 공간 순환** | T | T | 조작기의 개체 및 세계 공간 변환 간 대체. |
 | **뒤틀기 편집 모드 전환** | Shift+V | Shift+V | 뒤틀기 투영을 편집할 때 [정점 비틀기]와 [정점 편집] 모드 간에 전환합니다. |
-| **번역 도구** | W | W | 매니퓰레이터 모드를 변환으로 설정합니다. |
+| **번역 도구** | W | W | 조작기 모드를 변환으로 설정합니다. |
 | **회전 도구** | E | E | 조작기 모드를 회전으로 설정합니다. |
 | **크기 조정 도구** | R | R | 크기 조정할 조작기 모드를 설정합니다. |
 | **표면 도구** | Shift+W | Shift+W | 3D 모델 표면에 스냅할 조작기 모드를 설정합니다. |
@@ -94,7 +86,7 @@ ht-degree: 4%
 | **빠른 마스크 버전 전환** | U | U | 빠른 마스크 버전을 입력하거나 종료합니다. |
 | **빠른 마스크 지우기** | Y | Y | 빠른 마스크를 비활성화하고 지웁니다. |
 | **빠른 마스크 반전** | I | I | 빠른 마스크의 현재 값을 반전합니다. |
-| **뷰포트 레이아웃 3D/2D** | F1 | F1 | 3D 보기와 2D 보기를 동시에 표시하려면 뷰포트 표시를 변경합니다. |
+| **뷰포트 레이아웃 3D/2D** | F1 | F1 | 3D와 2D 보기를 동시에 표시하도록 뷰포트 표시를 변경합니다. |
 | **뷰포트 레이아웃 3D 전용** | F2 | F2 | 3D 뷰만 표시하도록 뷰포트 표시를 변경합니다. |
 | **뷰포트 레이아웃 2D 전용** | F3 | F3 | 뷰포트 표시를 변경하여 2D 보기만 표시합니다. |
 | **2D/3D 보기 교체** | F4 | F4 | 뷰포트의 2D 보기와 3D 보기 및 2D UV 보기 간에 바꿉니다. |

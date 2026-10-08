@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/configuring-pens-and-tablets.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 최적의 압력 민감도와 드로잉 경험을 위해 펜과 태블릿을 구성하는 방법에 대해 알아보십시오.
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Configuring Pens and Tablets
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 펜 및 태블릿 구성
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '877'
 ht-degree: 0%
-
 ---
-
 
 # 펜 및 태블릿 구성
 

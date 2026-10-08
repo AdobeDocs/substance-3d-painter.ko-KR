@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/symmetry/radial-symmetry.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter의 [방사형 대칭]를 사용하면 중심점을 중심으로 대칭적으로 페인트를 만들어 원형 패턴을 만들 수 있습니다.
-helpx_creative_field: ""
-helpx_description: Substance 3D Painter
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 방사형 대칭
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 1%
-
 ---
-
 
 # 방사형 대칭
 

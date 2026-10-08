@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/display-settings/camera-settings.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 카메라 설정을 구성하여 뷰포트 카메라 동작 및 투영을 제어하는 방법에 대해 알아보십시오.
-helpx_creative_field: ""
-helpx_description: Painter > Interface > Display settings > Camera settings
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 카메라 설정
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 3%
-
 ---
-
 
 # 카메라 설정
 
@@ -69,4 +61,4 @@ ht-degree: 3%
 
 | 설정 | 설명 |
 | --- | --- |
-| **함수** | 모니터 표시 기능을 초과하는 색상 값을 맞추는 데 사용되는 함수를 지정합니다(HDR 값을 LDR 범위에 다시 매핑).가능한 값은 다음과 같습니다.<ul data-preserve-html="true"><li data-preserve-html="true"><strong>선형</strong>(기본값): 변환 없음, 1.0보다 큰 값은 고정됩니다.</li><li data-preserve-html="true"><strong>ACE</strong>: ACE 파일 톤 매핑 곡선을 사용합니다.</li></ul> <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table2_row-r1-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/linear-vs-aces.jpg" width="450px"/></div> **참고:** 일부 게임 엔진과 렌더링 소프트웨어는 ACES 톤 매퍼를 사용합니다. 이 기능을 활성화하면 응용 프로그램 간에 색상을 일치시키고 차이를 방지하는 데 도움이 됩니다. |
+| **함수** | 모니터 표시 기능을 초과하는 색상 값을 맞추는 데 사용되는 함수를 지정합니다(HDR 값을 LDR 범위에 다시 매핑).가능한 값은 다음과 같습니다.<ul data-preserve-html="true"><li data-preserve-html="true"><strong>선형</strong>(기본값): 변환 없음, 1.0보다 큰 값은 고정됩니다.</li><li data-preserve-html="true"><strong>ACE</strong>: ACE 파일 톤 매핑 곡선을 사용합니다.</li></ul> <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table2_row-r1-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/linear-vs-aces.jpg" width="450px"/></div> **참고:** 일부 게임 엔진과 렌더링 소프트웨어는 ACE 톤 매퍼를 사용합니다. 이 기능을 활성화하면 응용 프로그램 간에 색상을 일치시키고 차이를 방지하는 데 도움이 됩니다. |

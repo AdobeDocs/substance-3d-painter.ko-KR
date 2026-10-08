@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/tool-list/ribbon-tool.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter의 리본 툴을 사용하여 장식용 텍스처 페인팅을 위해 패스를 따라 리본과 같은 페인트 획을 만듭니다.
-helpx_creative_field: ""
-helpx_description: Substance 3D Painter
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 리본 경로
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '1139'
 ht-degree: 2%
-
 ---
-
 
 # 리본 경로
 
@@ -88,7 +80,7 @@ ht-degree: 2%
 | <b>타일링 모드</b> | 패스를 따라 이미지가 반복되는 방식을 정의합니다. 가능한 값은 다음과 같습니다.<ul data-preserve-html="true"> <li data-preserve-html="true"><b>없음</b>: 이미지가 반복되지 않습니다. 전체 경로를 따라 늘리다가 될 거야</li> <li data-preserve-html="true"><b>자동</b>: (기본값) 이미지의 크기와 획 너비에 따라 특정 횟수만큼 이미지가 자동으로 반복됩니다.</li> <li data-preserve-html="true"><b>사용자 지정</b>: 이미지화된 이미지가 <b>타일링 양</b> 매개 변수에 의해 정의된 횟수만큼 반복됩니다.</li> </ul> |
 | <b>타일링 양</b> | <b>사용자 지정</b> 타일링 모드에서 이미지가 반복되는 횟수를 지정합니다. |
 | <b>두 번째 타일마다 미러링</b> | 경로의 길이를 따라 사용된 이미지를 1초마다 뒤집습니다. |
-| <b>종횡비 계수</b> | 현재 이미지 종횡비를 늘리거나 줄입니다. |
+| <b>종횡비 계수</b> | 현재 이미지 종횡비 |
 
 #### 종횡비 유지
 
@@ -113,7 +105,7 @@ ht-degree: 2%
 | --- | --- |
 | <b>Alpha</b> | 리본 경로의 <b>Alpha</b> 섹션이 자신과 겹치는 영역에서 혼합되는 방식을 제어합니다. 이는 다른 모든 채널의 혼합 강도에 영향을 줍니다. 가능한 값은 다음과 같습니다.<ul data-preserve-html="true"> <li data-preserve-html="true"><b>표준</b>: 맨 위 세그먼트의 알파를 사용합니다.</li> <li data-preserve-html="true"><b>밝게(최대)</b>: (기본값)은 최대 알파 값을 사용하여 가장 불투명한 세그먼트를 유지합니다.</li> <li data-preserve-html="true"><b>선형 닷지(추가)</b>: 선분의 알파를 추가하여 선분을 함께 누적하여 채도가 더 높은 값을 만듭니다.</li> </ul> |
 | <b>표준</b> | 경로가 겹치는 영역에서 <b>표준</b> 채널을 혼합하는 방법을 정의합니다. 가능한 값은 다음과 같습니다.<ul data-preserve-html="true"> <li data-preserve-html="true"><b>표준</b>: 맨 위 세그먼트의 결과를 사용합니다.</li> <li data-preserve-html="true"><b>노멀 맵 결합</b>: (기본값) 동일한 강도로 세그먼트를 결합합니다.</li> <li data-preserve-html="true"><b>노멀 맵 세부 사항</b>: 맨 위 세그먼트를 추가 세부 사항으로 간주하고 맨 아래 영역은 해당 강도를 유지합니다.</li> </ul>이 설정은 전체 레이어에 대해 정의된 <b>표준</b> 혼합 모드와 별개이며, 패스 자체의 자체 오버랩 혼합 후에 적용됩니다. <b>참고</b>: 채널이 채널인 경우 이 설정을 사용할 수 없습니다. 비트맵 및 Substance 리소스와만 호환됩니다. |
-| <b>Height</b> | 경로가 겹치는 영역에서 <b>Height</b> 채널을 혼합하는 방법을 정의합니다. 가능한 값은 다음과 같습니다.<ul data-preserve-html="true"> <li data-preserve-html="true"><b>표준</b>: 맨 위 세그먼트의 결과를 사용합니다.</li> <li data-preserve-html="true"><b>선형 닷지(추가)</b>: 원래 강도를 유지하면서 세그먼트를 함께 추가합니다.</li> <li data-preserve-html="true"><b>어둡게(최소)</b>: 겹치는 선분의 가장 어두운/가장 낮은 값만 유지합니다.</li> <li data-preserve-html="true"><b>조명(최대)</b>: (기본값) 겹치는 선분의 가장 밝은/가장 높은 값을 유지합니다.</li> <li data-preserve-html="true"><b>화면</b>: <b>선형 닷지</b>와 비슷하지만 채도가 더 낮은 결과를 제공합니다.</li> </ul>이 설정은 전체 레이어에 대해 정의된 <b>Height</b> 혼합 모드와 별개이며, 이는 패스 자체의 자체 오버랩 혼합 후에 적용됩니다. <b>참고</b>: 채널이 균일한 색상인 경우 이 설정을 사용할 수 없습니다. 비트맵 및 Substance 리소스와만 호환됩니다. |
+| <b>Height</b> | 경로가 겹치는 영역에서 <b>Height</b> 채널을 혼합하는 방법을 정의합니다. 가능한 값은 다음과 같습니다.<ul data-preserve-html="true"> <li data-preserve-html="true"><b>표준</b>: 맨 위 세그먼트의 결과를 사용합니다.</li> <li data-preserve-html="true"><b>선형 닷지(추가)</b>: 원래 강도를 유지하면서 세그먼트를 함께 추가합니다.</li> <li data-preserve-html="true"><b>어둡게(최소)</b>: 겹치는 선분의 가장 어두운/가장 낮은 값만 유지합니다.</li> <li data-preserve-html="true"><b>조명(최대)</b>: (기본값) 겹치는 선분의 가장 밝은/가장 높은 값을 유지합니다.</li> <li data-preserve-html="true"><b>화면</b>: <b>선형 닷지</b>와 비슷하지만 채도가 더 낮은 결과를 제공합니다.</li> </ul>이 설정은 전체 레이어에 대해 정의된 <b>Height</b> 혼합 모드와 별개이며, 이는 패스 자체의 자체 오버랩 혼합 후에 적용됩니다. <b>참고</b>: 채널이 채널인 경우 이 설정을 사용할 수 없습니다. 비트맵 및 Substance 리소스와만 호환됩니다. |
 
 Height 채널을 사용한 혼합 모드의 예:
 

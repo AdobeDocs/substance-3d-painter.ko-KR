@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/project-resources.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter의 프로젝트 리소스 및 기술 문서에 액세스하여 워크플로우와 문제 해결을 개선합니다.
-helpx_creative_field: ""
-helpx_description: Substance 3D Painter
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 프로젝트 리소스
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 0%
-
 ---
-
 
 # 프로젝트 리소스 및 설정
 

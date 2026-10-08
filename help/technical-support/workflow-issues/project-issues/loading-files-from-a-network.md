@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/workflow-issues/project-issues/loading-files-from-a-network.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter의 네트워크 드라이브에서 파일을 로드하여 공유 리소스 및 프로젝트에 액세스하는 방법을 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Workflow Issues > Project Issues > Loading files from a network
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 네트워크에서 파일 로드
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
-
 ---
-
 
 # 네트워크에서 파일 로드
 

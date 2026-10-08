@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/home.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter으로 시작하여 3D 모델에 텍스처를 직접 페인트 하고 사실적인 재질 표면을 만들어 보세요.
-helpx_creative_field: ""
-helpx_description: Painter > Home
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: Substance 3D Painter
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '576'
 ht-degree: 9%
-
 ---
-
 
 # Substance 3D Painter
 
@@ -28,7 +20,7 @@ Substance 3D Painter은 3D 페인팅 소프트웨어로서 3D 메시를 텍스�
 
 이 설명서는 기본 기술부터 고급 기술까지 이 소프트웨어를 사용하는 방법을 배우는 데 도움이 되도록 작성되었습니다.
 
-이 설명서에서 답변되지 않은 질문이 있는 경우 당사의 [포럼](https://community.adobe.com/t5/substance-3d-painter/bd-p/substance-3d-painter)에서 자유롭게 질문해 주십시오. PBR에 대해 자세히 알아보려면 [Physically Based Rendering 안내서](https://helpx.adobe.com/kr/substance-3d/unlisted/tutorials.html)를 다운로드할 수도 있습니다.
+이 설명서에서 답변되지 않은 질문이 있는 경우 당사의 [포럼](https://community.adobe.com/t5/substance-3d-painter/bd-p/substance-3d-painter)에서 자유롭게 질문해 주십시오. PBR에 대해 자세히 알아보려면 [Physically Based Rendering 안내서](https://helpx.adobe.com/substance-3d/unlisted/tutorials.html)를 다운로드할 수도 있습니다.
 
 </td>
 <td width="58.30%" style="border: 0;" valign="top">
@@ -73,7 +65,7 @@ Substance 3D Painter은 3D 페인팅 소프트웨어로서 3D 메시를 텍스�
 * [칠 투영](painting/fill-projections/fill-projections.md) — 칠 레이어 및 칠 효과는 특정 모드를 기준으로 메시에 직접 텍스처를 투영합니다. 이러한 유형의 레이어/효과는 3D 모델에 텍스처를 수동으로 페인트 하는 것을 방지합니다. 속성 창에서 투영 설정을 편집할 수 있습니다.
 * [사전 설정](painting/presets/presets.md) — 사전 설정은 페인팅 도구의 저장된 구성입니다. 이 페이지에서는 이러한 유틸리티를 사용하는 방법과 이유를 설명합니다.
 * [역동적인 획](painting/dynamic-strokes/dynamic-strokes.md) - 역동적인 획은 Substance 파일로 구동되는 일반 브러시 획으로, 브러시 획 내의 각 스탬프마다 변경할 수 있습니다.
-* [고급 채널 페인팅](painting/advanced-channel-painting/advanced-channel-painting.md) - 셰이더에서 사용되는 일부 기본 채널을 페인팅하여 고급 또는 복잡한 효과를 만들 수 있습니다. 예를 들어, 표준 맵으로 변환되는 페인팅 Height 정보가 있습니다.
+* [고급 채널 페인팅](painting/advanced-channel-painting/advanced-channel-painting.md) - 셰이더에서 사용되는 일부 기본 채널을 페인팅하여 고급 또는 복잡한 효과를 만들 수 있습니다. 예를 들어, 노멀 맵으로 변환되는 페인팅 Height 정보가 해당됩니다.
 
 ### 베이킹
 
@@ -83,7 +75,7 @@ Substance 3D Painter은 3D 페인팅 소프트웨어로서 3D 메시를 텍스�
 ### 콘텐츠
 
 * [사용자 정의 효과 만들기](content/creating-custom-effects/creating-custom-effects.md)
-* [에셋 가져오기](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/adding-content-to-the-shelf-142213317.html)
+* [에셋 가져오기](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/adding-content-to-the-shelf-142213317.html)
 
 ### 기능
 
@@ -112,7 +104,7 @@ Substance 3D Painter은 3D 페인팅 소프트웨어로서 3D 메시를 텍스�
 
 ### 스크립팅 및 개발
 
-* [스크립트 및 플러그인](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/script-and-plugins-197427392.html)
+* [스크립트 및 플러그인](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/script-and-plugins-197427392.html)
 
 ### 기술 지원
 

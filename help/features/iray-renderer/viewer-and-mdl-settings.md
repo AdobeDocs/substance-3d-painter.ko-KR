@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/iray-renderer/viewer-and-mdl-settings.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 Ray 렌더러의 뷰어 및 MDL 설정을 구성하여 질감 렌더링을 사용자 정의하는 방법을 살펴봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Features > Iray Renderer > Viewer and MDL Settings
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 뷰어 및 MDL 설정
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '733'
 ht-degree: 0%
-
 ---
-
 
 # 뷰어 및 MDL 설정
 
@@ -97,7 +89,7 @@ Substance 3D Painter의 기본 MDL은 다음 속성을 지원합니다.
 
 | *설정* | *설명* |
 | --- | --- |
-| **발광 강도** | 방출 채널의 승수입니다. 값이 높으면 빛이 나기 시작할 것이다. <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table1_row-r1-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/emissive-optim.gif"/></div> |
+| **방출 강도** | 방출 채널의 승수입니다. 값이 높으면 빛이 나기 시작할 것이다. <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table1_row-r1-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/emissive-optim.gif"/></div> |
 | **굴절** | 굴절 정도를 제어합니다. |
 | **IOR** | 재질의 굴절 색인을 정의합니다.   참고 : 공기 = 1.0, 물 = 1.2, 유리 = 1.5. |
 | **분산** | 표면을 통해 산란되는 빛의 양을 제어합니다. |

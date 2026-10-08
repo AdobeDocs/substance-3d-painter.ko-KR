@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/release-notes/version-10-0.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter 버전 10.0의 릴리스 정보를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
-helpx_creative_field: ""
-helpx_description: Substance 3D Painter 10.0 brings support of Fonts via Text resources, layer stack functionalities in the Python API, support of Illustrator (.ai) files and several quality of life improvements.
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 버전 10.0
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '2328'
 ht-degree: 0%
-
 ---
-
 
 # 버전 10.0
 
@@ -139,9 +131,9 @@ Painter 내부에 Substance 3D Assets 웹 사이트를 직접 포함하는 새 �
 
 >[!NOTE]
 >
-> 레이어 스택 플러그인의 예는 [온라인 설명서](https://adobedocs.github.io/painter-python-api/)에서도 확인할 수 있습니다.
+> 레이어 스택 플러그인의 예는 [온라인 설명서](https://adobedocs.github.io/painter-python-api/)에서도 찾을 수 있습니다.
 
-### 개선된 표준 맵 페인팅
+### 개선된 노멀 맵 페인팅
 
 ![](../assets/v10_banner_flow-1.jpg)
 
@@ -164,14 +156,14 @@ Painter 내부에 Substance 3D Assets 웹 사이트를 직접 포함하는 새 �
 >
 > 페인팅 플로우 맵에 대한 자세한 내용은 [문서 페이지](../painting/advanced-channel-painting/flow-map-painting.md)를 참조하십시오.
 
-### 개선된 변형 조작기
+### 변환 개선
 
 ![](../assets/v10_banner_transform_v2-1.jpg)
 
 변환의 사용을 향상시키기 위해 몇 가지 개선이 이루어졌다.
 
 * <b>정밀도 모드(CTRL 포함)</b>\
-  이제 조작기를 드래그하면서 Control을 누르면 보다 세밀한 작업을 수행할 수 있는 새로운 정밀 모드로 들어갑니다. 이 변경 사항은 평행 이동, 회전 및 비율 조작기에 적용됩니다.\
+  이제 조작기를 드래그하면서 control을 누르면 보다 세밀한 작업을 수행할 수 있는 새로운 정밀 모드로 들어갑니다. 이 변경 사항은 평행 이동, 회전 및 비율 조작기에 적용됩니다.\
   다음은 드래그하는 동안 Ctrl 키를 누르기 전과 후의 예입니다.
 
   ![](../assets/v10_ctrl_precise_mode.gif)
@@ -201,7 +193,7 @@ Painter 내부에 Substance 3D Assets 웹 사이트를 직접 포함하는 새 �
 * <b>일부 필터에서 밴딩/품질 문제 해결</b>\
   여러 필터가 16비트 대신 8비트 정밀도로 고정되어 이를 사용할 때 밴딩/아티팩트가 발생합니다(막대 그래프 스캔 또는 방향 흐림 효과 등). 이 문제가 수정되었습니다.
 * <b>SBSAR 출력의 색상 공간</b>\
-  레거시 또는 OCIO 색상 관리 워크플로가 활성화되면 SBSAR 내보내기가 이제 해당 출력의 프로젝트에서 사용된 색상 공간 이름을 참조합니다.
+  레거시 또는 OCIO 색상 관리 워크플로가 활성화되면 SBSAR 내보내기가 이제 해당 출력의 프로젝트에서 사용되는 색상 공간 이름을 참조합니다.
 * <b>더 빠른 리소스 검색</b>\
   <b>텍스트 리소스</b>의 도입으로 새 캐시를 추가하여 다음에 시작할 때 디스크의 리소스를 더 빠르게 크롤링하도록 만들었습니다. 이는 리소스가 HDD에 설치되거나 라이브러리가 GB의 리소스를 보유하고 있을 때 매우 두드러집니다. 명령줄을 사용하여 이 새 캐시를 사용하지 않도록 설정할 수 있습니다. 자세한 내용은 전용 [설명서 페이지](../pipeline-and-integration/configuration/command-lines.md)를 참조하십시오.
 
@@ -226,16 +218,16 @@ Painter 내부에 Substance 3D Assets 웹 사이트를 직접 포함하는 새 �
 <b>추가됨</b>:
 
 * [Illustrator] Painter에서 아트 보드와 함께 Illustrator 파일 사용
-* [Illustrator]&#x200B;[SVG] 범위 선택에서 미리 보기 추가
+* [Illustrator][SVG] 범위 선택에서 미리 보기 추가
 * [Substance 3D Assets] Painter에서 직접 3D 에셋을 검색하고, 선택하고, 다운로드하십시오.
-* [Substance 3D Assets]&#x200B;[UI] 새 패널
+* [Substance 3D Assets][UI] 새 패널
 * [Substance 3D Assets] 환경 맵 및 자료 지원
 * [Substance 3D Assets] 새 Substance 3D Assets 패널에서 위치 폴더를 다시 로드하고 탐색하고 열 수 있습니다.
 * [Substance 3D Assets] 다운로드 관리자 추가
 * [텍스트 리소스] 포함 가능한 글꼴 사용 허용
 * [텍스트 리소스] 메시에서 글꼴/텍스트 렌더링 허용
 * [텍스트 리소스] 새 범주와 함께 에셋 패널에서 사용자 및 기타 공유 경로의 글꼴을 표시합니다
-* [텍스트 리소스]&#x200B;[속성] 고급 글꼴 속성에 대한 지원 추가
+* [텍스트 리소스][속성] 고급 글꼴 속성에 대한 지원 추가
 * [텍스트 리소스] 미니 쉘프의 글꼴 검색/보기 허용
 * [텍스트 리소스] 호환되지 않는 글꼴을 가져올 때 오류 메시지/대화 상자를 추가합니다.
 * 기타
@@ -276,20 +268,20 @@ Painter 내부에 Substance 3D Assets 웹 사이트를 직접 포함하는 새 �
 
 <b>고정</b>:
 
-* [Crash] Ctrl-Z를 사용하여 &quot;셰이더 인스턴스 제거&quot; 실행 취소
-* [충돌] 마지막 선택이 효과인 경우 빈 스택에 레이어를 만듭니다.
+* [충돌] Ctrl-Z를 사용하여 &quot;셰이더 인스턴스 제거&quot; 실행 취소
+* [충돌] 마지막 선택이 효과인 경우 빈 스택에 레이어를 만듭니다
 * [SVG] 사용자 정의 자른 영역 값 문제
-* [자동 래핑 해제] UV 방향을 변경하지 않고 패킹만 다시 계산하면 충돌이 발생합니다
+* [자동 언랩] UV 방향을 변경하지 않고 패킹만 다시 계산하면 충돌이 발생합니다.
 * [드래그 앤 드롭] 외부 리소스로 인한 지연이 여러 번 미리 로드됩니다.
-* [UI] 리소스 축소판을 드래그하여 놓으면 레이어 스택에서 경고 메시지가 숨겨집니다.
+* [UI] 리소스 축소판을 끌어서 놓으면 레이어 스택에서 경고 메시지가 숨겨집니다.
 * [성능] 마스크된 UV 타일이 여전히 계산됨
-* [USD] 범위 선택에 대한 강조 표시가 잘못되었습니다.
+* [USD] 범위 선택을 위한 잘못된 강조 표시
 * [리소스] 일반 채널에서 페인팅하고 프로젝트를 저장한 후 비트맵 이미지가 손상됨
-* [USD] 왼손잡이 정점 메시 순서 지원
+* [USD] 왼쪽 정점 메시 순서 지원
 * [Substance] 각도 위젯의 경우 기본값으로 재설정하면 항상 0으로 돌아가기
 * [엔진] 스텐실에서 SVG을 사용한 페인팅이 작동하지 않음
-* [엔진] 실행 취소 후 표준 맵 브러시 획이 중단됨
-* [콘텐츠] [그래픽-재질] 필터에 잘못된 알파 혼합 및 색상 공간이 있습니다
+* [엔진] 실행 취소 후 노멀 맵 브러시 획이 중단됨
+* [내용] 재질 필터 대상 그래픽의 알파 혼합 및 색상 공간이 잘못되었습니다
 * [내용] Tile Generator의 혼합 모드가 작동하지 않습니다
 * [콘텐츠] 막대 그래프 스캔 필터로 인해 밴딩이 발생하는 경우가 있습니다
 * [내용] 스타일이 적용된 구운 조명은 페인팅된 Height을 고려하지 않습니다
@@ -298,9 +290,9 @@ Painter 내부에 Substance 3D Assets 웹 사이트를 직접 포함하는 새 �
 <b>알려진 문제</b>:
 
 * [색상 관리] Linux에서 ACE을 사용하여 HDR 색상 공간을 변환하면 클램프된 색상이 생성됩니다
-* [충돌]&#x200B;[Linux]&#x200B;[AMD] Wayland OS의 레이어 스택에서 리소스 드래그 앤 드롭
-* [회귀]&#x200B;[UI] 마우스 오른쪽 단추 클릭 메뉴가 HD 화면에서 너무 작습니다.
-* [충돌]&#x200B;[Python] TextureStateEvent에서 USD 내보내기가 트리거됨
+* [충돌][Linux][AMD] Wayland OS의 레이어 스택에서 리소스 드래그 앤 드롭
+* [회귀][UI] 마우스 오른쪽 단추 클릭 메뉴가 HD 화면에서 너무 작습니다.
+* [충돌][Python] TextureStateEvent에서 USD 내보내기가 트리거됨
 * [저장] &quot;다른 이름으로 저장&quot;이 실패하면 Spp 프로젝트 파일이 손실됩니다.
 * [MacOS Intel] 사전 설정을 가져올 때 충돌
 * [Illustrator] Painter을 다시 시작하지 않은 경우 서버 충돌 후 Ai 파일을 가져올 수 없음

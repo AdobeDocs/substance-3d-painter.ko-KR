@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/physical-size.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 물리적 크기를 설정하여 정확한 텍스처 비율을 위한 실제 치수를 정의하는 방법을 살펴보세요.
-helpx_creative_field: ""
-helpx_description: Painter > Features > Physical size
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 실제 크기
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 2%
-
 ---
-
 
 # 실제 크기
 

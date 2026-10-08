@@ -1,26 +1,18 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/tool-list/paint-brush.html"
-breadcrumb-title: ''
-description: Substance 3D Painter의 [페인트 브러시] 도구를 사용하여 사용자 정의 가능한 브러시 설정으로 3D 모델에 바로 텍스처를 페인트할 수 있습니다.
-helpx_creative_field: ""
-helpx_description: Painter > Painting > Tool list > Paint brush
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
+breadcrumb-title: ""
+description: Substance 3D Painter의 페인트 브러시 툴을 사용하여 사용자 정의 가능한 브러시 설정으로 3D 모델에 텍스처를 바로 페인트
 title: 페인트 브러시
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: c20714f4cef21ccca0cdcd45dcdfd5ca6f4b96f2
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '1308'
 ht-degree: 0%
-
 ---
-
 
 # 페인트 브러시
 
-페인트 도구는 3D 메시에 색상과 재질 속성을 적용하는 Substance 3D Painter의 기본 도구입니다. [속성](../../interface/properties.md) 을 통해 편집할 수 있는 특정 매개 변수가 있습니다.
+페인트 도구는 3D 메시에 색상 및 재질 속성을 적용하는 Substance 3D Painter의 기본 도구입니다. [속성](../../interface/properties.md) 을 통해 편집할 수 있는 특정 매개 변수가 있습니다.
 
 페인트 도구는 다양한 비헤이비어와 설정을 통해 브러시 획을 시뮬레이션하여 3D 메쉬에 페인팅한 느낌을 줍니다.
 

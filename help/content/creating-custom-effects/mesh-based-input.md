@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/content/creating-custom-effects/mesh-based-input.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter의 사용자 정의 효과에서 메쉬 기반 입력을 사용하여 모양 인식 텍스처 효과를 만드는 방법을 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Content > Creating custom effects > Mesh Based Input
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 메시 기반 입력
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 1%
-
 ---
-
 
 # 메시 기반 입력
 

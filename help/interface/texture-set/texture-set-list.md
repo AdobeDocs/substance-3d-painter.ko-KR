@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/texture-set/texture-set-list.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter의 텍스처 세트 목록을 사용하여 프로젝트에서 여러 텍스처 세트를 관리하고 구성하는 방법을 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Interface > Texture Set > Texture Set list
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 텍스처 세트 목록
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 0%
-
 ---
-
 
 # 텍스처 세트 목록
 
@@ -39,7 +31,7 @@ ht-degree: 0%
 
 * **선택됨** : 현재 편집 중인 텍스처 집합입니다. 텍스처 집합을 선택하면 [레이어 스택](../layer-stack/layer-stack.md) 및 [셰이더 설정](../shader-settings/shader-settings.md) 창이 그에 따라 업데이트됩니다.
 * **표시/숨김** : 자세한 내용은 아래의 표시 가능 섹션을 참조하십시오.
-* **사용 안 함** : 이는 텍스처 세트 및 관련 레이어 스택을 메시의 재질에 연결할 수 없음을 의미합니다. 자세한 내용은 [텍스처 집합 재할당](texture-set-reassignment.md)을 참조하세요.
+* **사용 안 함** : 이것은 텍스처 세트 및 관련 레이어 스택을 메시의 재질에 연결할 수 없음을 의미합니다. 자세한 내용은 [텍스처 집합 재할당](texture-set-reassignment.md)을 참조하세요.
 
 ## 가시성
 

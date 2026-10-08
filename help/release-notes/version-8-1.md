@@ -1,26 +1,18 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/release-notes/version-8-1.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter 버전 8.1의 릴리스 노트를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
-helpx_creative_field: ""
-helpx_description: Painter > Release notes > Version 8.1
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 버전 8.1
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '1701'
 ht-degree: 0%
-
 ---
-
 
 # 버전 8.1
 
-**Substance 3D Painter 8.1**&#x200B;에서는 ACE(Adobe Color Engine)와 ICC 프로필, 새로운 베이커, 새로운 3D 노이즈, 20개의 그런지 맵 및 개선된 스포이드에 대한 지원을 통합합니다.
+**Substance 3D Painter 8.1**&#x200B;은(는) Adobe Color Engine(ACE)과 ICC 프로필, 새로운 베이커, 새로운 3D 노이즈, 20개의 그런지 맵 및 개선된 스포이드에 대한 지원을 통합합니다.
 
 출시일: *2022년 6월 7일*
 
@@ -196,14 +188,14 @@ ht-degree: 0%
 * [색상 관리] [레거시] 모드를 사용하여 [색상 피커]에서 선형 색상 값을 입력할 수 있습니다.
 * [색상 관리] UI 외부에서 색상을 선택하는 데 사용되는 색상 프로필을 지정할 수 있습니다.
 * [색상 관리] 뷰포트에서 마지막으로 선택한 디스플레이 값 기억
-* [색상 관리]&#x200B;[Substance] 색상 관리를 사용하여 생성기/필터가 제대로 작동하도록 만들기
-* [색상 관리]&#x200B;[Substance] 새 색상 공간 재정의 키워드 추가 $working 및 $standardsrgb
-* [물리적 크기]&#x200B;[엔진] 메시에서 물리적 크기 정보 추출
-* [물리적 크기]&#x200B;[엔진] 물리적 크기 계산
+* [색상 관리][Substance] 색상 관리를 사용하여 생성기/필터가 제대로 작동하도록 만들기
+* [색상 관리][Substance] 새 색상 공간 재정의 키워드 추가 $working 및 $standardsrgb
+* [물리적 크기][엔진] 메시에서 물리적 크기 정보 추출
+* [물리적 크기][엔진] 물리적 크기 계산
 * [물리적 크기] UI에서 물리적 크기를 사용하는 옵션을 표시합니다.
 * [물리적 크기] 뷰포트에 시각적 도우미 추가
 * [베이킹] Height 베이커 추가
-* [베이킹] 구부러진 수직 베이커 추가
+* [베이킹] 표준 구부리기 베이커 추가
 * [베이킹] 불투명도 베이커 추가
 * [스포이드] 새로운 색상 피커 미리 보기
 * [스포이드] [색상 피커] 패널을 다시 열 때 마지막 위치에 다시 나타납니다
@@ -222,7 +214,7 @@ ht-degree: 0%
 * 0.9.0으로 자동 줄 바꿈 해제 업데이트
 * Qt 5.15.8로 업데이트
 * Python 3.9로 업데이트
-* [Shader] Bent Normals 음영 지원 추가
+* [Shader] 표준 구부리기 음영 지원 추가
 * [MacOS] 3DConnection SpaceMouse 지원
 * [Python] API에 사용되는 Python 버전을 문서화합니다
 * [내용] 105개의 사전 설정으로 6개의 새로운 3D 노이즈 추가
@@ -235,20 +227,20 @@ ht-degree: 0%
 
 * [glTF] 특수 문자가 있는 glTF를 열 수 없습니다.
 * [엔진] 비등방성 및 SVT가 비활성화된 객체
-* [MacOS]&#x200B;[M1] 스마트 재질이 올바르게 표시되지 않음
+* [MacOS][M1] 스마트 재질이 올바르게 표시되지 않음
 * [메시 처리] 모델러에서 메시를 가져올 수 없습니다.
 * [UI] 색상 관리가 활성화된 새 프로젝트 창의 가로 스크롤 막대
-* [색상 관리] 일부 OCIO 구성이 있는 색상 피커에서 작업 영역 값이 누락되었습니다.
+* [색상 관리] 일부 OCIO 구성 시 색상 피커에 작업 영역 값이 없습니다.
 * [색상 관리] 뷰포트의 브러시 미리 보기가 색상 관리가 되지 않음
 * [SpaceMouse] 포커스가 변경되어도 피벗이 즉시 업데이트되지 않으며, 경우에 따라 모델이 업데이트되지 않습니다.
-* [내보내기]&#x200B;[USD] 내보낸 USD 파일의 구조가 잘못되었습니다.
-* [USD] 내보낼 때 주변 오클루전 문제
+* [Export][USD] 내보낸 USD 파일의 구조가 잘못되었습니다
+* [USD] 내보낼 때 앰비언트 오클루전 문제
 * [콘텐츠] 미리 보기 구 샘플 프로젝트와 일치하도록 축소판의 망을 업데이트합니다
 
 **알려진 문제:**
 
-* 확산 패딩을 사용하여 텍스처 내보내기
-* 일반/주변 오클루전 믹싱이 중단됨
-* [MacOS] 드문 경우지만 Iray를 실행할 때 충돌이 발생합니다
+* 확산 패딩을 사용하여 텍스처 내보내기 시 검정 맵 렌더링
+* 표준/앰비언트 오클루전 믹싱이 중단됨
+* [MacOS] 드문 경우지만 Iray를 실행할 때 충돌 발생
 * [미리 보기 축소판] 단순화된 축소판은 앵커를 사용할 때 업데이트되지 않습니다.
-* [색상 관리] Linux에서 ACE를 사용한 HDR 색상 공간 변환으로 클램프된 색상 생성
+* [색상 관리] Linux에서 ACE을 사용하여 HDR 색상 공간을 변환하면 클램프된 색상이 생성됩니다

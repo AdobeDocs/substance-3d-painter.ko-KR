@@ -1,22 +1,14 @@
 ---
-helpx_url: 'https://helpx.adobe.com/kr/substance-3d-painter/painting/tool-list/path.html'
 breadcrumb-title: ''
 description: Substance 3D Painter의 패스 툴을 사용하여 정확한 텍스처 페인팅과 획 배치를 위해 패스를 만들고 편집해 보세요.
-helpx_creative_field: ''
-helpx_description: Painting > Path tools list > Path tool
-helpx_experience_level: ''
-helpx_learn_topic: ''
-helpx_tags: ''
 title: 패스 도구 개요
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 6fcf10add7086a0e2a070ee6046c0a261ef1ae34
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '1666'
 ht-degree: 0%
-
 ---
-
 
 # 패스 도구 개요
 

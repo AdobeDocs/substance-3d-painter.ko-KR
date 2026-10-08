@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/shaders-shader-api/pixelated-shader-api.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter의 [픽셀화된 셰이더 API] 참조에 액세스하여 사용자 정의 픽셀화된 렌더링 효과를 만듭니다.
-helpx_creative_field: ""
-helpx_description: Painter > Scripting and development > API Reference > Shader API > Shaders - Shader API > Pixelated - Shader API
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 픽셀화 - 셰이더 API
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
-
 ---
-
 
 # 픽셀화 - 셰이더 API
 
@@ -145,7 +137,7 @@ void shade(V2F inputs)
 ```
 
 
-여기서 우리는 베이스 색상을 샘플링하고 간단한 확산 감쇠를 적용한다
+여기서 우리는 기본 색상을 샘플링하고 간단한 확산 감쇠를 적용한다
 
 ```
   vec3 color = baseColor * NdL; 

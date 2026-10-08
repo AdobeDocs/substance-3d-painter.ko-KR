@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/display-settings/environment-settings.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 재질 미리 보기의 조명과 배경을 제어하도록 환경 설정을 구성하는 방법에 대해 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Interface > Display settings > Environment settings
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 환경 설정
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 1%
-
 ---
-
 
 # 환경 설정
 
@@ -28,7 +20,7 @@ ht-degree: 1%
 
 | *설정* | *설명* |
 | --- | --- |
-| **환경 맵** | 장면을 밝히는 데 사용할 환경 맵 텍스처입니다. &quot;환경&quot; 사전 설정을 사용하여 [에셋](../assets/assets.md) 창에서 찾을 수 있습니다.버튼을 클릭하여 미니 선반을 열고 다른 환경 맵을 선택합니다. |
+| **환경 맵** | 장면을 조명하는 데 사용할 환경 맵 텍스처. &quot;환경&quot; 사전 설정을 사용하여 [에셋](../assets/assets.md) 창에서 찾을 수 있습니다.버튼을 클릭하여 미니 선반을 열고 다른 환경 맵을 선택합니다. |
 | **환경 맵 색상 공간 재정의** | 현재 프로젝트에서 [색상 관리](../../features/color-management/color-management.md)를 사용하는 경우 이 설정을 활성화하여 환경 맵의 색상 공간을 재정의할 수 있습니다. |
 | **환경 불투명도** | 뷰포트 배경에 있는 환경 텍스처의 가시성/불투명도를 제어합니다. 이 설정은 장면의 조명에 영향을 주지 않습니다. |
 | **환경 노출** | 노출 값(EV)은 고정된 장면 광도를 나타내는 수치이다. 이 설정을 사용하면 기본 광도 값을 오프셋할 수 있습니다.응용 프로그램과 함께 제공되는 환경 맵을 사용하여 작업할 때는 이 설정을 0으로 유지해야 합니다. 잘못된 노출 값으로 에셋을 텍스처링하면 다른 애플리케이션에서 색상 보정 문제가 발생할 수 있습니다. |

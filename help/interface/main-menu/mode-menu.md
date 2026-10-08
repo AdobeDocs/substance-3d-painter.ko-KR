@@ -1,22 +1,14 @@
 ---
-helpx_url: 'https://helpx.adobe.com/kr/substance-3d-painter/interface/main-menu/mode-menu.html'
 breadcrumb-title: ''
 description: Substance 3D Painter의 모드 메뉴를 사용하여 다양한 애플리케이션 모드와 워크플로우 간에 전환하는 방법을 알아봅니다.
-helpx_creative_field: ''
-helpx_description: Painter > Interface > Main menu > Mode menu
-helpx_experience_level: ''
-helpx_learn_topic: ''
-helpx_tags: ''
 title: 모드 메뉴
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 7b5f6e6c9623cb51253b6e49c8dbcbb22856418c
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 1%
-
 ---
-
 
 # 모드 메뉴
 

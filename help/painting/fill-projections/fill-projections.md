@@ -1,28 +1,20 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/fill-projections.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 채우기 투영을 사용하여 효율적인 페인팅을 위해 다양한 투영 방법을 사용하여 텍스처를 적용하는 방법에 대해 알아보십시오.
-helpx_creative_field: ""
-helpx_description: Painter > Painting > Fill projections
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 칠 투영
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 8%
-
 ---
-
 
 # 칠 투영
 
 ![](../../assets/fill-properties.png)
 
-칠 레이어 및 칠 효과는 특정 모드를 기반으로 메시에 직접 텍스처를 투영합니다. 이러한 유형의 레이어/효과는 3D 모델에 텍스처를 수동으로 페인팅하지 않는 것이 좋습니다. 속성 창에서 투영 설정을 편집할 수 있습니다.
+칠 레이어 및 칠 효과는 특정 모드를 기반으로 메시에 직접 텍스처를 투영합니다. 이러한 유형의 레이어/효과는 3D 모델에 텍스처를 수동으로 페인트 하는 것을 방지합니다. 속성 창에서 투영 설정을 편집할 수 있습니다.
 
 속성은 **채우기 속성** 및 **재질**, 두 범주로 나뉩니다.
 

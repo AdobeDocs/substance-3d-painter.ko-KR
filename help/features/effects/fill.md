@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/effects/fill.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 채우기 효과를 사용하여 단색, 텍스처 또는 재질로 레이어를 채우는 방법을 살펴보세요.
-helpx_creative_field: ""
-helpx_description: Painter > Features > Effects > Fill
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 채우기
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 3%
-
 ---
-
 
 # 채우기
 

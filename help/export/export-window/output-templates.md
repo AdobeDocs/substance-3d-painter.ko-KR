@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/getting-started/export/export-window/output-templates.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter 내보내기 창에서 출력 템플릿을 사용하여 텍스처 내보내기 형식 및 이름 지정을 구성하는 방법을 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Getting Started > Export > Export window > Output templates
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 출력 템플릿
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '748'
 ht-degree: 1%
-
 ---
-
 
 # 출력 템플릿
 
@@ -74,8 +66,8 @@ ht-degree: 1%
 | --- | --- |
 | **$프로젝트** | 프로젝트 파일의 이름(.spp)으로 대체되었습니다. |
 | **$메시** | 메시 파일의 이름으로 대체되었습니다(입력 메시 파일, 예: .fbx). |
-| **$textureset** | 텍스처가 생성된 재료/텍스처 세트의 이름으로 대체됩니다. |
-| **$udim** | 텍스처가 생성된 UDIM 숫자로 대체됩니다. |
+| **$textureset** | 텍스처를 생성할 재료/텍스처 세트의 이름으로 대체됩니다. |
+| **$udim** | 텍스처가 생성된 UDIM 번호로 대체됩니다. |
 | **$colorSpace** | 지정된 채널에 사용된 색상 공간의 이름으로 대체됩니다(RGB 또는 G, Alpha 무시). |
 
 ### 파일 형식 및 비트 심도 매핑
@@ -104,14 +96,14 @@ ht-degree: 1%
 
 ### 메시 맵
 
-메시 맵은 구운 텍스처입니다.
+메시 맵은 구운 텍스처 입니다.
 
 | 이름 | 설명 |
 | --- | --- |
 | **표준** | 구운 노멀 맵. |
 | **월드 스페이스 표준** | 베이킹 월드 스페이스 정상. |
 | **ID** | Baked ID. |
-| **주변 오클루전** | 구운 앰비언트 오클루전 |
+| **앰비언트 오클루전** | 구운 앰비언트 오클루전 |
 | **곡률** | 구운 곡률. |
 | **위치** | 유리한 위치. |
 | **Thickness** | 구운 Thickness. |
@@ -129,7 +121,7 @@ ht-degree: 1%
 | **혼합된 AO** | 구운 앰비언트 오클루전과 텍스처 세트 앰비언트 오클루전 채널의 결합된 앰비언트 오클루전 |
 | **확산** | **기본 색상** 및 **금속** 채널에서 생성된 확산 텍스처(금속 영역은 검정색으로 바뀜). |
 | **Specular** | **기본 색상** 및 **금속** 채널에서 Specular 텍스처가 생성되었습니다. |
-| **광택** | 광택도 텍스처의 역방향으로부터 생성된 거칠기 채널의 역방향으로부터 생성된다. |
+| **광택도** | 광택도 텍스처의 역방향으로부터 생성된 거칠기 채널의 역방향으로부터 생성된다. |
 | **Unity4 확산** | 사용되지 않습니다. Unity 4 셰이더와 일치하도록 **기본 색상** 채널에서 확산 텍스처가 생성되었습니다. |
 | **Unity4 광택** | 사용되지 않습니다. Unity 4 셰이더와 일치하도록 **거칠음** 및 **금속** 채널에서 광택도 텍스처가 생성되었습니다. |
 | **반사** | 텍스처에서 흰색은 유전체를 나타내고 다른 색상은 금속 재료를 나타냅니다. |

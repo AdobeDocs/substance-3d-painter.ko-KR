@@ -1,27 +1,23 @@
 ---
-helpx_url: 'https://helpx.adobe.com/kr/substance-3d-painter/interface/viewport.html'
 description: Substance 3D Painter에서 뷰포트를 사용하여 페인팅 프로세스 동안 3D 모델 및 텍스처를 시각화하는 방법을 살펴보세요.
-helpx_description: Painter > Interface > Viewport
 title: 뷰포트
-source-git-commit: 307c4f1121ae6841d68f8ea5dc597790e0d18a14
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '475'
 ht-degree: 1%
-
 ---
-
 
 # 뷰포트
 
 ![](../../assets/viewports-progress.jpg){width="600px"}
 
-뷰포트는 3D 메쉬 및 해당 텍스처가 표시되는 위치입니다. 이 영역에서는 3D 메시 표면에 페인팅할 수 있습니다.
+뷰포트는 3D 메쉬 및 해당 텍스처가 표시되는 위치입니다. 또한 3D 메시 표면에 페인트를 수행할 수 있습니다.
 
 ## 개요
 
 뷰포트는 다음 네 부분으로 구분됩니다.
 
-* **상황별 도구 모음**: 이 도구 모음은 뷰포트의 맨 위에 있으며 현재 상황에 따라 다양한 속성의 바로 가기를 제공합니다(예: 페인팅 시 브러시 매개 변수).
+* **상황별 도구 모음**: 이 도구 모음은 뷰포트의 맨 위에 있으며 현재 상황에 따라 다양한 속성에 대한 단축키를 제공합니다(예: 페인팅 시 브러시 매개 변수).
 * **3D 보기**: 이 보기는 카메라로 정의된 특정 각도에서 3D 메시를 표시합니다.
 * **2D 보기**: 이 보기는 현재 선택한 [텍스처 집합](../texture-set/texture-set-list.md)에 대한 3D 메쉬의 UV 감싸기를 해제합니다.
 * **진행률 표시줄**: 계산이 진행 중일 때(예: 엔진이 텍스처를 생성할 때) 뷰포트 아래쪽에 이 회색/녹색 막대가 나타납니다.
@@ -47,7 +43,7 @@ ht-degree: 1%
   <tr>
     <td>궤도/회전<br></td>
     <td><strong>Alt + 왼쪽 클릭</strong></td>
-    <td><ul><li>3D 보기: 커서 위치 주변으로 카메라의 궤도를 회전합니다.</li><li>2D 보기: 커서 위치 주위의 UV 공간을 회전합니다.</li></ul></td>
+    <td><ul><li>3D 보기: 커서 위치 주변으로 카메라의 궤도를 돌립니다.</li><li>2D 보기: 커서 위치 주위의 UV 공간을 회전합니다.</li></ul></td>
   </tr>
   <tr>
     <td>패닝</td>
@@ -78,8 +74,8 @@ ht-degree: 1%
     <td>다음 설정은 뷰포트의 레이아웃을 제어합니다.<br><ul><li><strong>3D/2D</strong>(기본값): 3D 보기와 2D 보기를 모두 뷰포트에 표시</li><li><strong>3D 전용</strong>: 3D 보기를 최대화하고 2D 보기를 숨깁니다.</li><li><strong>2D 전용</strong>: 2D 보기를 최대화하고 3D 보기를 숨깁니다.</li><li><strong>3D/2D 교체</strong>: 보기가 표시되는 순서를 바꿉니다. 3D 보기가 왼쪽에 있는 경우 이 동작을 선택하면 오른쪽에 표시됩니다.</li></ul></td>
   </tr>
   <tr>
-    <td><strong>원근 모드</strong><br><img src="../../assets/viewport-camera-projection.png"/></td>
-    <td>이러한 설정은 3D 보기에서 3D 메쉬가 표시되는 방식을 제어합니다.<br><ul><li><strong>원근감 보기</strong>(기본값): 사람의 눈이나 카메라로 볼 수 있는 3D 메시를 표시합니다.</li><li><strong>직교 보기</strong>: 모든 방향이 동일한 길이를 측정하면 3D 메쉬를 표시합니다.</li></ul></td>
+    <td><strong>원근감 모드</strong><br><img src="../../assets/viewport-camera-projection.png"/></td>
+    <td>이러한 설정은 3D 보기에서 3D 메쉬가 표시되는 방식을 제어합니다.<br><ul><li><strong>원근시점 보기</strong>(기본값): 사람의 눈이나 카메라에서 볼 수 있는 3D 메시를 표시합니다.</li><li><strong>직교 보기</strong>: 모든 방향이 동일한 길이를 측정하면 3D 메쉬를 표시합니다.</li></ul></td>
   </tr>
   <tr>
     <td><strong>카메라 회전 모드</strong><br><img src="../../assets/viewport-camera-axis.png"/></td>

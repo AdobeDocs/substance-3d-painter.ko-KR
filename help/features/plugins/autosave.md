@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/plugins/autosave.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 자동 저장 플러그인을 사용하여 프로젝트를 정기적으로 자동 저장하는 방법을 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Features > Plugins > Autosave
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 자동 저장
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '375'
 ht-degree: 0%
-
 ---
-
 
 # 자동 저장
 

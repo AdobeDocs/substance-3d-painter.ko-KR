@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-normal-shader-api.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter의 [Lib 표준] 셰이더 API 참조에 액세스하여 사용자 정의 셰이더에서 노멀 맵 및 표면 표준을 사용하여 작업할 수 있습니다.
-helpx_creative_field: ""
-helpx_description: Painter > Scripting and development > API Reference > Shader API > Libraries - Shader API > Lib Normal - Shader API
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: Lib 표준 - 셰이더 API
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
-
 ---
-
 
 # Lib 표준 - 셰이더 API
 
@@ -89,7 +81,7 @@ vec3 normalBlend(vec3 baseNormal, vec3 overNormal)
 ```
 
 
-2개의 표준 맵 간에 세부 방향 혼합 수행
+두 노멀 맵 간 디테일 지향 혼합 수행
 
 이는 디테일 지향 블렌딩을 기반으로 합니다 http://blog.selfshadow.com/publications/blending-in-detail/
 

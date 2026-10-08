@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/subsurface-scattering/enabling-subsurface-in-a-project.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter 프로젝트에서 표면 아래 산란을 활성화하여 사실적인 반투명 재질 효과를 만드는 방법을 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Features > Subsurface Scattering > Enabling Subsurface in a Project
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 프로젝트에서 서브서피스 활성화
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
-
 ---
-
 
 # 프로젝트에서 서브서피스 활성화
 
