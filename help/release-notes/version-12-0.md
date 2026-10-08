@@ -126,7 +126,7 @@ ht-degree: 0%
 * [Post-effects] 새 효과를 추가하여 포스트 효과 교체
 * [Post-effects] 톤 매퍼 업데이트
 * [Post-effects] Post-effects 에셋에 대한 새로운 사용 방법 추가
-* [Content][Post-effects] 라이브러리에 기본 Post-effects 에셋을 통합합니다
+* [Content]&#x200B;[Post-effects] 라이브러리에 기본 Post-effects 에셋을 통합합니다
 * [새 프로젝트] 프로젝트 생성을 위한 UI 개선
 * [새 프로젝트] 메쉬 기능을 다시 가져오도록 변경
 * [새 프로젝트] \*.geo.usd 파일을 열 수 있습니다.
@@ -144,5 +144,5 @@ ht-degree: 0%
 * [가져오기] EXR 파일을 가져올 때 USD 텍스처가 선형 대신 sRGB로 강제 변환됩니다
 * [UV 타일] 단일 이미지가 있는 이미지 시퀀스가 다른 UV 타일을 채우기도 합니다
 * [베이킹] CPU 베이킹과 GPU 베이킹 간 AO가 다름
-* [색상 관리][MacOS] 뷰포트 BaseColor가 colorpicker와 일치하지 않습니다.
+* [색상 관리]&#x200B;[MacOS] 뷰포트 BaseColor가 colorpicker와 일치하지 않습니다.
 * [USD] 경우에 따라 균일 값을 가져오지 않습니다
