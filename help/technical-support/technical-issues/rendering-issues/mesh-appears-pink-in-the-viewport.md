@@ -19,4 +19,4 @@ ht-degree: 0%
 해결 방법은 다음과 같습니다.
 
 * **기본 셰이더**&#x200B;의 경우: [셰이더 업데이트](../../../interface/shader-settings/updating-a-shader.md) 페이지의 단계별 절차를 따르십시오.
-* **사용자 지정 셰이더**&#x200B;의 경우: 로그 창과 [셰이더 API](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/custom-shader-api-89686018.html) 페이지의 오류 메시지를 확인하십시오.
+* **사용자 지정 셰이더**&#x200B;의 경우: 로그 창과 [셰이더 API](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/custom-shader-api-89686018.html) 페이지의 오류 메시지를 확인하십시오.

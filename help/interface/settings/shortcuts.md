@@ -18,7 +18,7 @@ ht-degree: 4%
 
 ## 단축키 개요
 
-사용 가능한 모든 바로 가기에 대한 간략한 개요는 자습서에서 사용할 수 있는 그래픽 [을(를) 살펴보십시오](https://helpx.adobe.com/substance-3d/unlisted/tutorials/courses/substance-3d-painter-keyboard-shortcuts.html) .
+사용 가능한 모든 바로 가기에 대한 간략한 개요는 자습서에서 사용할 수 있는 그래픽 [을(를) 살펴보십시오](https://helpx.adobe.com/kr/substance-3d/unlisted/tutorials/courses/substance-3d-painter-keyboard-shortcuts.html) .
 
 ## 단축키 변경 방법
 

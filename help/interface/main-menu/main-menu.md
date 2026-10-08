@@ -20,6 +20,6 @@ ht-degree: 0%
 * [편집 메뉴](edit-menu.md)
 * [모드 메뉴](mode-menu.md)
 * [창 메뉴](window-menu.md)
-* [뷰포트 메뉴](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/viewport-170460351.html)
+* [뷰포트 메뉴](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/viewport-170460351.html)
 * [플러그인 메뉴](plugins-menu.md)
 * [도움말 메뉴](help-menu.md)

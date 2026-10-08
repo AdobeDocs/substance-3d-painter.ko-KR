@@ -18,4 +18,4 @@ ht-degree: 0%
 
 사용자 지정 드라이버로 사용자 지정 GPU를 실행할 때 Mac OS에 문제가 있거나 충돌 또는 아티팩트가 표시되는 경우 응용 프로그램과 관련된 **올바른 목록** 파일을 삭제하는 것이 해결됩니다.
 
-제거할 파일을 확인하려면 [환경 설정 및 응용 프로그램 데이터 위치](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/application-preferences-location-147095594.html)를 참조하세요.
+제거할 파일을 확인하려면 [환경 설정 및 응용 프로그램 데이터 위치](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/application-preferences-location-147095594.html)를 참조하세요.

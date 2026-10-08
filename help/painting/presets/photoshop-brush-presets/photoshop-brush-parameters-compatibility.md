@@ -32,7 +32,7 @@ ABR 파일 내부를 보면 Substance 3D Painter이 특정 브러시/도구 사�
 
 ## 매개변수
 
-이러한 매개 변수가 수행할 수 있는 작업에 대한 자세한 내용은 공식 [Photoshop 설명서](https://helpx.adobe.com/photoshop/using/creating-modifying-brushes.html) 를 참조하십시오.
+이러한 매개 변수가 수행할 수 있는 작업에 대한 자세한 내용은 공식 [Photoshop 설명서](https://helpx.adobe.com/kr/photoshop/using/creating-modifying-brushes.html) 를 참조하십시오.
 
 일부 Photoshop 브러시 매개 변수는 지원되지 않습니다. 아래에 설명된 각 매개 변수의 상태를 알려면 범례를 참조하십시오.
 

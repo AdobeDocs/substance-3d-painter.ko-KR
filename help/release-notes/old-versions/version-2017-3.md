@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![](../../assets/adobe-dimension-meetmat.jpg)
 
-이 릴리스에 포함되는 새로운 내보내기 도구 중 하나는 Adobe Dimension(이전의 Adobe 프로젝트 Felix)와 함께 사용할 Adobe Standard Material에 대한 지원입니다. 한 번의 클릭으로 장면 메쉬 및 해당 텍스처를 Project Felix로 가져올 수 있도록 내보낼 수 있습니다. 액세스하려면 텍스처 내보내기 창에서 &quot;**Adobe Standard Material**&quot;을(를) 선택하기만 하면 됩니다. 자세한 내용은 [http://www.adobe.com/products/dimension.html](https://www.adobe.com/products/dimension.html)을 참조하세요.
+이 릴리스에 포함되는 새로운 내보내기 도구 중 하나는 Adobe Dimension(이전의 Adobe 프로젝트 Felix)와 함께 사용할 Adobe Standard Material에 대한 지원입니다. 한 번의 클릭으로 장면 메쉬 및 해당 텍스처를 Project Felix로 가져올 수 있도록 내보낼 수 있습니다. 액세스하려면 텍스처 내보내기 창에서 &quot;**Adobe Standard Material**&quot;을(를) 선택하기만 하면 됩니다. 자세한 내용은 [http://www.adobe.com/kr/products/dimension.html](https://www.adobe.com/kr/products/dimension.html)을 참조하세요.
 
 이에 대한 블로그 게시물(<https://www.allegorithmic.com/blog/new-dimension-substance-ecosystem>)을 확인할 수도 있습니다.
 

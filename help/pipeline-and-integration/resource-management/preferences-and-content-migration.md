@@ -58,4 +58,4 @@ ht-degree: 1%
 
 인터페이스에서 애플리케이션 설정을 수동으로 다시 조정하는 것이 좋습니다. 이는 호환성 문제를 야기하지 않고 정보를 마이그레이션하는 가장 안전한 방법입니다.
 
-그렇지 않으면 다음 페이지를 확인하여 환경 설정의 위치를 알아보십시오. [환경 설정 및 응용 프로그램 데이터 위치](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/application-preferences-location-147095594.html).
+그렇지 않으면 다음 페이지를 확인하여 환경 설정의 위치를 알아보십시오. [환경 설정 및 응용 프로그램 데이터 위치](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/application-preferences-location-147095594.html).

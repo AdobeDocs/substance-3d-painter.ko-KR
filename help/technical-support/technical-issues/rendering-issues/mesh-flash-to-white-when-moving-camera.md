@@ -19,4 +19,4 @@ ht-degree: 0%
 흰색 플래시를 제거하려면 **프로젝트 셰이더**&#x200B;를 **업데이트**&#x200B;하면 됩니다.
 
 * **기본 셰이더**&#x200B;의 경우: [셰이더 업데이트](../../../interface/shader-settings/updating-a-shader.md) 페이지의 단계별 절차를 따르십시오.
-* **사용자 지정 셰이더**&#x200B;의 경우: 로그의 오류 메시지와 [셰이더 API](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/custom-shader-api-89686018.html) 페이지를 확인하세요.
+* **사용자 지정 셰이더**&#x200B;의 경우: 로그의 오류 메시지와 [셰이더 API](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/custom-shader-api-89686018.html) 페이지를 확인하세요.
