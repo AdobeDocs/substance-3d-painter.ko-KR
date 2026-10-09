@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/assets/filter-by-path.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 에셋을 경로별로 필터링하여 라이브러리 구조에서 리소스를 빠르게 찾는 방법을 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Interface > Assets > Filter by path
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 경로로 필터링
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 5%
-
 ---
-
 
 # 경로로 필터링
 

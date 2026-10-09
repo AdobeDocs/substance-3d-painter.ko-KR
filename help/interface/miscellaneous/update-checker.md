@@ -1,22 +1,14 @@
 ---
-helpx_url: 'https://helpx.adobe.com/kr/substance-3d-painter/interface/miscellaneous/update-checker.html'
 breadcrumb-title: ''
 description: Substance 3D Painter에서 Update Checker를 사용하여 새로운 버전 및 기능에 대한 최신 정보를 얻는 방법에 대해 알아봅니다.
-helpx_creative_field: ''
-helpx_description: Painter > Interface > Miscellaneous > Update checker
-helpx_experience_level: ''
-helpx_learn_topic: ''
-helpx_tags: ''
 title: 업데이트 검사기
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 3e4ef9bd5897f042b01d6c0819ec06cc21ba208a
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
-
 ---
-
 
 # 업데이트 검사기
 

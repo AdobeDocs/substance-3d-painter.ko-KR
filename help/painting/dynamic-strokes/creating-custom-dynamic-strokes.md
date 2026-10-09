@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/dynamic-strokes/creating-custom-dynamic-strokes.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 사용자 정의 역동적인 획을 만들어 독특한 브러시 획 비헤이비어 및 효과를 디자인하는 방법을 살펴봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Painting > Dynamic strokes > Creating Custom Dynamic Strokes
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 사용자 정의 역동적인 획 만들기
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
-
 ---
-
 
 # 사용자 정의 역동적인 획 만들기
 

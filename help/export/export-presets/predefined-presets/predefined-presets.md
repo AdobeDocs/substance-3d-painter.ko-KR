@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/getting-started/export/export-presets/predefined-presets.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 일반적인 워크플로우에 미리 만들어진 내보내기 구성을 사용할 수 있는 Substance 3D Painter의 미리 정의된 출력 템플릿에 대해 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Getting Started > Export > Export presets > Predefined Output templates
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 미리 정의된 출력 템플릿
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 5%
-
 ---
-
 
 # 미리 정의된 출력 템플릿
 

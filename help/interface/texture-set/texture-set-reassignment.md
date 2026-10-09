@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/texture-set/texture-set-reassignment.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 텍스처 세트를 재할당하여 메시 할당과 텍스처 매핑을 재구성하는 방법에 대해 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Interface > Texture Set > Texture Set reassignment
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 텍스처 세트 재할당
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 0%
-
 ---
-
 
 # 텍스처 세트 재할당
 

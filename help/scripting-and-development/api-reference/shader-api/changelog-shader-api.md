@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/changelog-shader-api.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter 셰이더 API의 변경 로그를 검토하여 업데이트, 새로운 기능 및 시간 경과에 따른 변경 사항을 추적합니다.
-helpx_creative_field: ""
-helpx_description: Painter > Scripting and development > API Reference > Shader API > Changelog - Shader API
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 변경 로그 - 셰이더 API
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '837'
 ht-degree: 3%
-
 ---
-
 
 # 변경 로그 - 셰이더 API
 
@@ -83,7 +75,7 @@ ht-degree: 3%
 * 기본 셰이더 UI에서 사용자 정의 매개 변수를 숨기는 방법 추가
 * 레이어 셰이더 설명서에서 채널 태그 목록에 링크 추가
 * &#39;channel\_ao&#39; 태그를 &#39;channel\_ambientocclusion&#39;으로 바꿉니다.
-* [뷰포트] 일부 표준 맵에는 가공물로 나타나는 고정된 값이 있습니다
+* [뷰포트] 일부 노멀 맵은 가공물로 나타나는 고정된 값을 가집니다
 * 셰이더스 문서에서 사용 가능한 채널 수정
 * 사용자 지정 셰이더 UI 정의 허용
 * 재질 레이어 셰이더에 표준 사용자 정의 셰이더 UI 추가
@@ -116,7 +108,7 @@ ht-degree: 3%
 
 * 알파 값이 낮은 일반 풀기 함수가 올바르지 않음
 * 사용자 지정 셰이더에서 메시 꼭지점 색상을 읽을 수 있도록 허용
-* [뷰포트] 일부 컴퓨터에서 확장된 환경 맵
+* 일부 컴퓨터의 늘리다 환경 맵
 
 ## 2.0.0
 
@@ -126,7 +118,7 @@ ht-degree: 3%
 * 선반에 새 mdl 폴더 추가
 * 확산 및 Specular level 채널 사전 설정 추가
 * 톤 매핑에 대한 설명서 업데이트
-* 직교 모드에서 반사 수정
+* 직교 모드일 때 반사 수정
 * 엔브맵의 특정 위치에 나타나는 흰색 수직 결함을 수정했습니다.
 * 텍스처 매개 변수에 대해 &#39;default\_color&#39;를 정의할 수 있습니다.
 

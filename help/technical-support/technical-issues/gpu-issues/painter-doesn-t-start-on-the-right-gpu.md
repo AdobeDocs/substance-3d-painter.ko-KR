@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/gpu-issues/painter-doesn-t-start-on-the-right-gpu.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 최적의 성능과 호환성을 위해 올바른 GPU에서 시작하도록 Substance 3D Painter을 구성하는 방법에 대해 알아보십시오.
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Technical Issues > GPU Issues > Painter doesnt start on the right GPU
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: Painter이 오른쪽 GPU에서 시작되지 않습니다
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '624'
 ht-degree: 0%
-
 ---
-
 
 # Painter이 올바른 GPU에서 시작되지 않음
 

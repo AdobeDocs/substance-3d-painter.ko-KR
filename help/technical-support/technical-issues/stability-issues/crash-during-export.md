@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/stability-issues/crash-during-export.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 안정적인 텍스처 내보내기 워크플로우를 위해 내보내기 작업 중에 Substance 3D Painter 충돌을 해결하는 방법에 대해 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Technical Issues > Stability Issues > Crash during export
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 내보내기 중 충돌
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%
-
 ---
-
 
 # 내보내기 중 충돌
 
@@ -30,9 +22,9 @@ TDR(Timeout Detection and Recovery)은 GPU가 끝나지 않는 계산으로 시�
 
 ## 가상 메모리 부족
 
-내보내는 경우 대량의 RAM(컴퓨터 메모리)이 소모될 수 있으며, 이 경우 시스템의 RAM이 부족할 경우 가상 메모리에서 폴백을 시도합니다. 가상 메모리는 일반적으로 하드 디스크 드라이브에 저장된 추가 메모리입니다. 가상 메모리 크기가 너무 작으면 총 메모리가 부족하여 Substance 3D Painter이 충돌합니다.
+내보내는 경우 대량의 RAM(컴퓨터 메모리)이 소모될 수 있으며, 이 경우 시스템의 RAM이 부족할 경우 가상 메모리에서 폴백을 시도합니다. 가상 메모리는 일반적으로 하드 디스크 드라이브에 저장된 추가 메모리입니다. 가상 메모리 크기가 너무 작으면 총 메모리가 부족하여 Substance 3D Painter이 충돌 상태가 됩니다.
 
-자세한 내용은 [가상 메모리 부족 충돌](crash-with-low-virtual-memory.md)을 참조하세요.
+자세한 내용은 [가상 메모리가 부족한 충돌](crash-with-low-virtual-memory.md)를 참조하세요.
 
 ## 디스크 공간 부족
 

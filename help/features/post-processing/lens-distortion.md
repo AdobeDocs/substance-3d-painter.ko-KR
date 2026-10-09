@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/post-processing/lens-distortion.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 렌즈 왜곡 후처리를 사용하여 뷰포트에서 카메라 렌즈 효과를 시뮬레이션하는 방법을 살펴보세요.
-helpx_creative_field: ""
-helpx_description: Painter > Features > Post Processing > Lens Distortion
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 렌즈 왜곡
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 2%
-
 ---
-
 
 # 렌즈 왜곡
 

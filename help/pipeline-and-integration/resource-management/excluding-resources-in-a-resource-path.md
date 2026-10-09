@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/pipeline-and-integration/resource-management/excluding-resources-in-a-resource-path.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 더욱 개선된 셸프 구성을 위해 Substance 3D Painter에서 리소스 경로에서 특정 리소스를 제외하는 방법에 대해 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Pipeline and integration > Resource management > Excluding resources in a resource path
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 리소스 경로에서 리소스 제외
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 22871eab2f25d09bd82f1292d8b3e5f8c4f1c2cf
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '451'
 ht-degree: 0%
-
 ---
-
 
 # 리소스 경로에서 리소스 제외
 

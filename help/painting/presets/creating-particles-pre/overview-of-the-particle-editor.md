@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/presets/creating-particles-presets/overview-of-the-particle-editor.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter의 입자 편집기를 사용하여 텍스처 페인팅을 위한 사용자 정의 입자 브러시 사전 설정을 만드는 방법을 살펴보세요.
-helpx_creative_field: ""
-helpx_description: Painter > Painting > Presets > Creating particles presets > Overview of the particle editor
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 입자 편집기 개요
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '1677'
 ht-degree: 0%
-
 ---
-
 
 # 입자 편집기 개요
 
@@ -270,7 +262,7 @@ VelocityField = Turb.sample(위치 \* TurbScale) \* TurbPower;
 
 * 콘 스플릿
 
-델타 시간이 크면 프레임 간의 입자 이동도 커집니다. 따라서 Substance 3D Painter에서는 직선 대신 작은 얼룩이 표시될 수 있습니다.
+델타 시간이 크면 프레임 간의 입자 이동도 크다. 따라서 Substance 3D Painter에서는 직선 대신 작은 얼룩이 표시될 수 있습니다.
 
 이 오류는 Substance 3D Painter이 각 프레임의 끝에 각 파티클에 대해 한 개의 선 포인트를 그리고 마지막 프레임과 현재 타임라인 사이에 각 파티클에 대해 선을 그리지 않기 때문에 발생합니다.
 

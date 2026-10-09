@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/exporting-a-dxdiag.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Windows 문제 해결 및 지원을 위해 Substance 3D Painter에서 DXDiag 시스템 정보를 내보내는 방법에 대해 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Exporting a DXDiag
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: DXDiag 내보내기
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
-
 ---
-
 
 # DXDiag 내보내기
 

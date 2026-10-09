@@ -1,22 +1,14 @@
 ---
-helpx_url: 'https://helpx.adobe.com/kr/substance-3d-painter/baking/mesh-map-settings.html'
 breadcrumb-title: ''
 description: Substance 3D Painter에서 메시 맵 설정을 구성하여 베이킹 매개 변수와 출력 품질을 제어하는 방법을 알아봅니다.
-helpx_creative_field: ''
-helpx_description: Substance 3D Painter
-helpx_experience_level: ''
-helpx_learn_topic: ''
-helpx_tags: ''
 title: 메시 맵 설정
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 7b5f6e6c9623cb51253b6e49c8dbcbb22856418c
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '1348'
 ht-degree: 9%
-
 ---
-
 
 # 메시 맵 설정
 
@@ -47,7 +39,7 @@ ht-degree: 9%
 | 일치 | 베이커가 베이킹 중에 개체를 포함할지 여부를 결정하는 방법을 변경합니다.<ul data-preserve-html="true"> <li data-preserve-html="true">항상: 베이킹하는 동안 케이지 내에 부딪히는 모든 높은 폴리 메쉬를 포함합니다.</li> <li data-preserve-html="true">메쉬 이름별: 각 케이지에 대해 해당 메쉬 접미사가 있는 메쉬만 구워냅니다.</li> </ul> |
 | 로우 폴리 메시 접미사 | 메쉬 이름으로 일치를 사용하는 경우 이 접미어를 사용하여 낮은 폴리 메쉬를 정의합니다. |
 | 하이 폴리 메시 접미사 | 메쉬 이름으로 일치를 사용하는 경우 이 접미어를 사용하여 높은 폴리 메쉬를 정의하고 해당 낮은 폴리 메쉬와 일치시킵니다. |
-| 안티앨리어싱 | 생성된 맵의 앤티 앨리어싱 양을 조정합니다. |
+| 안티앨리어싱 | 생성된 맵의 앤티 앨리어스 양을 조정합니다. |
 
 #### 기울이기 보정
 

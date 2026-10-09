@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/workflow-issues/shelf-issues/thumbnails-in-the-shelf-look-incorrect.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 리소스 미리 보기를 정확하게 하기 위해 Substance 3D Painter 선반에 표시되는 썸네일이 잘못 표시되는 문제를 해결하는 방법에 대해 알아보십시오.
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Workflow Issues > Shelf Issues > Thumbnails in the shelf look incorrect
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 선반의 축소판이 잘못 표시됨
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
-
 ---
-
 
 # 선반의 축소판이 잘못 표시됨
 

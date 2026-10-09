@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/rendering-issues/mesh-flash-to-white-when-moving-camera.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 안정적인 렌더링을 위해 Substance 3D Painter 뷰포트에서 카메라를 이동할 때 메쉬가 흰색으로 깜박이는 문제를 해결하는 방법에 대해 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Technical Issues > Rendering Issues > Mesh flash to white when moving camera
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 카메라 이동 시 메시 플래시가 흰색으로 바뀜
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
-
 ---
-
 
 # 카메라 이동 시 메시 플래시가 흰색으로 바뀜
 

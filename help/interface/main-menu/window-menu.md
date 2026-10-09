@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/main-menu/window-menu.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 창 메뉴를 사용하여 인터페이스 패널을 관리하고 작업 영역 레이아웃을 사용자 정의하는 방법을 살펴보세요.
-helpx_creative_field: ""
-helpx_description: Painter > Interface > Main menu > Window menu
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 창 메뉴
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 1%
-
 ---
-
 
 # 창 메뉴
 

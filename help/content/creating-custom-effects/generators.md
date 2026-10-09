@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/content/creating-custom-effects/generators.html"
-breadcrumb-title: ''
-description: Substance 3D Painter에서 생성기 효과를 만들어 절차 텍스처와 패턴을 자동으로 생성하는 방법을 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Content > Creating custom effects > Generators
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
+breadcrumb-title: ""
+description: Substance 3D Painter에서 제네레이터 효과를 만들어 프로시저 텍스처 및 패턴을 자동으로 생성하는 방법을 알아봅니다.
 title: Generators
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
-
 ---
-
 
 # Generators
 

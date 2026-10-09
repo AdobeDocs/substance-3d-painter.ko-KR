@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/release-notes/version-9-0.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter 버전 9.0의 릴리스 노트를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
-helpx_creative_field: ""
-helpx_description: Substance 3D Painter
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 버전 9.0
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '1447'
 ht-degree: 0%
-
 ---
-
 
 # 버전 9.0
 
@@ -33,7 +25,7 @@ ht-degree: 0%
 <b>패스를 따라 페인트</b> 도구는 3D 뷰포트에서 획을 페인트 하는 새로운 방법입니다. 다른 애플리케이션과 마찬가지로 3D 오브젝트 표면의 점으로 제어되는 베지어 기반 곡선을 만들어 패턴을 그릴 수 있습니다. Substance 재질과 함께 이 새로운 도구는 많은 새로운 가능성을 열 수 있습니다.
 
 * <b>점이 있는 패스로 제어되는 페인트 획을 만드는 새로운 도구</b>\
-  이 도구의 도구 모음 안에는 [패스] 도구 전용의 새 아이콘이 있습니다. 이 새로운 도구를 사용하면 3D 모델 표면에 곡선을 그려 페인트 선을 만들 수 있습니다. 이러한 획은 언제든지 다시 편집할 수 있습니다. 도구가 활성 상태이면 메시 서피스를 클릭하여 점을 추가합니다. 기존 점을 클릭하고 Delete 키를 눌러 제거합니다.
+  이 도구의 도구 모음 안에는 [패스] 도구 전용의 새 아이콘이 있습니다. 이 새로운 도구를 사용하면 3D 모델 표면에 곡선을 그려 페인트 획을 만들 수 있습니다. 이러한 획은 언제든지 다시 편집할 수 있습니다. 도구가 활성 상태이면 메시 서피스를 클릭하여 점을 추가합니다. 기존 점을 클릭하고 Delete 키를 눌러 제거합니다.
 
   세 가지 유형의 패스 도구를 보여 주는 도구 모음 인터페이스의 ![스크린샷.](../assets/v90_path_toolbar.png)
 
@@ -49,7 +41,7 @@ ht-degree: 0%
 
   ![기계 표면에 리벳을 그리는 닫힌 경로를 보여 주는 GIF](../assets/v90_path_closed_loop_demo.gif)
 * <b>패스 패널을 사용하여 패스(및 해당 속성) 다시 편집</b>\
-  [패스] 도구를 선택하면 현재 페인트 레이어 내에서 만들어진 패스가 3D 뷰포트 위쪽의 전용 [패스] 패널에 나열됩니다. 이 패널을 사용하여 경로를 선택하거나 삭제하거나 이름을 변경할 수 있습니다.
+  [패스] 도구를 선택하면 현재 레이어 페인팅 내에서 만들어진 패스가 3D 뷰포트 위쪽의 전용 [패스] 패널에 나열됩니다. 이 패널을 사용하여 경로를 선택하거나 삭제하거나 이름을 변경할 수 있습니다.
 
   ![작동 중인 경로 패널을 표시하는 GIF](../assets/v90_path_panel_demo.gif)
 
@@ -61,7 +53,7 @@ ht-degree: 0%
   * 지오메트리 마스크가 활성화된 레이어에 있는 패스는 숨겨진 지오메트리 아래에 페인트 할 수 있습니다
 
   ![대칭 속성을 사용하여 두 번 익사하는 경로를 보여 주는 GIF](../assets/v90_path_symmetry.gif)
-* <b>지우개 또는 스머지 같은 다른 도구로 페인팅</b>\
+* <b>지우개 또는 손가락 같은 다른 도구로 페인트</b>\
   [패스] 도구는 [지우개] 및 [손가락] 도구와도 호환되므로 더욱 정교하게 페인트할 수 있는 방법과 획을 쉽게 다시 편집할 수 있는 방법으로 결합할 수 있습니다.
 
   ![이동 중인 패스 지점을 표시하고 손가락 효과를 업데이트하는 Gid](../assets/v90_path_smudge.gif)
@@ -186,5 +178,5 @@ ht-degree: 0%
 
 <b>알려진 문제:</b>
 
-* [색상 관리] Linux에서 ACE를 사용한 HDR 색상 공간 변환으로 클램프된 색상 생성
+* [색상 관리] Linux에서 ACE을 사용하여 HDR 색상 공간을 변환하면 클램프된 색상이 생성됩니다
 * [레이어 스택] 입력 소스가 레이어별로 저장되지 않음

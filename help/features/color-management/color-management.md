@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/color-management.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 작업 과정에서 일관된 색상 정확도를 보장하기 위해 Substance 3D Painter에서 색상 관리를 구성하는 방법에 대해 알아보십시오.
-helpx_creative_field: ""
-helpx_description: Painter > Features > Color management
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 색상 관리
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '732'
 ht-degree: 4%
-
 ---
-
 
 # 색상 관리
 
@@ -56,7 +48,7 @@ ht-degree: 4%
 
 | 채널 | 색상 관리 여부 |
 | --- | --- |
-| **주변 오클루전** | 아니요 |
+| **앰비언트 오클루전** | 아니요 |
 | **음이온화각** | 아니요 |
 | **비등방성 레벨** | 아니요 |
 | **기본 색상** | **예** |
@@ -68,7 +60,7 @@ ht-degree: 4%
 | **코팅 반사 수준** | 아니요 |
 | **확산** | **예** |
 | **변위** | 아니요 |
-| **광택** | 아니요 |
+| **광택도** | 아니요 |
 | **Height** | 아니요 |
 | **Ior** | 아니요 |
 | **금속** | 아니요 |
@@ -85,7 +77,7 @@ ht-degree: 4%
 | **Specular edge color** | **예** |
 | **Specular level** | 아니요 |
 | **반투명도** | 아니요 |
-| **전송** | **예** |
+| **투과** | **예** |
 | **사용자 X(0-15)** | [텍스처 집합 설정](../../interface/texture-set/texture-set-settings.md)에 종속됩니다. 기본적으로 사용자 채널은 색상 관리를 사용하지 않습니다. <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r31-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/user-demo.png"/></div> |
 
 ## 색상 피커

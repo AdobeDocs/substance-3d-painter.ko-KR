@@ -1,22 +1,14 @@
 ---
-helpx_url: 'https://helpx.adobe.com/kr/substance-3d-painter/interface/project-configuration.html'
 breadcrumb-title: ''
 description: Substance 3D Painter에서 프로젝트 설정을 구성하여 텍스처 해상도, 채널 및 프로젝트 속성을 설정하는 방법을 알아봅니다.
-helpx_creative_field: ''
-helpx_description: Painter > Interface > Project configuration
-helpx_experience_level: ''
-helpx_learn_topic: ''
-helpx_tags: ''
 title: 프로젝트 구성
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 3e4ef9bd5897f042b01d6c0819ec06cc21ba208a
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '839'
 ht-degree: 3%
-
 ---
-
 
 # 프로젝트 구성
 
@@ -58,7 +50,7 @@ ht-degree: 3%
   </tr>
   <tr>
     <td><strong>조각당 접선 공간 계산</strong></td>
-    <td>음영 및 조명을 위해 뷰포트에서 표준 맵을 계산하고 표시하는 방법을 결정합니다. 이 옵션을 활성화하면 메쉬의 탄젠트 및 이항식이 정점이 아닌 픽셀 단위로 계산됩니다.<br>일반 응용 프로그램에 대한 권장 값:<br><br><ul><li><strong>Unity</strong>: 사용 안 함(HDRP를 사용하는 경우 사용)</li><li><strong>Unreal 엔진</strong>: 사용</li></ul></td>
+    <td>음영 및 조명을 위해 뷰포트에서 노멀 맵을 계산하고 표시하는 방법을 결정합니다. 이 옵션을 활성화하면 메쉬의 탄젠트 및 이항식이 정점이 아닌 픽셀 단위로 계산됩니다.<br>일반 응용 프로그램에 대한 권장 값:<br><br><ul><li><strong>Unity</strong>: 사용 안 함(HDRP를 사용하는 경우 사용)</li><li><strong>Unreal 엔진</strong>: 사용</li></ul></td>
   </tr>
 </table>
 
@@ -79,7 +71,7 @@ USD 메시 포맷을 선택하면 다른 파일 유형별 설정을 사용할 �
   </tr>
   <tr>
     <td><strong>범위 및 변형</strong></td>
-    <td>USD 파일의 특정 부분을 선택합니다. 기본적으로 'Root'로 설정됩니다. 즉, 전체 USD 파일이 Painter 프로젝트에서 사용됩니다. <strong>변경...</strong>은(는) USD의 내용을 표시하는 새 창을 엽니다. 변형이 검색되면 프로젝트로 로드할 특정 변형을 선택할 수 있습니다.<br><br>참고:<br><ul><li>선택한 모델링 변형만 영향을 받습니다.</li><li>변형 내에 중첩된 변형은 현재 검색되지 않습니다.</li></ul></td>
+    <td>USD 파일의 특정 부분을 선택합니다. 기본적으로 'Root'로 설정됩니다. 즉, 전체 USD 파일이 Painter 프로젝트에서 사용됩니다. <strong>변경...</strong>은 USD의 내용을 표시하는 새 창을 엽니다. 변형이 검색되면 프로젝트로 로드할 특정 변형을 선택할 수 있습니다.<br><br>참고:<br><ul><li>선택한 모델링 변형만 영향을 받습니다.</li><li>변형 내에 중첩된 변형은 현재 검색되지 않습니다.</li></ul></td>
   </tr>
   <tr>
     <td><strong>서브디비전 수준</strong></td>

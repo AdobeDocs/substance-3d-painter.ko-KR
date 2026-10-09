@@ -1,15 +1,11 @@
 ---
 title: 레이어 병합
-description: ''
-helpx_description: "Substance 3D Painter"
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/layer-stack/flatten-layers.html"
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+description: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '883'
 ht-degree: 1%
-
 ---
-
 
 # 레이어 병합
 
@@ -35,13 +31,13 @@ ht-degree: 1%
 
 ![](../../assets/v12_flatten_menu.jpg)
 
-레이어를 병합하면 병합 텍스처로 새 칠 레이어가 생성되고 소스 그룹이 비활성화됩니다.
+레이어를 병합하면 병합된 텍스처로 새 칠 레이어가 만들어지고 소스 그룹이 비활성화됩니다.
 
 ## 특정 채널 병합
 
 * 칠 레이어에서 [속성] 패널을 사용하여 병합하지 않을 채널을 비활성화합니다. 채널을 사용하지 않도록 설정해도 정보가 손실되지 않습니다. 레이어를 병합한 후에는 채널을 다시 활성화할 수 있으며 데이터는 그대로 유지됩니다
 * 그룹 또는 레이어 페인팅의 경우 혼합 모드를 사용하여 채널을 비활성화할 수 있습니다.
-  * 레이어 스택의 맨 위에서 비활성화할 채널을 선택합니다.
+  * 레이어 스택 상단에서 비활성화할 채널을 선택합니다.
   * 원하는 레이어의 혼합 모드를 &quot;사용 안 함&quot;으로 변경합니다.
   * 혼합 모드를 마우스 오른쪽 버튼으로 클릭하고 &quot;모든 채널에 적용&quot;을 선택하여 레이어의 모든 채널에 동일한 혼합 모드를 적용할 수 있습니다.
 

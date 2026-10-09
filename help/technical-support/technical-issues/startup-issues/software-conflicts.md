@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/startup-issues/software-conflicts.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 시스템에서 Substance 3D Painter이 제대로 시작되지 않도록 하는 소프트웨어 충돌을 해결하는 방법에 대해 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Technical Issues > Startup Issues > Software conflicts
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 소프트웨어 충돌
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 22871eab2f25d09bd82f1292d8b3e5f8c4f1c2cf
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '681'
 ht-degree: 0%
-
 ---
-
 
 # 소프트웨어 충돌
 

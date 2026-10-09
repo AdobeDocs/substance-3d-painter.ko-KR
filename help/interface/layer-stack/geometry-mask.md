@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/layer-stack/geometry-mask.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 지오메트리 마스크를 사용하여 메시 지오메트리 및 표면 속성을 기반으로 레이어를 마스킹하는 방법을 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Interface > Layer stack > Geometry mask
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 모양 마스크
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '736'
 ht-degree: 1%
-
 ---
-
 
 # 모양 마스크
 
@@ -84,7 +76,7 @@ ht-degree: 1%
 
 ![](../../assets/hide-excluded-geo-button.png)
 
-아래 예에서는 3D 모델이 두 개의 개체(위 및 아래 부분)로 분할되었습니다. 기본적으로 브러시 획은 모든 오브젝트와 충돌합니다. 윗부분을 제외함으로써 이제 아랫부분에만 배타적으로 페인팅할 수 있다.
+아래 예에서는 3D 모델이 두 개의 개체(위 및 아래 부분)로 분할되었습니다. 기본적으로 브러시 획은 모든 오브젝트와 충돌합니다. 윗부분을 제외함으로써 이제 아랫부분에만 독점적으로 페인트를 할 수 있게 되었다.
 
 >[!NOTE]
 >

@@ -1,28 +1,20 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-sparse-shader-api.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 사용자 정의 셰이더에서 스파스 셰이더 API 샘플링을 사용하려면 Substance 3D Painter에 대한 Lib 스파스 텍스처 참조에 액세스하십시오.
-helpx_creative_field: ""
-helpx_description: Painter > Scripting and development > API Reference > Shader API > Libraries - Shader API > Lib Sparse - Shader API
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: Lib 스파스 - 셰이더 API
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
-
 ---
-
 
 # Lib 스파스 - 셰이더 API
 
 ## lib-sparse.glsl
 
-이 파일은 스파스 텍스처 샘플링 정확도를 보장하기 위한 유용한 함수(ARB\_sparse\_texture)를 제공합니다. 비디오 메모리에 실제로 있는 텍스처의 일부만 샘플링할 수 있습니다.
+이 파일은 스파스 텍스처 샘플링 정확성(ARB\_스파스\_텍스처)을 보장하는 유용한 기능을 제공합니다. 비디오 메모리에 실제로 있는 텍스처의 일부만 샘플링할 수 있습니다.
 
 **공용 함수:** *getSparseCoord* *getSparseCoordLod0* *textureSparseQueryLod* *textureSparse*
 
@@ -249,7 +241,7 @@ void textureSparseQueryGrad(out vec2 dfdx, out vec2 dfdy, SamplerSparse sampler,
 ```
 
 
-스파스 텍스처에 대해 텍스처 조회를 수행합니다. 필요한 경우 밉맵 레벨 위로 이동합니다.
+스파스 텍스처에서 텍스처 조회를 수행합니다. 필요한 경우 밉맵 레벨을 위로 이동합니다.
 
 이 함수는 표준 *텍스처(sampler2D, vec2)*&#x200B;을(를) 대체하여 스파스 텍스처에서 텍셀을 검색합니다
 

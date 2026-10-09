@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-sampler-shader-api.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter용 Lib Sampler 셰이더 API 참조에 액세스하여 사용자 정의 셰이더 개발에서 텍스처 및 데이터를 샘플링합니다.
-helpx_creative_field: ""
-helpx_description: Painter > Scripting and development > API Reference > Shader API > Libraries - Shader API > Lib Sampler - Shader API
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: Lib Sampler - 셰이더 API
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
-
 ---
-
 
 # Lib Sampler - 셰이더 API
 
@@ -188,7 +180,7 @@ float getMetallic(SamplerSparse sampler, SparseCoord coord)
 ```
 
 
-샘플링된 비등방성 수준 또는 기본값 반환
+샘플링된 비등방성 레벨 또는 기본값 반환
 
 ```
 float getAnisotropyLevel(vec4 sampledValue) 

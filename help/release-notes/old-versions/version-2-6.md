@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/release-notes/old-versions/version-2-6.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter 버전 2.6의 릴리스 노트를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
-helpx_creative_field: ""
-helpx_description: Painter > Release notes > Old versions > Version 2.6
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 버전 2.6
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '1055'
 ht-degree: 0%
-
 ---
-
 
 # 버전 2.6
 
@@ -77,13 +69,13 @@ ht-degree: 0%
 * [엔진] 해상도 변경 시 획이 사라지는 문제(4K>2K)
 * [Bakers] 이름으로 일치가 활성화된 상태에서 ID 맵 굽기가 실패했습니다.
 * [베이커] 오류 메시지가 충분히 명시적이지 않음
-* [3D 보기] 접선 공간이 베이커와 동기화되지 않습니다.
+* [3D 보기] 탄젠트 공간이 베이커와 동기화되지 않음
 * [도구] 손가락 도구를 사용할 때 검은색 가공물
 * [Shader] 비 PBR 셰이더가 더 이상 작동하지 않습니다.
 * [Shader] &quot;pbr-coated&quot;가 끊어졌습니다.
 * [Shader] &quot;pbr-coated&quot; 셰이더의 코팅 거칠기는 더 이상 영향을 주지 않습니다.
 * [Shader] 사양 광택 셰이더가 Iray 및 SD와 일치하지 않습니다.
-* [Shelf] 이름은 같지만 확장명이 다른 두 파일을 로드할 때 충돌이 발생합니다
+* [Shelf] 이름은 같지만 확장명이 다른 두 파일을 로드할 때 충돌 발생
 * [Shelf] 선반에서 더 이상 사전 설정을 편집할 수 없음
 * [Shelf] 셸프에 가져온 에셋에 대해 사용자 정의 미리 보기를 설정할 수 없습니다.
 * 캐시에서 로드된 리소스는 사용을 잃게 됩니다.
@@ -101,7 +93,7 @@ ht-degree: 0%
 
 **고정:**
 
-* 베이킹된 맵을 교체한 후 TextureSet을 전환할 때 충돌 발생
+* 베이킹된 맵을 교체한 후 TextureSet를 전환할 때 충돌 발생
 * 레이어의 혼합 모드를 변경한 후 &quot;실행 취소 및 재실행&quot;을 수행할 때 충돌 발생
 * big ID 맵에서 &quot;색상 선택&quot; 효과를 사용할 때 충돌 또는 고정
 * [내보내기] 이름을 바꾼 텍스처 세트가 내보내기 창에서 알파벳순으로 정렬되지 않습니다
@@ -147,7 +139,7 @@ ht-degree: 0%
 * [Shaders] 기본 셰이더를 사용하는 알파 테스트에 대한 경고
 * [Shelf] Substance의 태그 구문 분석이 잘못되었습니다.
 * [Shelf] MatFX 녹 풍화 기능이 제대로 작동하지 않음
-* [Shelf] 기본적으로 잘못된 채널에서 HSL 필터가 활성화됩니다
+* [Shelf] HSL 필터는 기본적으로 잘못된 채널에서 활성화됩니다
 * [Shelf] 기본적으로 [Height/표준] 채널에서 선명 효과가 활성화됩니다
-* [내보내기] Vray 내보내기 사전 설정이 OpenGL 표준 맵을 사용하지 않음
+* [내보내기] Vray 내보내기 사전 설정이 OpenGL 노멀 맵을 사용하지 않음
 * [도구] 복제/손가락 도구의 부정확성 문제 가공물 만들기

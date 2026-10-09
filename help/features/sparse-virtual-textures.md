@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/sparse-virtual-textures.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 스파스 가상 텍스처를 사용하여 초고해상도 텍스처로 효율적으로 작업하는 방법을 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Features > Sparse Virtual Textures
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 스파스 가상 텍스처
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '748'
 ht-degree: 0%
-
 ---
-
 
 # 스파스 가상 텍스처
 
@@ -49,9 +41,9 @@ Substance 3D Painter은 뷰포트에 표시되는 텍스처를 계산하기 위�
 
 SVT의 목표는 메인 엔진이 계산을 수행할 수 있는 공간을 최대한 많이 확보하면서 뷰포트가 GPU 메모리에서 사용할 수 있는 양을 예산으로 책정하는 것입니다. 이 시스템의 장점은 훨씬 더 큰 프로젝트를 Substance 3D Painter에 로드할 수 있는 기능을 잠금 해제하고 정상적으로 작업할 수 있다는 것입니다.
 
-## 스파스 텍스처는 어떻게 작동하나요?
+## 스파스 텍스처는 어떻게 작동합니까?
 
-스파스 가상 텍스처는 완료되지 않은 텍스처 유형입니다. 즉, 애플리케이션이 텍스처의 일부만 메모리에 로드합니다. 필요한 것만 로드하고 나머지는 시스템 메모리나 디스크(캐시)에 넣습니다. 다시 필요한 경우 캐시에서 텍스처를 검색하여 뷰포트에 다시 가져옵니다. 전송을 충분히 빠르게 하기 위해 시스템은 **밉맵**&#x200B;을 사용하여 다른 텍스처 해상도 사이를 빠르게 이동합니다. 이 때문에 뷰포트로 빠르게 이동하면 처음에 흐릿한 텍스처가 표시될 수 있으며 몇 초 후에 품질이 향상됩니다.
+스파스 가상 텍스처는 완료되지 않은 텍스처 유형입니다. 즉, 애플리케이션이 텍스처의 일부만 메모리에 로드합니다. 필요한 것만 로드하고 나머지는 시스템 메모리나 디스크(캐시)에 넣습니다. 다시 필요한 경우 캐시에서 텍스처를 검색하여 뷰포트에 다시 가져옵니다. 전송을 충분히 빠르게 하기 위해 시스템은 **밉맵**&#x200B;에 의존하여 다른 텍스처 해상도 사이를 빠르게 이동합니다. 이 때문에 뷰포트로 빠르게 이동하면 처음에 흐릿한 텍스처가 표시될 수 있으며 몇 초 후에 품질이 향상됩니다.
 
 자세한 기술 정보는 [스파스 가상 텍스처](https://silverspaceship.com/src/svt/) 를 참조하십시오.
 

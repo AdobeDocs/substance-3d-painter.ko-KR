@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/home.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter으로 시작하여 3D 모델에 텍스처를 직접 페인트 하고 사실적인 재질 표면을 만들어 보세요.
-helpx_creative_field: ""
-helpx_description: Painter > Home
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: Substance 3D Painter
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '576'
 ht-degree: 9%
-
 ---
-
 
 # Substance 3D Painter
 
@@ -73,7 +65,7 @@ Substance 3D Painter은 3D 페인팅 소프트웨어로서 3D 메시를 텍스�
 * [칠 투영](painting/fill-projections/fill-projections.md) — 칠 레이어 및 칠 효과는 특정 모드를 기준으로 메시에 직접 텍스처를 투영합니다. 이러한 유형의 레이어/효과는 3D 모델에 텍스처를 수동으로 페인트 하는 것을 방지합니다. 속성 창에서 투영 설정을 편집할 수 있습니다.
 * [사전 설정](painting/presets/presets.md) — 사전 설정은 페인팅 도구의 저장된 구성입니다. 이 페이지에서는 이러한 유틸리티를 사용하는 방법과 이유를 설명합니다.
 * [역동적인 획](painting/dynamic-strokes/dynamic-strokes.md) - 역동적인 획은 Substance 파일로 구동되는 일반 브러시 획으로, 브러시 획 내의 각 스탬프마다 변경할 수 있습니다.
-* [고급 채널 페인팅](painting/advanced-channel-painting/advanced-channel-painting.md) - 셰이더에서 사용되는 일부 기본 채널을 페인팅하여 고급 또는 복잡한 효과를 만들 수 있습니다. 예를 들어, 표준 맵으로 변환되는 페인팅 Height 정보가 있습니다.
+* [고급 채널 페인팅](painting/advanced-channel-painting/advanced-channel-painting.md) - 셰이더에서 사용되는 일부 기본 채널을 페인팅하여 고급 또는 복잡한 효과를 만들 수 있습니다. 예를 들어, 노멀 맵으로 변환되는 페인팅 Height 정보가 해당됩니다.
 
 ### 베이킹
 

@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/release-notes/version-9-1.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter 버전 9.1의 릴리스 노트를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
-helpx_creative_field: ""
-helpx_description: Substance 3D Painter 9.1 adds tangent control for the Path tool, support of the SVG file format, the ability to import and apply resources by drag and drop and support for translucency in the viewport.
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 버전 9.1
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '2899'
 ht-degree: 0%
-
 ---
-
 
 # 버전 9.1
 
@@ -63,7 +55,7 @@ ht-degree: 0%
 
 ![배너 ASM](../assets/v91_banner_asm.jpg)
 
-새 프로젝트를 만들 때 기본값인 <b>Adobe ASM(Standard Material)</b> 셰이더가 <b>투명도</b>, <b>투명도</b> 및 <b>흡수</b> 속성을 지원하도록 업데이트되었습니다. 따라서 이제 이러한 렌더링 비헤이비어의 결과를 실시간 뷰포트 및 Iray 렌더러 내에서 확인할 수 있습니다.
+새 프로젝트를 만들 때 기본값인 <b>Adobe Standard Material</b>(ASM) 셰이더가 <b>반투명도</b>, <b>투명도</b> 및 <b>흡수</b> 속성을 지원하도록 업데이트되었습니다. 따라서 이제 이러한 렌더링 비헤이비어의 결과를 실시간 뷰포트 및 Iray 렌더러 내에서 확인할 수 있습니다.
 
 따라서 이제 얇은 조명 흡수로 <b>유리</b>, <b>나뭇잎</b> 또는 <b>플라스틱</b>과 같은 제작 재질을 뷰포트에서 바로 볼 수 있습니다. 다른 Substance 3D 애플리케이션으로 내보내면 ASM 정의 덕분에 모양이 일치합니다.
 
@@ -90,7 +82,7 @@ ht-degree: 0%
   ![데모 샘플 프로젝트](../assets/v91_asm_demo_project.png)
 * <b>이제 반투명도 채널은 기본적으로 검정색으로 설정됩니다</b>
 
-  새 셰이더 속성을 보다 쉽게 사용하고 뷰포트에서 예기치 않은 결과가 나타나지 않도록 하기 위해 채널 반투명도의 기본 색상이 흰색 대신 검정색으로 변경되었습니다.
+  새 셰이더 속성을 보다 쉽게 사용하고 뷰포트에서 예기치 않은 결과가 나타나지 않도록 하기 위해 채널 반투명도의 기본 색상이 흰색이 아닌 검은색으로 변경되었습니다.
 
   프로젝트에서 이 레이어 스택을 이미 사용 중이었던 경우에는 채널 하단에 채우기 레이어를 추가하고 채널 값을 흰색으로 설정하기만 하면 이전 비헤이비어를 얻을 수 있습니다. 셰이더 매개 변수에서 <b>반투명도를 분산 마스크로 사용</b> 설정을 활성화하여 하위 표면 분산 결과에 대한 채널 기여도를 다시 적용할 수 있습니다.
 
@@ -105,7 +97,7 @@ SVG 파일은 가벼우면서도 로고 또는 모양을 정확하게 나타내�
 * <b>SVG 파일 가져오기</b>\
   SVG 파일은 다른 리소스, 프로젝트, 라이브러리 등과 같이 가져올 수 있습니다. SVG <b>최대 버전 1.1</b>을(를) 가져올 수 있습니다. 최신 버전의 기능은 지원되지 않습니다.
 
-  이 버전에서도(아래 참조) 가져오기가 쉬워져 SVG 파일 사용을 위해 Painter 외부의 리소스를 직접 메시 또는 레이어 스택으로 드래그하여 놓을 수 있습니다.
+  이 버전에서도(아래 참조) 가져오기가 쉬워져 SVG 파일 사용을 위해 Painter 외부의 리소스를 메시 또는 레이어 스택으로 바로 드래그하여 놓을 수 있습니다.
 * <b>전용 SVG 설정</b>\
   SVG 리소스를 사용할 때 몇 가지 설정을 사용하여 리소스 모양을 제어할 수 있습니다.
 
@@ -140,7 +132,7 @@ SVG 파일은 가벼우면서도 로고 또는 모양을 정확하게 나타내�
 
   외부 파일을 메시에 직접 배치할 수 있도록 뷰포트로 드래그합니다. 이렇게 하면 자동으로 새 레이어가 만들어집니다. 리소스의 특성(이미지, Substance 자료, Substance 필터 등)에 따라 다릅니다. 결과는 그에 따라 달라집니다.
 * <b>레이어 스택으로 끌어서 놓기를 통해 가져오기</b>\
-  외부 리소스 파일을 뷰포트에 드롭하는 것과 동일한 방식으로, 파일을 레이어 스택에 드롭하면 리소스가 포함된 레이어 또는 효과를 직접 만들 수 있습니다.
+  외부 리소스 파일을 뷰포트에 놓을 수 있는 것과 동일한 방식으로 파일을 레이어 스택에 놓으면 리소스가 포함된 레이어 또는 효과를 직접 만들 수 있습니다.
 * <b>리소스 슬롯으로 끌어서 놓기를 통해 가져오기</b>
 
   레이어 또는 도구로 리소스를 직접 가져올 수도 있습니다. 올바른 설정을 사용하여 칠 레이어나 효과가 이미 있는 경우 속성 창의 채널 슬롯 중 하나에 외부 파일을 끌어다 놓으면 해당 파일을 가져와 적용할 수 있습니다.
@@ -172,7 +164,7 @@ SVG 파일은 가벼우면서도 로고 또는 모양을 정확하게 나타내�
 
   Painter에서 리소스를 삭제할 위치를 선택하면 자동으로 새 레이어 또는 새 효과가 생성됩니다.
 
-  ![레이어 스택에서 드래그 앤 드롭](../assets/v91_drop_filter_stack.gif)
+  ![레이어 스택에서 끌어 놓기](../assets/v91_drop_filter_stack.gif)
 * <b>드래그하는 동안 콘텐츠 또는 마스크 효과 스택 중 선택\
   </b>
 
@@ -302,7 +294,7 @@ SVG 파일은 가벼우면서도 로고 또는 모양을 정확하게 나타내�
 
 <b>알려진 문제:</b>
 
-* [색상 관리] Linux에서 ACE를 사용한 HDR 색상 공간 변환으로 클램프된 색상 생성
+* [색상 관리] Linux에서 ACE을 사용하여 HDR 색상 공간을 변환하면 클램프된 색상이 생성됩니다
 * [충돌]&#x200B;[Linux] 레이어 스택에서 리소스를 드래그하여 놓을 때 AMD에서 Linux Wayland 사용
 * [충돌]&#x200B;[Mac] Monterey OS에서 이방성 필터링 값 변경
 * [충돌] Exr이 이미지 입력으로 사용됨

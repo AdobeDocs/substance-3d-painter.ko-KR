@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/rendering-issues/artifacts-and-glitches-on-mac-os-with-custom-gpus.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 사용자 정의 GPU를 사용하여 macOS의 렌더링 아티팩트와 결함을 수정하여 안정적인 성능을 얻는 방법을 살펴보세요.
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Technical Issues > Rendering Issues > Artifacts and glitches on Mac OS with Custom GPUs
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 사용자 정의 GPU를 사용하는 Mac OS의 아티팩트 및 결함
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
-
 ---
-
 
 # 사용자 정의 GPU를 사용하는 Mac OS의 아티팩트 및 결함
 

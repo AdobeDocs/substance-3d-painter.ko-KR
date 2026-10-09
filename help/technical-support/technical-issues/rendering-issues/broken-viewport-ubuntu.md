@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/rendering-issues/broken-viewport-ubuntu.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 적절한 3D 렌더링을 위해 Substance 3D Painter의 Ubuntu에서 끊기거나 응답하지 않는 뷰포트 문제를 해결하는 방법에 대해 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Viewport appears broken or unresponsive on Ubuntu
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 뷰포트가 Ubuntu에서 손상되었거나 응답하지 않음
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
-
 ---
-
 
 # 뷰포트가 Ubuntu에서 손상되었거나 응답하지 않음
 
@@ -27,6 +19,6 @@ ht-degree: 0%
 다음과 같은 몇 가지 해결 방법이 있습니다.
 
 1. 터미널에서 Steam을 실행합니다. 이렇게 하면 다른 컨텍스트가 강제로 적용되며 Steam 및 Painter이 올바른 GPU에서 실행되도록 해야 합니다.
-1. Steam 바로 가기를 편집하여 <b>전용 그래픽 카드를 사용하여 실행</b> 설정을 비활성화합니다. 그런 다음 Steam을 정상적으로 실행하십시오.
+1. Steam 단축키를 편집하여 <b>전용 그래픽 카드를 사용하여 실행</b> 설정을 비활성화합니다. 그런 다음 Steam을 정상적으로 실행하십시오.
 
 자세한 내용은 [이 github 문제](https://github.com/ValveSoftware/steam-for-linux/issues/9940)를 참조하세요.

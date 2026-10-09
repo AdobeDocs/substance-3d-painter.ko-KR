@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/main-menu.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter의 기본 메뉴를 사용하여 파일 작업, 편집 도구 및 애플리케이션 설정에 액세스하는 방법에 대해 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Interface > Main menu
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 메인 메뉴
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
-
 ---
-
 
 # 메인 메뉴
 

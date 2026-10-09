@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/release-notes/version-11-1.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter 버전 11.1의 릴리스 노트를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
-helpx_creative_field: ""
-helpx_description: Substance 3D Painter > Release notes > Version 11.1
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 버전 11.1
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '2273'
 ht-degree: 0%
-
 ---
-
 
 # 버전 11.1
 
@@ -56,7 +48,7 @@ ht-degree: 0%
 
   ![](../assets/ribbon_repeat_demo.png)
 * <b>사용자 정의 시작 및 끝</b> 이미지\
-  <b>오프셋 간 늘이기</b> 설정을 사용하면 이미지의 일부를 격리하여 패스의 시작 및 끝 섹션으로 사용하고 중간 섹션은 나머지 패스를 따라 늘릴 수 있습니다. 이렇게 하면 간단한 비트맵을 빠르게 사용하고 화살표와 같은 왜곡이 없는 패스를 따라 배치하는 데 편리합니다.
+  <b>오프셋 사이 늘리다&rbrace; 설정</b>을 사용하면 이미지의 일부를 격리하여 하나의 경로에서 시작 및 끝 섹션으로 사용하고 중간 섹션은 나머지 경로를 따라 사용할 수 있습니다. 이렇게 하면 간단한 비트맵을 빠르게 사용하고 화살표와 같은 왜곡이 없는 패스를 따라 배치하는 데 편리합니다.
 
   ![](../assets/ribbon_stretch_guides_path.png)
 * <b>다른 모퉁이 유형을 사용할 수 있음</b>\
@@ -278,15 +270,15 @@ Mac OS에서 OpenGL에서 Metal으로 전환했던 이전 버전에서 시작된
 <b>알려진 문제</b>:
 
 * 셰이더 인스턴스 기록이 제대로 추적되지 않았습니다.
-* [리본] UV 타일의 성능 문제
+* [리본] UV 타일 성능 문제
 * [리본] 경우에 따라 모퉁이 다음에 예기치 않게 패스가 겹칠 수 있습니다
 * [리본] 점이 패스 끝에 가깝게 이동하면 접선이 원치 않는 루프를 만듭니다
-* [충돌]&#x200B;[리본] 리본에 매우 긴 텍스트를 만들면 충돌이 발생할 수 있습니다
+* [충돌]&#x200B;[리본] 리본에서 매우 긴 텍스트를 만들면 충돌 작업을 할 수 있습니다.
 * [도구] 마스크에서 투영을 사용할 때 재질 미리보기가 작동하지 않습니다
 * [베이킹] 여러 텍스처 세트에서 AO 설정 &quot;자체 오클루전&quot;이 무시되고 &quot;이름별 일치&quot;가 활성화됨
 * [베이킹] 패딩이 누락되어 정상인 AO의 가장자리에 아티팩트가 있음
-* [색상 관리] Linux에서 ACE를 사용한 HDR 색상 공간 변환으로 클램프된 색상 생성
+* [색상 관리] Linux에서 ACE을 사용하여 HDR 색상 공간을 변환하면 클램프된 색상이 생성됩니다
 * [회귀]&#x200B;[UI] 마우스 오른쪽 단추 클릭 메뉴가 HD 화면에서 너무 작습니다.
-* [충돌]&#x200B;[Python] TextureStateEvent에 의해 USD 내보내기가 트리거되었습니다.
-* [엔진] 일반 채널 이동 색상에서 복제 도구를 사용하여 페인팅이 잘못됨
+* [충돌]&#x200B;[Python] TextureStateEvent에서 USD 내보내기가 트리거됨
+* [엔진] 표준 채널 이동 색상에서 복제 도구로 페인팅이 잘못됨
 * [Python] 아직 작동 중인 스크립트에 의해 고스트 위젯이 삭제된 것으로 나타남

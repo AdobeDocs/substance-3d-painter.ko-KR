@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/stability-issues/windows-blue-screens.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 안정적인 시스템 운영을 위해 Substance 3D Painter을 사용할 때 Windows 블루 스크린 오류를 방지하는 방법에 대해 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Technical Issues > Stability Issues > Windows Blue Screens
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: Windows 블루 스크린
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '526'
 ht-degree: 0%
-
 ---
-
 
 # Windows 블루 스크린
 

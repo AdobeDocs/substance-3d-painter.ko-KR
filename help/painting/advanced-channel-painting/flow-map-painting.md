@@ -1,26 +1,18 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/advanced-channel-painting/flow-map-painting.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 플로우 맵을 페인트 하여 재질 흐름 방향과 이방성 효과를 제어하는 방법을 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Painting > Advanced channel painting > Flow Map Painting
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 플로우 맵 페인팅
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
-
 ---
-
 
 # 플로우 맵 페인팅
 
-전용 채널이 계획되어 있지만 그 동안 표준 채널과 일부 브러시 매개 변수를 사용하여 Substance 3D Painter에서 플로우 맵을 페인트할 수 있습니다.
+전용 채널이 계획되어 있지만 그 동안 표준 채널과 일부 브러시 매개 변수를 사용하여 Substance 3D Painter에서 플로우 맵을 페인트 할 수 있습니다.
 
 ## 1단계 : 노멀 맵 만들기
 
@@ -37,7 +29,7 @@ Substance 3D Painter 프로젝트에서 이 채널이 없는 경우 **텍스처 
 
 ![](../../assets/brush-settings-1.png){width="300px"}
 
-## 4단계 : 페인트 !
+## 4단계 : 페인트!
 
 노멀 맵 따라가기 설정을 활성화한 상태로 메시를 페인트하면 브러쉬 선이 패스에 방향을 그립니다.
 

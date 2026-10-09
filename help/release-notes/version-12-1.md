@@ -1,8 +1,7 @@
 ---
 title: 버전 12.1
 description: 버전 12.1의 릴리스 정보
-helpx_description: Substance 3D Painter
-source-git-commit: a652271a4b12d9c27513ebc4d5974fa87da29580
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '1790'
 ht-degree: 0%
@@ -253,17 +252,17 @@ Youtube에서 최신 튜토리얼을 살펴보세요.
 * [자동 풀기] 하드 서피스 통합 옵션
 * [OpenPBR] OpenPBR 1.1에 대한 지원 추가
 * [OpenPBR] OpenPBR을 기본 워크플로우 및 셰이더로 설정
-* [OpenPBR] USD를 통해 OpenPBR 재료 및 텍스처 가져오기
-* [OpenPBR] USD를 통해 OpenPBR 재료 및 텍스처 내보내기
-* [OpenPBR] 텍스처 내보내기를 업데이트하여 OpenPBR 명명 규칙을 표시합니다.
+* [OpenPBR] USD을 통해 OpenPBR 재질 및 텍스처 가져오기
+* [OpenPBR] USD을 통해 OpenPBR 재질 및 텍스처 내보내기
+* [OpenPBR] 텍스처 이름 지정 규칙을 표시하도록 내보내기 OpenPBR 업데이트 창
 * [OpenPBR] 지원 OpenPBR 변경 사항에 대한 설명서 추가
 * [OpenPBR]&#x200B;[Iray] Iray에서 OpenPBR 1.1을 지원하는 새 MDL 추가
-* USD 내보내기에 대한 몇 가지 사소한 개선
-* [UI] 다른 텍스처 세트에서 페인트할 때 뷰포트에 경고를 추가합니다
+* USD 내보내기에 대한 몇 가지 사소한 개선 사항
+* [UI] 다른 텍스처 세트에서 페인트를 시도하면 뷰포트에 경고를 추가합니다
 * [병합] 텍스처 세트 전체에서 모든 인스턴스 레이어를 병합합니다.
 * [텍스처 설정] 새 창에서 한 번에 여러 채널을 선택할 수 있습니다.
 * [History] 매개 변수 이름을 반영하도록 &quot;value&quot; 실행 취소 항목 단어를 업데이트합니다.
-* [레이어 스택] 마스크의 채우기 효과를 기본적으로 흰색(1.0)으로 설정
+* [레이어 스택] 마스크의 채우기 효과가 기본적으로 흰색으로 설정됨(1.0)
 * [Substance] 새 &quot;mesh_hard_edges_triangle&quot; 엔진 맵 입력 추가
 * [Substance] 새 &quot;mesh_hard_edges&quot; 엔진 맵 입력 추가
 * [Shader] 셰이더 인스턴스가 동일한 이름을 공유하지 않도록 합니다.

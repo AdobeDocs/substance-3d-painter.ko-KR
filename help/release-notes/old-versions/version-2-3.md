@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/release-notes/old-versions/version-2-3.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter 버전 2.3의 릴리스 노트를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
-helpx_creative_field: ""
-helpx_description: Painter > Release notes > Old versions > Version 2.3
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 버전 2.3
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '671'
 ht-degree: 0%
-
 ---
-
 
 # 버전 2.3
 
@@ -30,7 +22,7 @@ ht-degree: 0%
 
 ![](../../assets/ps-230.jpg)
 
-이 릴리스에서는 **Photoshop용 고급 내보내기 도구**&#x200B;를 구현하기 위해 스크립팅 API에 새로운 가능성을 추가하는 데 중점을 두었습니다. 이 새 내보내기에 액세스하려면 기본 도구 모음에서 사용할 수 있는 Photoshop 아이콘을 클릭하기만 하면 됩니다(플러그인이 활성화된 경우, 기본적으로 해당 케이스가 해당됨). 플러그인을 사용하면 텍스처 세트에서 사용할 수 있는 전체 레이어 스택을 내보내고 PSD 파일 내에서 유사한 구조를 만들 수 있습니다. PSD 파일을 생성하려면 이 기능 **컴퓨터에 Photoshop을 설치**&#x200B;해야 합니다.
+이 릴리스에서는 **Photoshop에 대한 고급 내보내기 도구**&#x200B;을 구현하기 위해 스크립팅 API에 새로운 가능성을 추가하는 데 중점을 두었습니다. 이 새 내보내기에 액세스하려면 기본 도구 모음에서 사용할 수 있는 Photoshop 아이콘을 클릭하기만 하면 됩니다(플러그인이 활성화된 경우, 기본적으로 해당 케이스가 해당됨). 플러그인을 사용하면 텍스처 세트에서 사용할 수 있는 전체 레이어 스택을 내보내고 PSD 파일 내에서 유사한 구조를 만들 수 있습니다. PSD 파일을 생성하려면 이 기능 **컴퓨터에 Photoshop을 설치**&#x200B;해야 합니다.
 
 플러그인 메뉴의 구성 버튼을 통해 몇 가지 옵션을 사용할 수 있습니다.
 
@@ -57,8 +49,8 @@ ht-degree: 0%
 * [내보내기] Alpha이 sRGB 채널에서 잘못된 감마 변환을 받습니다
 * [내보내기] 정사각형이 아닌 문서는 사각형 모양으로 내보냅니다
 * [내보내기] 추가 맵이 없는 경우 내보낼 수 없습니다
-* [Iray] 일부 매개 변수(방출 강도 등)는 효과가 없습니다.
-* [NVIDIA] NVIDIA Quadro K2200/GTX 750/760을 시작할 때 충돌이 발생합니다.
+* [Iray] 일부 매개 변수(예: 방출 강도)가 영향을 주지 않습니다.
+* [NVIDIA] 시작 시 NVIDIA Quadro K2200/GTX 750/760으로 충돌
 * [AMD] 축소판 및 미리 보기에 대한 잘못된 색상 세트
 * [AMD] 새 파일 및 파일 열기 시 멈춤 및 드라이버 오류
 * [Log] &quot;software-version&quot;이 로그 파일에 없습니다.
@@ -69,21 +61,21 @@ ht-degree: 0%
 
 **추가됨 :**
 
-* [플러그인] 새로운 &quot;Photoshop으로 내보내기&quot; 플러그인(전체 레이어 스택 내보내기)
+* [레이어 스택] 새 &quot;Photoshop으로 내보내기&quot; 플러그인(전체 플러그인 내보내기)
 * [내보내기] 패딩의 폭을 지정할 수 있습니다(픽셀 또는 무제한).
 * [내보내기] UV 외부의 배경 유형을 설정할 수 있습니다.
 * [Shelf] 10개의 재질을 혼합하는 새로운 재질 레이어 셰이더
 * [Shelf] Height/일반 채널로 세부 정보를 보는 새로운 클레이 셰이더
 * [Shelf] 환경 입력이 있는 새로운 구운 조명 필터
-* [Shelf] 일부 마스크 생성기를 업데이트하여 정사각형이 아닌 변형을 추가했습니다.
-* [뷰포트] 합성된 표준 맵(normal+Height+bake)을 솔로 모드에 추가합니다.
+* [Shelf] 정사각형이 아닌 변형을 추가하도록 일부 마스크 생성기를 업데이트했습니다.
+* [뷰포트] 합성 노멀 맵(normal+Height+bake)를 솔로 모드에 추가합니다.
 * [스크립팅] 추가 맵 내보내기 허용
 * [스크립팅] 텍스처 세트당 사용 가능한 추가 맵을 쿼리할 수 있습니다.
 * [스크립팅] 채널 형식 검색 허용
 * [스크립팅] 베이킹 설명서에 예제를 추가합니다
 * [스크립팅] 레이어의 가시성을 쿼리할 수 있습니다.
 * [스크립팅] 레이어의 혼합 모드와 불투명도를 쿼리할 수 있습니다.
-* [스크립팅] 변환된 맵(최종 표준 맵, 혼합된 AO 등)을 내보낼 수 있습니다.
+* [스크립팅] 변환된 맵(최종 노멀 맵, 혼합된 AO 등)을 내보낼 수 있습니다.
 * [Substance] 사용자 정의 사용 읽기 및 연결
 * [단축키] 보조 키(SHIFT)를 추가하여 솔로 모드를 뒤로 순환
 * [내보내기] 기본 내보내기 사전 설정을 업데이트하여 알파를 비활성화했습니다.

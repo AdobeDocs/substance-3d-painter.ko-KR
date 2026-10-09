@@ -1,22 +1,14 @@
 ---
-helpx_url: 'https://helpx.adobe.com/kr/substance-3d-painter/interface/main-menu/help-menu.html'
 breadcrumb-title: ''
 description: Substance 3D Painter의 도움말 메뉴에 액세스하여 설명서, 자습서 및 지원 리소스를 찾습니다.
-helpx_creative_field: ''
-helpx_description: Painter > Interface > Main menu > Help menu
-helpx_experience_level: ''
-helpx_learn_topic: ''
-helpx_tags: ''
 title: 도움말 메뉴
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: e370ba212d3e90f71e09b75ff41be6123d37c5eb
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 7%
-
 ---
-
 
 # 도움말 메뉴
 

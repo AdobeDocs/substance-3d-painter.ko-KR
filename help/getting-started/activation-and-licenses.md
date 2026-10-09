@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/getting-started/activation-and-licenses.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 텍스처 페인팅용 애플리케이션을 사용하기 위해 Substance 3D Painter을 활성화하고 라이선스를 관리하는 방법에 대해 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Getting Started > Activation and licenses
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 활성화 및 라이선스
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '482'
 ht-degree: 1%
-
 ---
-
 
 # 활성화 및 라이선스
 

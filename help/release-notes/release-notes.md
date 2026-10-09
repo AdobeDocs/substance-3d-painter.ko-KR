@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/release-notes.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter의 릴리스 정보에 액세스하여 여러 버전의 새로운 기능, 개선 및 버그 수정에 대한 업데이트 상태를 유지하십시오.
-helpx_creative_field: ""
-helpx_description: Painter > Release notes
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 릴리스 정보
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 19578e843e2843a708e479ec81d94fd8c48c3648
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 8%
-
 ---
-
 
 # 릴리스 정보
 

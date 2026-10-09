@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/vector-graphic-svg.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 벡터 그래픽(SVG 및 AI 파일)을 사용하여 확장 가능한 벡터 아트워크를 텍스처에 추가하는 방법을 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Substance 3D Painter
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 벡터 그래픽(SVG)
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 1%
-
 ---
-
 
 # 벡터 그래픽(.svg 및 .ai)
 
@@ -36,7 +28,7 @@ SVG 및 AI 파일은 선택한 설정에 따라 [레이어 스택](../interface/
 | 섹션 | 설정 | 설명 |
 | --- | --- | --- |
 | <b>대지</b> | <b>대지</b> | 파일에 포함된 대지를 선택합니다.  **참고:** 이 설정은 Illustrator(.ai) 파일에서만 사용할 수 있습니다. |
-| <b>해상도</b> | 해결 방법 | 레이어 스택 내에서 텍스처링에 사용할 때 svg가 비트맵 이미지(픽셀)로 변환될 크기를 정의합니다.   가능한 값:<ul data-preserve-html="true"> <li data-preserve-html="true"><b>자동</b>: 해상도는 현재 텍스처 세트(채우기 레이어/효과에서 사용 시) 또는 브러시 도구에서 사용 시 512픽셀의 해상도로 결정됩니다.<br/> </li> <li data-preserve-html="true"><b>에셋</b>: 해상도는 SVG 파일 자체 내에 정의된 픽셀 크기에 의해 결정됩니다.<br/> </li> <li data-preserve-html="true"><b>사용자 지정</b>: 해상도는 인터페이스의 바로 아래 해상도 설정에 의해 결정됩니다.</li> </ul>  <div><img alt="svg 해상도 설정" class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_table_row-ad42696-column-7212622_image" src="../assets/svg_resolution_custom.png" title="svg 해상도 설정"/></div> |
+| <b>해상도</b> | 해결 방법 | 레이어 스택 내의 텍스처링에 사용할 때 svg가 비트맵 이미지(픽셀)로 변환될 크기를 정의합니다.   가능한 값:<ul data-preserve-html="true"> <li data-preserve-html="true"><b>자동</b>: 해상도는 현재 텍스처 세트(채우기 레이어/효과에서 사용 시) 또는 브러시 도구에서 사용 시 512픽셀의 해상도로 결정됩니다.<br/> </li> <li data-preserve-html="true"><b>에셋</b>: 해상도는 SVG 파일 자체 내에 정의된 픽셀 크기에 의해 결정됩니다.<br/> </li> <li data-preserve-html="true"><b>사용자 지정</b>: 해상도는 인터페이스의 바로 아래 해상도 설정에 의해 결정됩니다.</li> </ul>  <div><img alt="svg 해상도 설정" class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_table_row-ad42696-column-7212622_image" src="../assets/svg_resolution_custom.png" title="svg 해상도 설정"/></div> |
 |  |  |  |
 | <b>자르기 영역</b> | 다음으로 자르기 | 렌더링된 영역으로 SVG 모양이 제한되는 방법을 정의합니다.   가능한 값:<ul data-preserve-html="true"> <li data-preserve-html="true"><b>에셋 경계</b>: 영역은 SVG 파일 내부에 정의된 경계로 정의됩니다.</li> <li data-preserve-html="true"><b>사용자 지정</b>: 영역은 바로 아래의 인터페이스 설정을 통해 명시적 값으로 정의됩니다.<br/> </li> </ul> |
 |  | 정사각형 종횡비 | 자르기 영역이 <b>에셋 경계</b>로 정의된 경우, 이 설정을 사용하면 SVG을 정사각형 이미지로 렌더링할 때 잘못된 비율이 사용되지 않도록 원래 영역이 유지됩니다.   이 설정을 사용하면 일부 요소가 예기치 않게 표시될 수 있습니다. 이 문제를 방지하려면 이 설정을 비활성화하고 대신 채우기 레이어/효과 내에 있는 UV 설정을 수동으로 조정합니다. |

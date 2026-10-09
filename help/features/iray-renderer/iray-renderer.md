@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/features/iray-renderer.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 Ray 렌더러를 사용하여 사실적인 재질 미리 보기 및 렌더링을 만드는 방법을 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Features > Iray Renderer
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: Iray 렌더러
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 2%
-
 ---
-
 
 # Iray 렌더러
 

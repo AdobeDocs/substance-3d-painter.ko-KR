@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/assets/adding-a-new-library.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에 새 라이브러리를 추가하여 리소스 컬렉션을 확장하고 추가 에셋에 액세스하는 방법에 대해 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Interface > Assets > Adding a new library
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 새 라이브러리 추가
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 0%
-
 ---
-
 
 # 새 라이브러리 추가
 

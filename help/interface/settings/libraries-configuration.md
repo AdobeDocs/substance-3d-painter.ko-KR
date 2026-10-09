@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/settings/libraries-configuration.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter 설정에서 라이브러리를 구성하여 리소스 경로 및 에셋 구성을 관리하는 방법에 대해 알아보십시오.
-helpx_creative_field: ""
-helpx_description: Painter > Interface > Settings > Libraries configuration
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 라이브러리 구성
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
-
 ---
-
 
 # 라이브러리 구성
 

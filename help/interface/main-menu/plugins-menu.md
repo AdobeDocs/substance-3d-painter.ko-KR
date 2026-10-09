@@ -1,22 +1,14 @@
 ---
-helpx_url: 'https://helpx.adobe.com/kr/substance-3d-painter/interface/main-menu/plugins-menu.html'
 breadcrumb-title: ''
 description: Substance 3D Painter의 플러그인 메뉴를 사용하여 설치된 플러그인 및 확장 기능에 액세스하고 관리하는 방법에 대해 알아봅니다.
-helpx_creative_field: ''
-helpx_description: Painter > Interface > Main menu > Plugins menu
-helpx_experience_level: ''
-helpx_learn_topic: ''
-helpx_tags: ''
 title: JavaScript 및 Python 메뉴
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 3e4ef9bd5897f042b01d6c0819ec06cc21ba208a
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
-
 ---
-
 
 # JavaScript 및 Python 플러그인 메뉴
 

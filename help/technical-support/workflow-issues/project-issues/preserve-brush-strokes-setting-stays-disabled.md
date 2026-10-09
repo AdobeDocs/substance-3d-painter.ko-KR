@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/workflow-issues/project-issues/preserve-brush-strokes-setting-stays-disabled.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 브러시 획을 올바르게 유지하기 위해 비활성화 상태로 유지되는 브러시 획 보존 설정을 수정하는 방법을 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Workflow Issues > Project Issues > Preserve brush strokes setting stays disabled
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 브러시 획 유지 설정이 비활성화된 상태 유지
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
-
 ---
-
 
 # 브러시 획 유지 설정이 비활성화된 상태 유지
 

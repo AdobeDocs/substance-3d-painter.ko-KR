@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/scripting-and-development/scripts-and-plugins/creating-a-javascript-plugin.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter용 JavaScript 플러그인을 만들어 기능을 확장하고 사용자 정의 작업 과정을 자동화하는 방법에 대해 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Scripting and development > Scripts and plugins > Creating a Javascript plugin
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: Javascript 플러그인 만들기
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 1%
-
 ---
-
 
 # Javascript 플러그인 만들기
 

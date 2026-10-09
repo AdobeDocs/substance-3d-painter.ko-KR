@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/presets/creating-particles-presets/creating-a-new-particle-script.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 새 입자 스크립트를 만들어 사용자 정의 입자 브러시 비헤이비어 및 효과를 정의하는 방법에 대해 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Painting > Presets > Creating particles presets > Creating A New Particle Script
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 새 입자 스크립트 만들기
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '728'
 ht-degree: 0%
-
 ---
-
 
 # 새 입자 스크립트 만들기
 
@@ -50,7 +42,7 @@ ht-degree: 0%
 
 우리는 기존의 입자 시스템을 복제하고 새로운 메쉬를 올바르게 고려하도록 적응시킬 것이다.
 
-&quot;Particles&quot; 폴더에서 입자 시스템 &quot;\_Emitter&quot;를 마우스 오른쪽 단추로 클릭하고 &quot;복제&quot;(또는 &quot;복제&quot;)를 선택하여 자체 이미터를 만듭니다.
+&quot;Particles&quot; 폴더에서 입자 시스템 &quot;\_Emitter&quot;를 마우스 오른쪽 단추로 클릭하고 &quot;복제&quot;(또는 &quot;복제&quot;)을 선택하여 자체 이미터를 만듭니다.
 
 이 파일을 열고 &quot;Particle Treeview&quot; 창(왼쪽 아래)에서 &quot; **Layer\_Model** &quot;을(를) 선택합니다. 이 모델은 &quot;Editor Properties => Backdrop => 3D Layers&quot; 위치에 있어야 합니다.
 

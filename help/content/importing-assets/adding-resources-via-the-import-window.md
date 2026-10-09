@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/content/importing-assets/adding-resources-via-the-import-window.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter의 가져오기 창을 통해 리소스를 추가하여 외부 파일로 에셋 라이브러리를 확장하는 방법을 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Content > Importing assets > Adding resources via the import window
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 가져오기 창을 통해 자원 추가
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 0%
-
 ---
-
 
 # 가져오기 창을 통해 자원 추가
 

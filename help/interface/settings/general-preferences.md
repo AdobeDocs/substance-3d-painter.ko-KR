@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/settings/general-preferences.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 일반 환경 설정을 구성하여 응용 프로그램 동작 및 사용자 경험을 사용자 정의하는 방법에 대해 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Interface > Settings > General preferences
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 일반 환경 설정
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '764'
 ht-degree: 1%
-
 ---
-
 
 # 일반 환경 설정
 

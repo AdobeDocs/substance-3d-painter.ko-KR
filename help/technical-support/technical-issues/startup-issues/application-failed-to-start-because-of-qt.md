@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/technical-issues/startup-issues/application-failed-to-start-because-of-qt.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 적절한 애플리케이션 실행을 위해 Qt 프레임워크 문제로 인한 Substance 3D Painter 시작 오류를 수정하는 방법을 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Technical Issues > Startup Issues > Application failed to start because of Qt
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: Qt 때문에 응용 프로그램을 시작하지 못했습니다.
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
-
 ---
-
 
 # Qt 때문에 응용 프로그램을 시작하지 못했습니다.
 

@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/presets/photoshop-brush-presets-abr/photoshop-brush-parameters-compatibility.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: ABR 브러시 사전 설정을 가져올 때 Substance 3D Painter의 Photoshop 브러시 매개 변수 호환성에 대해 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Painting > Presets > Photoshop Brush Presets (ABR) > Photoshop Brush Parameters Compatibility
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: Photoshop 브러시 매개 변수 호환성
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '645'
 ht-degree: 1%
-
 ---
-
 
 # Photoshop 브러시 매개 변수 호환성
 
@@ -35,7 +27,7 @@ ABR 파일 내부를 보면 Substance 3D Painter이 특정 브러시/도구 사�
 | **브러시(침식성)** | 무시됨 | 흐림 효과 설정이 있는 브러시 사전 설정은 가져올 수 없습니다. |
 | **연필** | 무시됨 | 연필 사전 설정은 가져올 수 없습니다. |
 | **혼합 브러시** | 무시됨 | 혼합 브러시 사전 설정은 가져오지 않습니다. |
-| **복제 도장** | 무시됨 | 복제 도장 사전 설정은 가져오지 않습니다. |
+| **복제 스탬프** | 무시됨 | 복제 스탬프 사전 설정은 가져올 수 없습니다. |
 | **손가락** | 무시됨 | 손가락 사전 설정은 가져올 수 없습니다. |
 
 ## 매개변수
@@ -112,7 +104,7 @@ ABR 파일 내부를 보면 Substance 3D Painter이 특정 브러시/도구 사�
 | **최소(불투명도 제어용)** | ■ | 페인트 도구 최소 플로우 매개 변수와 일치합니다. |  |
 | **플로우 지터** | ■ | 페인트 도구 플로우 지터 매개 변수와 일치합니다. |  |
 | **제어(Flow)** | ■ | 플로우 매개 변수에 대한 페인트 도구 압력 설정(불투명도보다 낮은 경우) 과 일치합니다. |  |
-| **최소(흐름 제어용)** | ■ | [페인트 도구]의 [최소 플로우] 매개 변수와 일치합니다(불투명도보다 낮은 경우). |  |
+| **최소(흐름 제어용)** | ■ | [페인트 도구]의 [최소 플로우] 매개 변수와 일치합니다([불투명도]보다 낮은 경우). |  |
 | **젖음 지터** | ✖ |  |  |
 | **컨트롤(젖음 지터용)** | ✖ |  |  |
 | **최소(습도 제어용)** | ✖ |  |  |
@@ -132,5 +124,5 @@ ABR 파일 내부를 보면 Substance 3D Painter이 특정 브러시/도구 사�
 | 기타 | **노이즈** | ✖ |  |
 | **젖은 가장자리** | ✖ |  |  |
 | **빌드 업** | ✖ |  |  |
-| **보정** | ■ | 직접 일치하지는 않지만 [지연 마우스](../../lazy-mouse.md) 설정을 통해 처리할 수 있습니다. |  |
+| **보정** | ■ | 직접 일치하지는 않지만 [레이지 마우스](../../lazy-mouse.md) 설정을 통해 처리할 수 있습니다. |  |
 | **Protect 텍스처** | ✖ |  |  |

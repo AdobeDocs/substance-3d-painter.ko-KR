@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/content/creating-custom-effects/channel-specific-filter.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter이 개별 텍스처 채널을 처리할 수 있도록 채널별 필터 효과를 만드는 방법에 대해 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Content > Creating custom effects > Channel specific filter
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 채널별 필터
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '455'
 ht-degree: 0%
-
 ---
-
 
 # 채널별 필터
 
@@ -57,8 +49,8 @@ RGBA로 저장된 채널은 알파(예: 기본 색상)를 지원합니다. 이�
 | *블렌딩 마스크* | **blendingmask** | **blendingmask / blendingmask\_Alpha** |
 | *확산* | **확산** | **확산/확산\_Alpha** |
 | *변위* | **변위** | **변위/변위\_Alpha** |
-| *발광* | **방출** | **방출/방출\_Alpha** |
-| *광택* | **광택도** | **광택도/광택도\_Alpha** |
+| *방출* | **방출** | **방출/방출\_Alpha** |
+| *광택도* | **광택도** | **광택도/광택도\_Alpha** |
 | *Height* | **Height** | **Height/Height\_Alpha** |
 | *IOR* | **ior** | **ior / ior\_Alpha** |
 | *금속* | **금속** | **금속/금속\_Alpha** |
@@ -69,7 +61,7 @@ RGBA로 저장된 채널은 알파(예: 기본 색상)를 지원합니다. 이�
 | *분산* | **분산** | **분산/분산\_Alpha** |
 | *Specular* | **Specular** | **Specular/Specular\_Alpha** |
 | *Specular level* | **specularlevel** | **반사 레벨/반사 레벨\_Alpha** |
-| *전송* | **투과** | **투과/투과\_Alpha** |
+| *투과* | **투과** | **투과/투과\_Alpha** |
 | *사용자 0* | **사용자0** | **사용자0/사용자0\_Alpha** |
 | *사용자 1* | **사용자1** | **사용자1/사용자1\_Alpha** |
 | *사용자 2* | **사용자2** | **사용자2/사용자2\_Alpha** |

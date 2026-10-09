@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/interface/viewport/2d-view.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter의 2D 보기를 사용하여 UV 공간에서 텍스처를 보고 편집하여 정밀한 텍스처 페인팅을 하는 방법에 대해 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Interface > Viewport > 2D view
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 2D 보기
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 0%
-
 ---
-
 
 # 2D 보기
 
@@ -34,7 +26,7 @@ ht-degree: 0%
 
 ![](../../assets/2d-axis.png)
 
-뷰포트의 오른쪽 하단에는 2차원 축의 방향을 나타내는 **축 정보**&#x200B;가 있습니다. 이 경우 2D 보기의 축은 U와 V입니다.
+뷰포트의 오른쪽 하단에는 2차원 축의 방향을 나타내는 **축 정보**&#x200B;가 있습니다. 이 경우 2D 보기의 축은 U와 V이다.
 
 ## UV 타일 정보
 

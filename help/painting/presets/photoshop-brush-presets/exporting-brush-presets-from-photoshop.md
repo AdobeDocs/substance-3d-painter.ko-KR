@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/painting/presets/photoshop-brush-presets-abr/exporting-brush-presets-from-photoshop.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Photoshop에서 브러시 사전 설정을 Substance 3D Painter 텍스처 페인팅 작업 과정에 사용할 ABR 파일로 내보내는 방법을 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Painting > Presets > Photoshop Brush Presets (ABR) > Exporting Brush Presets from Photoshop
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: Photoshop에서 브러시 사전 설정 내보내기
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
-
 ---
-
 
 # Photoshop에서 브러시 사전 설정 내보내기
 

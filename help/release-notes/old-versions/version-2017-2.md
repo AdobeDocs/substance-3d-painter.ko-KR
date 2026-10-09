@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/release-notes/old-versions/version-2017-2.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter 버전 2017.2의 릴리스 노트를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
-helpx_creative_field: ""
-helpx_description: Painter > Release notes > Old versions > Version 2017.2
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 버전 2017.2
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '426'
 ht-degree: 0%
-
 ---
-
 
 # 버전 2017.2
 
@@ -30,7 +22,7 @@ ht-degree: 0%
 
 ![](../../assets/anchor-height-blend-optim.gif)
 
-**새 효과 유형**&#x200B;이(가) Substance Painter에 추가되었습니다. **필터** 및 **수준**&#x200B;과 같은 기존 효과 유형은 이제 새 **기준점**&#x200B;을 찾을 수 있습니다. 이 새로운 효과를 사용하면 **레이어 스택**&#x200B;에서 **위치**&#x200B;를 정의할 수 있으며, 이는 다른 레이어의 나머지 프로젝트에서 **참조**&#x200B;될 수 있습니다. 예를 들어 레이어의 Height 정보를 이 레이어 바로 위에 있는 레이어의 마스크로 사용하여 보다 자연스러운 혼합을 수행할 수 있습니다(위 gif로 그림 참조).
+**새 효과 유형**&#x200B;이(가) Substance Painter에 추가되었습니다. **필터** 및 **수준**&#x200B;과 같은 기존 효과 유형은 이제 새 **기준점**&#x200B;을 찾을 수 있습니다. 이 새 효과를 사용하면 **레이어 스택**&#x200B;에서 **위치**&#x200B;를 정의할 수 있으며, 이는 다른 레이어의 나머지 프로젝트에서 **참조**&#x200B;될 수 있습니다. 예를 들어 레이어의 Height 정보를 이 레이어 바로 위에 있는 레이어의 마스크로 사용하여 보다 자연스러운 혼합을 수행할 수 있습니다(위 gif로 그림 참조).
 
 앵커가 효과로 작동하므로 **많은 상황**&#x200B;에서 만들 수 있습니다. 레이어의 **콘텐츠**, **마스크**, 심지어 **통과** 필터로도 만들 수 있습니다. 이 효과는 해당 레이어가 있는 레이어가 비활성화된 경우에도 작동합니다. 앵커는 사용자가 검색할 수 있는 위치가 아닌 위치만 정의합니다. 이 정보는 연결에 대한 참조가 만들어지는 위치에서 정의됩니다.
 
@@ -56,7 +48,7 @@ ht-degree: 0%
 **추가됨 :**
 
 * [효과] 레이어 및 마스크 참조를 허용하는 새 고정점
-* [레이어] 채우기 및 페인트 효과의 이름을 변경하는 기능
+* [레이어] 채우기 및 페인트 효과의 이름을 바꾸는 기능
 * [Plugin] 업데이트된 Substance Source 플러그인
 * [스크립팅] 텍스처 집합 확인 쿼리 허용
 * [스크립팅] 페인팅 엔진의 상태를 가져올 수 있습니다.
@@ -66,7 +58,7 @@ ht-degree: 0%
 
 * [도구] 재질 매개변수를 조정할 때 성능 문제가 발생합니다.
 * [엔진] 해상도를 변경할 때 브러시 획이 사라짐(4K>2K)
-* [3D 보기] 접선 공간이 베이커와 동기화되지 않습니다.
+* [3D 보기] 탄젠트 공간이 베이커와 동기화되지 않음
 * [셸프] 사용자 문서의 셸프 경로가 자동으로 만들어지지 않음
 * [Shelf] 업데이트 후 사전 설정을 이전 버전과 호환되게 만듭니다.
 * [Shader] 비 PBR 셰이더가 더 이상 작동하지 않습니다.

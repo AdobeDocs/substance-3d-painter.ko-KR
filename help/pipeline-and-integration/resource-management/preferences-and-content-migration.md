@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/pipeline-and-integration/resource-management/preferences-and-content-migration.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 업그레이드하거나 새 시스템으로 이동할 때 Substance 3D Painter의 환경 설정 및 콘텐츠를 마이그레이션하는 방법에 대해 알아보십시오.
-helpx_creative_field: ""
-helpx_description: Painter > Pipeline and integration > Resource management > Preferences and content migration
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 환경 설정 및 콘텐츠 마이그레이션
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '484'
 ht-degree: 1%
-
 ---
-
 
 # 환경 설정 및 콘텐츠 마이그레이션
 

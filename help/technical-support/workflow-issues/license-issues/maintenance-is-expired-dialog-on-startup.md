@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/technical-support/workflow-issues/license-issues/maintenance-is-expired-dialog-on-startup.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 라이선스 관리를 위해 시작할 때 표시되는 유지 관리 만료 대화 상자를 해결하는 방법에 대해 알아봅니다.
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Workflow Issues > License Issues > Maintenance is expired dialog on startup
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 시작할 때 [유지 관리 만료] 대화 상자 표시
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '410'
 ht-degree: 1%
-
 ---
-
 
 # 시작할 때 [유지 관리 만료] 대화 상자 표시
 

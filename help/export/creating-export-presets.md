@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/getting-started/export/creating-export-presets.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance 3D Painter에서 사용자 정의 출력 템플릿을 만들어 자신만의 텍스처 내보내기 구성을 정의하는 방법을 살펴보세요.
-helpx_creative_field: ""
-helpx_description: Painter > Getting Started > Export > Creating Output templates
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 출력 템플릿 만들기
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '963'
 ht-degree: 0%
-
 ---
-
 
 # 출력 템플릿 만들기
 
@@ -92,7 +84,7 @@ ht-degree: 0%
 <b> 예</b> : &quot;MaterialBase&quot;라는 이름의 텍스처 집합이 있는 cymourai.fbx
 
 * <b>$mesh\_$textureSet\_BaseColor</b>은(는) <b>cymourai\_MaterialBase\_BaseColor.png를 생성합니다.</b>
-* <b>$mesh/$textureSet\_BaseColor</b>은(는) <b>MaterialBase\_BaseColor.png</b>라는 이름의 텍스처가 있는 <b>cymourai</b> 폴더를 생성합니다.
+* <b>$mesh/$textureSet\_BaseColor</b>은(는) 이름이 <b>MaterialBase\_BaseColor.png</b>인 텍스처를 사용하여 이름이 <b>cymourai</b>인 폴더를 생성합니다.
 
 >[!NOTE]
 >
