@@ -2,9 +2,9 @@
 user-guide-title: Substance 3D Painter
 breadcrumb-title: Substance 3D Painter
 user-guide-description: Substance 3D Painter
-source-git-commit: 644a36a1dde953c1d793821e104049ebb6ec3c19
+source-git-commit: eb0b1c111b0c96a87283785cf702def7305f0aa9
 workflow-type: tm+mt
-source-wordcount: '1346'
+source-wordcount: '1348'
 ht-degree: 13%
 ---
 
@@ -244,6 +244,7 @@ ht-degree: 13%
   + [베이킹 인터페이스](/help/baking/baking-interface.md)
   + [메시 맵을 분리하는 방법](/help/baking/how-to-bake-mesh-maps.md)
   + [기울이기 보정](/help/baking/skew-correction.md)
+  + {hide-from-toc}[케이지 페인팅](/help/baking/cage-painting.md)
   + [메시 맵 설정](/help/baking/mesh-map-settings.md)
   + [굽기 시각화 설정](/help/baking/baking-visualization-settings.md)
 + 콘텐츠{#content}
