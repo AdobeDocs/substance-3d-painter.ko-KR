@@ -107,7 +107,7 @@ Optix 또는 DXR을 통해 GPU 광선 추적을 활성화하려면 위에 권장
 
 **DXR**&#x200B;에는 다음과 같은 최소 구성도 필요합니다.
 
-* **Windows 10** 버전 1809에서 자세한 내용은 [이 페이지](https://experienceleague.adobe.com/en/docs/substance-3d/bakers/features/gpu-raytracing)를 참조하세요.
+* **Windows 10** 버전 1809에서 자세한 내용은 [이 페이지](https://experienceleague.adobe.com/ko/docs/substance-3d/bakers/features/gpu-raytracing)를 참조하세요.
 * **Pascal 아키텍처의 GPU**(Nvidia GeForce 10XX)
 
 >[!TIP]
