@@ -16,7 +16,7 @@ ht-degree: 1%
 
 벡터 그래픽 파일(<b>.svg</b> 및 Illustrator <b>.ai</b> 모두)을 Painter 내에서 일반 이미지처럼 가져올 수 있습니다. 몇 가지 설정을 사용하여 그래픽의 모양을 조정하고 나머지 텍스처링에 더 잘 맞춥니다.
 
-* SVG 파일에 대한 자세한 내용은 [이 페이지를 참조하세요](https://www.adobe.com/creativecloud/file-types/image/vector/svg-file.html).
+* SVG 파일에 대한 자세한 내용은 [이 페이지를 참조하세요](https://www.adobe.com/kr/creativecloud/file-types/image/vector/svg-file.html).
 * AI 파일에 대한 자세한 내용은 [이 페이지](https://www.adobe.com/ie/creativecloud/file-types/image/vector/ai-file.html)를 참조하세요.
 
 SVG 및 AI 파일은 선택한 설정에 따라 [레이어 스택](../interface/layer-stack/layer-stack.md)에서 사용할 때 픽셀 이미지로 자동으로 변환됩니다. 비파괴 프로세스이며 해상도를 변경하거나 소스 파일을 업데이트하면 최종 결과도 업데이트됩니다.
