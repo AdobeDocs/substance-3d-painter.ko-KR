@@ -21,4 +21,4 @@ ht-degree: 0%
 
 수정:
 
-* &amp;lbrack;Baking&amp;rbrack; 케이지 페인팅이 있는 Mac의 베이킹 모드 뷰포트에 성능 문제가 있습니다.
+* &lbrack;Baking&rbrack; 케이지 페인팅이 있는 Mac의 베이킹 모드 뷰포트에 성능 문제가 있습니다.
