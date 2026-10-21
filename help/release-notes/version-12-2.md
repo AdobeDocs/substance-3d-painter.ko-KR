@@ -241,45 +241,45 @@ ht-degree: 0%
 **추가됨:**
 
 * 베이킹, 케이지 페인팅
-* &amp;lbrack;케이지 페인팅&amp;rbrack; 기본 케이지 페인트 UI 만들기
-* &amp;lbrack;케이지 페인팅&amp;rbrack; 새로운 케이지 시각화 옵션
-* &amp;lbrack;케이지 페인팅&amp;rbrack; 편집 가능한 선택/채우기 도구
-* &amp;lbrack;케이지 페인팅(&amp;r); 도구 모음에서 혼합 모드 표시
-* &amp;lbrack;케이지 페인팅&amp;rbrack; HDR 슬라이더 UI 변경 사항
-* &amp;lbrack;케이지 페인팅&amp;rbrack; 시각화 셰이더
-* &amp;lbrack;케이지 페인팅&amp;rbrack; 스택 재설정 옵션
+* &lbrack;케이지 페인팅&rbrack; 기본 케이지 페인트 UI 만들기
+* &lbrack;케이지 페인팅&rbrack; 새로운 케이지 시각화 옵션
+* &lbrack;케이지 페인팅&rbrack; 편집 가능한 선택/채우기 도구
+* &lbrack;케이지 페인팅(&amp;r); 도구 모음에서 혼합 모드 표시
+* &lbrack;케이지 페인팅&rbrack; HDR 슬라이더 UI 변경 사항
+* &lbrack;케이지 페인팅&rbrack; 시각화 셰이더
+* &lbrack;케이지 페인팅&rbrack; 스택 재설정 옵션
 * 다각형 채우기 도구 개선
-* &amp;lbrack;다각형 채우기(&amp;r); 다각형 패치 추가
-* &amp;lbrack;다각형 채우기(&amp;r); 다각형 추가 루프
-* &amp;lbrack;다각형 채우기(&amp;r); 루프/패치 대칭 지원
-* &amp;lbrack;다각형 채우기(&amp;r); 대칭 가장자리 미리 보기
-* &amp;lbrack;다각형 채우기&amp;rbrack; 루프 및 부분 루프가 있는 삼각형 제거
-* 활성 텍스처 세트에만 표시되는 &amp;lbrack;다각형 채우기&amp;rbrack; 와이어프레임
-* &amp;lbrack;다각형 채우기&amp;rbrack; 클릭할 수 없는 삼각형의 빨간색 가장자리 강조
-* &amp;lbrack;다각형 채우기&amp;rbrack; 채우기 모드 옵션을 비활성화하지 않음
-* &amp;lbrack;다각형 채우기&amp;rbrack; 다각형 채우기를 사용하여 모든 채널 속성 설정 허용
-* &amp;lbrack;다각형 채우기&amp;rbrack; 이전 획 다시 시작 다각형 채우기 사용
-* &amp;lbrack;다각형 채우기&amp;rbrack; 비활성 텍스처 세트에 금지된 커서 표시
-* &amp;lbrack;다각형 채우기(&amp;r); ALT 빠른 미리 보기
-* Polyloop로 임시 전환(SHIFT+A)을 위한 &amp;lbrack;Polygon Fill&amp;rbrack; 단축키
-* &amp;lbrack;뷰포트(&amp;r); 텍스처 세트 표시 / UV 타일 선택 강조 표시
-* &amp;lbrack;Viewport&amp;rbrack; 실시간 뷰포트에서 주문 독립 투명도 지원 추가
-* &amp;lbrack;표시 설정&amp;rbrack; 표시 설정을 새 그룹으로 다시 구성
-* &amp;lbrack;도구(&amp;r); 브러시 획을 사용한 추가 혼합 지원 추가
-* &amp;lbrack;도구(&amp;r); 다각형 칠을 사용한 추가 혼합 지원 추가
-* &amp;lbrack;USD&amp;rbrack; 불투명도 맵이 있는 내보낸 USD이 아놀드에서 모든 투명도를 렌더링합니다.
-* &amp;lbrack;Nvidia&amp;rbrack; 최신 Nvidia 드라이버에 대한 경고 추가(616.56 ~ 617.14)
+* &lbrack;다각형 채우기(&amp;r); 다각형 패치 추가
+* &lbrack;다각형 채우기(&amp;r); 다각형 추가 루프
+* &lbrack;다각형 채우기(&amp;r); 루프/패치 대칭 지원
+* &lbrack;다각형 채우기(&amp;r); 대칭 가장자리 미리 보기
+* &lbrack;다각형 채우기&rbrack; 루프 및 부분 루프가 있는 삼각형 제거
+* 활성 텍스처 세트에만 표시되는 &lbrack;다각형 채우기&rbrack; 와이어프레임
+* &lbrack;다각형 채우기&rbrack; 클릭할 수 없는 삼각형의 빨간색 가장자리 강조
+* &lbrack;다각형 채우기&rbrack; 채우기 모드 옵션을 비활성화하지 않음
+* &lbrack;다각형 채우기&rbrack; 다각형 채우기를 사용하여 모든 채널 속성 설정 허용
+* &lbrack;다각형 채우기&rbrack; 이전 획 다시 시작 다각형 채우기 사용
+* &lbrack;다각형 채우기&rbrack; 비활성 텍스처 세트에 금지된 커서 표시
+* &lbrack;다각형 채우기(&amp;r); ALT 빠른 미리 보기
+* Polyloop로 임시 전환(SHIFT+A)을 위한 &lbrack;Polygon Fill&rbrack; 단축키
+* &lbrack;뷰포트(&amp;r); 텍스처 세트 표시 / UV 타일 선택 강조 표시
+* &lbrack;Viewport&rbrack; 실시간 뷰포트에서 주문 독립 투명도 지원 추가
+* &lbrack;표시 설정&rbrack; 표시 설정을 새 그룹으로 다시 구성
+* &lbrack;도구(&amp;r); 브러시 획을 사용한 추가 혼합 지원 추가
+* &lbrack;도구(&amp;r); 다각형 칠을 사용한 추가 혼합 지원 추가
+* &lbrack;USD&rbrack; 불투명도 맵이 있는 내보낸 USD이 아놀드에서 모든 투명도를 렌더링합니다.
+* &lbrack;Nvidia&rbrack; 최신 Nvidia 드라이버에 대한 경고 추가(616.56 ~ 617.14)
 * 새 &quot;mesh_uv_neighbor&quot; 엔진 맵 입력 추가
 * 베이커를 버전 3.23.0으로 업데이트
 * Substance 엔진을 버전 9.6.1로 업데이트
 
 **고정:**
 
-* &amp;lbrack;Baking&amp;rbrack; 앰비언트 오클루전 메쉬 이름별 배경 무시가 작동하지 않음
-* &amp;lbrack;Baking&amp;rbrack; &amp;lbrack;AMD&amp;rbrack; 장치가 두꺼운 높은 폴리 메쉬로 굽을 때 손실됨
-* &amp;lbrack;성능&amp;rbrack; Painter hogs VRAM 사용
-* &amp;lbrack;Viewport&amp;rbrack; HDPI 화면에서 프로젝트를 열 때 누락된 텍스처
-* 마스크에서 페인팅할 때 &amp;lbrack;Tool&amp;rbrack; 혼합 모드가 회색으로 표시됩니다.
+* &lbrack;Baking&rbrack; 앰비언트 오클루전 메쉬 이름별 배경 무시가 작동하지 않음
+* &lbrack;Baking&rbrack; &lbrack;AMD&rbrack; 장치가 두꺼운 높은 폴리 메쉬로 굽을 때 손실됨
+* &lbrack;성능&rbrack; Painter hogs VRAM 사용
+* &lbrack;Viewport&rbrack; HDPI 화면에서 프로젝트를 열 때 누락된 텍스처
+* 마스크에서 페인팅할 때 &lbrack;Tool&rbrack; 혼합 모드가 회색으로 표시됩니다.
 * 네트워크에서 내보낸 후 임시 폴더가 삭제되지 않음
-* &amp;lbrack;USD&amp;rbrack; 내보낸 USD 형상이 UV 테두리를 따라 분할됩니다.
-* &amp;lbrack;USD&amp;rbrack; 잘못된 형식의 USDz를 로드할 때 고정
+* &lbrack;USD&rbrack; 내보낸 USD 형상이 UV 테두리를 따라 분할됩니다.
+* &lbrack;USD&rbrack; 잘못된 형식의 USDz를 로드할 때 고정
