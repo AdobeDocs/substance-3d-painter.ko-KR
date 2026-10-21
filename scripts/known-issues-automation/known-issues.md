@@ -1,25 +1,29 @@
 ---
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-painter/release-notes/know-issues.html"
 breadcrumb-title: ""
 description: Substance 3D Painter에 대해 알려진 문제를 검토하여 현재 제한 사항 및 해결 방법에 대해 최신 버전을 통해 최신 정보를 확인하십시오.
+helpx_creative_field: ""
+helpx_description: Substance 3D Painter
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
 title: 알려진 문제
 user-guide-description: ""
 user-guide-title: ""
-source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
+source-git-commit: 08fc43babcb6f7a9be61508748c4068b6bd0c8b6
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '932'
 ht-degree: 0%
 ---
 
 # 알려진 문제
 
-이 페이지에는 Substance 3D Painter v12.1.5에 있는 알려진 모든 문제가 나열됩니다.
+이 페이지에는 Substance 3D Painter v12.2.0에 있는 알려진 모든 문제가 나열됩니다.
 
 * `[Baking]` 단순 큐브의 AO가 잘못되었습니다.
 * `[Baking]` 이름 접미사 일치가 잘못되었습니다.
 * mes 다시 가져오기 후 `[Baking]`개의 Uv 솔기가 나타나지 않습니다.
 * 일부 설정이 포함된 격자 모양 아티팩트 `[Baking]`개
-* `[Baking]` 앰비언트 오클루전 메시 이름별 뒷면 무시 기능이 작동하지 않음
-* `[Baking]` `[AMD]` 높은 폴리 메쉬로 굽는 동안 장치 손실
 
 * `[Substance]` 리소스 맞춤법 오류
 * `[Substance]`개의 공백은 가시성을 위한 조건을 나눕니다.
@@ -33,10 +37,6 @@ ht-degree: 0%
 * `[Color Management]` 호환되지 않는 바인딩과 생성기가 마스크에 사용되지 않습니다.
 * `[Color Management]` 필터 출력이 제대로 고려되지 않음
 * Linux에서 ACE을 사용한 HDR 색상 공간 변환 `[Color Management]`은(는) 클램프된 색상을 생성합니다
-
-* `[USD]` 경우에 잘못된 usda 할당이 있습니다.
-* 내보낸 USD 기하학이 UV 테두리를 따라 밀어넣음`[USD]`
-* 잘못된 형식의 USDz를 로드할 때 `[USD]` 멈춤
 
 * `[Shelf]` 리소스를 특정 이름의 폴더에 배치하면 잘못된 사용이 발생합니다.
 * `[Shelf]` `[Substance]` 사용자 데이터가 셸프 축소판 생성을 고려하지 않음
@@ -52,6 +52,12 @@ ht-degree: 0%
 
 * 기본 색상 보기에 저장된 `[Single Channel View]` 프로젝트가 Painter 버전 업데이트 후 더 어둡게 보입니다.
 * 기본 색상 보기에 저장된 `[Single Channel View]` 프로젝트가 Painter 버전 업데이트 후 더 어둡게 보입니다.
+
+* `[Viewport]` 굽기 모드 뷰포트의 맨 아래에 커서 지연 있음
+* `[Viewport]` 다각형 채우기 선택 영역을 한 창에서 다른 창으로 드래그하면 뷰포트가 지연될 수 있습니다
+
+* 하나의 UV 섬에서 페인트할 때 `[Cage Painting]`개의 케이지 모양 구멍
+* Mac의 베이킹 모드 뷰포트에서 `[Cage Painting]` 성능 문제
 
 * `[gltf]` Babylon 내보내기 도구를 통해 내보낸 파일을 열 수 없습니다.
 * 페인팅 시 `[Displacement]` 결함
@@ -89,12 +95,17 @@ ht-degree: 0%
 * `[User Channels]` 색상 혼합 공간 미리 보기가 잘못되었습니다.
 * 베이크 모드로 전환한 후 `[Mask]` 도형 선택이 여전히 활성 상태입니다.
 * `[Sonoma]` 아이콘이 메뉴에 나타나지 않습니다.
+* `[USD]` 경우에 잘못된 usda 할당이 있습니다.
 * `[Polygon Fill]` 기본 색상의 색상 공간을 변경해도 색상 피커가 업데이트되지 않음
 * 내보낼 때 텍스처를 4k에서 8k로 업스케일할 때 `[UV Padding]`개 아티팩트
-* `[Performances]`개의 Painter hogs VRAM 사용
 * `[FBX]`개 크기 조절 문제
 * `[Texture set list]`개의 UV 타일을 텍스처 집합과 동시에 선택할 수 있습니다.
-* `[Viewport]` 굽기 모드 뷰포트의 맨 아래에 커서 지연 있음
+* `[Paint Properties]` 페인트 속성 창에서 마우스 오른쪽 단추를 클릭해도 사전 설정 팝업 메뉴가 열리지 않습니다.
+* `[MACOS]` `[Subsurface Scattering]` 일부 SS 반경 비율 값이 있는 메모리 노이즈
+* 디스플레이 설정의 텍스처 필터링에서 `[Mac]` Mipmap 편향이 영향을 받지 않습니다.
+* 프로젝트가 수정되지 않았더라도 닫을 때 `[Project]` 저장 팝업이 나타납니다.
+* `[Library]` Painter에서 환경 맵의 축소판 생성이 중단될 수 있음
+* `[Windows]` `[Nvidia]` 브러시 및 재질 미리 보기 생성으로 인해 TDR이 발생할 수 있습니다.
 * 브러시 채널에서 사용할 때 사각형이 아닌 리소스
 * Substance를 디코딩하지 못했습니다.
 * 완벽하게 겹치지 않는 UV는 가공물을 만들 수 있습니다
@@ -113,6 +124,7 @@ ht-degree: 0%
 * 상황별 도구 모음에서 수정한 브러시 매개 변수가 기록에 표시되지 않음
 * 이 세션에서 이미 삭제했다가 다시 만든 내보내기 사전 설정의 이름은 바꾸거나 삭제할 수 없습니다
 * 경우에 따라 투영 도구 미리 보기에 대해 채널 매핑이 작동하지 않습니다
+* 이름별 일치 및 선택한 텍스처 만 설정이 켜짐 인 경우 메시 일치 오류가 다른 높은 형식을 무시하지 않습니다.
 
 ## 안정성
 
