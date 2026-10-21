@@ -1,8 +1,7 @@
 ---
 title: 케이지 페인팅
 description: Substance 3D Painter에서 케이지 페인팅을 사용하여 베이킹 프로세스 중에 아티팩트를 방지하고 케이지를 사용자 정의하는 방법을 알아봅니다.
-hold: true
-source-git-commit: 8e09732a300f321ad8fc04883db7a338b8c6a5a7
+source-git-commit: 4fa8be7a1541a441d2476bc10ddddbed39c82366
 workflow-type: tm+mt
 source-wordcount: '1044'
 ht-degree: 0%
