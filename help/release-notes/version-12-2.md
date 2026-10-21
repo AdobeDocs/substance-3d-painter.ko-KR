@@ -94,7 +94,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> **다각형 채우기** 도구에 대한 자세한 내용은 [전용 문서 페이지](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/painting/paint-tools/polygon-fill)를 참조하세요.
+> **다각형 채우기** 도구에 대한 자세한 내용은 [전용 문서 페이지](https://experienceleague.adobe.com/ko/docs/substance-3d-painter/using/painting/paint-tools/polygon-fill)를 참조하세요.
 
 ### 베이킹 모드에서 새 케이지 페인팅
 
@@ -158,7 +158,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 굽기에 대한 자세한 내용은 [전용 문서 페이지](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/baking/baking)를 참조하세요.
+> 굽기에 대한 자세한 내용은 [전용 문서 페이지](https://experienceleague.adobe.com/ko/docs/substance-3d-painter/using/baking/baking)를 참조하세요.
 
 ### 뷰포트에서 강조표시된 새 텍스처 세트
 
@@ -228,7 +228,7 @@ ht-degree: 0%
 
   Substance 재질 및 필터에 대해 새 `mesh_uv_neighbor` 엔진 맵 입력을 사용할 수 있습니다. 그것은 UV 섬 솔기의 다른 면을 찾기 위해 UV 이류 텍스처로 작동합니다. 이의 적색 및 녹색 채널은 UV 이음새를 가로질러 이웃하는 픽셀에 도달하는데 사용되는 UV 이류를 저장한다.
 
-  이러한 엔진 텍스처에 대한 자세한 내용은 [전용 문서 페이지](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/content/creating-custom-effects/mesh-based-input)를 참조하세요.
+  이러한 엔진 텍스처에 대한 자세한 내용은 [전용 문서 페이지](https://experienceleague.adobe.com/ko/docs/substance-3d-painter/using/content/creating-custom-effects/mesh-based-input)를 참조하세요.
 
 ## 릴리스 정보
 
