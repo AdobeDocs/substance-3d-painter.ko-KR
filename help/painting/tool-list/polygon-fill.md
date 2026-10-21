@@ -76,7 +76,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
-> 이 도구는 레이어 스택에서 사용할 수 있는 것과 동일한 혼합 모드를 지원합니다. 자세한 내용은 [혼합 모드 설명서 페이지](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/layer-stack/blending-modes)를 참조하십시오.
+> 이 도구는 레이어 스택에서 사용할 수 있는 것과 동일한 혼합 모드를 지원합니다. 자세한 내용은 [혼합 모드 설명서 페이지](https://experienceleague.adobe.com/ko/docs/substance-3d-painter/using/interface/layer-stack/blending-modes)를 참조하십시오.
 
 ### 재질
 
@@ -100,5 +100,5 @@ ht-degree: 2%
 이 도구에는 다음과 같은 몇 가지 제한 사항이 적용됩니다.
 
 * **다각형 루프 채우기** 및 **부분 다각형 루프 채우기**&#x200B;는 쿼드에서만 작동하므로 이러한 모드로 삼각형과 n형을 채울 수 없습니다.
-* **방사형 대칭** 지원도 제한되어 있으며 불안정할 수 있습니다. 대칭을 사용하려면 미러 모드를 대신 사용합니다. 자세한 내용은 [대칭 설명서 페이지](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/painting/symmetry/symmetry)를 참조하십시오.
+* **방사형 대칭** 지원도 제한되어 있으며 불안정할 수 있습니다. 대칭을 사용하려면 미러 모드를 대신 사용합니다. 자세한 내용은 [대칭 설명서 페이지](https://experienceleague.adobe.com/ko/docs/substance-3d-painter/using/painting/symmetry/symmetry)를 참조하십시오.
 * 도구는 **활성 텍스처 집합**&#x200B;의 지오메트리만 채웁니다. 해당 텍스처 세트의 와이어프레임이 표시되고 활성 텍스처 세트가 변경되면 업데이트됩니다.
