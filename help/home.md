@@ -4,7 +4,7 @@ description: Substance 3D Painter으로 시작하여 3D 모델에 텍스처를 �
 title: Substance 3D Painter
 user-guide-description: ""
 user-guide-title: ""
-source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
+source-git-commit: 99552782763c4f8313c5f8e7aeeb3a860ecf943d
 workflow-type: tm+mt
 source-wordcount: '576'
 ht-degree: 9%
@@ -116,7 +116,6 @@ Substance 3D Painter은 3D 페인팅 소프트웨어로서 3D 메시를 텍스�
 ### 릴리스 정보
 
 * [모든 변경 내용](release-notes/all-changes.md)
-* [버전 11.1](release-notes/version-11-1.md)
-* [버전 11.0](release-notes/version-11-0.md)
-* [버전 10.1](release-notes/version-10-1.md)
-
+* [버전 12.2](release-notes/version-12-2.md)
+* [버전 12.1](release-notes/version-12-1.md)
+* [버전 12.0](release-notes/version-12-0.md)
