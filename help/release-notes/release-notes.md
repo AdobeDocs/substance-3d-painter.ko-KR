@@ -4,9 +4,9 @@ description: Substance 3D Painter의 릴리스 정보에 액세스하여 여러 
 title: 릴리스 정보
 user-guide-description: ""
 user-guide-title: ""
-source-git-commit: 956741845e5808dd59eda31b0c0915ce463cb87a
+source-git-commit: 8b8828624dd415b766eb6d663b6ec175cd3847b1
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '70'
 ht-degree: 11%
 ---
 
@@ -18,7 +18,6 @@ ht-degree: 11%
 * [버전 12.2](version-12-2.md)
 * [버전 12.1](version-12-1.md)
 * [버전 12.0](version-12-0.md)
-* [버전 11.1](version-11-1.md)
 * [최신 Beta 버전](beta.md)
 * [알려진 문제](known-issues.md)
 
