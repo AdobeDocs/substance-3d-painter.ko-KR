@@ -19,13 +19,13 @@ ht-degree: 0%
 
 **추가됨**:
 
-* &amp;lbrack;Baking&amp;rbrack; Highpoly Matching Error 시각화는 이름별 일치를 사용합니다.
+* &lbrack;Baking&rbrack; Highpoly Matching Error 시각화는 이름별 일치를 사용합니다.
 
 **고정**:
 
-* &amp;lbrack;Python&amp;rbrack; 일부 더 이상 사용되지 않는 함수는 경고를 발생시키지만 누구인지 말하지는 않습니다
-* &amp;lbrack;Baking&amp;rbrack; 케이지 형상은 한 UV 섬에 페인팅할 때 구멍이 있을 수 있습니다.
-* &amp;lbrack;Mac&amp;rbrack;&amp;lbrack;Baking&amp;rbrack; 케이지 페인팅이 있는 베이킹 모드 뷰포트에서 성능 문제
+* &lbrack;Python&rbrack; 일부 더 이상 사용되지 않는 함수는 경고를 발생시키지만 누구인지 말하지는 않습니다
+* &lbrack;Baking&rbrack; 케이지 형상은 한 UV 섬에 페인팅할 때 구멍이 있을 수 있습니다.
+* &lbrack;Mac&rbrack;&lbrack;Baking&rbrack; 케이지 페인팅이 있는 베이킹 모드 뷰포트에서 성능 문제
 
 ### **빌드 1**
 
@@ -37,4 +37,4 @@ ht-degree: 0%
 
 **고정**:
 
-* &amp;lbrack;Baking&amp;rbrack; 케이지 페인팅이 있는 Mac의 베이킹 모드 뷰포트에 성능 문제가 있습니다.
+* &lbrack;Baking&rbrack; 케이지 페인팅이 있는 Mac의 베이킹 모드 뷰포트에 성능 문제가 있습니다.
