@@ -17,9 +17,9 @@ ht-degree: 0%
 
 **고정**:
 
-* &amp;lbrack;Mac&amp;rbrack;&amp;lbrack;OpenPBR&amp;rbrack; 특정 서브서피스 반지름 배율 값이 있는 뷰포트의 텍스처 가공물
-* &amp;lbrack;Mac&amp;rbrack; 표시 설정의 텍스처 필터링에서 발생한 Mipmap 바이어스는 영향을 받지 않습니다.
-* &amp;lbrack;Windows&amp;rbrack;&amp;lbrack;Nvidia&amp;rbrack; 브러시 및 재질 미리 보기 생성으로 인해 TDR이 발생할 수 있습니다.
+* &lbrack;Mac&rbrack;&lbrack;OpenPBR&rbrack; 특정 서브서피스 반지름 배율 값이 있는 뷰포트의 텍스처 가공물
+* &lbrack;Mac&rbrack; 표시 설정의 텍스처 필터링에서 발생한 Mipmap 바이어스는 영향을 받지 않습니다.
+* &lbrack;Windows&rbrack;&lbrack;Nvidia&rbrack; 브러시 및 재질 미리 보기 생성으로 인해 TDR이 발생할 수 있습니다.
 
 ### 빌드 2
 
@@ -27,13 +27,13 @@ ht-degree: 0%
 
 **추가됨**:
 
-* &amp;lbrack;Baking&amp;rbrack; Highpoly Matching Error 시각화는 이름별 일치를 사용합니다.
+* &lbrack;Baking&rbrack; Highpoly Matching Error 시각화는 이름별 일치를 사용합니다.
 
 **고정**:
 
-* &amp;lbrack;Python&amp;rbrack; 일부 더 이상 사용되지 않는 함수는 경고를 발생시키지만 누구인지 말하지는 않습니다
-* &amp;lbrack;Baking&amp;rbrack; 케이지 형상은 한 UV 섬에 페인팅할 때 구멍이 있을 수 있습니다.
-* &amp;lbrack;Mac&amp;rbrack;&amp;lbrack;Baking&amp;rbrack; 케이지 페인팅이 있는 베이킹 모드 뷰포트에서 성능 문제
+* &lbrack;Python&rbrack; 일부 더 이상 사용되지 않는 함수는 경고를 발생시키지만 누구인지 말하지는 않습니다
+* &lbrack;Baking&rbrack; 케이지 형상은 한 UV 섬에 페인팅할 때 구멍이 있을 수 있습니다.
+* &lbrack;Mac&rbrack;&lbrack;Baking&rbrack; 케이지 페인팅이 있는 베이킹 모드 뷰포트에서 성능 문제
 
 ### 빌드 1
 
@@ -45,4 +45,4 @@ ht-degree: 0%
 
 **고정**:
 
-* &amp;lbrack;Baking&amp;rbrack; 케이지 페인팅이 있는 Mac의 베이킹 모드 뷰포트에 성능 문제가 있습니다.
+* &lbrack;Baking&rbrack; 케이지 페인팅이 있는 Mac의 베이킹 모드 뷰포트에 성능 문제가 있습니다.
