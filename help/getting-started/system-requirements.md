@@ -4,9 +4,9 @@ description: Substance 3D Painter에 대한 시스템 요구 사항을 검토하
 title: 시스템 요구 사항
 user-guide-description: ""
 user-guide-title: ""
-source-git-commit: fbfe7e52b226b5a92f5b46ebbf82728f0ff9e3c5
+source-git-commit: 0937bc291815e86b7a33d804729dbef599748d13
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '798'
 ht-degree: 1%
 ---
 
@@ -56,9 +56,8 @@ UV 타일 워크플로우를 사용할 때 좋은 성능을 얻으려면 다음�
 기타 사항:
 
 * 대부분의 Substance 앱은 RHEL8/9 호환을 위해 OpenSSL 1.1.1을 사용합니다. 최신 OpenSSL 버전을 사용하는 시스템의 경우 고객은 수동으로 제공해야 합니다
-* 편안한 환경에서 작업하려면 수직 해상도가 1000픽셀 이상, 1280픽셀 이상인 모니터를 사용하는 것이 좋습니다.
-* **8K**(8192\*8192픽셀)에서 내보내려면 2GB의 VRam이 **개**&#x200B;이상 포함된 GPU가 필요합니다.
-* macOS 10.15(Catalina)에서 실행하기 위해 2019.x 이상 버전만 공증되었습니다.
+* 편안한 작업 환경을 위해 모니터는 수직 해상도가 1000픽셀 이상, 1280픽셀 이상인 것이 좋습니다.
+* 2GB의 VRAM이 **3} 미만인 GPU에서는** 8K **(8192\*8192픽셀)로 내보낼 수 없습니다.**
 * RDP(원격 데스크톱)를 통해 소프트웨어를 사용하려면 전용 [설명서 페이지](../pipeline-and-integration/configuration/remote-desktop.md)를 참조하십시오.
 * 베이킹 시 Ryzen CPU의 충돌은 BIOS를 업데이트하여 해결할 수 있습니다.
 
@@ -107,7 +106,7 @@ Optix 또는 DXR을 통해 GPU 광선 추적을 활성화하려면 위에 권장
 
 **DXR**&#x200B;에는 다음과 같은 최소 구성도 필요합니다.
 
-* **Windows 10** 버전 1809에서 자세한 내용은 [이 페이지](https://experienceleague.adobe.com/ko/docs/substance-3d/bakers/features/gpu-raytracing)를 참조하세요.
+* **Windows 10** 버전 1809에서 자세한 내용은 [이 페이지](https://experienceleague.adobe.com/en/docs/substance-3d/bakers/features/gpu-raytracing)를 참조하세요.
 * **Pascal 아키텍처의 GPU**(Nvidia GeForce 10XX)
 
 >[!TIP]
