@@ -4,9 +4,9 @@ description: Substance 3D Painter에 대해 알려진 문제를 검토하여 현
 title: 알려진 문제
 user-guide-description: ""
 user-guide-title: ""
-source-git-commit: 08fc43babcb6f7a9be61508748c4068b6bd0c8b6
+source-git-commit: a03b6eb503f036d0ea991ebffe4996fde2f0ffb9
 workflow-type: tm+mt
-source-wordcount: '932'
+source-wordcount: '925'
 ht-degree: 0%
 ---
 
@@ -15,7 +15,6 @@ ht-degree: 0%
 이 페이지에는 Substance 3D Painter v12.2.0에 있는 알려진 모든 문제가 나열됩니다.
 
 * `[Baking]` 단순 큐브의 AO가 잘못되었습니다.
-* `[Baking]` 이름 접미사 일치가 잘못되었습니다.
 * mes 다시 가져오기 후 `[Baking]`개의 Uv 솔기가 나타나지 않습니다.
 * 일부 설정이 포함된 격자 모양 아티팩트 `[Baking]`개
 
