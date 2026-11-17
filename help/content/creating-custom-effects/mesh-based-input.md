@@ -4,9 +4,9 @@ description: Substance 3D Painter의 사용자 정의 효과에서 메쉬 기반
 title: 메시 기반 입력
 user-guide-description: ""
 user-guide-title: ""
-source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
+source-git-commit: 4432887b652896f77fc3c99010436ef44aeb8a3e
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '279'
 ht-degree: 1%
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 1%
 > 
 > 엔진에 의해 제공된 입력은 Substance 그래프에서 입력의 값으로 다운스케일/클램핑될 32 비트 부동 소수점 텍스처가다.
 
-| 메시 정보 | 식별자 | 사용 | 설명 |
+| 메시 정보 | 식별자 | 사용량 | 설명 |
 | --- | --- | --- | --- |
 | *위치(RGB)* | **메시\_위치** | **meshPosition** | 교점 위치를 포함하는 텍스처를 읽어들입니다. |
 | *월드 스페이스 표준(RGB)* | **mesh\_world\_space\_normal** | **meshNormalWS** | 월드 공간에서 교점 수직을 포함하는 텍스처를 읽어들입니다. |
@@ -28,3 +28,4 @@ ht-degree: 1%
 | *월드 스페이스 비트 전송률(RGB)* | **mesh\_world\_space\_bitangent** | **meshBitangentWS** | 월드 공간에서 정점 bi-tangent(bi-normal)를 포함하는 텍스처를 검색합니다. |
 | *텍스트 크기(회색 음영)* | **메시\_텍셀\_크기** | **meshTexelSize** | 텍셀 크기(픽셀 밀도와 메쉬 UV의 차이)를 포함하는 텍스처를 읽어들입니다. |
 | *UV 마스크(회색 음영)* | **메시\_uv\_mask** | **meshUVMask** | 망 UV 섬의 텍스처를 검은색(외부) 및 흰색(내부) 마스크로 읽어들입니다. |
+| *UV 이웃(RGB)* | **메시\_uv\_neighbor** | **meshUVNeigbor** | 두 가지 정보가 포함된 텍스처를 검색합니다. UV 섬 내부에는 일반 UV 좌표가 저장됩니다. UV 섬 외부는 UV 솔기의 다른 면에 있는 픽셀의 UV 좌표를 저장합니다. 이 텍스처를 사용하여 매끄러운 효과를 만들 수 있습니다. |
